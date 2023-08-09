@@ -1,14 +1,14 @@
-#EXTINF:-1 tvg-logo="-------" group-title="DIEMA SPORT", DIEMA SPORT 1
+#EXTINF:-1 tvg-logo="-------" group-title="BG SPORT", DIEMA SPORT 1
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=14249_&extension=ts
-#EXTINF:-1 tvg-logo="-------" group-title="DIEMA SPORT", DIEMA SPORT 2
+#EXTINF:-1 tvg-logo="-------" group-title="BG SPORT", DIEMA SPORT 2
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=14250_&extension=ts
-#EXTINF:-1 tvg-logo="-------" group-title="DIEMA SPORT", DIEMA SPORT 3
+#EXTINF:-1 tvg-logo="-------" group-title="BG SPORT", DIEMA SPORT 3
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=14240_&extension=ts
 
 
-#EXTINF:-1 tvg-logo="-------" group-title="DIEMA SPORT", DIEMA Sport 1
+#EXTINF:-1 tvg-logo="-------" group-title="BG SPORT", DIEMA Sport 1
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=154819&extension=ts&play_token=GuGDLRCPbT
-#EXTINF:-1 tvg-logo="-------" group-title="DIEMA SPORT", DIEMA Sport 2
+#EXTINF:-1 tvg-logo="-------" group-title="BG SPORT", DIEMA Sport 2
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=154820&extension=ts&play_token=MU1hoMHWkL
 
 
