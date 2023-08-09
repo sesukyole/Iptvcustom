@@ -1,0 +1,18 @@
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/ORANGE%201.png" group-title="RO SPORT", ORANGE Sport 1
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=38422_&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/ORANGE%202.png" group-title="RO SPORT", ORANGE Sport 2
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=65476_&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/ORANGE%203.png" group-title="RO SPORT", ORANGE Sport 3
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=38424_&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/ORANGE%204.png" group-title="RO SPORT", ORANGE Sport 4
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=38425_&extension=ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/ORANGE%201.png" group-title="RO SPORT", ORANGE Sport 1
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=56040&extension=ts&play_token=Ugwsqo2rrU
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/ORANGE%202.png" group-title="RO SPORT", ORANGE Sport 2
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=56039&extension=ts&play_token=HlNJpOcKKm
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/ORANGE%203.png" group-title="RO SPORT", ORANGE Sport 3
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=208009&extension=ts&play_token=sXtPsnpRdm
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/ORANGE%204.png" group-title="RO SPORT", ORANGE Sport 4
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=92680&extension=ts&play_token=5q15VVXkYC
+
