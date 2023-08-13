@@ -7868,9 +7868,13 @@ http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=1131946&extension
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=1131945&extension=ts&play_token=vRe7r8gRAq
 
 #EXTINF:-1 tvg-logo="xxxxxxxx" group-title="EROPA SPORT", CANAL+ PREMIER LEAGUE 
+http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=295372_&extension=ts 
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="EROPA SPORT", CANAL+ PREMIER LEAGUE 
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=508167&extension=ts&play_token=1nsvxInv16 
 #EXTINF:-1 tvg-logo="xxxxxxxx" group-title="EROPA SPORT", CANAL+ MOTOGP 
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=508165&extension=ts&play_token=LwIO2B91Rs 
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="EROPA SPORT", CANAL+ FORMULA 1 
+http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=305273&extension=ts 
 #EXTINF:-1 tvg-logo="xxxxxxxx" group-title="EROPA SPORT", CANAL+ GOLF
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=508152&extension=ts&play_token=B5Pfbw3H01 
 #EXTINF:-1 tvg-logo="xxxxxxxx" group-title="EROPA SPORT", GOLF CHANEL
@@ -8042,7 +8046,8 @@ http://obshd.tv:25461/@localhdtv/hffEJ2kzX3Qf/92
 #EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/23bf89ddfb161b3421e73c78b16d2145.png" group-title="EROPA SPORT", RMC SPORT 2 HD
 http://obshd.tv:25461/@localhdtv/hffEJ2kzX3Qf/93
 #EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/508692b4bb39baaa5fc257367b5d799e.png" group-title="EROPA SPORT", RMC SPORT 1 FHD
-http://ok4.club:25461/Ranger2022/BCLpXmjdVYB2/1096
+#EXTINF:-1 tvg-logo="-------" group-title="EROPA SPORT", RMC SPORT 1 FHD
+http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=59057_&extension=ts
 #EXTINF:-1 tvg-logo="xxxxxxxx" group-title="EROPA SPORT", RMC SPORT 2 FHD
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=508156&extension=ts&play_token=Z6JZQHmj4P 
 #EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/0d1c01fd13c353330ad9a25c1484db80.png" group-title="EROPA SPORT", RMC SPORT 3 HD
@@ -8378,7 +8383,12 @@ http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=2111_&extens
 #EXTINF:-1 tvg-logo="xxxxxxxx" group-title="EROPA SPORT", VIAPLAY SPORT EXTRA BK
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=2117_&extension=ts
 
-
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT",  VOO SPORT WORLD 1
+http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=390413_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT",  VOO SPORT WORLD 2
+http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=390411_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT",  VOO SPORT WORLD 3
+http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=390409_&extension=ts
 
 
 #EXTINF:-1 tvg-logo="xxxxxxxx" group-title="EROPA SPORT", YES SPORT 1B
