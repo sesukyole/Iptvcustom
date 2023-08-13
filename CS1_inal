@@ -2145,6 +2145,35 @@ http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=683143&extension=
 #EXTINF:-1 tvg-logo="xxxxxxxxxxxxxxxx" group-title="MOVIE ASIA", ZEE BIOSKOP
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=683155&extension=ts&play_token=RMCZ5rD42m
 
+#EXTINF:-1 tvg-logo="______" group-title="MOVIE ASIA",  AXN
+http://p4.giffy.be:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=341585_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="MOVIE ASIA",  HBO FAMILY
+http://p4.giffy.be:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=341574_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="MOVIE ASIA",  SHOWCAST MOVIE
+http://p4.giffy.be:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=341574_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="MOVIE ASIA",  ASTRO BOO
+http://p4.giffy.be:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=341568_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="MOVIE ASIA",  ASTRO CERIA
+http://p4.giffy.be:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=341603_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="MOVIE ASIA",  ZEE CINEMA
+http://p4.giffy.be:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=341582_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="MOVIE ASIA",  SONY MAX
+http://p4.giffy.be:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=341531_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="MOVIE ASIA",  OKEY TV
+http://p4.giffy.be:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=341583_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="MOVIE ASIA",  ASTRO BOX OFFICE
+http://p4.giffy.be:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=341581_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="MOVIE ASIA",  ASTRO CERIA
+http://p4.giffy.be:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=341601_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="MOVIE ASIA",  ASTRO PRIMA
+http://p4.giffy.be:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=341478_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="MOVIE ASIA",  COLOR HD
+http://p4.giffy.be:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=341576_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="MOVIE ASIA",  COLOR TAMIL HD
+http://p4.giffy.be:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=341463_&extension=ts
+
+
+
 ##########################
 MOVIE MANCANAGARA  #######
 ################################################################################################################################################################################## MOVIE MANCANEGARA
@@ -7361,6 +7390,12 @@ ASIA SPORT  ###########
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/NEGARA/main/KOP.jpg" group-title="ASIA SPORT", ###ASIA SPORT###
 https://github.com/inaldie/NEGARA/raw/main/welcome.ts
 
+
+#EXTINF:-1 tvg-logo="______" group-title="ASIA SPORT",  SPOTV BK
+http://p4.giffy.be:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=341546_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="ASIA SPORT",  SPOTV 2 BK
+http://p4.giffy.be:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=341547_&extension=ts
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/SPOTV.png" group-title="ASIA SPORT", SPOTV 1
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=683117&extension=ts&play_token=ttKChD9xXt
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/SPOTV.png" group-title="ASIA SPORT", SPOTV 1
@@ -7392,6 +7427,12 @@ http://humiptv.live:8080/live/tarun589853/5787489bcsh/23793.ts
 
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png" group-title="ASIA SPORT",  ASTRO ARENA 1
+http://p4.giffy.be:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=341536_&extension=ts
+#EXTINF:-1 tvg-logo="https://asiagrandiptv.us/logo/astrocricket.png" group-title="ASIA SPORT",  ASTRO CRICKET 
+http://p4.giffy.be:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=341544_&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/SUKAN_RTM.jpg/640px-SUKAN_RTM.jpg" group-title="ASIA SPORT",  SUKAN 
+http://p4.giffy.be:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=341548_&extension=ts
 
 #EXTINF:-1 tvg-logo="https://asiagrandiptv.us/logo//astrosupersport.png" group-title="ASIA SPORT", ASTRO SUPERSPORT 1
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=571245&extension=ts&play_token=oatD6LI1Qd
