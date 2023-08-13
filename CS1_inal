@@ -7049,23 +7049,19 @@ http://s1.pubnow.info:8080/Achraf-charaf/G8PMwKY3JqcR/182
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", BEIN SPORTS PREMIUM 1
 http://aca3b.tk:8080/Moskovic/g94XfRcTck/20428
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", BEIN SPORTS PREMIUM 2
+http://aca3b.tk:8080/Moskovic/g94XfRcTck/20427
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", BEIN SPORTS PREMIUM 3
 http://aca3b.tk:8080/Moskovic/g94XfRcTck/20426
-
-#EXTINF:-1 tvg-logo="______" group-title="BEIN GRUP", BEIN SPORT 1
-http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=59306_&extension=m3u8
-#EXTINF:-1 tvg-logo="______" group-title="BEIN GRUP", BEIN SPORT 2
-http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=59307_&extension=m3u8
-#EXTINF:-1 tvg-logo="______" group-title="BEIN GRUP", BEIN SPORT 3
-http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=59308_&extension=m3u8
-
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", BEIN SPORTS 4
+http://aca3b.tk:8080/Moskovic/g94XfRcTck/20419
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", BEIN SPORTS 5
 http://aca3b.tk:8080/Moskovic/g94XfRcTck/20420
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", BEIN SPORTS 6
 http://aca3b.tk:8080/Moskovic/g94XfRcTck/20421
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", BEIN SPORTS 7
 http://aca3b.tk:8080/Moskovic/g94XfRcTck/20422
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", BEIN SPORT 8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", BEIN SPORTS 8
 http://aca3b.tk:8080/Moskovic/g94XfRcTck/20424
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", BEIN SPORT XTRA HD
 http://aca3b.tk:8080/Moskovic/g94XfRcTck/20423
@@ -7089,6 +7085,28 @@ http://aca3b.tk:8080/Moskovic/g94XfRcTck/20437
 http://aca3b.tk:8080/Moskovic/g94XfRcTck/20438
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", BEIN SPORTS 7 HD
 http://aca3b.tk:8080/Moskovic/g94XfRcTck/20410
+
+#EXTINF:-1 tvg-logo="______" group-title="BEIN GRUP", BEIN SPORT 1
+http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=59306_&extension=m3u8
+#EXTINF:-1 tvg-logo="______" group-title="BEIN GRUP", BEIN SPORT 2
+http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=59307_&extension=m3u8
+#EXTINF:-1 tvg-logo="______" group-title="BEIN GRUP", BEIN SPORT 3
+http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=59308_&extension=m3u8
+#EXTINF:-1 tvg-logo="______" group-title="BEIN GRUP", BEIN SPORT 1
+http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=59306_&extension=m3u8
+#EXTINF:-1 tvg-logo="______" group-title="BEIN GRUP", BEIN SPORT 2
+http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=59307_&extension=m3u8
+#EXTINF:-1 tvg-logo="______" group-title="BEIN GRUP", BEIN SPORT 3
+http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=59308_&extension=m3u8
+#EXTINF:-1 tvg-logo="______" group-title="BEIN GRUP", BEIN SPORT 4
+http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=59309_&extension=m3u8
+#EXTINF:-1 tvg-logo="______" group-title="BEIN GRUP", BEIN SPORT 5
+http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=59310_&extension=m3u8
+#EXTINF:-1 tvg-logo="______" group-title="BEIN GRUP", BEIN SPORT 6
+http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=59311_&extension=m3u8
+#EXTINF:-1 tvg-logo="______" group-title="BEIN GRUP", BEIN SPORT 7
+http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=59312_&extension=m3u8
+
 
 #EXTINF:-1 tvg-logo="______" group-title="BEIN GRUP", BEIN SPORT NEWS
 http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=59305_&extension=m3u8
@@ -7391,9 +7409,9 @@ ASIA SPORT  ###########
 https://github.com/inaldie/NEGARA/raw/main/welcome.ts
 
 
-#EXTINF:-1 tvg-logo="______" group-title="ASIA SPORT",  SPOTV BK
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/SPOTV.png" group-title="ASIA SPORT",  SPOTV BK
 http://p4.giffy.be:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=341546_&extension=ts
-#EXTINF:-1 tvg-logo="______" group-title="ASIA SPORT",  SPOTV 2 BK
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/SPOTV2.png" group-title="ASIA SPORT",  SPOTV 2 BK
 http://p4.giffy.be:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=341547_&extension=ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/SPOTV.png" group-title="ASIA SPORT", SPOTV 1
