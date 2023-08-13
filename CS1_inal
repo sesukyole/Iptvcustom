@@ -124,7 +124,7 @@ http://ok4.club:25461/Ranger2022/BCLpXmjdVYB2/75439
 DENS TV    ############
 ################################################################################################################################################################################# MOVIE ASIA
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/NEGARA/main/KOP.jpg", group-title="FIRSTMEDIA", ###FIRSMEDIA CHANNEL###
-https://github.com/inaldie/inaldie/raw/main/LOGO.ts
+https://github.com/inaldie/NEGARA/raw/main/welcome.ts
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/MOJI.png", group-title="FIRSTMEDIA",MOJI HD
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch26)/index.m3u8
@@ -271,7 +271,7 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch3888)/index.m3
 DENS TV    ############
 ################################################################################################################################################################################# MOVIE ASIA
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/NEGARA/main/KOP.jpg" group-title="DENS TV", ###DENS CHANNEL###
-https://github.com/inaldie/inaldie/raw/main/LOGO.ts
+https://github.com/inaldie/NEGARA/raw/main/welcome.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/MNCTV_MNC-Group.svg" group-title="DENS TV", MNCTV
 http://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD2/sa_hls/MNCTV-HD2.m3u8
@@ -418,7 +418,7 @@ http://210.210.155.37/uq2663/h/h223/index.m3u8
 MNC GRUP    ############
 ################################################################################################################################################################################# MOVIE ASIA
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/NEGARA/main/KOP.jpg" group-title="MNC GRUP", ###MNC GRUP (OTT)###
-https://github.com/inaldie/inaldie/raw/main/LOGO.ts
+https://github.com/inaldie/NEGARA/raw/main/welcome.ts
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ODg5MzMzNDItNmFiZS0zNDU3LWE3ZjUtMTBkZmY2OWViNWIw
@@ -1720,20 +1720,22 @@ https://svara-stream.radioddns.net:8443/jakarta_smoothfm_mp3
 KOP ID & MY ##########
 #################################################################################################################################################################################
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/NEGARA/main/KOP.jpg" group-title="INDONE_SIA 1", ###INDONE_SIA 1###
-https://github.com/inaldie/inaldie/raw/main/LOGO.ts
+https://github.com/inaldie/NEGARA/raw/main/welcome.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/NEGARA/main/KOP.jpg" group-title="INDONE_SIA 2", ###INDONE_SIA 2###
-https://github.com/inaldie/inaldie/raw/main/LOGO.ts
+https://github.com/inaldie/NEGARA/raw/main/welcome.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/NEGARA/main/KOP.jpg" group-title="MALAY_SIA 1", ###MALAY_SIA 1###
-https://github.com/inaldie/inaldie/raw/main/LOGO.ts
+https://github.com/inaldie/NEGARA/raw/main/welcome.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/NEGARA/main/KOP.jpg" group-title="MALAY_SIA 2", ###MALAY_SIA 2###
-https://github.com/inaldie/inaldie/raw/main/LOGO.ts
+https://github.com/inaldie/NEGARA/raw/main/welcome.ts
 
 
 #######################
 KOP ID & MY ##########
 #################################################################################################################################################################################
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/NEGARA/main/KOP.jpg" group-title="INDO-MALAY"", ###INDO-MALAY###
-https://github.com/inaldie/inaldie/raw/main/LOGO.ts
+https://github.com/inaldie/NEGARA/raw/main/welcome.ts
+
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDO-MALAY", MY Astro AEC (D)
 http://humiptv.live:8080/live/tarun589853/5787489bcsh/142969.ts
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDO-MALAY", MY TV2 (D)
@@ -2068,7 +2070,7 @@ http://humiptv.live:8080/live/tarun589853/5787489bcsh/151300.ts
 MOVIE ASIA  ###########
 ################################################################################################################################################################################# MOVIE ASIA
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/NEGARA/main/KOP.jpg" group-title="MOVIE ASIA", ###MOVIE ASIA###
-https://github.com/inaldie/inaldie/raw/main/LOGO.ts
+https://github.com/inaldie/NEGARA/raw/main/welcome.ts
 
 #EXTINF:-1 tvg-logo="xxxxxxxxxxxxxxxx" group-title="MOVIE ASIA", ASTRO OASIS
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=571238&extension=ts&play_token=Pxw1nnzhzz
@@ -2147,7 +2149,7 @@ http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=683155&extension=
 MOVIE MANCANAGARA  #######
 ################################################################################################################################################################################## MOVIE MANCANEGARA
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/NEGARA/main/KOP.jpg" group-title="MOVIE MANCANEGARA", ###MOVIE MANCANEGARA###
-https://github.com/inaldie/inaldie/raw/main/LOGO.ts
+https://github.com/inaldie/NEGARA/raw/main/welcome.ts
 
 
 #EXTINF:-1 tvg-logo="http://myserveriptv.com:2082/images/68ef0f174963fe248d689cd52d10170b.png/" group-title="MOVIE MANCANEGARA", UK: CineBox 2 Animation
@@ -5828,7 +5830,7 @@ http://iptvtree.net:8080/1eae94e3/GpDddDC8ddMxhY2n/2849
 KIDS DISNEY  ##########
 ################################################################################################################################################################################# KIDS DISNEY
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/NEGARA/main/KOP.jpg" group-title="KIDS DISNEY", ###KIDS DISNEY###
-https://github.com/inaldie/inaldie/raw/main/LOGO.ts
+https://github.com/inaldie/NEGARA/raw/main/welcome.ts
 
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", US016:Cartoon Network HD
@@ -6757,7 +6759,7 @@ http://mu03.wanicelife.com:8880/live/6m190086/58889297/65975.m3u8
 BEIN GRUP  ############
 ################################################################################################################################################################################# SPORT ASIA
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/NEGARA/main/KOP.jpg" group-title="BEIN GRUP", ###BEIN GRUP###
-https://github.com/inaldie/inaldie/raw/main/LOGO.ts
+https://github.com/inaldie/NEGARA/raw/main/welcome.ts
 
 #EXTINF:-1 tvg-logo="http://magott.net:80/images/643a97af82fb334f27205245937cf865.png" group-title="BEIN GRUP", beIN SPORTS GLOBAL HD
 http://magott.net:80/okota380/RvPBwTrjvRPM/3
@@ -7173,7 +7175,7 @@ http://pro.xviptv.com:25443/live/6532287675/4648388393/48025.ts
 SKY GRUP
 ################################################################################################################################################################################# SPORT ASIA
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/NEGARA/main/KOP.jpg" group-title="SKY GRUP", ###SKY GRUP###
-https://github.com/inaldie/inaldie/raw/main/LOGO.ts
+https://github.com/inaldie/NEGARA/raw/main/welcome.ts
 
 #EXTINF:-1 tvg-logo="---------" group-title="SKY GRUP", SKY SPORT MAIN EVENT
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=83450&extension=ts&play_token=2Q6fP0aQzR
@@ -7243,7 +7245,7 @@ http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=949137&extens
 MOVISTAR GRUP
 ################################################################################################################################################################################# SPORT ASIA
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/NEGARA/main/KOP.jpg" group-title="MOVISTAR GRUP", ###MOVISTAR GRUP###
-https://github.com/inaldie/inaldie/raw/main/LOGO.ts
+https://github.com/inaldie/NEGARA/raw/main/welcome.ts
 
 
 
@@ -7357,7 +7359,7 @@ http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=16512_&extens
 ASIA SPORT  ###########
 ################################################################################################################################################################################# SPORT ASIA
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/NEGARA/main/KOP.jpg" group-title="ASIA SPORT", ###ASIA SPORT###
-https://github.com/inaldie/inaldie/raw/main/LOGO.ts
+https://github.com/inaldie/NEGARA/raw/main/welcome.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/SPOTV.png" group-title="ASIA SPORT", SPOTV 1
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=683117&extension=ts&play_token=ttKChD9xXt
@@ -7502,7 +7504,7 @@ http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=65516_&extens
 ARAB SPORT  ###########
 ################################################################################################################################################################################# ARAB SPORT
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/NEGARA/main/KOP.jpg" group-title="ARAB SPORT", ###ARAB SPORT###
-https://github.com/inaldie/inaldie/raw/main/LOGO.ts
+https://github.com/inaldie/NEGARA/raw/main/welcome.ts
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0fHWC0Vz6sD7Z-tf3JFUjVOzLt8dR6wgWU0t6R50YRMr8f4W5bHbsMI8L&s=10" group-title="ARAB SPORT",  SSC SPORT 1
@@ -7657,7 +7659,7 @@ http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=8116&extension=t
 TURKY SPORT  ###########
 ################################################################################################################################################################################# ARAB SPORT
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/NEGARA/main/KOP.jpg" group-title="TURKY SPORT", ###TURKY SPORT###
-https://github.com/inaldie/inaldie/raw/main/LOGO.ts
+https://github.com/inaldie/NEGARA/raw/main/welcome.ts
 
 #EXTINF:-1 tvg-logo="http://magott.net:80/images/d4c9a82eabcea9ef8c626da20887aa40.png" group-title="TURKY SPORT", BEIN SPORT 1 TR
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=41811_&extension=ts
@@ -7728,7 +7730,7 @@ http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=46640_&extens
 SPORT EROPA  ##########
 ################################################################################################################################################################################# SPORT EROPA
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/NEGARA/main/KOP.jpg" group-title="EROPA SPORT", ###EROPA SPORT###
-https://github.com/inaldie/inaldie/raw/main/LOGO.ts
+https://github.com/inaldie/NEGARA/raw/main/welcome.ts
 
 #EXTINF:-1 tvg-logo="-------" group-title="EROPA SPORT", ARENA SPORT 1 PREMIUM
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=801855&extension=ts&play_token=5iYcwPJUh5
@@ -8662,7 +8664,7 @@ https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/15881.m3u8
 LAIN-LAIN SPORT  ######
 ################################################################################################################################################################################# LAIN-LAIN SPORT
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/NEGARA/main/KOP.jpg" group-title="LAIN-LAIN SPORT", ###LAIN-LAIN SPORT###
-https://github.com/inaldie/inaldie/raw/main/LOGO.ts
+https://github.com/inaldie/NEGARA/raw/main/welcome.ts
 
 #EXTINF:-1 tvg-logo="xxxxxxxx" group-title="LAIN-LAIN SPORT", TRACE SPORT STARS
 http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=115318_&extension=ts
@@ -8716,7 +8718,7 @@ http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/10882
 VIP SPORT #############
 ################################################################################################################################################################################# SPORT VIP
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/NEGARA/main/KOP.jpg" group-title="VIP SPORT", ##VIP SPORT###
-https://github.com/inaldie/inaldie/raw/main/LOGO.ts
+https://github.com/inaldie/NEGARA/raw/main/welcome.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-fqwl8huiu5WlxvzbLloAnSSry8GWJfV3f_NK_a6AGN9ixooOTm0t4M7L&s=10" group-title="VIP SPORT", OPTUS SPORT 1
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1519251_&extension=ts
@@ -8803,7 +8805,7 @@ http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1350567_&ext
 CLUB FOOTBALL #########
 ################################################################################################################################################################################# CLUB FOOTBALL
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/NEGARA/main/KOP.jpg" group-title="CLUB FOOTBALL", ##CLUB FOOTBALL###
-https://github.com/inaldie/inaldie/raw/main/LOGO.ts
+https://github.com/inaldie/NEGARA/raw/main/welcome.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYnsZoGidP8S19kGUQd8C-WBNlVfajCpthpg&usqp=CAU" group-title="CLUB FOOTBALL", LAZIO TV
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=691244&extension=ts&play_token=zMlRAkEXDp 
@@ -8839,7 +8841,7 @@ http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=7874_&extensi
 FIGHT SPORT  ##########
 ################################################################################################################################################################################# FIGHT SPORT
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/NEGARA/main/KOP.jpg" group-title="FIGHT SPORT", ##FIGHT SPORT###
-https://github.com/inaldie/inaldie/raw/main/LOGO.ts
+https://github.com/inaldie/NEGARA/raw/main/welcome.ts
 
 
 #EXTINF:-1 tvg-logo="-------" group-title="FIGHT SPORT", FIGHT BOX
@@ -8892,7 +8894,7 @@ http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1121749&e
 ESPN SPORT  ##########
 ################################################################################################################################################################################# ESPN SPORT
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/NEGARA/main/KOP.jpg" group-title="ESPN SPORT", ##ESPN SPORT###
-https://github.com/inaldie/inaldie/raw/main/LOGO.ts
+https://github.com/inaldie/NEGARA/raw/main/welcome.ts
 
 #EXTINF:-1 tvg-logo="______" group-title="ESPN SPORT", ESPN 1
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=460917&extension=ts&play_token=FcCkSLTtTN
@@ -8967,7 +8969,7 @@ http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=533657&extension=
 FOX SPORT  ##########
 ################################################################################################################################################################################# FOX SPORT
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/NEGARA/main/KOP.jpg" group-title="FOX SPORT", ##FOX SPORT###
-https://github.com/inaldie/inaldie/raw/main/LOGO.ts
+https://github.com/inaldie/NEGARA/raw/main/welcome.ts
 
 
 #EXTINF:-1 tvg-logo="______" group-title="FOX SPORT", FOX SOCCER PLUS
