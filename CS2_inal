@@ -43,7 +43,7 @@ http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=692383&extens
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/ligaeropa.png" group-title="#⚽EVENT BOLA⚽#", WORLD CUP CW 2
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=107436&extension=ts&play_token=Aj5Ctlhy7i
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/ligaeropa.png" group-title="#⚽EVENT BOLA⚽#", WORLD CUP CW 3
-http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=1032456&extension=ts&play_token=sxawlwRtqd
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=14828_&extension=ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/ligaeropa.png" group-title="#⚽EVENT BOLA⚽#", WORLD CUP CW 4
 http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=1032456&extension=ts&play_token=sxawlwRtqd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/ligaeropa.png" group-title="#⚽EVENT BOLA⚽#", WORLD CUP CW 5
