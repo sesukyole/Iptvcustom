@@ -7632,7 +7632,7 @@ http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=115500_&exte
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=926161&extension=ts&play_token=CtutLKlCDV
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSifKAaGK0AD88SQnu6MsApMLGHPDwIkNmSDw&usqp=CAU" group-title="ASIA SPORT", ONE SPORT
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=926161&extension=ts&play_token=1CpygHM1Ws
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSifKAaGK0AD88SQnu6MsApMLGHPDwIkNmSDw&usqp=CAU" group-title="ASIA SPORT", PREMIER SPORT
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/PremierSports-ph.png" group-title="ASIA SPORT", PREMIER SPORT
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=926155&extension=ts&play_token=xnMdkwJ3DA
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRS5wCyBfWh2VcgWDzncPDI1zH78Z_pX53EQ&usqp=CAU" group-title="ASIA SPORT", TENS SPORT PAKISTAN
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=65516_&extension=m3u8
