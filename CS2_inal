@@ -8068,6 +8068,18 @@ http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=508150&extens
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=508169&extension=ts&play_token=NaNl5etGT6 
 
 
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", CANAL+ SPORT 1
+http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=21909_&extension=ts&play_token=W0JcMWGscf
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", CANAL+ SPORT 2
+http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=21922_&extension=ts&play_token=W0JcMWGscf
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", CANAL+ SPORT 3
+http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=63648_&extension=ts&play_token=W0JcMWGscf
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", CANAL+ SPORT 4
+http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=63649_&extension=ts&play_token=W0JcMWGscf
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", CANAL+ SPORT 5
+http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=15616_&extension=ts&play_token=W0JcMWGscf
+
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTihnQcGtCDaDE5Gr3agIKFcPtc95k0_RliBg&usqp=CAU" group-title="EROPA SPORT", C MORE SPORT 1
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=154613&extension=ts&play_token=iFj5xcZHeF
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKQCloYS3Xq7pf24b01Jmuk2oe23xmfXlmNg&usqp=CAU" group-title="EROPA SPORT", C MORE SPORT 2
@@ -8143,6 +8155,15 @@ http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=63304_&extens
 #EXTINF:-1 tvg-logo="-------" group-title="EROPA SPORT", ELEVEN SPORT 6
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=63305_&extension=ts
 
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", ELEVEN SPORT 1
+http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=21904_&extension=ts&play_token=W0JcMWGscf
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", ELEVEN SPORT 2
+http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=21903_&extension=ts&play_token=W0JcMWGscf
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", ELEVEN SPORT 3
+http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=41766_&extension=ts&play_token=W0JcMWGscf
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", ELEVEN SPORT 4
+http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=41767_&extension=ts&play_token=W0JcMWGscf
+
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EROPA SPORT", ELEVEN SPORT 1 HD PL
 http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=97264_&extension=ts
@@ -8152,15 +8173,6 @@ http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=97265_&extens
 http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=97266_&extension=ts
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EROPA SPORT", ELEVEN SPORT 4 HD PL
 http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=97267_&extension=ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EROPA SPORT", ELEVEN SPORT 1 FHD PL
-http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=21904_&extension=ts&play_token=FcCkSLTtTN
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EROPA SPORT", ELEVEN SPORT 2 FHD PL
-http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=21903_&extension=ts&play_token=FcCkSLTtTN
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EROPA SPORT", ELEVEN SPORT 3 FHD PL
-http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=41766_&extension=ts&play_token=FcCkSLTtTN
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EROPA SPORT", ELEVEN SPORT 4 FHD PL
-http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=41767_&extension=ts&play_token=FcCkSLTtTN
 
 #EXTINF:-1 tvg-logo="-------" group-title="EROPA SPORT", ELEVEN SPORT 1
 http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=992_&extension=ts
@@ -8326,7 +8338,7 @@ http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=880327&ex
 http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=880326&extension=ts&play_token=gvVtWYd1gP
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/polsat3.png" group-title="EROPA SPORT", POLSAT SPORT PREMIUM 3 HD
 http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=880326&extension=ts&play_token=gvVtWYd1gP
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Polsat_Sport_Premium_4_PPV_2021_gradient.svg/1200px-Polsat_Sport_Premium_4_PPV_2021_gradient.svg.png" group-title="EROPA SPORT", POLSAT SPORT PREMIUM 4 HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/Polsat_Sport_Premium_4_PPV_2021.svg/revision/latest/scale-to-width-down/300?cb=20210819181025" group-title="EROPA SPORT", POLSAT SPORT PREMIUM 4 HD
 http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=880324&extension=ts&play_token=Eje4e8RkKj
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/polsat5.png" group-title="EROPA SPORT", POLSAT SPORT PREMIUM 5 HD
 http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=880323&extension=ts&play_token=2SxlpKQ2ri
@@ -8336,6 +8348,16 @@ http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=880330&ex
 http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=880329&extension=ts&play_token=z7YloKEhTd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/polsatextra.png" group-title="EROPA SPORT", POLSAT SPORT EXTRA HD
 http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=880331&extension=ts&play_token=pboIIKxcnY
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/polsatfight.png" group-title="EROPA SPORT", POLSAT FIGHT
+http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=22087_&extension=ts&play_token=W0JcMWGscf
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/polsatS.png" group-title="EROPA SPORT", POLSAT SPORT
+http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=22086_&extension=ts&play_token=W0JcMWGscf
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/polsat1.png" group-title="EROPA SPORT", POLSAT PREMIUM 1
+http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=63651_&extension=ts&play_token=W0JcMWGscf
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/polsat2.png" group-title="EROPA SPORT", POLSAT PREMIUM 2
+http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=63652_&extension=ts&play_token=W0JcMWGscf
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/polsat1.png" group-title="EROPA SPORT", POLSAT SPORT PREMIUM 1
