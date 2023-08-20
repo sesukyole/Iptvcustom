@@ -8155,24 +8155,15 @@ http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=63304_&extens
 #EXTINF:-1 tvg-logo="-------" group-title="EROPA SPORT", ELEVEN SPORT 6
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=63305_&extension=ts
 
-#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", ELEVEN SPORT 1
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", ELEVEN SPORT 1 PL
 http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=21904_&extension=ts&play_token=W0JcMWGscf
-#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", ELEVEN SPORT 2
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", ELEVEN SPORT 2 PL
 http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=21903_&extension=ts&play_token=W0JcMWGscf
-#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", ELEVEN SPORT 3
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", ELEVEN SPORT 3 PL
 http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=41766_&extension=ts&play_token=W0JcMWGscf
-#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", ELEVEN SPORT 4
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", ELEVEN SPORT 4 PL
 http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=41767_&extension=ts&play_token=W0JcMWGscf
 
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EROPA SPORT", ELEVEN SPORT 1 HD PL
-http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=97264_&extension=ts
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EROPA SPORT", ELEVEN SPORT 2 HD PL
-http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=97265_&extension=ts
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EROPA SPORT", ELEVEN SPORT 3 HD PL
-http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=97266_&extension=ts
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EROPA SPORT", ELEVEN SPORT 4 HD PL
-http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=97267_&extension=ts
 
 #EXTINF:-1 tvg-logo="-------" group-title="EROPA SPORT", ELEVEN SPORT 1
 http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=992_&extension=ts
