@@ -9227,16 +9227,16 @@ http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=90792&extension=t
 #EXTINF:-1 tvg-logo="______" group-title="ESPN SPORT", ESPN EXTRA LATIN
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=90791&extension=ts&play_token=pzz51R3Gq2
 
-#EXTINF:-1 tvg-logo="______" group-title="ESPN SPORT", NL ESPN 4
-http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=9758_&extension=ts&play_token=FcCkSLTtTN
-#EXTINF:-1 tvg-logo="______" group-title="ESPN SPORT", NL ESPN 3
-http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=9708_&extension=ts&play_token=FcCkSLTtTN
-#EXTINF:-1 tvg-logo="______" group-title="ESPN SPORT", NL ESPN 2
-http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=9707_&extension=ts&play_token=FcCkSLTtTN
 #EXTINF:-1 tvg-logo="______" group-title="ESPN SPORT", NL ESPN 1
-http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=9706_&extension=ts&play_token=FcCkSLTtTN
+http://es.xipi3.xyz:2052/live/GROUPG6/sh4BNGcVjx2u/96085.m3u8
+#EXTINF:-1 tvg-logo="______" group-title="ESPN SPORT", NL ESPN 2
+http://es.xipi3.xyz:2052/live/GROUPG6/sh4BNGcVjx2u/96086.m3u8
+#EXTINF:-1 tvg-logo="______" group-title="ESPN SPORT", NL ESPN 3
+http://es.xipi3.xyz:2052/live/GROUPG6/sh4BNGcVjx2u/96087.m3u8
+#EXTINF:-1 tvg-logo="______" group-title="ESPN SPORT", NL ESPN 4
+http://es.xipi3.xyz:2052/live/GROUPG6/sh4BNGcVjx2u/96088.m3u8
 #EXTINF:-1 tvg-logo="______" group-title="ESPN SPORT", NL ESPN EXTRA
-http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=128893_&extension=ts&play_token=FcCkSLTtTN
+http://es.xipi3.xyz:2052/live/GROUPG6/sh4BNGcVjx2u/96090.m3u8
 
 
 #EXTINF:-1 tvg-logo="______" group-title="ESPN SPORT", ESPN PREMIUM
