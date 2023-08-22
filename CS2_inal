@@ -8856,6 +8856,366 @@ https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/15880.m3u8
 #EXTINF:-1 tvg-logo="http://stmgroup.xyz/logo/pacwash.png" group-title="LATIN SPORT", PAC-12 WASHINGTON HD (US)
 https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/15881.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", Sportv 
+http://supertv.red:80/nii5jn8d/gz6su0qk/124546.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", Sportv 2 
+http://supertv.red:80/nii5jn8d/gz6su0qk/124542.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", Sportv 3 
+http://supertv.red:80/nii5jn8d/gz6su0qk/124538.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", ESPN 
+http://supertv.red:80/nii5jn8d/gz6su0qk/100845.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", ESPN 3 
+http://supertv.red:80/nii5jn8d/gz6su0qk/100851.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", ESPN Extra 
+http://supertv.red:80/nii5jn8d/gz6su0qk/100840.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", Band Sports 
+http://supertv.red:80/nii5jn8d/gz6su0qk/100687.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", FOX Sports 2 
+http://supertv.red:80/nii5jn8d/gz6su0qk/100666.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", FOX Sports 2 SD
+http://supertv.red:80/nii5jn8d/gz6su0qk/100671.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", FOX Sports 2 HD
+http://supertv.red:80/nii5jn8d/gz6su0qk/100670.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", FOX Sports 2 FHD
+http://supertv.red:80/nii5jn8d/gz6su0qk/100669.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", Band Sports SD
+http://supertv.red:80/nii5jn8d/gz6su0qk/100691.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", Band Sports HD
+http://supertv.red:80/nii5jn8d/gz6su0qk/100690.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", Band Sports FHD
+http://supertv.red:80/nii5jn8d/gz6su0qk/100689.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", ESPN SD
+http://supertv.red:80/nii5jn8d/gz6su0qk/100850.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", ESPN HD
+http://supertv.red:80/nii5jn8d/gz6su0qk/100849.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", ESPN HD²
+http://supertv.red:80/nii5jn8d/gz6su0qk/379591.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", ESPN FHD
+http://supertv.red:80/nii5jn8d/gz6su0qk/624379.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", ESPN 2 SD
+http://supertv.red:80/nii5jn8d/gz6su0qk/100859.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", ESPN 2 HD
+http://supertv.red:80/nii5jn8d/gz6su0qk/100858.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", ESPN 2 HD²
+http://supertv.red:80/nii5jn8d/gz6su0qk/379592.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", ESPN 2 FHD
+http://supertv.red:80/nii5jn8d/gz6su0qk/100857.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", ESPN 3 SD
+http://supertv.red:80/nii5jn8d/gz6su0qk/100856.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", ESPN 3 HD
+http://supertv.red:80/nii5jn8d/gz6su0qk/100855.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", ESPN 3 HD²
+http://supertv.red:80/nii5jn8d/gz6su0qk/379593.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", ESPN 3 FHD
+http://supertv.red:80/nii5jn8d/gz6su0qk/100854.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", ESPN 4 SD
+http://supertv.red:80/nii5jn8d/gz6su0qk/100679.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", ESPN 4 HD
+http://supertv.red:80/nii5jn8d/gz6su0qk/100678.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", ESPN 4 FHD H265
+http://supertv.red:80/nii5jn8d/gz6su0qk/100677.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", ESPN Extra SD
+http://supertv.red:80/nii5jn8d/gz6su0qk/100844.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", ESPN Extra HD
+http://supertv.red:80/nii5jn8d/gz6su0qk/100843.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", ESPN Extra HD²
+http://supertv.red:80/nii5jn8d/gz6su0qk/379594.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", ESPN Extra FHD
+http://supertv.red:80/nii5jn8d/gz6su0qk/100842.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", Sportv SD
+http://supertv.red:80/nii5jn8d/gz6su0qk/124550.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", Sportv HD
+http://supertv.red:80/nii5jn8d/gz6su0qk/124549.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", Sportv HD²
+http://supertv.red:80/nii5jn8d/gz6su0qk/379588.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", Sportv FHD
+http://supertv.red:80/nii5jn8d/gz6su0qk/124547.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", Sportv 2 SD
+http://supertv.red:80/nii5jn8d/gz6su0qk/124545.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", Sportv 2 HD
+http://supertv.red:80/nii5jn8d/gz6su0qk/124544.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", Sportv 2 HD²
+http://supertv.red:80/nii5jn8d/gz6su0qk/379589.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", Sportv 2 FHD
+http://supertv.red:80/nii5jn8d/gz6su0qk/124543.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", Sportv 3 SD
+http://supertv.red:80/nii5jn8d/gz6su0qk/124541.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", Sportv 3 HD
+http://supertv.red:80/nii5jn8d/gz6su0qk/124540.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", Sportv 3 FHD
+http://supertv.red:80/nii5jn8d/gz6su0qk/124539.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", Sportv 3 HD²
+http://supertv.red:80/nii5jn8d/gz6su0qk/379590.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", Estadio TNT Sports SD
+http://supertv.red:80/nii5jn8d/gz6su0qk/102096.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", Estadio TNT Sports 1 HD
+http://supertv.red:80/nii5jn8d/gz6su0qk/102097.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", Estadio TNT Sports FHD
+http://supertv.red:80/nii5jn8d/gz6su0qk/663999.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", Estadio TNT Sports 2 HD
+http://supertv.red:80/nii5jn8d/gz6su0qk/102094.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", Estadio TNT Sports 3 HD
+http://supertv.red:80/nii5jn8d/gz6su0qk/102093.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", Estadio TNT Sports 4 HD
+http://supertv.red:80/nii5jn8d/gz6su0qk/102092.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", Estadio TNT Sports 5 HD
+http://supertv.red:80/nii5jn8d/gz6su0qk/102091.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", Estadio TNT Sports 6 HD
+http://supertv.red:80/nii5jn8d/gz6su0qk/102090.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", Eleven Sports 1 SD
+http://supertv.red:80/nii5jn8d/gz6su0qk/136362.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", Eleven Sports 1 HD
+http://supertv.red:80/nii5jn8d/gz6su0qk/136361.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", ELEVEN SPORTS 1 FHD
+http://supertv.red:80/nii5jn8d/gz6su0qk/653544.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", Eleven Sports 2 SD
+http://supertv.red:80/nii5jn8d/gz6su0qk/136356.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", Eleven Sports 2 HD
+http://supertv.red:80/nii5jn8d/gz6su0qk/136355.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", ELEVEN SPORTS 2 FHD
+http://supertv.red:80/nii5jn8d/gz6su0qk/653545.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", Eleven Sports 3 SD
+http://supertv.red:80/nii5jn8d/gz6su0qk/136351.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", Eleven Sports 3 HD
+http://supertv.red:80/nii5jn8d/gz6su0qk/136350.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", ELEVEN SPORTS 3 FHD
+http://supertv.red:80/nii5jn8d/gz6su0qk/653546.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", Eleven Sports 4 SD
+http://supertv.red:80/nii5jn8d/gz6su0qk/136347.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", Eleven Sports 4 HD
+http://supertv.red:80/nii5jn8d/gz6su0qk/136346.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", Eleven Sports 5 SD
+http://supertv.red:80/nii5jn8d/gz6su0qk/136343.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", Eleven Sports 5 HD
+http://supertv.red:80/nii5jn8d/gz6su0qk/136342.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", Eleven Sports 6 SD
+http://supertv.red:80/nii5jn8d/gz6su0qk/136340.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", Eleven Sports 6 HD
+http://supertv.red:80/nii5jn8d/gz6su0qk/136339.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", EUROSPORT 1 SD
+http://supertv.red:80/nii5jn8d/gz6su0qk/362531.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", EUROSPORT 1 HD
+http://supertv.red:80/nii5jn8d/gz6su0qk/362529.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", EUROSPORT 2 HD
+http://supertv.red:80/nii5jn8d/gz6su0qk/362530.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", TV NSports 1 HD
+http://supertv.red:80/nii5jn8d/gz6su0qk/776678.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", TV NSports 2 HD
+http://supertv.red:80/nii5jn8d/gz6su0qk/776679.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", TV NSports 3 HD
+http://supertv.red:80/nii5jn8d/gz6su0qk/776680.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", TV NSports 4 HD
+http://supertv.red:80/nii5jn8d/gz6su0qk/776681.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", F Sports TV
+http://supertv.red:80/nii5jn8d/gz6su0qk/785428.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", (ES) Eurosport 1 HD
+http://supertv.red:80/nii5jn8d/gz6su0qk/795859.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", (ES) Eurosport 1 FHD
+http://supertv.red:80/nii5jn8d/gz6su0qk/795860.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", (ES) Eurosport 2 HD
+http://supertv.red:80/nii5jn8d/gz6su0qk/795861.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", (ES) Eurosport 2 HD²
+http://supertv.red:80/nii5jn8d/gz6su0qk/795862.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", Sport TV + SD
+http://supertv.red:80/nii5jn8d/gz6su0qk/136397.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", Sport TV +  HD
+http://supertv.red:80/nii5jn8d/gz6su0qk/136396.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", SPORT TV+ FHD
+http://supertv.red:80/nii5jn8d/gz6su0qk/602012.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", SPORT TV 1 FHD
+http://supertv.red:80/nii5jn8d/gz6su0qk/602013.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", SPORT TV 2 FHD
+http://supertv.red:80/nii5jn8d/gz6su0qk/602014.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", SPORT TV 3 FHD
+http://supertv.red:80/nii5jn8d/gz6su0qk/602015.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", SPORT TV 4 FHD
+http://supertv.red:80/nii5jn8d/gz6su0qk/602016.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", SPORT TV 5 FHD
+http://supertv.red:80/nii5jn8d/gz6su0qk/602017.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", SPORT TV 6
+http://supertv.red:80/nii5jn8d/gz6su0qk/602018.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", Sporting TV FHD
+http://supertv.red:80/nii5jn8d/gz6su0qk/136363.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", SPORTING TV
+http://supertv.red:80/nii5jn8d/gz6su0qk/136364.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", Sport TV 6 HD
+http://supertv.red:80/nii5jn8d/gz6su0qk/136371.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", Sport TV 5 HD
+http://supertv.red:80/nii5jn8d/gz6su0qk/136373.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", Sport TV 5 SD
+http://supertv.red:80/nii5jn8d/gz6su0qk/136374.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", Sport TV 4 HD
+http://supertv.red:80/nii5jn8d/gz6su0qk/136376.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", Sport TV 4 SD
+http://supertv.red:80/nii5jn8d/gz6su0qk/136377.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", Sport TV 3 HD
+http://supertv.red:80/nii5jn8d/gz6su0qk/136379.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", Sport TV 3 SD
+http://supertv.red:80/nii5jn8d/gz6su0qk/136380.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", Sport TV 2 HD
+http://supertv.red:80/nii5jn8d/gz6su0qk/136385.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", Sport TV 2 SD
+http://supertv.red:80/nii5jn8d/gz6su0qk/136386.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", Sport TV 1 HD
+http://supertv.red:80/nii5jn8d/gz6su0qk/136393.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", Sport TV 1 SD
+http://supertv.red:80/nii5jn8d/gz6su0qk/136394.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", FOX SPORTS 1 U.S
+http://supertv.red:80/nii5jn8d/gz6su0qk/136692.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", FOX SPORTS 2 U.S
+http://supertv.red:80/nii5jn8d/gz6su0qk/136691.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", FOX SPORTS ARIZONA
+http://supertv.red:80/nii5jn8d/gz6su0qk/136690.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", FOX SPORTS DETROID
+http://supertv.red:80/nii5jn8d/gz6su0qk/136689.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", FOX SPORTS FLORIDA
+http://supertv.red:80/nii5jn8d/gz6su0qk/136688.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", FOX SPORTS OHIO
+http://supertv.red:80/nii5jn8d/gz6su0qk/136678.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", FOX SPORTS OHIO
+http://supertv.red:80/nii5jn8d/gz6su0qk/136686.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", FOX SPORTS OKLAHOMA
+http://supertv.red:80/nii5jn8d/gz6su0qk/136685.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", FOX SPORTS SAN DIEGO
+http://supertv.red:80/nii5jn8d/gz6su0qk/136682.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", FOX SPORTS SOCCER PLUS
+http://supertv.red:80/nii5jn8d/gz6su0qk/136681.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", FOX SPORTS SOUTH
+http://supertv.red:80/nii5jn8d/gz6su0qk/136679.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", FOX SPORTS SUN
+http://supertv.red:80/nii5jn8d/gz6su0qk/136677.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", FOX SPORTS WEST
+http://supertv.red:80/nii5jn8d/gz6su0qk/136676.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", USL- FOX SPORTS PRIME TICKET  HD
+http://supertv.red:80/nii5jn8d/gz6su0qk/136684.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", USL- FOX SPORTS SAN ANTONIO HD
+http://supertv.red:80/nii5jn8d/gz6su0qk/136683.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", IT: Rai Sport+
+http://supertv.red:80/nii5jn8d/gz6su0qk/494549.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", IT: Sport Italia
+http://supertv.red:80/nii5jn8d/gz6su0qk/493448.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", URU- DIRECTV SPORTS
+http://supertv.red:80/nii5jn8d/gz6su0qk/543781.ts
+
 
 
 
