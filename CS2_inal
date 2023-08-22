@@ -126,71 +126,52 @@ http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=317784&extens
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpBuKyqlTKTHsAVbPnSbWQN5YGDHma5lpX3g&usqp=CAU" group-title="#🇪🇸EVENT DAZN🇪🇸#", DAZN F1 FHD
-http://bokiraja.online:2082/61827new/MkNgRj3MrZ/151704
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpBuKyqlTKTHsAVbPnSbWQN5YGDHma5lpX3g&usqp=CAU" group-title="#🇪🇸EVENT DAZN🇪🇸#", DAZN 1 FHD
-http://bokiraja.online:2082/61827new/MkNgRj3MrZ/151705
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpBuKyqlTKTHsAVbPnSbWQN5YGDHma5lpX3g&usqp=CAU" group-title="#🇪🇸EVENT DAZN🇪🇸#", DAZN SD 2
-http://bokiraja.online:2082/61827new/MkNgRj3MrZ/151706
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpBuKyqlTKTHsAVbPnSbWQN5YGDHma5lpX3g&usqp=CAU" group-title="#🇪🇸EVENT DAZN🇪🇸#", DAZN 2 HD
-http://bokiraja.online:2082/61827new/MkNgRj3MrZ/151707
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpBuKyqlTKTHsAVbPnSbWQN5YGDHma5lpX3g&usqp=CAU" group-title="#🇪🇸EVENT DAZN🇪🇸#", DAZN 2 FHD
-http://bokiraja.online:2082/61827new/MkNgRj3MrZ/151708
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpBuKyqlTKTHsAVbPnSbWQN5YGDHma5lpX3g&usqp=CAU" group-title="#🇪🇸EVENT DAZN🇪🇸#", DAZN 3 HD
-http://bokiraja.online:2082/61827new/MkNgRj3MrZ/151709
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpBuKyqlTKTHsAVbPnSbWQN5YGDHma5lpX3g&usqp=CAU" group-title="#🇪🇸EVENT DAZN🇪🇸#", DAZN 3 FHD
-http://bokiraja.online:2082/61827new/MkNgRj3MrZ/151710
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpBuKyqlTKTHsAVbPnSbWQN5YGDHma5lpX3g&usqp=CAU" group-title="#🇪🇸EVENT DAZN🇪🇸#", DAZN 4 HD
-http://bokiraja.online:2082/61827new/MkNgRj3MrZ/151711
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpBuKyqlTKTHsAVbPnSbWQN5YGDHma5lpX3g&usqp=CAU" group-title="#🇪🇸EVENT DAZN🇪🇸#", DAZN 4 FHD
-http://bokiraja.online:2082/61827new/MkNgRj3MrZ/151712
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpBuKyqlTKTHsAVbPnSbWQN5YGDHma5lpX3g&usqp=CAU" group-title="#🇪🇸EVENT DAZN🇪🇸#", DAZN F1 4K
-http://bokiraja.online:2082/61827new/MkNgRj3MrZ/151713
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpBuKyqlTKTHsAVbPnSbWQN5YGDHma5lpX3g&usqp=CAU" group-title="#🇪🇸EVENT DAZN🇪🇸#", DAZN 1 HD
-http://bokiraja.online:2082/61827new/MkNgRj3MrZ/152089
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpBuKyqlTKTHsAVbPnSbWQN5YGDHma5lpX3g&usqp=CAU" group-title="#🇪🇸EVENT DAZN🇪🇸#", DAZN 1 SD
-http://bokiraja.online:2082/61827new/MkNgRj3MrZ/159067
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpBuKyqlTKTHsAVbPnSbWQN5YGDHma5lpX3g&usqp=CAU" group-title="#🇪🇸EVENT DAZN🇪🇸#", DAZN 1
-http://bokiraja.online:2082/61827new/MkNgRj3MrZ/159068
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpBuKyqlTKTHsAVbPnSbWQN5YGDHma5lpX3g&usqp=CAU" group-title="#🇪🇸EVENT DAZN🇪🇸#", DAZN F1 HD
-http://bokiraja.online:2082/61827new/MkNgRj3MrZ/202655
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpBuKyqlTKTHsAVbPnSbWQN5YGDHma5lpX3g&usqp=CAU" group-title="#🇪🇸EVENT DAZN🇪🇸#", DAZN LIGA FHD
-http://bokiraja.online:2082/61827new/MkNgRj3MrZ/228844
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpBuKyqlTKTHsAVbPnSbWQN5YGDHma5lpX3g&usqp=CAU" group-title="#🇪🇸EVENT DAZN🇪🇸#", DAZN LIGA HD
-http://bokiraja.online:2082/61827new/MkNgRj3MrZ/228845
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpBuKyqlTKTHsAVbPnSbWQN5YGDHma5lpX3g&usqp=CAU" group-title="#🇪🇸EVENT DAZN🇪🇸#", DAZN LIGA SD
-http://bokiraja.online:2082/61827new/MkNgRj3MrZ/228846
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpBuKyqlTKTHsAVbPnSbWQN5YGDHma5lpX3g&usqp=CAU" group-title="#🇪🇸EVENT DAZN🇪🇸#", DAZN LIGA ALTERNATIVA
-http://bokiraja.online:2082/61827new/MkNgRj3MrZ/242410
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpBuKyqlTKTHsAVbPnSbWQN5YGDHma5lpX3g&usqp=CAU" group-title="#🇪🇸EVENT DAZN🇪🇸#", DAZN LIGA 2 FHD
-http://bokiraja.online:2082/61827new/MkNgRj3MrZ/228848
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpBuKyqlTKTHsAVbPnSbWQN5YGDHma5lpX3g&usqp=CAU" group-title="#🇪🇸EVENT DAZN🇪🇸#", DAZN LIGA 2 HD
-http://bokiraja.online:2082/61827new/MkNgRj3MrZ/228849
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpBuKyqlTKTHsAVbPnSbWQN5YGDHma5lpX3g&usqp=CAU" group-title="#🇪🇸EVENT DAZN🇪🇸#", DAZN LIGA 2 SD
-http://bokiraja.online:2082/61827new/MkNgRj3MrZ/228850
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpBuKyqlTKTHsAVbPnSbWQN5YGDHma5lpX3g&usqp=CAU" group-title="#🇪🇸EVENT DAZN🇪🇸#", DAZN LIGA ALTERNATIVA 2
-http://bokiraja.online:2082/61827new/MkNgRj3MrZ/243632
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpBuKyqlTKTHsAVbPnSbWQN5YGDHma5lpX3g&usqp=CAU" group-title="#🇪🇸EVENT DAZN🇪🇸#", 10 | FORMULA 1 DAZN | HD
-http://bokiraja.online:2082/61827new/MkNgRj3MrZ/376715
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpBuKyqlTKTHsAVbPnSbWQN5YGDHma5lpX3g&usqp=CAU" group-title="#🇪🇸EVENT DAZN🇪🇸#", |IT|| DAZN 1 HD IT
-http://bokiraja.online:2082/61827new/MkNgRj3MrZ/377280
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpBuKyqlTKTHsAVbPnSbWQN5YGDHma5lpX3g&usqp=CAU" group-title="#🇪🇸EVENT DAZN🇪🇸#", IT: DAZN 2 FHD
-http://bokiraja.online:2082/61827new/MkNgRj3MrZ/377281
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpBuKyqlTKTHsAVbPnSbWQN5YGDHma5lpX3g&usqp=CAU" group-title="#🇪🇸EVENT DAZN🇪🇸#", IT| DAZN  3 HD
-http://bokiraja.online:2082/61827new/MkNgRj3MrZ/377282
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpBuKyqlTKTHsAVbPnSbWQN5YGDHma5lpX3g&usqp=CAU" group-title="#🇪🇸EVENT DAZN🇪🇸#", IT|  DAZN 4 HD
-http://bokiraja.online:2082/61827new/MkNgRj3MrZ/377283
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpBuKyqlTKTHsAVbPnSbWQN5YGDHma5lpX3g&usqp=CAU" group-title="#🇪🇸EVENT DAZN🇪🇸#", DE DAZN 1
-http://bokiraja.online:2082/61827new/MkNgRj3MrZ/378719
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpBuKyqlTKTHsAVbPnSbWQN5YGDHma5lpX3g&usqp=CAU" group-title="#🇪🇸EVENT DAZN🇪🇸#", DE | DAZN Bar 2 FHD
-http://bokiraja.online:2082/61827new/MkNgRj3MrZ/378743
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpBuKyqlTKTHsAVbPnSbWQN5YGDHma5lpX3g&usqp=CAU" group-title="#🇪🇸EVENT DAZN🇪🇸#", DE | DAZN Bar 2 HD
-http://bokiraja.online:2082/61827new/MkNgRj3MrZ/378744
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpBuKyqlTKTHsAVbPnSbWQN5YGDHma5lpX3g&usqp=CAU" group-title="#🇪🇸EVENT DAZN🇪🇸#", DE | DAZN Bar 1 FHD
-http://bokiraja.online:2082/61827new/MkNgRj3MrZ/378745
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpBuKyqlTKTHsAVbPnSbWQN5YGDHma5lpX3g&usqp=CAU" group-title="#🇪🇸EVENT DAZN🇪🇸#", DE | DAZN Bar 1 HD
-http://bokiraja.online:2082/61827new/MkNgRj3MrZ/378746
-
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/490c0209efdc5ecd7dfea8c5b1402279.png" group-title="#🇪🇸EVENT DAZN🇮🇹#", LA: DAZN 1 HD
+http://premium-ks.ddns.net:88/Megaiptv/YlMNx6nZAA/54059
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/baa66dbafc4be9ec7a5a6a232996a468.jpg" group-title="#🇪🇸EVENT DAZN🇮🇹#", IT: DAZN 1
+http://premium-ks.ddns.net:88/Megaiptv/YlMNx6nZAA/65676
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/13f7be80a31515955c38a5834584d138.jpg" group-title="#🇪🇸EVENT DAZN🇮🇹#", IT: DAZN 2
+http://premium-ks.ddns.net:88/Megaiptv/YlMNx6nZAA/65677
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/baa66dbafc4be9ec7a5a6a232996a468.jpg" group-title="#🇪🇸EVENT DAZN🇮🇹#", ES: DAZN 1 HD
+http://premium-ks.ddns.net:88/Megaiptv/YlMNx6nZAA/43583
+#EXTINF:-1 tvg-logo="http://hs-iptv.net:88/images/edbda64f497fce208414fc75e278839c.png" group-title="#🇪🇸EVENT DAZN🇮🇹#", ES: DAZN 2 HD
+http://premium-ks.ddns.net:88/Megaiptv/YlMNx6nZAA/43584
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8ojmfP-QcgDW4aXcZ6HncvEs6eSIIZ1CbEw&usqp=CAU" group-title="#🇪🇸EVENT DAZN🇮🇹#", ES: DAZN 3 HD
+http://premium-ks.ddns.net:88/Megaiptv/YlMNx6nZAA/43585
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBaFfxKdXVDRK74hxuYIZkf6GwOHtUYwmCAw&usqp=CAU" group-title="#🇪🇸EVENT DAZN🇮🇹#", ES: DAZN 4 HD
+http://premium-ks.ddns.net:88/Megaiptv/YlMNx6nZAA/43586
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAy6M9roB5zzsqC9YF5ZMU0WUU5dDcI9r3Mg&usqp=CAU" group-title="#🇪🇸EVENT DAZN🇮🇹#", ES: DAZN F1 HD
+http://premium-ks.ddns.net:88/Megaiptv/YlMNx6nZAA/43587
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DAZNLI.png" group-title="#🇪🇸EVENT DAZN🇮🇹#", ES: M. Dazn LaLiga 1 HD (50 FPS)
+http://premium-ks.ddns.net:88/Megaiptv/YlMNx6nZAA/70583
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DAZNLI.png" group-title="#🇪🇸EVENT DAZN🇮🇹#", ES: M. Dazn LaLiga 1 FHD (H.265)
+http://premium-ks.ddns.net:88/Megaiptv/YlMNx6nZAA/70584
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DAZNLI.png" group-title="#🇪🇸EVENT DAZN🇮🇹#", ES: M. Dazn LaLiga 1 HD (1080P)
+http://premium-ks.ddns.net:88/Megaiptv/YlMNx6nZAA/70585
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DAZNLI.png" group-title="#🇪🇸EVENT DAZN🇮🇹#", ES: M. Dazn LaLiga 1 HD (720P)
+http://premium-ks.ddns.net:88/Megaiptv/YlMNx6nZAA/70586
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DAZNLI.png" group-title="#🇪🇸EVENT DAZN🇮🇹#", ES: M. Dazn LaLiga 1 HD (720P) OP1
+http://premium-ks.ddns.net:88/Megaiptv/YlMNx6nZAA/70587
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DAZNLI.png" group-title="#🇪🇸EVENT DAZN🇮🇹#", ES: M. Dazn LaLiga 1 HD (720P) OP2
+http://premium-ks.ddns.net:88/Megaiptv/YlMNx6nZAA/70588
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DAZNLI.png" group-title="#🇪🇸EVENT DAZN🇮🇹#", ES: M. Dazn LaLiga 1 SD
+http://premium-ks.ddns.net:88/Megaiptv/YlMNx6nZAA/70589
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DAZNL2.png" group-title="#🇪🇸EVENT DAZN🇮🇹#", ES: M. Dazn LaLiga 2 HD (1080P)
+http://premium-ks.ddns.net:88/Megaiptv/YlMNx6nZAA/70590
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DAZNL2.png" group-title="#🇪🇸EVENT DAZN🇮🇹#", ES: M. Dazn LaLiga 2 HD (720P)
+http://premium-ks.ddns.net:88/Megaiptv/YlMNx6nZAA/70591
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DAZNL2.png" group-title="#🇪🇸EVENT DAZN🇮🇹#", ES: M. Dazn LaLiga 2 HD (720P) OP1
+http://premium-ks.ddns.net:88/Megaiptv/YlMNx6nZAA/70592
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DAZNL2.png" group-title="#🇪🇸EVENT DAZN🇮🇹#", ES: M. Dazn LaLiga 2 SD
+http://premium-ks.ddns.net:88/Megaiptv/YlMNx6nZAA/70593
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DAZNLI.png" group-title="#🇪🇸EVENT DAZN🇮🇹#", ES: M. Dazn LaLiga 3 HD
+http://premium-ks.ddns.net:88/Megaiptv/YlMNx6nZAA/70594
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DAZNLI.png" group-title="#🇪🇸EVENT DAZN🇮🇹#", ES: M. Dazn LaLiga 3 SD
+http://premium-ks.ddns.net:88/Megaiptv/YlMNx6nZAA/70595
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DAZNLI.png" group-title="#🇪🇸EVENT DAZN🇮🇹#", ES: M. Dazn LaLiga 4 HD
+http://premium-ks.ddns.net:88/Megaiptv/YlMNx6nZAA/70596
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DAZNLI.png" group-title="#🇪🇸EVENT DAZN🇮🇹#", ES: M. Dazn LaLiga 4 SD
+http://premium-ks.ddns.net:88/Megaiptv/YlMNx6nZAA/70597
 
 
 
