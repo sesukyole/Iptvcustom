@@ -7897,27 +7897,6 @@ http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=801857&extension=
 http://aca3b.tk:8080/Moskovic/g94XfRcTck/20427
 
 
-#EXTINF:-1 tvg-logo="-------" group-title="EROPA SPORT", ARENA SPORT 1 SR
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=213666&extension=ts
-#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="EROPA SPORT", ARENA SPORT 2 SR
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=213665&extension=ts
-#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="EROPA SPORT", ARENA SPORT 3 SR
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=213664&extension=ts
-#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="EROPA SPORT", ARENA SPORT 4 SR
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=213663&extension=ts
-#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="EROPA SPORT", ARENA SPORT 5 SR
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=213662&extension=ts
-#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="EROPA SPORT", ARENA SPORT 1 HR
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=213637&extension=ts
-#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="EROPA SPORT", ARENA SPORT 2 HR
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=213638&extension=ts
-#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="EROPA SPORT", ARENA SPORT 3 HR
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=213639&extension=ts
-#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="EROPA SPORT", ARENA SPORT 4 HR
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=213640&extension=ts
-#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="EROPA SPORT", ARENA SPORT 5 HR
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=213641&extension=ts
-
 
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EROPA SPORT", ARENA SPORT 1 Premium HD
@@ -7966,6 +7945,30 @@ http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=726583&extension=
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=726584&extension=ts&play_token=y3Dvtw1kFw
 #EXTINF:-1 tvg-logo="-------" group-title="EROPA SPORT", ARENA SPORT 10 HR
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=726585&extension=ts&play_token=QohVDVZoOK
+
+#EXTINF:-1 tvg-logo="-------" group-title="EROPA SPORT", ARENA SPORT 1 SR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:c5:b8:d1&stream=213666&extension=ts
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="EROPA SPORT", ARENA SPORT 2 SR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:c5:b8:d1&stream=213665&extension=ts
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="EROPA SPORT", ARENA SPORT 3 SR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:c5:b8:d1&stream=213664&extension=ts
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="EROPA SPORT", ARENA SPORT 4 SR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:c5:b8:d1&stream=213663&extension=ts
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="EROPA SPORT", ARENA SPORT 5 SR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:c5:b8:d1&stream=213662&extension=ts
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="EROPA SPORT", ARENA SPORT 1 HR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:c5:b8:d1&stream=213637&extension=ts
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="EROPA SPORT", ARENA SPORT 2 HR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:c5:b8:d1&stream=213638&extension=ts
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="EROPA SPORT", ARENA SPORT 3 HR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:c5:b8:d1&stream=213639&extension=ts
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="EROPA SPORT", ARENA SPORT 4 HR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:c5:b8:d1&stream=213640&extension=ts
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="EROPA SPORT", ARENA SPORT 5 HR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:c5:b8:d1&stream=213641&extension=ts
+
+
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/TNT%201.png" group-title="EROPA SPORT", BT TNT SPORT 1
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=11484_&extension=ts
