@@ -8129,6 +8129,8 @@ http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=161949&extension=
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=161950&extension=ts&play_token=23lPumM7ny
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrIGmfWEw8-ciAnepilk6c-IO22tQDVu_nJA&usqp=CAU" group-title="EROPA SPORT", KLUB SPORT 9
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=161951&extension=ts&play_token=LXuh89cr7g
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrIGmfWEw8-ciAnepilk6c-IO22tQDVu_nJA&usqp=CAU" group-title="EROPA SPORT", KLUB SPORT 10
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=1209968&extension=ts&play_token=GLtH4AZkb8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfQku9-rq5JBAQKc4AiuFzs5GGScqeixHtBw&usqp=CAU" group-title="EROPA SPORT", KLUB SPORT GOLF
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=110764&extension=ts&play_token=AS9X0Z0mpP
 
@@ -8555,21 +8557,20 @@ http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=37662&extension=t
 #EXTINF:-1 tvg-logo="https://www.freeshot.live/upload/source/sport_4_israel_logo.png" group-title="EROPA SPORT", YES SPORT 4 IL
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=37659&extension=ts&play_token=sFhj6fQFl5
 
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/Ztenis.png" group-title="EROPA SPORT", ZIGGO SPORT TENNIS
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=80532&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/Zdoc.png" group-title="EROPA SPORT", ZIGGO SPORT DOCU
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=80533&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/Zgolf.png" group-title="EROPA SPORT", ZIGGO SPORT GOLF
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=80534&extension=ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/Zspo.png" group-title="EROPA SPORT", ZIGGO SPORT
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=80535&extension=ts
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=1282765&extension=ts&play_token=NPBKvhi14e
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/Ztenis.png" group-title="EROPA SPORT", ZIGGO SPORT TENNIS
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=1282759&extension=ts&play_token=s3PHKkCnE7
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/Zdoc.png" group-title="EROPA SPORT", ZIGGO SPORT DOCU
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=1282762&extension=ts&play_token=8ObxNnfrqg
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/Zgolf.png" group-title="EROPA SPORT", ZIGGO SPORT GOLF
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=1282761&extension=ts&play_token=oeKgMGyrqM
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/Zraci.png" group-title="EROPA SPORT", ZIGGO SPORT RACING
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=80536&extension=ts
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=1282760&extension=ts&play_token=yRy61zDVnI
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/Zsele.png" group-title="EROPA SPORT", ZIGGO SPORT SELECT
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=80537&extension=ts
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=1282764&extension=ts&play_token=GEtvSbcm0n
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/Zvoet.png" group-title="EROPA SPORT", ZIGGO SPORT VOETBALL
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=80538&extension=ts
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=1282763&extension=ts&play_token=mPBaNK3aZ6
 
 
 
@@ -9417,7 +9418,7 @@ https://github.com/inaldie/inaldie/raw/main/LOGO.ts
 
 
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/SK_Fight_HR_logo.png" group-title="FIGHT SPORT", KLUB SPORT FIGHT
-http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=110764&extension=ts&play_token=AS9X0Z0mpP
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=880280&extension=ts&play_token=EbtHXiHBKX
 #EXTINF:-1 tvg-logo="-------" group-title="FIGHT SPORT", FIGHT BOX
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=61800_&extension=ts
 #EXTINF:-1 tvg-logo="-------" group-title="FIGHT SPORT", XTREAM SPORT
