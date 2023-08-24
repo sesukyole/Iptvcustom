@@ -35,11 +35,6 @@ https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD15_DIG_MOB/Fallback/ind
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD11_DIG_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/liveevent.png" group-title="#⚽EVENT ONLY⚽#", EVENT 13
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD8_DIG_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/liveevent.png" group-title="#⚽EVENT ONLY⚽#", EVENT 14
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD4_DIG_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/liveevent.png" group-title="#⚽EVENT ONLY⚽#", EVENT 15
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD7_DIG_MOB/Fallback/index.m3u8
-
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/ligaeropa.png" group-title="#⚽EVENT BOLA⚽#", LIGA TOP EROPA 1
@@ -87,29 +82,40 @@ https://github.com/inaldie/inaldie/raw/main/LOGO.ts
 
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/liga1bri.png" group-title="#🇮🇩EVENT LIGA 1🇮🇩#", LAGA 1 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/liga1bri.png" group-title="#🇮🇩EVENT LIGA 1🇮🇩#", INDOSIAR LIVE 1 
 http://aflaxtv.xyz:8080/Vladisergeevic/7eef2c4388/162138
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/liga1bri.png" group-title="#🇮🇩EVENT LIGA 1🇮🇩#", LAGA 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/liga1bri.png" group-title="#🇮🇩EVENT LIGA 1🇮🇩#", INDOSIAR LIVE 2
 http://kuchini.site:8080/live/LeCyGodF/thYAg86ShLywX9FL/162138.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/liga1bri.png" group-title="#🇮🇩EVENT LIGA 1🇮🇩#", LAGA 3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/liga1bri.png" group-title="#🇮🇩EVENT LIGA 1🇮🇩#", INDOSIAR LIVE 3
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/162138
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/liga1bri.png" group-title="#🇮🇩EVENT LIGA 1🇮🇩#", LAGA 4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/liga1bri.png" group-title="#🇮🇩EVENT LIGA 1🇮🇩#", INDOSIAR LIVE 4
 http://aflaxtv.xyz:8080/live/stadnik/6a627b52a9/162138.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/liga1bri.png" group-title="#🇮🇩EVENT LIGA 1🇮🇩#", LAGA 5
-http://premiumiptvmk.com:8080/05add9be/df28c0b5be/298549
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/liga1bri.png" group-title="#🇮🇩EVENT LIGA 1🇮🇩#", LAGA 6
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/liga1bri.png" group-title="#🇮🇩EVENT LIGA 1🇮🇩#", SUPERSTARS 3 LIVE 1
+http://aanax.com:8080/live/2a41efbf/e9bc076c04/298549.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/liga1bri.png" group-title="#🇮🇩EVENT LIGA 1🇮🇩#", SUPERSTARS 3 LIVE 1
 http://humiptv.live:8080/live/tarun589853/5787489bcsh/151181.ts
-http://kuchini.site:8080/multi6741/ab72059e/298549
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/liga1bri.png" group-title="#🇮🇩EVENT LIGA 1🇮🇩#", SUPERSTARS 3 LIVE 1
+http://aanax.com:8080/8228218d/426af0d086/298549
 
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/1a/0d/aa/1a0daaaac8470773b7f827f54c07d51c.jpg" group-title="#🇮🇩EVENT LIGA 1🇮🇩#", VOLY 1
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/1a/0d/aa/1a0daaaac8470773b7f827f54c07d51c.jpg" group-title="#🇮🇩EVENT LIGA 1🇮🇩#", MOJI VOLY 1
 http://premiumiptvmk.com:8080/05add9be/df28c0b5be/298550
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/1a/0d/aa/1a0daaaac8470773b7f827f54c07d51c.jpg" group-title="#🇮🇩EVENT LIGA 1🇮🇩#", VOLY 2
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/1a/0d/aa/1a0daaaac8470773b7f827f54c07d51c.jpg" group-title="#🇮🇩EVENT LIGA 1🇮🇩#", MOJI VOLY 2
 http://kuchini.site:8080/live/LeCyGodF/thYAg86ShLywX9FL/298550.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/1a/0d/aa/1a0daaaac8470773b7f827f54c07d51c.jpg" group-title="#🇮🇩EVENT LIGA 1🇮🇩#", VOLY 3
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/1a/0d/aa/1a0daaaac8470773b7f827f54c07d51c.jpg" group-title="#🇮🇩EVENT LIGA 1🇮🇩#", MOJI VOLY 3
 http://aflaxtv.xyz:8080/live/stadnik/6a627b52a9/298550.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/1a/0d/aa/1a0daaaac8470773b7f827f54c07d51c.jpg" group-title="#🇮🇩EVENT LIGA 1🇮🇩#", VOLY 4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/1a/0d/aa/1a0daaaac8470773b7f827f54c07d51c.jpg" group-title="#🇮🇩EVENT LIGA 1🇮🇩#", MOJI VOLY 4
 http://iptvtree.net:8080/1eae94e3/GpDddDC8ddMxhY2n/298550.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/1a/0d/aa/1a0daaaac8470773b7f827f54c07d51c.jpg" group-title="#🇮🇩EVENT LIGA 1🇮🇩#", SCTV LIVE 1
+http://aflaxtv.xyz:8080/live/stadnik/6a627b52a9/162141.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/1a/0d/aa/1a0daaaac8470773b7f827f54c07d51c.jpg" group-title="#🇮🇩EVENT LIGA 1🇮🇩#", SCTV LIVE 2
+http://aanax.com:8080/live/2a41efbf/e9bc076c04/162141.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/1a/0d/aa/1a0daaaac8470773b7f827f54c07d51c.jpg" group-title="#🇮🇩EVENT LIGA 1🇮🇩#", SCTV LIVE 3
+http://kuchini.site:8080/multi6741/ab72059e/162141.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/1a/0d/aa/1a0daaaac8470773b7f827f54c07d51c.jpg" group-title="#🇮🇩EVENT LIGA 1🇮🇩#", SCTV LIVE 4
+http://aanax.com:8080/8228218d/426af0d086/162141
+
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/logomotogp.png" group-title="#🏍️EVENT GP&F1🏎️#", GP 1
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=508165&extension=ts&play_token=LwIO2B91Rs
