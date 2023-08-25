@@ -8861,7 +8861,7 @@ http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=59183&extension=t
 #EXTINF:-1 tvg-logo="https://s8.postimg.cc/7oeqf3h1x/1516325624_37a7dacc74e5ee85edf0c0c2074a56e4bb894bca.jpg" group-title="LATIN SPORT", SPORTV 3 HD
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=59182&extension=ts&play_token=CN2xBNmpdp 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFVYJKAIECFogJKTCAAM1a4Tqf9O-rd4Argg&s" group-title="LATIN SPORT", BAND SPORT HD 
-http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=59294&extension=ts&play_token=CN2xBNmpdp 
+http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=59294&extension=ts 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhAHWm_Cdk4Qqeb_gAP0L4TmeiGOMNZl00PA&usqp=CAU" group-title="LATIN SPORT", PREMIER 1
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=59161&extension=ts&play_token=CN2xBNmpdp 
 
