@@ -8124,63 +8124,59 @@ SPORT EROPA  ##########
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="EROPA SPORT", ###EROPA SPORT###
 https://github.com/inaldie/inaldie/raw/main/LOGO.ts
 
-#EXTINF:-1 tvg-logo="-------" group-title="EROPA SPORT", ARENA SPORT 1 PREMIUM
+#EXTINF:-1 tvg-logo="https://uploads.tapatalk-cdn.com/20211024/1d439f5f1f4590a608e86f27bd22114e.jpg" group-title="EROPA SPORT", ARENA SPORT 1 PREMIUM
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=801855&extension=ts&play_token=5iYcwPJUh5
-#EXTINF:-1 tvg-logo="-------" group-title="EROPA SPORT", ARENA SPORT 2 PREMIUM
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0sU2bGhK8ZEDG1xAqassY6QWgr2cDMaB6jc-UeFQslegh7mz_PQ07t69ul6-TvAXW1_g&usqp=CAU" group-title="EROPA SPORT", ARENA SPORT 2 PREMIUM
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=801856&extension=ts&play_token=Yhwb9Uzywl
-#EXTINF:-1 tvg-logo="-------" group-title="EROPA SPORT", ARENA SPORT 3 PREMIUM
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0sU2bGhK8ZEDG1xAqassY6QWgr2cDMaB6jc-UeFQslegh7mz_PQ07t69ul6-TvAXW1_g&usqp=CAU" group-title="EROPA SPORT", ARENA SPORT 3 PREMIUM
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=801857&extension=ts&play_token=dMoNEBGzeZ
-#EXTINF:-1 tvg-logo="-------" group-title="EROPA SPORT", ARENA SPORT 3 PREMIUM B
-http://aca3b.tk:8080/Moskovic/g94XfRcTck/20427
 
 
-
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EROPA SPORT", ARENA SPORT 1 Premium HD
+#EXTINF:-1 tvg-logo="https://uploads.tapatalk-cdn.com/20211024/1d439f5f1f4590a608e86f27bd22114e.jpg" group-title="EROPA SPORT", ARENA SPORT 1 Premium HD
 http://aca3b.tk:8080/Moskovic/g94XfRcTck/27861
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EROPA SPORT", ARENA SPORT 2 Premium HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0sU2bGhK8ZEDG1xAqassY6QWgr2cDMaB6jc-UeFQslegh7mz_PQ07t69ul6-TvAXW1_g&usqp=CAU" group-title="EROPA SPORT", ARENA SPORT 2 Premium HD
 http://aca3b.tk:8080/Moskovic/g94XfRcTck/27860
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EROPA SPORT", ARENA SPORT 3 Premium HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0sU2bGhK8ZEDG1xAqassY6QWgr2cDMaB6jc-UeFQslegh7mz_PQ07t69ul6-TvAXW1_g&usqp=CAU" group-title="EROPA SPORT", ARENA SPORT 3 Premium HD
 http://aca3b.tk:8080/Moskovic/g94XfRcTck/27862
 
-#EXTINF:-1 tvg-logo="-------" group-title="EROPA SPORT", ARENA SPORT 1 RS
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9htRBFDpxgTgZHl7j3NK9uqRCed--f0AmItjbHmanlr5M7mpsRjbI_kRhiYj0zoVnECU&usqp=CAU" group-title="EROPA SPORT", ARENA SPORT 1 RS
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=908230&extension=ts&play_token=6M70v2wtcm
-#EXTINF:-1 tvg-logo="-------" group-title="EROPA SPORT", ARENA SPORT 2 RS 
+#EXTINF:-1 tvg-logo="https://neotel.mk/wp-content/uploads/2021/02/arena_sport_2.png" group-title="EROPA SPORT", ARENA SPORT 2 RS 
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=110912&extension=ts&play_token=Bpph6LdgyS
-#EXTINF:-1 tvg-logo="-------" group-title="EROPA SPORT", ARENA SPORT 3 RS
+#EXTINF:-1 tvg-logo="https://ssc.a1.hr/documents/10307706/1415022958/arena_sport_3.png/02bc5460-4675-da3f-bf14-59c26db2724b" group-title="EROPA SPORT", ARENA SPORT 3 RS
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=110909&extension=ts&play_token=5FJLZ48ylh
-#EXTINF:-1 tvg-logo="-------" group-title="EROPA SPORT", ARENA SPORT 4
+#EXTINF:-1 tvg-logo="https://toploni.com/wp-content/uploads/2022/10/529258_dreambox-sat.com_.png" group-title="EROPA SPORT", ARENA SPORT 4
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=110908&extension=ts&play_token=zE2Au534Nk
-#EXTINF:-1 tvg-logo="-------" group-title="EROPA SPORT", ARENA SPORT 5
+#EXTINF:-1 tvg-logo="https://toploni.com/wp-content/uploads/2022/10/arena_sport_5.png" group-title="EROPA SPORT", ARENA SPORT 5
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=110906&extension=ts&play_token=Lc9Dwbk3PR
-#EXTINF:-1 tvg-logo="-------" group-title="EROPA SPORT", ARENA SPORT 6 
+#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=katkotati%2Flogo_chaine%2Farenasportcroatia.gif" group-title="EROPA SPORT", ARENA SPORT 6 
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=161936&extension=ts&play_token=vnjaKQnu9s
-#EXTINF:-1 tvg-logo="-------" group-title="EROPA SPORT", ARENA SPORT 7
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrQB0VHmAFvyuhCdIVgVuqohWMy9RFVclD-UjdIj46q3mMcOstIjaMGXuEVQOT_Kjuvw&usqp=CAU" group-title="EROPA SPORT", ARENA SPORT 7
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=71907&extension=ts&play_token=23EakKQYoi
-#EXTINF:-1 tvg-logo="-------" group-title="EROPA SPORT", ARENA SPORT 8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpWh4l9Eac92y-7ln6CZKxW_ZOUUDoiDOurpF_KDi5SqZiE1C0VnzcJb9l1GI21_Ahyg&usqp=CAU" group-title="EROPA SPORT", ARENA SPORT 8
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=71908&extension=ts&play_token=WoOiTVI45y
 #EXTINF:-1 tvg-logo="-------" group-title="EROPA SPORT", ARENA ESPORT
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=1107629&extension=ts&play_token=T5lrWsQqP2
 
-#EXTINF:-1 tvg-logo="-------" group-title="EROPA SPORT", ARENA SPORT 1 HR
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9htRBFDpxgTgZHl7j3NK9uqRCed--f0AmItjbHmanlr5M7mpsRjbI_kRhiYj0zoVnECU&usqp=CAU" group-title="EROPA SPORT", ARENA SPORT 1 HR
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=110737&extension=ts&play_token=JzInMVfkel
-#EXTINF:-1 tvg-logo="-------" group-title="EROPA SPORT", ARENA SPORT 2 HR
+#EXTINF:-1 tvg-logo="https://neotel.mk/wp-content/uploads/2021/02/arena_sport_2.png" group-title="EROPA SPORT", ARENA SPORT 2 HR
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=110736&extension=ts&play_token=3AKpxA6CIp
-#EXTINF:-1 tvg-logo="-------" group-title="EROPA SPORT", ARENA SPORT 3 HR
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGjZMF2fuGgxxgOrss5YOOMhI6SipPZgaLlFIHS9yVniH_ESyJ9WVclgedA_NUa8Z5m3s&usqp=CAU" group-title="EROPA SPORT", ARENA SPORT 3 HR
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=110735&extension=ts&play_token=DMyrsnKH0i
-#EXTINF:-1 tvg-logo="-------" group-title="EROPA SPORT", ARENA SPORT 4 HR
+#EXTINF:-1 tvg-logo="https://toploni.com/wp-content/uploads/2022/10/529258_dreambox-sat.com_.png" group-title="EROPA SPORT", ARENA SPORT 4 HR
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=110734&extension=ts&play_token=bbjFaaZkiY
-#EXTINF:-1 tvg-logo="-------" group-title="EROPA SPORT", ARENA SPORT 5 HR
+#EXTINF:-1 tvg-logo="https://toploni.com/wp-content/uploads/2022/10/arena_sport_5.png" group-title="EROPA SPORT", ARENA SPORT 5 HR
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=110733&extension=ts&play_token=5o6DI81zOu
-#EXTINF:-1 tvg-logo="-------" group-title="EROPA SPORT", ARENA SPORT 6 HR
+#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=katkotati%2Flogo_chaine%2Farenasportcroatia.gif" group-title="EROPA SPORT", ARENA SPORT 6 HR
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=110732&extension=ts&play_token=SkSzQtOUIn
-#EXTINF:-1 tvg-logo="-------" group-title="EROPA SPORT", ARENA SPORT 7 HR
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrQB0VHmAFvyuhCdIVgVuqohWMy9RFVclD-UjdIj46q3mMcOstIjaMGXuEVQOT_Kjuvw&usqp=CAU" group-title="EROPA SPORT", ARENA SPORT 7 HR
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=726582&extension=ts&play_token=sll5LcGL5K
-#EXTINF:-1 tvg-logo="-------" group-title="EROPA SPORT", ARENA SPORT 8 HR
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpWh4l9Eac92y-7ln6CZKxW_ZOUUDoiDOurpF_KDi5SqZiE1C0VnzcJb9l1GI21_Ahyg&usqp=CAU" group-title="EROPA SPORT", ARENA SPORT 8 HR
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=726583&extension=ts&play_token=7wdnKFh00A
-#EXTINF:-1 tvg-logo="-------" group-title="EROPA SPORT", ARENA SPORT 9 HR
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNrrczZLS8leR9rNkp4YPiu3Wfdjnp7Vd_stuGx2Vc5uWuTup92Z31ig8mBKpU3zPO_g&usqp=CAU" group-title="EROPA SPORT", ARENA SPORT 9 HR
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=726584&extension=ts&play_token=y3Dvtw1kFw
-#EXTINF:-1 tvg-logo="-------" group-title="EROPA SPORT", ARENA SPORT 10 HR
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNs1mzwhcRdT5QEy8a2k1JI1GDuuNnR1OaVF7ozmxno0c6pcHrL2Uu4NiQecDkkY8qNg&usqp=CAU" group-title="EROPA SPORT", ARENA SPORT 10 HR
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=726585&extension=ts&play_token=QohVDVZoOK
 
 
@@ -8215,15 +8211,15 @@ http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=508150&extens
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=508169&extension=ts&play_token=NaNl5etGT6 
 
 
-#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", CANAL+ SPORT 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Canal%2B_1_PL.png/800px-Canal%2B_1_PL.png" group-title="EROPA SPORT", CANAL+ SPORT 1
 http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=21909_&extension=ts&play_token=W0JcMWGscf
-#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", CANAL+ SPORT 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Canal%2B_Sport_2_PL.png/800px-Canal%2B_Sport_2_PL.png" group-title="EROPA SPORT", CANAL+ SPORT 2
 http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=21922_&extension=ts&play_token=W0JcMWGscf
-#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", CANAL+ SPORT 3
+#EXTINF:-1 tvg-logo="https://r-scale-d1.dcs.redcdn.pl/scale/o2/n/edytorEPG/logo/logotype_575902.png?type=0&srcmode=4&srcx=0%2F1&srcy=0%2F1&dstw=400&dsth=200" group-title="EROPA SPORT", CANAL+ SPORT 3
 http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=63648_&extension=ts&play_token=W0JcMWGscf
-#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", CANAL+ SPORT 4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/9/93/Canal%2B_Sport_4_%282019-.n.v.%29.png/revision/latest?cb=20201130101752" group-title="EROPA SPORT", CANAL+ SPORT 4
 http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=63649_&extension=ts&play_token=W0JcMWGscf
-#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", CANAL+ SPORT 5
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/CANAL%2B_Sport_5.png/800px-CANAL%2B_Sport_5.png" group-title="EROPA SPORT", CANAL+ SPORT 5
 http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=15616_&extension=ts&play_token=W0JcMWGscf
 
 
@@ -8289,32 +8285,32 @@ http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=154820&extension=
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=154916&extension=ts&play_token=ryQXUsfsRT
 
 
-#EXTINF:-1 tvg-logo="-------" group-title="EROPA SPORT", ELEVEN SPORT 1
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=189536325767_image-header_pRow_1690609699000" group-title="EROPA SPORT", ELEVEN SPORT 1
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=63300_&extension=ts
-#EXTINF:-1 tvg-logo="-------" group-title="EROPA SPORT", ELEVEN SPORT 2
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=176341573856_image-header_pRow_1687892335000&quality=70" group-title="EROPA SPORT", ELEVEN SPORT 2
 http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=461187_&extension=ts
-#EXTINF:-1 tvg-logo="-------" group-title="EROPA SPORT", ELEVEN SPORT 3
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=176341573859_image-header_pRow_1687892335000&quality=70" group-title="EROPA SPORT", ELEVEN SPORT 3
 http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=461190_&extension=ts
-#EXTINF:-1 tvg-logo="-------" group-title="EROPA SPORT", ELEVEN SPORT 4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOnqjFrSxSjDIRNYPiojTgohXlbgcKjuwAkNIxw_jhIXwn1ltE5FJPV6xqk2VWXSK9ado&usqp=CAU" group-title="EROPA SPORT", ELEVEN SPORT 4
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=63303_&extension=ts
-#EXTINF:-1 tvg-logo="-------" group-title="EROPA SPORT", ELEVEN SPORT 5
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=176344133852_image-header_pRow_1687878826000" group-title="EROPA SPORT", ELEVEN SPORT 5
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=63304_&extension=ts
-#EXTINF:-1 tvg-logo="-------" group-title="EROPA SPORT", ELEVEN SPORT 6
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=176344133853_image-header_pRow_1687892016000&quality=70" group-title="EROPA SPORT", ELEVEN SPORT 6
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=63305_&extension=ts
 
-#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", ELEVEN SPORT 1 PL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="EROPA SPORT", ELEVEN SPORT 1 PL
 http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=21904_&extension=ts&play_token=W0JcMWGscf
-#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", ELEVEN SPORT 2 PL
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logaekranowe/images/f/ff/Es2ekr2018-19.png/revision/latest/scale-to-width-down/1991?cb=20211229173554&path-prefix=pl" group-title="EROPA SPORT", ELEVEN SPORT 2 PL
 http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=21903_&extension=ts&play_token=W0JcMWGscf
-#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", ELEVEN SPORT 3 PL
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Eleven_Sports_3_Belgium.png" group-title="EROPA SPORT", ELEVEN SPORT 3 PL
 http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=41766_&extension=ts&play_token=W0JcMWGscf
-#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", ELEVEN SPORT 4 PL
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/Eleven_Sports_4.svg/revision/latest/scale-to-width-down/250?cb=20210210163056" group-title="EROPA SPORT", ELEVEN SPORT 4 PL
 http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=41767_&extension=ts&play_token=W0JcMWGscf
 
 
-#EXTINF:-1 tvg-logo="-------" group-title="EROPA SPORT", ELEVEN SPORT 1
+#EXTINF:-1 tvg-logo="https://www.marketingreport.be/images/2022/Q3/dazn-eleven-sports-marketing-report.jpg" group-title="EROPA SPORT", ELEVEN SPORT 1
 http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=992_&extension=ts
-#EXTINF:-1 tvg-logo="-------" group-title="EROPA SPORT", ELEVEN SPORT 2
+#EXTINF:-1 tvg-logo="https://www.marketingreport.be/images/2022/Q3/dazn-eleven-sports-marketing-report.jpg" group-title="EROPA SPORT", ELEVEN SPORT 2
 http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=993_&extension=ts
 
 
@@ -9805,25 +9801,25 @@ FOX SPORT  ##########
 https://github.com/inaldie/inaldie/raw/main/LOGO.ts
 
 
-#EXTINF:-1 tvg-logo="______" group-title="FOX SPORT", FOX SOCCER PLUS
+#EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FSOval_wBackground_1040x585.gif" group-title="FOX SPORT", FOX SOCCER PLUS
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=174668&extension=ts&play_token=aP5SGPY26C
-#EXTINF:-1 tvg-logo="______" group-title="FOX SPORT", FOX SPORT 1
+#EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FSOval_wBackground_1040x585.gif" group-title="FOX SPORT", FOX SPORT 1
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=174669&extension=ts&play_token=eYcVCzh36m
-#EXTINF:-1 tvg-logo="______" group-title="FOX SPORT", FOX SPORT 2
+#EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FSOval_wBackground_1040x585.gif" group-title="FOX SPORT", FOX SPORT 2
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=174670&extension=ts&play_token=IdEBSk7LYU
-#EXTINF:-1 tvg-logo="______" group-title="FOX SPORT", FOX SPORT ARIZONA
+#EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FSOval_wBackground_1040x585.gif" group-title="FOX SPORT", FOX SPORT ARIZONA
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=174671&extension=ts&play_token=JaPTMoccbH
-#EXTINF:-1 tvg-logo="______" group-title="FOX SPORT", FOX SPORT WEST
+#EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FSOval_wBackground_1040x585.gif" group-title="FOX SPORT", FOX SPORT WEST
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=174688&extension=ts&play_token=2101Kmd4c0
-#EXTINF:-1 tvg-logo="______" group-title="FOX SPORT", FOX SPORT SOUTH
+#EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FSOval_wBackground_1040x585.gif" group-title="FOX SPORT", FOX SPORT SOUTH
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=174684&extension=ts&play_token=Wipa3xAkxU
-#EXTINF:-1 tvg-logo="______" group-title="FOX SPORT", FOX SPORT EAST
+#EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FSOval_wBackground_1040x585.gif" group-title="FOX SPORT", FOX SPORT EAST
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=174682&extension=ts&play_token=bj9EQummoH
-#EXTINF:-1 tvg-logo="______" group-title="FOX SPORT", FOX SPORT 1 ES
+#EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FSOval_wBackground_1040x585.gif" group-title="FOX SPORT", FOX SPORT 1 ES
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=984950&extension=ts&play_token=KbEinhef17
-#EXTINF:-1 tvg-logo="______" group-title="FOX SPORT", FOX SPORT 2 ES
+#EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FSOval_wBackground_1040x585.gif" group-title="FOX SPORT", FOX SPORT 2 ES
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=984951&extension=ts&play_token=KADFOT0Lsx
-#EXTINF:-1 tvg-logo="______" group-title="FOX SPORT", FOX SPORT PREMIUM
+#EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FSOval_wBackground_1040x585.gif" group-title="FOX SPORT", FOX SPORT PREMIUM
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=984953&extension=ts&play_token=HalHutHLf1
 
 
