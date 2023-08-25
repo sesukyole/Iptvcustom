@@ -8835,28 +8835,28 @@ http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=177347&extension=
 #EXTINF:-1 tvg-logo="http://stmgroup.xyz/logo/tsn5.png" group-title="LATIN SPORT", TSN 5 
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=177348&extension=ts&play_token=CN2xBNmpdp 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCFdwEgf7Ef_A8t5mQHi28esDglHspqLd7sQ&usqp=CAU" group-title="ESPN SPORT", ESPN BR
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCFdwEgf7Ef_A8t5mQHi28esDglHspqLd7sQ&usqp=CAU" group-title="LATIN SPORT", ESPN BR
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=59265&extension=ts&play_token=CN2xBNmpdp
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-cxMkCMOa8Eze10k1UArFc19HgnQcbJf_jg&usqp=CAU" group-title="ESPN SPORT", ESPN 2 BR
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCFdwEgf7Ef_A8t5mQHi28esDglHspqLd7sQ&usqp=CAU" group-title="LATIN SPORT", ESPN 2 BR
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=59264&extension=ts&play_token=CN2xBNmpdp
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-cxMkCMOa8Eze10k1UArFc19HgnQcbJf_jg&usqp=CAU" group-title="ESPN SPORT", ESPN 3 BR
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCFdwEgf7Ef_A8t5mQHi28esDglHspqLd7sQ&usqp=CAU" group-title="LATIN SPORT", ESPN 3 BR
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=59263&extension=ts&play_token=CN2xBNmpdp
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-cxMkCMOa8Eze10k1UArFc19HgnQcbJf_jg&usqp=CAU" group-title="ESPN SPORT", ESPN 4 BR
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCFdwEgf7Ef_A8t5mQHi28esDglHspqLd7sQ&usqp=CAU" group-title="LATIN SPORT", ESPN 4 BR
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=890658&extension=ts&play_token=CN2xBNmpdp
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-cxMkCMOa8Eze10k1UArFc19HgnQcbJf_jg&usqp=CAU" group-title="ESPN SPORT", ESPN EXTRA BR
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCFdwEgf7Ef_A8t5mQHi28esDglHspqLd7sQ&usqp=CAU" group-title="LATIN SPORT", ESPN EXTRA BR
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=59262&extension=ts&play_token=CN2xBNmpdp
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCFdwEgf7Ef_A8t5mQHi28esDglHspqLd7sQ&usqp=CAU" group-title="ESPN SPORT", ESPN LAT
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCFdwEgf7Ef_A8t5mQHi28esDglHspqLd7sQ&usqp=CAU" group-title="LATIN SPORT", ESPN LAT
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=25511&extension=ts&play_token=CN2xBNmpdp
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-cxMkCMOa8Eze10k1UArFc19HgnQcbJf_jg&usqp=CAU" group-title="ESPN SPORT", ESPN 2 LAT
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCFdwEgf7Ef_A8t5mQHi28esDglHspqLd7sQ&usqp=CAU" group-title="LATIN SPORT", ESPN 2 LAT
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=25513&extension=ts&play_token=CN2xBNmpdp
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-cxMkCMOa8Eze10k1UArFc19HgnQcbJf_jg&usqp=CAU" group-title="ESPN SPORT", ESPN 3 LAT
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCFdwEgf7Ef_A8t5mQHi28esDglHspqLd7sQ&usqp=CAU" group-title="LATIN SPORT", ESPN 3 LAT
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=25512&extension=ts&play_token=CN2xBNmpdp
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-cxMkCMOa8Eze10k1UArFc19HgnQcbJf_jg&usqp=CAU" group-title="ESPN SPORT", ESPN EXTRA LAT
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCFdwEgf7Ef_A8t5mQHi28esDglHspqLd7sQ&usqp=CAU" group-title="LATIN SPORT", ESPN EXTRA LAT
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=90791&extension=ts&play_token=CN2xBNmpdp
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-cxMkCMOa8Eze10k1UArFc19HgnQcbJf_jg&usqp=CAU" group-title="ESPN SPORT", ESPN DEPORTES LAT
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCFdwEgf7Ef_A8t5mQHi28esDglHspqLd7sQ&usqp=CAU" group-title="LATIN SPORT", ESPN DEPORTES LAT
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=75284&extension=ts&play_token=CN2xBNmpdp
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-cxMkCMOa8Eze10k1UArFc19HgnQcbJf_jg&usqp=CAU" group-title="ESPN SPORT", ESPN PREMIUM LAT
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCFdwEgf7Ef_A8t5mQHi28esDglHspqLd7sQ&usqp=CAU" group-title="LATIN SPORT", ESPN PREMIUM LAT
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=926450&extension=ts&play_token=CN2xBNmpdp
 
 
