@@ -112,14 +112,13 @@ http://aflaxtv.xyz:8080/live/stadnik/6a627b52a9/298550.m3u8
 http://xtv.ooo:8080/195525/195525/350997
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5ZcozWJ6vBHdLtMA_MB8ZS5Yra8SAiYSUFA&usqp=CAU" group-title="#🇮🇩EVENT LIGA 1🇮🇩#", SCTV LIVE 1
-http://xtv.ooo:8080/195525/195525/351030
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5ZcozWJ6vBHdLtMA_MB8ZS5Yra8SAiYSUFA&usqp=CAU" group-title="#🇮🇩EVENT LIGA 1🇮🇩#", SCTV LIVE 2
 http://aanax.com:8080/live/2a41efbf/e9bc076c04/162141.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5ZcozWJ6vBHdLtMA_MB8ZS5Yra8SAiYSUFA&usqp=CAU" group-title="#🇮🇩EVENT LIGA 1🇮🇩#", SCTV LIVE 2
+http://kuchini.site:8080/live/LeCyGodF/thYAg86ShLywX9FL/162141.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5ZcozWJ6vBHdLtMA_MB8ZS5Yra8SAiYSUFA&usqp=CAU" group-title="#🇮🇩EVENT LIGA 1🇮🇩#", SCTV LIVE 3
-http://kuchini.site:8080/multi6741/ab72059e/162141.m3u8
+http://aflaxtv.xyz:8080/live/stadnik/6a627b52a9/162141.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5ZcozWJ6vBHdLtMA_MB8ZS5Yra8SAiYSUFA&usqp=CAU" group-title="#🇮🇩EVENT LIGA 1🇮🇩#", SCTV LIVE 4
-http://aanax.com:8080/8228218d/426af0d086/162141
-
+http://xtv.ooo:8080/195525/195525/351030
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/logomotogp.png" group-title="#🏍️EVENT GP&F1🏎️#", GP 1
