@@ -9706,6 +9706,26 @@ http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1350566_&ext
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1350567_&extension=ts
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmdP_fzhLfHBOL4jqihNzdOeuCALbB5TpTDw&usqp=CAU" group-title="VIP SPORT", NOW SPORT PREMIER 1 4K
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032489&extension=ts&play_token=Y0Fv9Nv97I
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmdP_fzhLfHBOL4jqihNzdOeuCALbB5TpTDw&usqp=CAU" group-title="VIP SPORT", NOW SPORT PREMIER 1 4K2
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032488&extension=ts&play_token=Y0Fv9Nv97I
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuRLhrZIRQZMWuuazqb4OcUp2b8CKJGZTZ1w&usqp=CAU" group-title="VIP SPORT", NOW SPORT PREMIER 1
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032487&extension=ts&play_token=Y0Fv9Nv97I
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuRLhrZIRQZMWuuazqb4OcUp2b8CKJGZTZ1w&usqp=CAU" group-title="VIP SPORT", NOW SPORT PREMIER 2
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032486&extension=ts&play_token=Y0Fv9Nv97I
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuRLhrZIRQZMWuuazqb4OcUp2b8CKJGZTZ1w&usqp=CAU" group-title="VIP SPORT", NOW SPORT PREMIER 3
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032485&extension=ts&play_token=Y0Fv9Nv97I
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuRLhrZIRQZMWuuazqb4OcUp2b8CKJGZTZ1w&usqp=CAU" group-title="VIP SPORT", NOW SPORT PREMIER 4
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032484&extension=ts&play_token=Y0Fv9Nv97I
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuRLhrZIRQZMWuuazqb4OcUp2b8CKJGZTZ1w&usqp=CAU" group-title="VIP SPORT", NOW SPORT PREMIER 5
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032483&extension=ts&play_token=Y0Fv9Nv97I
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuRLhrZIRQZMWuuazqb4OcUp2b8CKJGZTZ1w&usqp=CAU" group-title="VIP SPORT", NOW SPORT PREMIER 6
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032482&extension=ts&play_token=Y0Fv9Nv97I
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuRLhrZIRQZMWuuazqb4OcUp2b8CKJGZTZ1w&usqp=CAU" group-title="VIP SPORT", NOW SPORT PREMIER 7
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032481&extension=ts&play_token=Y0Fv9Nv97I
+
+
 
 #######################
 CLUB FOOTBALL #########
