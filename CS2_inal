@@ -97,6 +97,11 @@ http://humiptv.live:8080/live/tarun589853/5787489bcsh/151181.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/ss3liga1.png" group-title="#🇮🇩EVENT LIGA 1🇮🇩#", SUPERSTARS 3 LIVE 3
 http://xtv.ooo:8080/195525/195525/350995
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ODg5MzMzNDItNmFiZS0zNDU3LWE3ZjUtMTBkZmY2OWViNWIw
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_88.png", group-title="#🇮🇩EVENT LIGA 1🇮🇩#",  SUPERSTARS 4 LIVE 4
+https://nyanv-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS045siap5NyIF9bWfeYH5heAq-i7YaZ31_sg&usqp=CAU" group-title="#🇮🇩EVENT LIGA 1🇮🇩#", MOJI VOLY 1
 http://aanax.com:8080/8228218d/426af0d086/298550
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS045siap5NyIF9bWfeYH5heAq-i7YaZ31_sg&usqp=CAU" group-title="#🇮🇩EVENT LIGA 1🇮🇩#", MOJI VOLY 2
@@ -8801,7 +8806,108 @@ http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=1282764&extension
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/Zvoet.png" group-title="EROPA SPORT", ZIGGO SPORT VOETBALL
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=1282748&extension=ts&play_token=mPBaNK3aZ6
 
-
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", VOO WORLD SPORT 1 BE
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FA:09:E3&stream=390413&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", VOO WORLD SPORT 2 BE
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FA:09:E3&stream=390411&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", VOO WORLD SPORT 3 BE
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FA:09:E3&stream=390409&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", ELEVEN SPORT 1 BE
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FA:09:E3&stream=299927&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", ELEVEN SPORT 2 BE
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FA:09:E3&stream=299929&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", ELEVEN SPORT 3 BE
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FA:09:E3&stream=97373&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", CANAL+ SPORT FR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FA:09:E3&stream=2805&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", CANAL+ FOOT FR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FA:09:E3&stream=418638&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", CANAL+ SPORT 360 FR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FA:09:E3&stream=418639&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", CANAL+ PREMIER LEAGUE FR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FA:09:E3&stream=295371&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", CANAL+ TOP 14 RUGBY FR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FA:09:E3&stream=287577&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", CANAL+ FORMULA 1 FR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FA:09:E3&stream=295373&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", CANAL+ MOTOGP FR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FA:09:E3&stream=305274&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", RMC SPORT 1 FR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FA:09:E3&stream=59057&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", RMC SPORT 2 FR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FA:09:E3&stream=67208&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", BEIN SPORT 1 FR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FA:09:E3&stream=59062&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", BEIN SPORT 2 FR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FA:09:E3&stream=59063&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", BEIN SPORT 3 FR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FA:09:E3&stream=59064&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", BEIN SPORT 4 MAX
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FA:09:E3&stream=59066&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", BEIN SPORT 5 MAX
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FA:09:E3&stream=59067&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", BEIN SPORT 6 MAX
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FA:09:E3&stream=59068&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", BEIN SPORT 7 MAX
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FA:09:E3&stream=59069&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", BEIN SPORT 8 MAX
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FA:09:E3&stream=59070&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", BEIN SPORT 9 MAX
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FA:09:E3&stream=59071&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", BEIN SPORT 10 MAX
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FA:09:E3&stream=59065&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", INFOSPORT+ FR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FA:09:E3&stream=2803&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", EUROSPORT 1 FR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FA:09:E3&stream=2830&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", EUROSPORT 2 FR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FA:09:E3&stream=2832&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", L'EQUEPE 21 FR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FA:09:E3&stream=2801&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", GOLF CHANNEL FR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FA:09:E3&stream=2834&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", GOLF+ FR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FA:09:E3&stream=2836&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", OL TV FR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FA:09:E3&stream=313877&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", AUTOMOTO TV FR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FA:09:E3&stream=2840&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", MOTORS VISION TV FR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FA:09:E3&stream=2847&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", EQUIDIA FR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FA:09:E3&stream=2845&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", NAUTICAL FR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FA:09:E3&stream=2848&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", SPORTENFRANCE FR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FA:09:E3&stream=222053&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", MULTISPORT 1 FR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FA:09:E3&stream=201207&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", MULTISPORT 2 FR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FA:09:E3&stream=201206&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", MULTISPORT 2 FR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FA:09:E3&stream=201206&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", BLUE SPORT D1
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FA:09:E3&stream=61032&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", SKY SPORT SUMMER UNO IT
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FA:09:E3&stream=56600&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", SKY SPORT GOLF IT
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FA:09:E3&stream=337100&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", SKY SPORT MOTOGP IT
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FA:09:E3&stream=56602&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", SKY SPORT F1 IT
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FA:09:E3&stream=56605&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", SKY SPORT TENNIS IT
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FA:09:E3&stream=56608&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", SKY SPORT NBA IT
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FA:09:E3&stream=56611&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", SKY SPORT ACTION IT
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FA:09:E3&stream=56616&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", SKY SPORT ARENA IT
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FA:09:E3&stream=56619&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", SKY SPORT CALCIO IT
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FA:09:E3&stream=56622&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", RAI SPORT IT
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FA:09:E3&stream=56647&extension=ts
 
 
 
@@ -17983,8 +18089,6 @@ https://arcgmoblie.site/cliptv/cliptv.php?id=on-sports-news
 =====3MOVIE=====
 
 
-
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA & LATIN", CA:  CBC St. Johns
 http://sdmx.vip:8080/19CLAUDIO/p2RTE8sjBBCP/2168305
 
@@ -18008,51 +18112,6 @@ http://sdmx.vip:8080/19CLAUDIO/p2RTE8sjBBCP/2168289
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA & LATIN", CA: CBC
 http://sdmx.vip:8080/19CLAUDIO/p2RTE8sjBBCP/2168298
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA & LATIN", CA: CBC Calgary
-http://sdmx.vip:8080/19CLAUDIO/p2RTE8sjBBCP/2168294
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA & LATIN", CA: CBC Charlottetown
-http://sdmx.vip:8080/19CLAUDIO/p2RTE8sjBBCP/2168295
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA & LATIN", CA: CBC Fredericton
-http://sdmx.vip:8080/19CLAUDIO/p2RTE8sjBBCP/2168296
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA & LATIN", CA: CBC Halifax
-http://sdmx.vip:8080/19CLAUDIO/p2RTE8sjBBCP/2168297
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA & LATIN", CA: CBC Montreal
-http://sdmx.vip:8080/19CLAUDIO/p2RTE8sjBBCP/2168299
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA & LATIN", CA: CBC Montreal
-http://sdmx.vip:8080/19CLAUDIO/p2RTE8sjBBCP/2168300
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA & LATIN", CA: CBC News
-http://sdmx.vip:8080/19CLAUDIO/p2RTE8sjBBCP/2168292
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA & LATIN", CA: CBC News
-http://sdmx.vip:8080/19CLAUDIO/p2RTE8sjBBCP/2168301
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA & LATIN", CA: CBC Ottawa
-http://sdmx.vip:8080/19CLAUDIO/p2RTE8sjBBCP/2168302
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA & LATIN", CA: CBC Toronto
-http://sdmx.vip:8080/19CLAUDIO/p2RTE8sjBBCP/2168304
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA & LATIN", CA: CBC Vancouver
-http://sdmx.vip:8080/19CLAUDIO/p2RTE8sjBBCP/2168306
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA & LATIN", CA: CBC Windsor
-http://sdmx.vip:8080/19CLAUDIO/p2RTE8sjBBCP/2168307
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA & LATIN", CA: CBC Winnipeg
-http://sdmx.vip:8080/19CLAUDIO/p2RTE8sjBBCP/2168308
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA & LATIN", CA: CHCH
-http://sdmx.vip:8080/19CLAUDIO/p2RTE8sjBBCP/2168309
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA & LATIN", CA: CMT
-http://sdmx.vip:8080/19CLAUDIO/p2RTE8sjBBCP/2168313
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA & LATIN", CA: CNN
 http://sdmx.vip:8080/19CLAUDIO/p2RTE8sjBBCP/2168314
@@ -18084,21 +18143,6 @@ http://sdmx.vip:8080/19CLAUDIO/p2RTE8sjBBCP/2168326
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA & LATIN", CA: CTV Life
 http://sdmx.vip:8080/19CLAUDIO/p2RTE8sjBBCP/2168327
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA & LATIN", CA: CTV London
-http://sdmx.vip:8080/19CLAUDIO/p2RTE8sjBBCP/2168328
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA & LATIN", CA: CTV Ottawa
-http://sdmx.vip:8080/19CLAUDIO/p2RTE8sjBBCP/2168329
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA & LATIN", CA: CTV Toronto
-http://sdmx.vip:8080/19CLAUDIO/p2RTE8sjBBCP/2168330
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA & LATIN", CA: CTV Vancouver
-http://sdmx.vip:8080/19CLAUDIO/p2RTE8sjBBCP/2168332
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA & LATIN", CA: CTV Winnipeg
-http://sdmx.vip:8080/19CLAUDIO/p2RTE8sjBBCP/2168331
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA & LATIN", CA: Canada One
 http://sdmx.vip:8080/19CLAUDIO/p2RTE8sjBBCP/2168290
 
@@ -18116,27 +18160,6 @@ http://sdmx.vip:8080/19CLAUDIO/p2RTE8sjBBCP/2168424
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA & LATIN", CA: Cine Pop
 http://sdmx.vip:8080/19CLAUDIO/p2RTE8sjBBCP/2168426
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA & LATIN", CA: City Calgary
-http://sdmx.vip:8080/19CLAUDIO/p2RTE8sjBBCP/2168310
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA & LATIN", CA: City Montreal
-http://sdmx.vip:8080/19CLAUDIO/p2RTE8sjBBCP/2168311
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA & LATIN", CA: City Toronto
-http://sdmx.vip:8080/19CLAUDIO/p2RTE8sjBBCP/2168312
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA & LATIN", CA: Cooking Channel
-http://sdmx.vip:8080/19CLAUDIO/p2RTE8sjBBCP/2168316
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA & LATIN", CA: Crave 1
-http://sdmx.vip:8080/19CLAUDIO/p2RTE8sjBBCP/2168319
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA & LATIN", CA: Crave 4
-http://sdmx.vip:8080/19CLAUDIO/p2RTE8sjBBCP/2168320
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA & LATIN", CA: DIY Network
-http://sdmx.vip:8080/19CLAUDIO/p2RTE8sjBBCP/2168339
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA & LATIN", CA: DTOUR
 http://sdmx.vip:8080/19CLAUDIO/p2RTE8sjBBCP/2168340
@@ -18165,21 +18188,6 @@ http://sdmx.vip:8080/19CLAUDIO/p2RTE8sjBBCP/2168341
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA & LATIN", CA: Evasion
 http://sdmx.vip:8080/19CLAUDIO/p2RTE8sjBBCP/2168428
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA & LATIN", CA: FXX
-http://sdmx.vip:8080/19CLAUDIO/p2RTE8sjBBCP/2168347
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA & LATIN", CA: Fairchild 2
-http://sdmx.vip:8080/19CLAUDIO/p2RTE8sjBBCP/2168370
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA & LATIN", CA: Fairchild Television
-http://sdmx.vip:8080/19CLAUDIO/p2RTE8sjBBCP/2168369
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA & LATIN", CA: Fairchild Television Mandarin
-http://sdmx.vip:8080/19CLAUDIO/p2RTE8sjBBCP/2168372
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA & LATIN", CA: Fairchild Television West
-http://sdmx.vip:8080/19CLAUDIO/p2RTE8sjBBCP/2168371
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA & LATIN", CA: Family
 http://sdmx.vip:8080/19CLAUDIO/p2RTE8sjBBCP/2168342
 
@@ -18188,102 +18196,6 @@ http://sdmx.vip:8080/19CLAUDIO/p2RTE8sjBBCP/2168343
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA & LATIN", CA: Food Network
 http://sdmx.vip:8080/19CLAUDIO/p2RTE8sjBBCP/2168344
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA & LATIN", CA: Fox
-http://sdmx.vip:8080/19CLAUDIO/p2RTE8sjBBCP/2168345
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA & LATIN", CA: Fox News
-http://sdmx.vip:8080/19CLAUDIO/p2RTE8sjBBCP/2168346
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA & LATIN", CA: GSN
-http://sdmx.vip:8080/19CLAUDIO/p2RTE8sjBBCP/2168358
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA & LATIN", CA: Game Show Network
-http://sdmx.vip:8080/19CLAUDIO/p2RTE8sjBBCP/2168348
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA & LATIN", CA: Global
-http://sdmx.vip:8080/19CLAUDIO/p2RTE8sjBBCP/2168352
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA & LATIN", CA: Global Edmonton
-http://sdmx.vip:8080/19CLAUDIO/p2RTE8sjBBCP/2168353
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA & LATIN", CA: Global Kingston
-http://sdmx.vip:8080/19CLAUDIO/p2RTE8sjBBCP/2168351
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA & LATIN", CA: Global Toronto
-http://sdmx.vip:8080/19CLAUDIO/p2RTE8sjBBCP/2168355
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA & LATIN", CA: Global Vancouver
-http://sdmx.vip:8080/19CLAUDIO/p2RTE8sjBBCP/2168356
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA & LATIN", CA: Global Winnipeg
-http://sdmx.vip:8080/19CLAUDIO/p2RTE8sjBBCP/2168354
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA & LATIN", CA: Golf Channel
-http://sdmx.vip:8080/19CLAUDIO/p2RTE8sjBBCP/2168357
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA & LATIN", CA: H2
-http://sdmx.vip:8080/19CLAUDIO/p2RTE8sjBBCP/2168359
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA & LATIN", CA: HBO
-http://sdmx.vip:8080/19CLAUDIO/p2RTE8sjBBCP/2168360
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA & LATIN", CA: HBO
-http://sdmx.vip:8080/19CLAUDIO/p2RTE8sjBBCP/2168361
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA & LATIN", CA: HGTV
-http://sdmx.vip:8080/19CLAUDIO/p2RTE8sjBBCP/2168362
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA & LATIN", CA: HLN
-http://sdmx.vip:8080/19CLAUDIO/p2RTE8sjBBCP/2168364
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA & LATIN", CA: History
-http://sdmx.vip:8080/19CLAUDIO/p2RTE8sjBBCP/2168363
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA & LATIN", CA: Hollywood Suite 00's Movies
-http://sdmx.vip:8080/19CLAUDIO/p2RTE8sjBBCP/2168365
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA & LATIN", CA: Hollywood Suite 70's Movies
-http://sdmx.vip:8080/19CLAUDIO/p2RTE8sjBBCP/2168366
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA & LATIN", CA: Hollywood Suite 80's Movies
-http://sdmx.vip:8080/19CLAUDIO/p2RTE8sjBBCP/2168367
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA & LATIN", CA: Hollywood Suite 90's Movies
-http://sdmx.vip:8080/19CLAUDIO/p2RTE8sjBBCP/2168368
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA & LATIN", CA: ICI Montreal
-http://sdmx.vip:8080/19CLAUDIO/p2RTE8sjBBCP/2168430
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA & LATIN", CA: ICI Tele Montreal
-http://sdmx.vip:8080/19CLAUDIO/p2RTE8sjBBCP/2168447
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA & LATIN", CA: ICI Vancouver
-http://sdmx.vip:8080/19CLAUDIO/p2RTE8sjBBCP/2168431
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA & LATIN", CA: IFC
-http://sdmx.vip:8080/19CLAUDIO/p2RTE8sjBBCP/2168373
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA & LATIN", CA: Investigation Discovery
-http://sdmx.vip:8080/19CLAUDIO/p2RTE8sjBBCP/2168374
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA & LATIN", CA: KTLA
-http://sdmx.vip:8080/19CLAUDIO/p2RTE8sjBBCP/2168375
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA & LATIN", CA: Knowledge Kids
-http://sdmx.vip:8080/19CLAUDIO/p2RTE8sjBBCP/2168376
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA & LATIN", CA: LCN
-http://sdmx.vip:8080/19CLAUDIO/p2RTE8sjBBCP/2168448
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA & LATIN", CA: Lifetime
-http://sdmx.vip:8080/19CLAUDIO/p2RTE8sjBBCP/2168377
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA & LATIN", CA: Lifetime Movie Network
-http://sdmx.vip:8080/19CLAUDIO/p2RTE8sjBBCP/2168378
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA & LATIN", CA: MAVTV
-http://sdmx.vip:8080/19CLAUDIO/p2RTE8sjBBCP/2168381
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA & LATIN", CA: MAX
 http://sdmx.vip:8080/19CLAUDIO/p2RTE8sjBBCP/2168382
@@ -18665,66 +18577,6 @@ http://sdmx.vip:8080/19CLAUDIO/p2RTE8sjBBCP/210810
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA & LATIN", 24/7 M| Cinema 05
 http://sdmx.vip:8080/19CLAUDIO/p2RTE8sjBBCP/210812
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA & LATIN", 24/7 M| Cinema 06
-http://sdmx.vip:8080/19CLAUDIO/p2RTE8sjBBCP/210813
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA & LATIN", 24/7 M| Cinema 07
-http://sdmx.vip:8080/19CLAUDIO/p2RTE8sjBBCP/210814
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA & LATIN", 24/7 M| Cinema 08
-http://sdmx.vip:8080/19CLAUDIO/p2RTE8sjBBCP/210815
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA & LATIN", 24/7 M| Cinema 09
-http://sdmx.vip:8080/19CLAUDIO/p2RTE8sjBBCP/210816
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA & LATIN", 24/7 M| Cinema 10
-http://sdmx.vip:8080/19CLAUDIO/p2RTE8sjBBCP/210817
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA & LATIN", 24/7 M| Cinema 11
-http://sdmx.vip:8080/19CLAUDIO/p2RTE8sjBBCP/210818
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA & LATIN", 24/7 M| Cinema 12
-http://sdmx.vip:8080/19CLAUDIO/p2RTE8sjBBCP/210819
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA & LATIN", 24/7 M| Cinema 13
-http://sdmx.vip:8080/19CLAUDIO/p2RTE8sjBBCP/210820
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA & LATIN", 24/7 M| Cinema 14
-http://sdmx.vip:8080/19CLAUDIO/p2RTE8sjBBCP/210821
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA & LATIN", 24/7 M| Cinema 15
-http://sdmx.vip:8080/19CLAUDIO/p2RTE8sjBBCP/210822
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA & LATIN", 24/7 M| Cinema 16
-http://sdmx.vip:8080/19CLAUDIO/p2RTE8sjBBCP/210823
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA & LATIN", 24/7 M| Cinema 17
-http://sdmx.vip:8080/19CLAUDIO/p2RTE8sjBBCP/210824
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA & LATIN", 24/7 M| Cinema 18
-http://sdmx.vip:8080/19CLAUDIO/p2RTE8sjBBCP/210825
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA & LATIN", 24/7 M| Cinema 19
-http://sdmx.vip:8080/19CLAUDIO/p2RTE8sjBBCP/210826
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA & LATIN", 24/7 M| Cinema 20
-http://sdmx.vip:8080/19CLAUDIO/p2RTE8sjBBCP/210827
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA & LATIN", 24/7 M| Cinema 21
-http://sdmx.vip:8080/19CLAUDIO/p2RTE8sjBBCP/210828
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA & LATIN", 24/7 M| Cinema 22
-http://sdmx.vip:8080/19CLAUDIO/p2RTE8sjBBCP/210829
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA & LATIN", 24/7 M| Cinema 23
-http://sdmx.vip:8080/19CLAUDIO/p2RTE8sjBBCP/210830
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA & LATIN", 24/7 M| Cinema 24
-http://sdmx.vip:8080/19CLAUDIO/p2RTE8sjBBCP/210831
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA & LATIN", 24/7 M| Cinema 25
-http://sdmx.vip:8080/19CLAUDIO/p2RTE8sjBBCP/210832
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA & LATIN", 24/7: CINE ACCION HD
 http://sdmx.vip:8080/19CLAUDIO/p2RTE8sjBBCP/2090923
