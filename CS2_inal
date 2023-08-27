@@ -159,10 +159,10 @@ http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1021296_&ext
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFV7fMwWm-r3a_xJ-RpbcLy0SGmnk3_BjUpg&usqp=CAU" group-title="#🇪🇸EVENT DAZN🇮🇹#", DAZN 2 DE
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=889507&extension=ts&play_token=xyhaj0MCxD
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAy6M9roB5zzsqC9YF5ZMU0WUU5dDcI9r3Mg&usqp=CAU" group-title="#🇪🇸EVENT DAZN🇮🇹#", DAZN F1 DE
-http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=978374&extension=ts&play_token=70s7jOAusP
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=61977_&extension=ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAy6M9roB5zzsqC9YF5ZMU0WUU5dDcI9r3Mg&usqp=CAU" group-title="#🇪🇸EVENT DAZN🇮🇹#", DAZN F1 IT
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1021411_&extension=ts
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=317784&extension=ts&play_token=cz0KKH7WWe
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyAGU3rKq-Q4upVyYDDhy5Q_NOfAcLm6rZzA&usqp=CAU" group-title="#🇪🇸EVENT DAZN🇮🇹#", DAZN 1 ES
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=55483&extension=ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCSAVmcu_VgDSmuLjm_5JIFIxCVQbOIRePlA&usqp=CAU" group-title="#🇪🇸EVENT DAZN🇮🇹#", DAZN 2 ES
