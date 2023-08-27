@@ -8081,7 +8081,7 @@ http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=13469_&extens
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfjSeOSTC359ft3bMwjBAtu3LEH4dux-UmGQ&usqp=CAU" group-title="TURKY SPORT", TIVIBU SPORT 2 HD
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=13470_&extension=ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5pipv5NrSw3nGFZl6ngDg7CvdCvLIi1l6YQ&usqp=CAU" group-title="TURKY SPORT", TIVIBU SPORT 3 HD
-http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=13458_&extension=ts
+http://memotv.xyz:8080/koray.mum/3rFP5mWSCx/76311
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_Jn70qrb72rdjk5On_2GVW4gFX5vCw2rOIw&usqp=CAU" group-title="TURKY SPORT", SMART SPORT
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=913376&extension=ts&play_token=Y8CkHYVoQO
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToSawLyH55lq44yYTFql2XmVBICUqIY3tI4A&usqp=CAU" group-title="TURKY SPORT", SMART SPORT 2
@@ -8392,19 +8392,19 @@ http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=61818_&extens
 
 
 #EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/508692b4bb39baaa5fc257367b5d799e.png" group-title="EROPA SPORT", RMC SPORT 1 HD
-http://obshd.tv:25461/@localhdtv/hffEJ2kzX3Qf/92
+http://memotv.xyz:8080/koray.mum/3rFP5mWSCx/286396
 #EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/23bf89ddfb161b3421e73c78b16d2145.png" group-title="EROPA SPORT", RMC SPORT 2 HD
-http://obshd.tv:25461/@localhdtv/hffEJ2kzX3Qf/93
+http://memotv.xyz:8080/koray.mum/3rFP5mWSCx/286397
 #EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/508692b4bb39baaa5fc257367b5d799e.png" group-title="EROPA SPORT", RMC SPORT 1 FHD
-http://ok4.club:25461/Ranger2022/BCLpXmjdVYB2/1096
+http://memotv.xyz:8080/koray.mum/3rFP5mWSCx/392964
 #EXTINF:-1 tvg-logo="xxxxxxxx" group-title="EROPA SPORT", RMC SPORT 2 FHD
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=508156&extension=ts&play_token=Z6JZQHmj4P 
 #EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/0d1c01fd13c353330ad9a25c1484db80.png" group-title="EROPA SPORT", RMC SPORT 3 HD
-http://obshd.tv:25461/@localhdtv/hffEJ2kzX3Qf/94
+http://memotv.xyz:8080/koray.mum/3rFP5mWSCx/286398
 #EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/c0ba8f5d77423a254a5f6c8e3b8c0c45.png" group-title="EROPA SPORT", RMC SPORT 4 HD
-http://obshd.tv:25461/@localhdtv/hffEJ2kzX3Qf/95
+http://memotv.xyz:8080/koray.mum/3rFP5mWSCx/286399
 #EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/e6d0b47b757e61f99c72576c5d86c465.png" group-title="EROPA SPORT", RMC SPORT LIVE 5 HD
-http://obshd.tv:25461/@localhdtv/hffEJ2kzX3Qf/482
+http://memotv.xyz:8080/koray.mum/3rFP5mWSCx/293117
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQISkXfljQOdZOskNSrCSNROXZQcgFp2twAbQ&usqp=CAU" group-title="EROPA SPORT", RAI SPORT
