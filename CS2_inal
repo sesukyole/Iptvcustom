@@ -7480,13 +7480,6 @@ http://aca3b.tk:8080/Moskovic/g94XfRcTck/20428
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", BEIN SPORTS PREMIUM 3
 http://aca3b.tk:8080/Moskovic/g94XfRcTck/20426
 
-#EXTINF:-1 tvg-logo="______" group-title="BEIN GRUP", BEIN SPORT 1
-http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=59306_&extension=m3u8
-#EXTINF:-1 tvg-logo="______" group-title="BEIN GRUP", BEIN SPORT 2
-http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=59307_&extension=m3u8
-#EXTINF:-1 tvg-logo="______" group-title="BEIN GRUP", BEIN SPORT 3
-http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=59308_&extension=m3u8
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", BEIN SPORTS 5
 http://aca3b.tk:8080/Moskovic/g94XfRcTck/20420
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", BEIN SPORTS 6
@@ -7518,25 +7511,6 @@ http://aca3b.tk:8080/Moskovic/g94XfRcTck/20438
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", BEIN SPORTS 7 HD
 http://aca3b.tk:8080/Moskovic/g94XfRcTck/20410
 
-#EXTINF:-1 tvg-logo="______" group-title="BEIN GRUP", BEIN SPORT NEWS
-http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=59305_&extension=m3u8
-#EXTINF:-1 tvg-logo="-------" group-title="BEIN GRUP", BEIN HABER
-http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=57793_&extension=ts
-#EXTINF:-1 tvg-logo="-------" group-title="BEIN GRUP", BEIN SPORT 1
-http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=57797_&extension=ts
-#EXTINF:-1 tvg-logo="-------" group-title="BEIN GRUP", BEIN SPORT 2
-http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=57800_&extension=ts
-#EXTINF:-1 tvg-logo="-------" group-title="BEIN GRUP", BEIN SPORT 3
-http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=57803_&extension=ts
-#EXTINF:-1 tvg-logo="-------" group-title="BEIN GRUP", BEIN SPORT 4
-http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=57806_&extension=ts
-#EXTINF:-1 tvg-logo="-------" group-title="BEIN GRUP", BEIN MAX 1
-http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=57733_&extension=ts
-#EXTINF:-1 tvg-logo="-------" group-title="BEIN GRUP", BEIN MAX 2
-http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=57734_&extension=ts
-#EXTINF:-1 tvg-logo="-------" group-title="BEIN GRUP", BEIN HABER
-http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=27725_&extension=ts
-
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", FR: Bein Sports 1 FHD
 http://aca3b.tk:8080/Moskovic/g94XfRcTck/23200
@@ -7565,6 +7539,29 @@ http://aca3b.tk:8080/Moskovic/g94XfRcTck/2954
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", FR: Bein Sports MAX 10 HD
 http://aca3b.tk:8080/Moskovic/g94XfRcTck/2948
 
+
+#EXTINF:-1 tvg-logo="-------" group-title="BEIN GRUP", BEIN HABER
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=27725_&extension=ts
+#EXTINF:-1 tvg-logo="-------" group-title="BEIN GRUP", BEIN SPORT 1 FR
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=158_&extension=ts
+#EXTINF:-1 tvg-logo="-------" group-title="BEIN GRUP", BEIN SPORT 2 FR
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=159_&extension=ts
+#EXTINF:-1 tvg-logo="-------" group-title="BEIN GRUP", BEIN SPORT 3 FR
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=160_&extension=ts
+#EXTINF:-1 tvg-logo="-------" group-title="BEIN GRUP", BEIN MAX 4 FR
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=19331_&extension=ts
+#EXTINF:-1 tvg-logo="-------" group-title="BEIN GRUP", BEIN MAX 5 FR
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=19330_&extension=ts
+#EXTINF:-1 tvg-logo="-------" group-title="BEIN GRUP", BEIN MAX 6 FR
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=19329_&extension=ts
+#EXTINF:-1 tvg-logo="-------" group-title="BEIN GRUP", BEIN MAX 7 FR
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=19328_&extension=ts
+#EXTINF:-1 tvg-logo="-------" group-title="BEIN GRUP", BEIN MAX 8 FR
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=19327_&extension=ts
+#EXTINF:-1 tvg-logo="-------" group-title="BEIN GRUP", BEIN MAX 9 FR
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=63135_&extension=ts
+#EXTINF:-1 tvg-logo="-------" group-title="BEIN GRUP", BEIN MAX 10 FR
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=63136_&extension=ts
 
 
 #EXTINF:-1 tvg-logo="-------" group-title="BEIN GRUP", BEIN MOVIE ACTION 1
