@@ -7315,38 +7315,7 @@ http://magott.net:80/okota380/RvPBwTrjvRPM/58
 http://magott.net:80/okota380/RvPBwTrjvRPM/60
 #EXTINF:-1 tvg-logo="http://magott.net:80/images/40a0592195823a4b39c095751efde887.png" group-title="BEIN GRUP", BeINSport FRENCH 3 FHD
 http://magott.net:80/okota380/RvPBwTrjvRPM/62
-#EXTINF:-1 tvg-logo="http://magott.net:80/images/46e05d07c053612c9f2afca326c48745.png" group-title="BEIN GRUP", beIN SPORTS XTRA 1 FHD
-http://magott.net:80/okota380/RvPBwTrjvRPM/38639
-#EXTINF:-1 tvg-logo="http://magott.net:80/images/65c0418bdb8bab39f5287fdd40d211f7.png" group-title="BEIN GRUP", beIN SPORTS XTRA 2 FHD
-http://magott.net:80/okota380/RvPBwTrjvRPM/38640
-#EXTINF:-1 tvg-logo="http://magott.net:80/images/7171543a96849e8a754f3deebd15ba48.png" group-title="BEIN GRUP", beIN SPORTS MAX 1 HD
-http://magott.net:80/okota380/RvPBwTrjvRPM/38354
-#EXTINF:-1 tvg-logo="http://magott.net:80/images/7171543a96849e8a754f3deebd15ba48.png" group-title="BEIN GRUP", beIN SPORTS MAX 1 HD+ (MatchOnly)
-http://magott.net:80/okota380/RvPBwTrjvRPM/38431
-#EXTINF:-1 tvg-logo="http://magott.net:80/images/255b7043dcedff89dc098baa522183a8.png" group-title="BEIN GRUP", beIN SPORTS MAX 2 HD
-http://magott.net:80/okota380/RvPBwTrjvRPM/38356
-#EXTINF:-1 tvg-logo="http://magott.net:80/images/255b7043dcedff89dc098baa522183a8.png" group-title="BEIN GRUP", beIN SPORTS MAX 2 HD+ (MatchOnly)
-http://magott.net:80/okota380/RvPBwTrjvRPM/38432
-#EXTINF:-1 tvg-logo="http://magott.net:80/images/63f2b476303c5b5a8a92cf6e1947ee4a.png" group-title="BEIN GRUP", beIN SPORTS MAX 3 HD
-http://magott.net:80/okota380/RvPBwTrjvRPM/38358
-#EXTINF:-1 tvg-logo="http://magott.net:80/images/455473fe447cbdf6292849e0acd04bf0.png" group-title="BEIN GRUP", beIN SPORTS MAX 4 HD
-http://magott.net:80/okota380/RvPBwTrjvRPM/38360
-#EXTINF:-1 tvg-logo="http://magott.net:80/images/bf582e59022e51c43e8b21db3b4035e4.png" group-title="BEIN GRUP", beIN SPORTS MAX 5 HD
-http://magott.net:80/okota380/RvPBwTrjvRPM/38361
-#EXTINF:-1 tvg-logo="http://magott.net:80/images/829edfdba382ff898d553f1f2968a892.png" group-title="BEIN GRUP", beIN SPORTS MAX 6 HD
-http://magott.net:80/okota380/RvPBwTrjvRPM/38362
-#EXTINF:-1 tvg-logo="http://magott.net:80/images/7171543a96849e8a754f3deebd15ba48.png" group-title="BEIN GRUP", beIN SPORTS MAX 1 FHD
-http://magott.net:80/okota380/RvPBwTrjvRPM/38363
-#EXTINF:-1 tvg-logo="http://magott.net:80/images/255b7043dcedff89dc098baa522183a8.png" group-title="BEIN GRUP", beIN SPORTS MAX 2 FHD
-http://magott.net:80/okota380/RvPBwTrjvRPM/38364
-#EXTINF:-1 tvg-logo="http://magott.net:80/images/63f2b476303c5b5a8a92cf6e1947ee4a.png" group-title="BEIN GRUP", beIN SPORTS MAX 3 FHD
-http://magott.net:80/okota380/RvPBwTrjvRPM/38365
-#EXTINF:-1 tvg-logo="http://magott.net:80/images/455473fe447cbdf6292849e0acd04bf0.png" group-title="BEIN GRUP", beIN SPORTS MAX 4 FHD
-http://magott.net:80/okota380/RvPBwTrjvRPM/38366
-#EXTINF:-1 tvg-logo="http://magott.net:80/images/bf582e59022e51c43e8b21db3b4035e4.png" group-title="BEIN GRUP", beIN SPORTS MAX 5 FHD
-http://magott.net:80/okota380/RvPBwTrjvRPM/38367
-#EXTINF:-1 tvg-logo="http://magott.net:80/images/829edfdba382ff898d553f1f2968a892.png" group-title="BEIN GRUP", beIN SPORTS MAX 6 FHD
-http://magott.net:80/okota380/RvPBwTrjvRPM/38368
+
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/brVtrxc/41.png" group-title="BEIN GRUP", BEIN SPORT PREMIUM 1
@@ -7445,10 +7414,9 @@ http://s1.pubnow.info:8080/Achraf-charaf/G8PMwKY3JqcR/13118
 http://s1.pubnow.info:8080/Achraf-charaf/G8PMwKY3JqcR/13119
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", Bein Baby HD
 http://s1.pubnow.info:8080/Achraf-charaf/G8PMwKY3JqcR/13120
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qkqJWKC/43.png" group-title="BEIN GRUP", BEIN SPORT PREMIUM 3
-http://s1.pubnow.info:8080/Achraf-charaf/G8PMwKY3JqcR/73128
-#EXTINF:-1 tvg-logo="https://i.ibb.co/924FTvX/EX1.png" group-title="BEIN GRUP", BEIN SPORT EXTRA 1
-http://s1.pubnow.info:8080/Achraf-charaf/G8PMwKY3JqcR/73130
+
+#EXTINF:-1 tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-SPORTFHD/BEIN2FRFHD.png" group-title="BEIN GRUP", |FR| BEIN SPORTS 1 FHD
+http://s1.pubnow.info:8080/Achraf-charaf/G8PMwKY3JqcR/170
 #EXTINF:-1 tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-SPORTFHD/BEIN2FRFHD.png" group-title="BEIN GRUP", |FR| BEIN SPORTS 2 FHD
 http://s1.pubnow.info:8080/Achraf-charaf/G8PMwKY3JqcR/171
 #EXTINF:-1 tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-SPORTFHD/BEIN3FRFHD.png" group-title="BEIN GRUP", |FR| BEIN SPORTS 3 FHD
@@ -7478,8 +7446,9 @@ http://s1.pubnow.info:8080/Achraf-charaf/G8PMwKY3JqcR/182
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", BEIN SPORTS PREMIUM 1
 http://aca3b.tk:8080/Moskovic/g94XfRcTck/20428
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", BEIN SPORTS PREMIUM 3
-http://aca3b.tk:8080/Moskovic/g94XfRcTck/20426
-
+http://aca3b.tk:8080/Moskovic/g94XfRcTck/20425
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", BEIN SPORTS 4
+http://aca3b.tk:8080/Moskovic/g94XfRcTck/20419
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", BEIN SPORTS 5
 http://aca3b.tk:8080/Moskovic/g94XfRcTck/20420
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", BEIN SPORTS 6
