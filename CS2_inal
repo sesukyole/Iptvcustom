@@ -56,7 +56,7 @@ http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=154820&extension=
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/ligaeropa.png" group-title="#⚽EVENT BOLA⚽#", LIGA TOP EROPA 9
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=1035203&extension=ts&play_token=5K0N5VJWTW
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/ligaeropa.png" group-title="#⚽EVENT BOLA⚽#", LIGA TOP EROPA 10
-http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=992_&extension=ts
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=13469_&extension=ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/ligaeropa.png" group-title="#⚽EVENT BOLA⚽#", LIGA TOP EROPA 11
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=803_&extension=ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/ligaeropa.png" group-title="#⚽EVENT BOLA⚽#", LIGA TOP EROPA 12
@@ -616,9 +616,9 @@ https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
 https://kbtv.akamaized.net/hls/live/2031188/kanalbuya/1.m3u8
 
 
-
-
 <================== Premium Movies ====================>
+
+
 #KODIPROP:inputstream.adaptive.license_type=https://cubmu.deerem-12537iptv.workers.dev/license-proxy-widevine/cenc/?specConform=true
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.deerem-12537iptv.workers.dev/license-proxy-widevine/cenc/?specConform=true
 
