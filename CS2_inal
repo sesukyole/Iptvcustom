@@ -8814,101 +8814,101 @@ http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=390411_&exten
 #EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", VOO WORLD SPORT 3 BE
 http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=390409_&extension=ts
 #EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", ELEVEN SPORT 1 BE
-http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:FA:09:E3&stream=299927&extension=ts
+http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:FA:09:E3&stream=299927_&extension=ts
 #EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", ELEVEN SPORT 2 BE
-http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:FA:09:E3&stream=299929&extension=ts
+http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:FA:09:E3&stream=299929_&extension=ts
 #EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", ELEVEN SPORT 3 BE
-http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:FA:09:E3&stream=97373&extension=ts
+http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:FA:09:E3&stream=97373_&extension=ts
 #EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", CANAL+ SPORT FR
-http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:FA:09:E3&stream=2805&extension=ts
+http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:FA:09:E3&stream=2805_&extension=ts
 #EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", CANAL+ FOOT FR
-http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:FA:09:E3&stream=418638&extension=ts
+http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:FA:09:E3&stream=418638_&extension=ts
 #EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", CANAL+ SPORT 360 FR
-http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:FA:09:E3&stream=418639&extension=ts
+http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:FA:09:E3&stream=418639_&extension=ts
 #EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", CANAL+ PREMIER LEAGUE FR
-http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:FA:09:E3&stream=295371&extension=ts
+http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:FA:09:E3&stream=295371_&extension=ts
 #EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", CANAL+ TOP 14 RUGBY FR
 http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:FA:09:E3&stream=287577&extension=ts
 #EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", CANAL+ FORMULA 1 FR
-http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:FA:09:E3&stream=295373&extension=ts
+http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:FA:09:E3&stream=295373_&extension=ts
 #EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", CANAL+ MOTOGP FR
-http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:FA:09:E3&stream=305274&extension=ts
+http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:FA:09:E3&stream=305274_&extension=ts
 #EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", RMC SPORT 1 FR
-http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:FA:09:E3&stream=59057&extension=ts
+http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:FA:09:E3&stream=59057_&extension=ts
 #EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", RMC SPORT 2 FR
-http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:FA:09:E3&stream=67208&extension=ts
+http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:FA:09:E3&stream=67208_&extension=ts
 #EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", BEIN SPORT 1 FR
-http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:FA:09:E3&stream=59062&extension=ts
+http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:FA:09:E3&stream=59062_&extension=ts
 #EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", BEIN SPORT 2 FR
-http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:FA:09:E3&stream=59063&extension=ts
+http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:FA:09:E3&stream=59063_&extension=ts
 #EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", BEIN SPORT 3 FR
-http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:FA:09:E3&stream=59064&extension=ts
+http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:FA:09:E3&stream=59064_&extension=ts
 #EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", BEIN SPORT 4 MAX
-http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:FA:09:E3&stream=59066&extension=ts
+http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:FA:09:E3&stream=59066_&extension=ts
 #EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", BEIN SPORT 5 MAX
-http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:FA:09:E3&stream=59067&extension=ts
+http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:FA:09:E3&stream=59067_&extension=ts
 #EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", BEIN SPORT 6 MAX
-http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:FA:09:E3&stream=59068&extension=ts
+http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:FA:09:E3&stream=59068_&extension=ts
 #EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", BEIN SPORT 7 MAX
-http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:FA:09:E3&stream=59069&extension=ts
+http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:FA:09:E3&stream=59069_&extension=ts
 #EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", BEIN SPORT 8 MAX
-http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:FA:09:E3&stream=59070&extension=ts
+http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:FA:09:E3&stream=59070_&extension=ts
 #EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", BEIN SPORT 9 MAX
-http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:FA:09:E3&stream=59071&extension=ts
+http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:FA:09:E3&stream=59071_&extension=ts
 #EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", BEIN SPORT 10 MAX
-http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:FA:09:E3&stream=59065&extension=ts
+http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:FA:09:E3&stream=59065_&extension=ts
 #EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", INFOSPORT+ FR
-http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:FA:09:E3&stream=2803&extension=ts
+http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:FA:09:E3&stream=2803_&extension=ts
 #EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", EUROSPORT 1 FR
-http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:FA:09:E3&stream=2830&extension=ts
+http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:FA:09:E3&stream=2830_&extension=ts
 #EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", EUROSPORT 2 FR
-http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:FA:09:E3&stream=2832&extension=ts
+http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:FA:09:E3&stream=2832_&extension=ts
 #EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", L'EQUEPE 21 FR
-http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:FA:09:E3&stream=2801&extension=ts
+http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:FA:09:E3&stream=2801_&extension=ts
 #EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", GOLF CHANNEL FR
-http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:FA:09:E3&stream=2834&extension=ts
+http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:FA:09:E3&stream=2834_&extension=ts
 #EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", GOLF+ FR
-http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:FA:09:E3&stream=2836&extension=ts
+http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:FA:09:E3&stream=2836_&extension=ts
 #EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", OL TV FR
-http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:FA:09:E3&stream=313877&extension=ts
+http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:FA:09:E3&stream=313877_&extension=ts
 #EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", AUTOMOTO TV FR
-http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:FA:09:E3&stream=2840&extension=ts
+http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:FA:09:E3&stream=2840_&extension=ts
 #EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", MOTORS VISION TV FR
-http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:FA:09:E3&stream=2847&extension=ts
+http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:FA:09:E3&stream=2847_&extension=ts
 #EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", EQUIDIA FR
-http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:FA:09:E3&stream=2845&extension=ts
+http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:FA:09:E3&stream=2845_&extension=ts
 #EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", NAUTICAL FR
-http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:FA:09:E3&stream=2848&extension=ts
+http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:FA:09:E3&stream=2848_&extension=ts
 #EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", SPORTENFRANCE FR
-http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:FA:09:E3&stream=222053&extension=ts
+http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:FA:09:E3&stream=222053_&extension=ts
 #EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", MULTISPORT 1 FR
-http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:FA:09:E3&stream=201207&extension=ts
+http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:FA:09:E3&stream=201207_&extension=ts
 #EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", MULTISPORT 2 FR
-http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:FA:09:E3&stream=201206&extension=ts
+http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:FA:09:E3&stream=201206_&extension=ts
 #EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", MULTISPORT 2 FR
-http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:FA:09:E3&stream=201206&extension=ts
+http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:FA:09:E3&stream=201206_&extension=ts
 #EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", BLUE SPORT D1
-http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:FA:09:E3&stream=61032&extension=ts
+http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:FA:09:E3&stream=61032_&extension=ts
 #EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", SKY SPORT SUMMER UNO IT
-http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:FA:09:E3&stream=56600&extension=ts
+http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:FA:09:E3&stream=56600_&extension=ts
 #EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", SKY SPORT GOLF IT
-http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:FA:09:E3&stream=337100&extension=ts
+http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:FA:09:E3&stream=337100_&extension=ts
 #EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", SKY SPORT MOTOGP IT
-http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:FA:09:E3&stream=56602&extension=ts
+http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:FA:09:E3&stream=56602_&extension=ts
 #EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", SKY SPORT F1 IT
-http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:FA:09:E3&stream=56605&extension=ts
+http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:FA:09:E3&stream=56605_&extension=ts
 #EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", SKY SPORT TENNIS IT
-http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:FA:09:E3&stream=56608&extension=ts
+http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:FA:09:E3&stream=56608_&extension=ts
 #EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", SKY SPORT NBA IT
-http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:FA:09:E3&stream=56611&extension=ts
+http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:FA:09:E3&stream=56611_&extension=ts
 #EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", SKY SPORT ACTION IT
-http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:FA:09:E3&stream=56616&extension=ts
+http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:FA:09:E3&stream=56616_&extension=ts
 #EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", SKY SPORT ARENA IT
-http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:FA:09:E3&stream=56619&extension=ts
+http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:FA:09:E3&stream=56619_&extension=ts
 #EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", SKY SPORT CALCIO IT
-http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:FA:09:E3&stream=56622&extension=ts
+http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:FA:09:E3&stream=56622_&extension=ts
 #EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", RAI SPORT IT
-http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:FA:09:E3&stream=56647&extension=ts
+http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:FA:09:E3&stream=56647_&extension=ts
 
 
 
