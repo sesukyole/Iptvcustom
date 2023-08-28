@@ -908,16 +908,24 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Paramount-HD/sa_dash_vmx/Paramount-HD.
 http://edge.linknetott.swiftserve.com/channelgroup2/cg232production/ch309/03.m3u8
 
 #EXTINF:-1 group-title="MNC GRUP" tvg-id="" tvg-url="-----------------------l" tvg-logo="https://thumbor.prod.vidiocdn.com/gYngIcjyXI6_5Nesj57ALzHIQTA=/smart/filters:strip_icc():quality(70)/vidio-web-prod-user/uploads/user/avatar/7988362/ejav-41dff4.jpg",ETV Bioskop 1
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/298526
+http://iptvmedia.live:8080/live/JoNSnoW/YFLfh9jkMQybn99tGyeZ/298526.m3u8
+#EXTINF:-1 group-title="MNC GRUP" tvg-id="" tvg-url="-----------------------l" tvg-logo="https://thumbor.prod.vidiocdn.com/gYngIcjyXI6_5Nesj57ALzHIQTA=/smart/filters:strip_icc():quality(70)/vidio-web-prod-user/uploads/user/avatar/7988362/ejav-41dff4.jpg",ETV Bioskop 1 Ex
+http://aanax.com:8080/live/2a41efbf/e9bc076c04/298526.m3u8
 
 #EXTINF:-1 group-title="MNC GRUP" tvg-id="" tvg-url="-----------------------l" tvg-logo="https://thumbor.prod.vidiocdn.com/gYngIcjyXI6_5Nesj57ALzHIQTA=/smart/filters:strip_icc():quality(70)/vidio-web-prod-user/uploads/user/avatar/7988362/ejav-41dff4.jpg",ETV Bioskop 2
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/298527
+http://iptvmedia.live:8080/live/JoNSnoW/YFLfh9jkMQybn99tGyeZ/298527.m3u8
+#EXTINF:-1 group-title="MNC GRUP" tvg-id="" tvg-url="-----------------------l" tvg-logo="https://thumbor.prod.vidiocdn.com/gYngIcjyXI6_5Nesj57ALzHIQTA=/smart/filters:strip_icc():quality(70)/vidio-web-prod-user/uploads/user/avatar/7988362/ejav-41dff4.jpg",ETV Bioskop 2 Ex
+http://aanax.com:8080/live/2a41efbf/e9bc076c04/298527.m3u8
 
 #EXTINF:-1 group-title="MNC GRUP" tvg-id="" tvg-url="-----------------------l" tvg-logo="https://thumbor.prod.vidiocdn.com/gYngIcjyXI6_5Nesj57ALzHIQTA=/smart/filters:strip_icc():quality(70)/vidio-web-prod-user/uploads/user/avatar/7988362/ejav-41dff4.jpg",ETV Bioskop 3
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/298528
+http://iptvmedia.live:8080/live/JoNSnoW/YFLfh9jkMQybn99tGyeZ/298528.m3u8
+#EXTINF:-1 group-title="MNC GRUP" tvg-id="" tvg-url="-----------------------l" tvg-logo="https://thumbor.prod.vidiocdn.com/gYngIcjyXI6_5Nesj57ALzHIQTA=/smart/filters:strip_icc():quality(70)/vidio-web-prod-user/uploads/user/avatar/7988362/ejav-41dff4.jpg",ETV Bioskop 3 Ex
+http://aanax.com:8080/live/2a41efbf/e9bc076c04/298528.m3u8
 
 #EXTINF:-1 group-title="MNC GRUP" tvg-id="" tvg-url="-----------------------l" tvg-logo="https://thumbor.prod.vidiocdn.com/gYngIcjyXI6_5Nesj57ALzHIQTA=/smart/filters:strip_icc():quality(70)/vidio-web-prod-user/uploads/user/avatar/7988362/ejav-41dff4.jpg",ETV Bioskop 4
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/298529
+http://iptvmedia.live:8080/live/JoNSnoW/YFLfh9jkMQybn99tGyeZ/298529.m3u8
+#EXTINF:-1 group-title="MNC GRUP" tvg-id="" tvg-url="-----------------------l" tvg-logo="https://thumbor.prod.vidiocdn.com/gYngIcjyXI6_5Nesj57ALzHIQTA=/smart/filters:strip_icc():quality(70)/vidio-web-prod-user/uploads/user/avatar/7988362/ejav-41dff4.jpg",ETV Bioskop 4 Ex
+http://aanax.com:8080/live/2a41efbf/e9bc076c04/298529.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ODg5MzMzNDItNmFiZS0zNDU3LWE3ZjUtMTBkZmY2OWViNWIw
@@ -940,7 +948,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMo
 https://nyanv-live-cdn.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
 
 #EXTINF:-1 tvg-id="" tvg-url="-----------------------l" tvg-logo="https://lh3.googleusercontent.com/REU0lZrQhT4Ba2EEZRSCiwcDva7IraLpb6bh3JjdiO8W-NIVZW8urM6Ztk5Xc8MjTD8" group-title="MNC GRUP",Chinese Drama
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/298516
+http://aanax.com:8080/live/2a41efbf/e9bc076c04/298516.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ODg5MzMzNDItNmFiZS0zNDU3LWE3ZjUtMTBkZmY2OWViNWIw
@@ -1001,7 +1009,7 @@ https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856fd0d66d0170341bf10
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch376)/index.m3u8
 
 #EXTINF:-1 tvg-url="-----------------------l" tvg-id="flik.id" tvg-name="" tvg-logo="https://2.bp.blogspot.com/-6Pk41U_qeN8/Vrq1QgMhk9I/AAAAAAAAVqI/eElw8bnfEMw/s479-Ic42/Flik%252520TV.png" group-title="MNC GRUP",Flik
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/165095
+http://aanax.com:8080/live/2a41efbf/e9bc076c04/165095.m3u8
 
 #EXTINF:-1 tvg-url="-----------------------l" tvg-id="CitraDrama.id" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Citra_Drama.PNG" group-title="MNC GRUP",Citra Drama
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch378)/index.m3u8
@@ -1289,7 +1297,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Zoomoo/sa_dash_vmx/Zoomoo.mpd
 http://edge.linknetott.swiftserve.com/channelgroup4/cg437production/ch375/03.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-url="-----------------------l" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/IndiKids.png" group-title="MNC GRUP",IndiKids
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/298539
+http://aanax.com:8080/live/2a41efbf/e9bc076c04/298539.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ODg5MzMzNDItNmFiZS0zNDU3LWE3ZjUtMTBkZmY2OWViNWIw
