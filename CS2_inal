@@ -489,7 +489,7 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch174)/index.m3u
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch336)/index.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/d8a152836e34ee6141b7efdf3d10da5b.png", group-title="FIRSTMEDIA",TVN
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch339)/index.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c99306ef4b6afd25b48264fb45e91306.png, group-title="FIRSTMEDIA",TVNMOVIES
+#EXTINF:-1 tvg-logo="https://mncvision.tv/userfiles/image/channel/channel_25.png, group-title="FIRSTMEDIA",TVN MOVIES
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch343)/index.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/564c06a526774b8025fde18160461e1f.png", group-title="FIRSTMEDIA",KBS WORLD
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch262)/index.m3u8
@@ -501,7 +501,7 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch161)/index.m3u
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch329)/index.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/035c4b78f75c9bd0f7cfb4f61ebb3146.png", group-title="FIRSTMEDIA",SPOTV2
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch3300)/index.m3u8
-#EXTINF:-1 tvg-logo="http://wixa.fire33.xyz:2052/images/e7c147291796e915c3b25934f7850e31.png", group-title="FIRSTMEDIA",EUROSPORT
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=909310533193_image-header_pIt_1686238719000&quality=70", group-title="FIRSTMEDIA",EUROSPORT
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch21)/index.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/8bfe173c57ec17bf46e0f6ba975deb8a.png", group-title="FIRSTMEDIA",CGTN DOCUMENTARY
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch405)/index.m3u8
@@ -539,19 +539,19 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch371)/index.m3u
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch52)/index.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/1d192d86ab16c1103668385201f76d94.png", group-title="FIRSTMEDIA",BOOMERANG
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch372)/index.m3u8
-#EXTINF:-1 tvg-logo="tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/bbdc8a56aca2bffb311728507a93f75f.png", group-title="FIRSTMEDIA",CARTOON NETWORK
+#EXTINF:-1 tvg-logo="tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT80C4ymGhiSixfnABmDMjsOiY7VVqLXz5c-A&usqp=CAU", group-title="FIRSTMEDIA",CARTOON NETWORK
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch103)/index.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/e1dd8b2c9477e9c047fc597e8835eebb.png", group-title="FIRSTMEDIA",NICKELODEON
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch105)/index.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c407878e19cad2a98a707210492d0f4c.png", group-title="FIRSTMEDIA",NICK JR
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch124)/index.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/5aa556bace610c8bc65e10e0822995b8.png", group-title="FIRSTMEDIA",MTV 90S
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkALF-4BQMfDVyoqx0veoAHDWGziFel-Fhww&usqp=CAU", group-title="FIRSTMEDIA",MTV 90S
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch241)/index.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/5aa556bace610c8bc65e10e0822995b8.png", group-title="FIRSTMEDIA",MTV STAGE
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmPQrZduEW42ln9mDwHQ7O_1STZ0_cOPkeuTd8ww9AJjhhYf-4w21hMBU9_SY105iC2yU&usqp=CAU", group-title="FIRSTMEDIA",MTV STAGE
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch242)/index.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/910f79800349d39aeebb3eb7777dc83b.png", group-title="FIRSTMEDIA",STINGRAY NATURESCAPE
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbrqU06igSDhyxD7RMKa4iU9WHjGikEp-hXatQsML6B8X1k2sspPXJV9nw7GLLmIZ7hxo&usqp=CAU", group-title="FIRSTMEDIA",STINGRAY NATURESCAPE
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch367)/index.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/910f79800349d39aeebb3eb7777dc83b.png", group-title="FIRSTMEDIA",STINGRAY DJAZZ
+#EXTINF:-1 tvg-logo="https://djazz.stingray.com/static/site/djazz/site/MetaImage.png", group-title="FIRSTMEDIA",STINGRAY DJAZZ
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch3344)/index.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/5662c41e221b11f3cff14f60ac5b862e.png", group-title="FIRSTMEDIA",GEM
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch3400)/index.m3u8
