@@ -489,7 +489,7 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch174)/index.m3u
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch336)/index.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/d8a152836e34ee6141b7efdf3d10da5b.png", group-title="FIRSTMEDIA",TVN
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch339)/index.m3u8
-#EXTINF:-1 tvg-logo="https://mncvision.tv/userfiles/image/channel/channel_25.png, group-title="FIRSTMEDIA",TVN MOVIES
+#EXTINF:-1 tvg-logo="hhttps://res.heraldm.com/phpwas/restmb_jhidxmake.php?idx=5&simg=201701111724468376495_20170111172626_01.jpg, group-title="FIRSTMEDIA",TVN MOVIES
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch343)/index.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/564c06a526774b8025fde18160461e1f.png", group-title="FIRSTMEDIA",KBS WORLD
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch262)/index.m3u8
