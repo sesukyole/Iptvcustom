@@ -777,8 +777,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 https://nyanv-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 
 #EXTINF:-1 tvg-url="http://tinyurl.com/jejeEpg" tvg-id="MOJI" tvg-name="Moji" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="MNC GRUP",Moji
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/298550
-#http://edge.linknetott.swiftserve.com/channelgroup4/cg409production/ch26/03.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup4/cg409production/ch26/03.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" group-title="MNC GRUP" tvg-url="-----------------------l" tvg-id="SCTV.id" tvg-name="SCTV", SCTV 
 http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/03.m3u8
@@ -2391,77 +2390,77 @@ MOVIE ASIA  ###########
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="MOVIE ASIA", ###MOVIE ASIA###
 https://github.com/inaldie/inaldie/raw/main/LOGO.ts
 
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxxxxxx" group-title="MOVIE ASIA", ASTRO OASIS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Astro_Oasis.png" group-title="MOVIE ASIA", ASTRO OASIS
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=571238&extension=ts&play_token=Pxw1nnzhzz
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxxxxxx" group-title="MOVIE ASIA", ASTRO Vaanavil
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Astro_Vaanavil_%28s20%29.png" group-title="MOVIE ASIA", ASTRO Vaanavil
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=571233&extension=ts&play_token=piYCPCqJGG
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxxxxxx" group-title="MOVIE ASIA", ASTRO IQIYI
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj5y2XD4ZQj7-jajjAxYklVwAIFiO3xZS0BA&usqp=CAU" group-title="MOVIE ASIA", ASTRO IQIYI
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=571198&extension=ts&play_token=hRuuLYo00p
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxxxxxx" group-title="MOVIE ASIA", ASTRO XIAO TAI YANG
+#EXTINF:-1 tvg-logo="https://adeasy.co/storage/images/media_profile/picture/1613710204_522_small.jpg" group-title="MOVIE ASIA", ASTRO XIAO TAI YANG
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=571230&extension=ts&play_token=Yta3e8Qsnk
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxxxxxx" group-title="MOVIE ASIA", ASTRO AOD 351
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_AOD_%28s17%29.png" group-title="MOVIE ASIA", ASTRO AOD 351
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=571226&extension=ts&play_token=LqvcYpx38K
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxxxxxx" group-title="MOVIE ASIA", ASTRO AOD 352
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_AOD_%28s17%29.png" group-title="MOVIE ASIA", ASTRO AOD 352
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=571225&extension=ts&play_token=wt0kwXcvFs
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxxxxxx" group-title="MOVIE ASIA", ASTRO AOD 353
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_AOD_%28s17%29.png" group-title="MOVIE ASIA", ASTRO AOD 353
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=571229&extension=ts&play_token=mV27xOjoHh
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxxxxxx" group-title="MOVIE ASIA", ASTRO ONE
+#EXTINF:-1 tvg-logo="https://onetvasia.com/sites/onetvasia.com/files/ct_custom_page_f_primary_image/one-default-thumb-20200318.jpg" group-title="MOVIE ASIA", ASTRO ONE
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=571193&extension=ts&play_token=Xe6hMCZOQT
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxxxxxx" group-title="MOVIE ASIA", ASTRO AWANI
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Astro_Awani.png" group-title="MOVIE ASIA", ASTRO AWANI
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=571243&extension=ts&play_token=vHCxA4VVCN
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxxxxxx" group-title="MOVIE ASIA", ASTRO RANIA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_Rania_NEW.png" group-title="MOVIE ASIA", ASTRO RANIA
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=571256&extension=ts&play_token=jeUFBopj40
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxxxxxx" group-title="MOVIE ASIA", ASTRO AURA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Astro_Aura_NEW.png" group-title="MOVIE ASIA", ASTRO AURA
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=571257&extension=ts&play_token=F7zkuEWiDN
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxxxxxx" group-title="MOVIE ASIA", ASTRO Star Vijay
+#EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2016/09/Star-vijay-channel-logo.jpg" group-title="MOVIE ASIA", ASTRO Star Vijay
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=571235&extension=ts&play_token=M8aovx7mOs
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxxxxxx" group-title="MOVIE ASIA", Astro Vinmeen
+#EXTINF:-1 tvg-logo="https://adeasy.co/storage/images/media_profile/picture/1613710124_516_small.jpg" group-title="MOVIE ASIA", Astro Vinmeen
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=571232&extension=ts&play_token=g6qpv2nU7t
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxxxxxx" group-title="MOVIE ASIA", CELESTIAL MOVIE
+#EXTINF:-1 tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1648809294-.png" group-title="MOVIE ASIA", CELESTIAL MOVIE
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=683142&extension=ts&play_token=Y8cesKbc2P
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxxxxxx" group-title="MOVIE ASIA",CELESTIAL CLASIC MOVIE
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/uPT6bJivLIE/maxresdefault.jpg" group-title="MOVIE ASIA",CELESTIAL CLASIC MOVIE
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=683110&extension=ts&play_token=0HEhkPx95c
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxxxxxx" group-title="MOVIE ASIA", AXN
+#EXTINF:-1 tvg-logo="https://orangemagazine.ph/wp-content/uploads/2015/09/AXN-ASIA-New-Logo-e1442906648156.png" group-title="MOVIE ASIA", AXN
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=683144&extension=ts&play_token=yFbPL6JUPE
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxxxxxx" group-title="MOVIE ASIA", CINEMAX
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/611-cinemax.png/250px-611-cinemax.png" group-title="MOVIE ASIA", CINEMAX
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=571214&extension=ts&play_token=O60MNTrHns
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxxxxxx" group-title="MOVIE ASIA", MOVIE NOW
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Movies_Now_logo.png" group-title="MOVIE ASIA", MOVIE NOW
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=1116477&extension=ts&play_token=DqUbaz9inn
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxxxxxx" group-title="MOVIE ASIA", &Flix
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxgmuTfsVZJx912ZZ2aSySqIV2LQCQPuxIDLVJV2pkJIM0IDLsOBQzKG29ErsRw_dany4&usqp=CAU" group-title="MOVIE ASIA", &Flix
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=282632&extension=ts&play_token=D0oyMUxS3A
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxxxxxx" group-title="MOVIE ASIA", &Prive
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_856,h_482,c_scale,f_webp,q_auto:eco/resources/0-9-priv%C3%A9hd/list/1170x658withlogo375086496.jpg" group-title="MOVIE ASIA", &Prive
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=155746&extension=ts&play_token=uG6cJPH2FF
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxxxxxx" group-title="MOVIE ASIA", STAR MOVIE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png" group-title="MOVIE ASIA", STAR MOVIE
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=282639&extension=ts&play_token=gjQNgDXxy7
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxxxxxx" group-title="MOVIE ASIA", STAR MOVIE SELECT
+#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-movies-select-hd-logo-300x300.jpg" group-title="MOVIE ASIA", STAR MOVIE SELECT
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=155729&extension=ts&play_token=0PPEjDb7oS
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxxxxxx" group-title="MOVIE ASIA", MNX+
+#EXTINF:-1 tvg-logo="https://nationalviews.com/wp-content/uploads/2015/06/mn-times-network-new-channel.jpg" group-title="MOVIE ASIA", MNX+
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=1110624&extension=ts&play_token=cT3SQ9NFiW
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxxxxxx" group-title="MOVIE ASIA", PARAMOUNT
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1e/Paramount_Global.svg/1200px-Paramount_Global.svg.png" group-title="MOVIE ASIA", PARAMOUNT
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=926158&extension=ts&play_token=aAJE4w4Gau
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxxxxxx" group-title="MOVIE ASIA", SONY PIX
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Pix_new.png" group-title="MOVIE ASIA", SONY PIX
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=282631&extension=ts&play_token=8uyVaHXjlG
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxxxxxx" group-title="MOVIE ASIA", HITS
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/HITS_TV_ASIA.png/revision/latest?cb=20210828003810" group-title="MOVIE ASIA", HITS
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=683145&extension=ts&play_token=RsXf2Szbxq
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxxxxxx" group-title="MOVIE ASIA", HITS MOVIE
+#EXTINF:-1 tvg-logo="https://serpongupdate.com/wp-content/uploads/2019/04/HITS-Movies.jpg" group-title="MOVIE ASIA", HITS MOVIE
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=683163&extension=ts&play_token=KFFVNJuNdd
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxxxxxx" group-title="MOVIE ASIA", CINEMA WORLD
+#EXTINF:-1 tvg-logo="https://www.voilah.sg/wp-content/uploads/2020/04/cinema-world-2.png" group-title="MOVIE ASIA", CINEMA WORLD
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=683146&extension=ts&play_token=GMmKMoGPZ3
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxxxxxx" group-title="MOVIE ASIA", TVN
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_158.png" group-title="MOVIE ASIA", TVN
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=683148&extension=ts&play_token=tFKAbCwzok
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxxxxxx" group-title="MOVIE ASIA",TVN MOVIE
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_25.png" group-title="MOVIE ASIA",TVN MOVIE
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=683149&extension=ts&play_token=iZbICZTGQ4
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxxxxxx" group-title="MOVIE ASIA",THRILL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Thrilllogo.webp/390px-Thrilllogo.webp.png" group-title="MOVIE ASIA",THRILL
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=683154&extension=ts&play_token=W6sqoxb1Px
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxxxxxx" group-title="MOVIE ASIA", SONY ONE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d6/Logo_One_TV_Asia_%282020%29.png" group-title="MOVIE ASIA", SONY ONE
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=683130&extension=ts&play_token=MqzhIAfDY8
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxxxxxx" group-title="MOVIE ASIA", KIX
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1200px-KIX_logo.svg.png" group-title="MOVIE ASIA", KIX
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=683134&extension=ts&play_token=maTP7oXtlI
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxxxxxx" group-title="MOVIE ASIA", KBS WORLD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/800px-KBS_World_%282009%29.svg.png" group-title="MOVIE ASIA", KBS WORLD
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=941631&extension=ts&play_token=rDN5xOMx4v
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxxxxxx" group-title="MOVIE ASIA", FMN TELENOVELA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/FMN_%28Forget_Me_Not%29_Channel.png/800px-FMN_%28Forget_Me_Not%29_Channel.png" group-title="MOVIE ASIA", FMN TELENOVELA
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=683143&extension=ts&play_token=TeIVxddeud
-#EXTINF:-1 tvg-logo="xxxxxxxxxxxxxxxx" group-title="MOVIE ASIA", ZEE BIOSKOP
+#EXTINF:-1 tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2017/10/zee_bioskop.png" group-title="MOVIE ASIA", ZEE BIOSKOP
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=683155&extension=ts&play_token=RMCZ5rD42m
 
 ##########################
@@ -2471,38 +2470,38 @@ MOVIE MANCANAGARA  #######
 https://github.com/inaldie/inaldie/raw/main/LOGO.ts
 
 
-#EXTINF:-1 tvg-logo="http://myserveriptv.com:2082/images/68ef0f174963fe248d689cd52d10170b.png/" group-title="MOVIE MANCANEGARA", UK: CineBox 2 Animation
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAKsiP5GzkJAjhzIKnxOpXMF95XecN1MlZ6g-c2F41oOwMRYyD-GGA5-13DaDerYsgIEY&usqp=CAU" group-title="MOVIE MANCANEGARA", UK: CineBox 2 Animation
 http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/297178
-#EXTINF:-1 tvg-logo="http://myserveriptv.com:2082/images/68ef0f174963fe248d689cd52d10170b.png/" group-title="MOVIE MANCANEGARA", UK: CineBox 3 Blockbuster
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAKsiP5GzkJAjhzIKnxOpXMF95XecN1MlZ6g-c2F41oOwMRYyD-GGA5-13DaDerYsgIEY&usqp=CAU" group-title="MOVIE MANCANEGARA", UK: CineBox 3 Blockbuster
 http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/297179
-#EXTINF:-1 tvg-logo="http://myserveriptv.com:2082/images/68ef0f174963fe248d689cd52d10170b.png/" group-title="MOVIE MANCANEGARA", UK: CineBox 4 Classic
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAKsiP5GzkJAjhzIKnxOpXMF95XecN1MlZ6g-c2F41oOwMRYyD-GGA5-13DaDerYsgIEY&usqp=CAU" group-title="MOVIE MANCANEGARA", UK: CineBox 4 Classic
 http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/297180
-#EXTINF:-1 tvg-logo="http://myserveriptv.com:2082/images/68ef0f174963fe248d689cd52d10170b.png/" group-title="MOVIE MANCANEGARA", UK: CineBox 5 Comedy
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAKsiP5GzkJAjhzIKnxOpXMF95XecN1MlZ6g-c2F41oOwMRYyD-GGA5-13DaDerYsgIEY&usqp=CAU" group-title="MOVIE MANCANEGARA", UK: CineBox 5 Comedy
 http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/297181
-#EXTINF:-1 tvg-logo="http://myserveriptv.com:2082/images/68ef0f174963fe248d689cd52d10170b.png/" group-title="MOVIE MANCANEGARA", UK: CineBox 6 Cult
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAKsiP5GzkJAjhzIKnxOpXMF95XecN1MlZ6g-c2F41oOwMRYyD-GGA5-13DaDerYsgIEY&usqp=CAU" group-title="MOVIE MANCANEGARA", UK: CineBox 6 Cult
 http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/297182
-#EXTINF:-1 tvg-logo="http://myserveriptv.com:2082/images/68ef0f174963fe248d689cd52d10170b.png/" group-title="MOVIE MANCANEGARA", UK: CineBox 7 Family
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAKsiP5GzkJAjhzIKnxOpXMF95XecN1MlZ6g-c2F41oOwMRYyD-GGA5-13DaDerYsgIEY&usqp=CAU" group-title="MOVIE MANCANEGARA", UK: CineBox 7 Family
 http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/297183
-#EXTINF:-1 tvg-logo="http://myserveriptv.com:2082/images/68ef0f174963fe248d689cd52d10170b.png/" group-title="MOVIE MANCANEGARA", UK: CineBox 8 Greats
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAKsiP5GzkJAjhzIKnxOpXMF95XecN1MlZ6g-c2F41oOwMRYyD-GGA5-13DaDerYsgIEY&usqp=CAU" group-title="MOVIE MANCANEGARA", UK: CineBox 8 Greats
 http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/297184
-#EXTINF:-1 tvg-logo="http://myserveriptv.com:2082/images/68ef0f174963fe248d689cd52d10170b.png/" group-title="MOVIE MANCANEGARA", UK: CineBox 9
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAKsiP5GzkJAjhzIKnxOpXMF95XecN1MlZ6g-c2F41oOwMRYyD-GGA5-13DaDerYsgIEY&usqp=CAU" group-title="MOVIE MANCANEGARA", UK: CineBox 9
 http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/297185
-#EXTINF:-1 tvg-logo="http://myserveriptv.com:2082/images/68ef0f174963fe248d689cd52d10170b.png/" group-title="MOVIE MANCANEGARA", UK: CineBox 10
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAKsiP5GzkJAjhzIKnxOpXMF95XecN1MlZ6g-c2F41oOwMRYyD-GGA5-13DaDerYsgIEY&usqp=CAU" group-title="MOVIE MANCANEGARA", UK: CineBox 10
 http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/297186
-#EXTINF:-1 tvg-logo="http://myserveriptv.com:2082/images/68ef0f174963fe248d689cd52d10170b.png/" group-title="MOVIE MANCANEGARA", UK: CineBox 4 Classic
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAKsiP5GzkJAjhzIKnxOpXMF95XecN1MlZ6g-c2F41oOwMRYyD-GGA5-13DaDerYsgIEY&usqp=CAU" group-title="MOVIE MANCANEGARA", UK: CineBox 4 Classic
 http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/297180
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Arabic", AR: OSN Play Movies 1
+#EXTINF:-1 tvg-logo="https://www.alarabydownloads.com/wp-content/uploads/2019/07/OSN-Play%E2%80%8F.jpg" group-title="MOVIE MANCANEGARA", AR: OSN Play Movies 1
 http://iptvmedia.live:8080/live/JoNSnoW/YFLfh9jkMQybn99tGyeZ/299711.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Arabic", AR: OSN Play Movies 2
+#EXTINF:-1 tvg-logo="https://www.alarabydownloads.com/wp-content/uploads/2019/07/OSN-Play%E2%80%8F.jpg" group-title="MOVIE MANCANEGARA", AR: OSN Play Movies 2
 http://iptvmedia.live:8080/live/JoNSnoW/YFLfh9jkMQybn99tGyeZ/299712.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Arabic", AR: OSN Play Movies 3
+#EXTINF:-1 tvg-logo="https://www.alarabydownloads.com/wp-content/uploads/2019/07/OSN-Play%E2%80%8F.jpg" group-title="MOVIE MANCANEGARA", AR: OSN Play Movies 3
 http://iptvmedia.live:8080/live/JoNSnoW/YFLfh9jkMQybn99tGyeZ/299713.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Arabic", AR: OSN Play Movies 4
+#EXTINF:-1 tvg-logo="https://www.alarabydownloads.com/wp-content/uploads/2019/07/OSN-Play%E2%80%8F.jpg" group-title="MOVIE MANCANEGARA", AR: OSN Play Movies 4
 http://iptvmedia.live:8080/live/JoNSnoW/YFLfh9jkMQybn99tGyeZ/299714.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Arabic", AR: Sky Flix Movies
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="MOVIE MANCANEGARA", AR: Sky Flix Movies
 http://iptvmedia.live:8080/live/JoNSnoW/YFLfh9jkMQybn99tGyeZ/283266.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-02/b3f2c9e33e3b204078526c4011569ed0.png" group-title="Arabic", AR: Star Movies HD
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-02/b3f2c9e33e3b204078526c4011569ed0.png" group-title="MOVIE MANCANEGARA", AR: Star Movies HD
 http://iptvmedia.live:8080/live/JoNSnoW/YFLfh9jkMQybn99tGyeZ/195999.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/3bff988adeb13074c9ba75fd30646984.png" group-title="MOVIE MANCANEGARA", AR: AMC
 http://iptvmedia.live:8080/live/JoNSnoW/YFLfh9jkMQybn99tGyeZ/196037
