@@ -9218,6 +9218,10 @@ http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=115318_&exte
 
 #EXTINF:-1 tvg-logo="xxxxxxxx" group-title="LAIN-LAIN SPORT", AUTOMOTO 
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=508154&extension=ts&play_token=MQYoRJeFcv 
+#EXTINF:-1 tvg-logo="______" group-title="LAIN-LAIN SPORT", JOJ SPORT SLV
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AF:AD:53&stream=1021794&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="LAIN-LAIN SPORT", ARENA SPORT SLV
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AF:AD:53&stream=1021782&extension=ts
 #EXTINF:-1 tvg-logo="xxxxxxxx" group-title="LAIN-LAIN SPORT", XTREAM SPORT
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=132483&extension=ts&play_token=8PbUT9DUDQ
 #EXTINF:-1 tvg-logo="xxxxxxxx" group-title="LAIN-LAIN SPORT", MOTOSPORT
