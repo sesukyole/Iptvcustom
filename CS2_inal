@@ -7914,6 +7914,8 @@ http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=15616_&e
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=154613&extension=ts&play_token=iFj5xcZHeF
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKQCloYS3Xq7pf24b01Jmuk2oe23xmfXlmNg&usqp=CAU" group-title="EROPA SPORT", C MORE SPORT 2
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=154614&extension=ts&play_token=Z07bXITV8k
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKQCloYS3Xq7pf24b01Jmuk2oe23xmfXlmNg&usqp=CAU" group-title="EROPA SPORT", C MORE FOOTBALL
+http://10142525.xyz:8080/UmTCskNnN/AXwGAgNCCpcT/222147
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/DIGI%201.png" group-title="EROPA SPORT", DIGI SPORT 1
@@ -8268,10 +8270,10 @@ http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/85699
 #EXTINF:-1 tvg-logo="xxxxxxxx" group-title="EROPA SPORT", VJu+ SPORT 
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=132781&extension=ts&play_token=bVFFxXhGrN
 
-#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="EROPA SPORT", V SPORT+
-http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/10322
-#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="EROPA SPORT", V SPORT WINTER
-http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/10276
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="EROPA SPORT", V SPORT PREMIUM
+http://10142525.xyz:8080/UmTCskNnN/AXwGAgNCCpcT/222152
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="EROPA SPORT", V SPORT VINTER
+http://10142525.xyz:8080/UmTCskNnN/AXwGAgNCCpcT/222153
 #EXTINF:-1 tvg-logo="xxxxxxxx" group-title="EROPA SPORT", V SPORT MOTOR
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=154563&extension=ts&play_token=MS3ZBQ1o1f
 #EXTINF:-1 tvg-logo="xxxxxxxx" group-title="EROPA SPORT", V SPORT FOOTBALL
