@@ -7817,6 +7817,8 @@ http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=13469_&extens
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=13470_&extension=ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5pipv5NrSw3nGFZl6ngDg7CvdCvLIi1l6YQ&usqp=CAU" group-title="TURKY SPORT", TIVIBU SPORT 3 HD
 http://memotv.xyz:8080/koray.mum/3rFP5mWSCx/76311
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5pipv5NrSw3nGFZl6ngDg7CvdCvLIi1l6YQ&usqp=CAU" group-title="TURKY SPORT", TIVIBU SPORT 4 HD
+http://aca3b.tk:8080/2011Dreambox/yWvGTS5y8c9W/16096
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_Jn70qrb72rdjk5On_2GVW4gFX5vCw2rOIw&usqp=CAU" group-title="TURKY SPORT", SMART SPORT
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=913376&extension=ts&play_token=Y8CkHYVoQO
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToSawLyH55lq44yYTFql2XmVBICUqIY3tI4A&usqp=CAU" group-title="TURKY SPORT", SMART SPORT 2
