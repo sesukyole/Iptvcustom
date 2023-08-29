@@ -9960,6 +9960,124 @@ http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=533657&extension=
 
 
 
+#EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/chimg/7335668086.png" group-title="ESPN SPORT", MX: ESPN 1 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/96029.ts
+
+#EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/chimg/8684143903.png" group-title="ESPN SPORT", SP: ESPN + HD MX
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/95978.ts
+
+#EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/chimg/6258949273.png" group-title="ESPN SPORT", SP: ESPN Deportes FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/95969.ts
+
+#EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/chimg/5549068923.png" group-title="ESPN SPORT", US ESPN NEWS HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/95516.ts
+
+#EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/chimg/7936053982.png" group-title="ESPN SPORT", US: ESPN 1 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/115825.ts
+
+#EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/chimg/1185809629.png" group-title="ESPN SPORT", US: ESPN 2 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/134263.ts
+
+#EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/chimg/6526566841.png" group-title="ESPN SPORT", US: ESPN U HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/95519.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1200px-ESPN_Premium_logo.svg.png" group-title="ESPN SPORT", ARG: ESPN Premium HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/548193.ts
+
+#EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/channels_icon/95537313091.png" group-title="ESPN SPORT", BR: ESPN Brasil HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/10321.ts
+
+#EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/channels_icon/53074266441.png" group-title="ESPN SPORT", BR: ESPN 2 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/10320.ts
+
+#EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/channels_icon_api/1a0f0e3d18e12fa0abe583c00a5c6ccf.png" group-title="ESPN SPORT", BR: ESPN Extra HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/10265.ts
+
+#EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/chimg/7672097577.jpg" group-title="ESPN SPORT", CAR ESPN Caribbean FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/545668.ts
+
+#EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/channels_icon/87804862671.png" group-title="ESPN SPORT", LA: ESPN 2 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/319914.ts
+
+#EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/channels_icon/89185694671.png" group-title="ESPN SPORT", LA: ESPN 3 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/581839.ts
+
+#EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/channels_icon/55231963051.png" group-title="ESPN SPORT", LA: ESPN HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/581838.ts
+
+#EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/channels_icon/98242502121.png" group-title="ESPN SPORT", MX: ESPN 1 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/546149.ts
+
+#EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/channels_icon/23175896971.png" group-title="ESPN SPORT", MX: ESPN 2 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/546150.ts
+
+#EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/channels_icon/63218809081.png" group-title="ESPN SPORT", MX: ESPN 3 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/546151.ts
+
+#EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/channels_icon/69749206811.png" group-title="ESPN SPORT", MX: ESPN HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/546152.ts
+
+#EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/channels_icon/44589158161.png" group-title="ESPN SPORT", NL: ESPN 1 FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/466103.ts
+
+#EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/channels_icon/64141026451.png" group-title="ESPN SPORT", NL: ESPN 2 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/283548.ts
+
+#EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/channels_icon/25939289171.png" group-title="ESPN SPORT", NL: ESPN 3 FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/466104.ts
+
+#EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/channels_icon/80000141211.png" group-title="ESPN SPORT", NL: ESPN 4 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/283549.ts
+
+#EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/channels_icon/55299849971.png" group-title="ESPN SPORT", ES: ESPN HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/522170.ts
+
+#EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/channels_icon/61820382721.png" group-title="ESPN SPORT", US: ESPN 1 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/28930.ts
+
+#EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/channels_icon/82850456801.png" group-title="ESPN SPORT", US: ESPN 2 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/117065.ts
+
+#EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/channels_icon/99002194971.png" group-title="ESPN SPORT", US: ESPN 2 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/28931.ts
+
+#EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/channels_icon/12445064631.png" group-title="ESPN SPORT", US: ESPN 3 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/117064.ts
+
+#EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/channels_icon/66935572581.png" group-title="ESPN SPORT", US: ESPN Deportes HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/79761.ts
+
+#EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/channels_icon/38611878171.png" group-title="ESPN SPORT", US: ESPN Longhorn Network HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/28932.ts
+
+#EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/channels_icon/18588902761.png" group-title="ESPN SPORT", US: ESPN NEWS HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/484520.ts
+
+#EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/channels_icon/87862872741.png" group-title="ESPN SPORT", US: ESPN NEWS US HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/117414.ts
+
+#EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/channels_icon/85940898281.png" group-title="ESPN SPORT", US: ESPN PLUS HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/134564.ts
+
+#EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/channels_icon/74177104461.png" group-title="ESPN SPORT", US: ESPN SEC Network HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/28934.ts
+
+#EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/channels_icon/39361506141.png" group-title="ESPN SPORT", US: ESPN U HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/79760.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ESPN SPORT", US: ESPN+
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/715860.ts
+
+#EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/channels_icon/60982247841.png" group-title="ESPN SPORT", UK: BT Sport ESPN FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/117573.ts
+
+#EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/chimg/6258949273.png" group-title="ESPN SPORT", SP: ESPN Deportes FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/95969.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ESPN SPORT", UK: BT Sport ESPN SD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/688321.ts
+
+
 
 #######################
 FOX SPORT  ##########
