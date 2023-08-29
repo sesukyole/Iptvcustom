@@ -8055,7 +8055,6 @@ http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=1209968&extension
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=110764&extension=ts&play_token=AS9X0Z0mpP
 
 
-
 #EXTINF:-1 tvg-logo="-------" group-title="EROPA SPORT", MATCH ARENA
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=132559&extension=ts&play_token=HysfJeXAoU
 #EXTINF:-1 tvg-logo="-------" group-title="EROPA SPORT", MATCH FOOTBALL 1
@@ -8079,17 +8078,17 @@ http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=61818_&extens
 
 
 #EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/508692b4bb39baaa5fc257367b5d799e.png" group-title="EROPA SPORT", RMC SPORT 1 HD
-http://memotv.xyz:8080/koray.mum/3rFP5mWSCx/286396
+http://10142525.xyz:8080/UmTCskNnN/AXwGAgNCCpcT/171092
 #EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/23bf89ddfb161b3421e73c78b16d2145.png" group-title="EROPA SPORT", RMC SPORT 2 HD
-http://memotv.xyz:8080/koray.mum/3rFP5mWSCx/286397
+http://10142525.xyz:8080/UmTCskNnN/AXwGAgNCCpcT/171093
 #EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/508692b4bb39baaa5fc257367b5d799e.png" group-title="EROPA SPORT", RMC SPORT 1 FHD
 http://memotv.xyz:8080/koray.mum/3rFP5mWSCx/392964
 #EXTINF:-1 tvg-logo="xxxxxxxx" group-title="EROPA SPORT", RMC SPORT 2 FHD
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=508156&extension=ts&play_token=Z6JZQHmj4P 
 #EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/0d1c01fd13c353330ad9a25c1484db80.png" group-title="EROPA SPORT", RMC SPORT 3 HD
-http://memotv.xyz:8080/koray.mum/3rFP5mWSCx/286398
+http://10142525.xyz:8080/UmTCskNnN/AXwGAgNCCpcT/171094
 #EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/c0ba8f5d77423a254a5f6c8e3b8c0c45.png" group-title="EROPA SPORT", RMC SPORT 4 HD
-http://memotv.xyz:8080/koray.mum/3rFP5mWSCx/286399
+http://10142525.xyz:8080/UmTCskNnN/AXwGAgNCCpcT/171095
 #EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/e6d0b47b757e61f99c72576c5d86c465.png" group-title="EROPA SPORT", RMC SPORT LIVE 5 HD
 http://memotv.xyz:8080/koray.mum/3rFP5mWSCx/293117
 
@@ -8134,7 +8133,6 @@ http://10142525.xyz:8080/UmTCskNnN/AXwGAgNCCpcT/225729
 http://10142525.xyz:8080/UmTCskNnN/AXwGAgNCCpcT/225730
 
 
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/superPL.png" group-title="EROPA SPORT", SUPER SPORT PREMIER LEAGUE 
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=239078&extension=ts&play_token=WIj93CqWrq
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/superlaliga.png" group-title="EROPA SPORT", SUPER SPORT LIGA
@@ -8165,6 +8163,21 @@ http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=239080&extens
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=239085&extension=ts&play_token=EJNtH2IgAS
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/supervariety4.png" group-title="EROPA SPORT", SUPER SPORT VARIETY 4
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=239084&extension=ts&play_token=Tj5rP8kRtc
+
+#EXTINF:-1 tvg-logo="_____" group-title="EROPA SPORT", ORF SPORT AT
+http://10142525.xyz:8080/UmTCskNnN/AXwGAgNCCpcT/256723
+#EXTINF:-1 tvg-logo="_____" group-title="EROPA SPORT", SKY SPORT AUSTRIA 1
+http://10142525.xyz:8080/UmTCskNnN/AXwGAgNCCpcT/256725
+#EXTINF:-1 tvg-logo="_____" group-title="EROPA SPORT", SKY SPORT AUSTRIA 2
+http://10142525.xyz:8080/UmTCskNnN/AXwGAgNCCpcT/256727
+#EXTINF:-1 tvg-logo="_____" group-title="EROPA SPORT", SKY SPORT AUSTRIA 3
+http://10142525.xyz:8080/UmTCskNnN/AXwGAgNCCpcT/256729
+#EXTINF:-1 tvg-logo="_____" group-title="EROPA SPORT", SKY SPORT AUSTRIA 4
+http://10142525.xyz:8080/UmTCskNnN/AXwGAgNCCpcT/256731
+#EXTINF:-1 tvg-logo="_____" group-title="EROPA SPORT", SKY SPORT AUSTRIA 5
+http://10142525.xyz:8080/UmTCskNnN/AXwGAgNCCpcT/256733
+
+
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/polsat1.png" group-title="EROPA SPORT", POLSAT SPORT PREMIUM 1 HD
