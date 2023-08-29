@@ -127,6 +127,13 @@ http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298512
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298513
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW64JrHFj29Wnv2pTK1AzKAtpotsas8QQ7Eg&usqp=CAU" group-title="#🇮🇩CHAMPION TV🇮🇩#", CHAMPIONS TV 3 LIVE 1
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298514
+#EXTINF:-1 tvg-logo="https://www.teknisitv.com/wp-content/uploads/2023/02/FREKUENSI-CHAMPIONS-TV-5-DAN-CHAMPIONS-TV-6..jpg" group-title="#🇮🇩CHAMPION TV🇮🇩#", CHAMPIONS TV 5 LIVE 1
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298491
+#EXTINF:-1 tvg-logo="https://www.teknisitv.com/wp-content/uploads/2023/02/FREKUENSI-CHAMPIONS-TV-5-DAN-CHAMPIONS-TV-6..jpg" group-title="#🇮🇩CHAMPION TV🇮🇩#", CHAMPIONS TV 6 LIVE 1
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298492
+
+
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmrehIz_x34NlxqfXsJfkpWGy08Jb_-E81Yw&usqp=CAU" group-title="#🇮🇩CHAMPION TV🇮🇩#", CHAMPIONS TV 1 LIVE 2
 http://iptvtree.net:8080/137f5990/123a71f365/298512
@@ -134,6 +141,11 @@ http://iptvtree.net:8080/137f5990/123a71f365/298512
 http://iptvtree.net:8080/137f5990/123a71f365/298513
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW64JrHFj29Wnv2pTK1AzKAtpotsas8QQ7Eg&usqp=CAU" group-title="#🇮🇩CHAMPION TV🇮🇩#", CHAMPIONS TV 3 LIVE 2
 http://iptvtree.net:8080/137f5990/123a71f365/298514
+#EXTINF:-1 tvg-logo="https://www.teknisitv.com/wp-content/uploads/2023/02/FREKUENSI-CHAMPIONS-TV-5-DAN-CHAMPIONS-TV-6..jpg" group-title="#🇮🇩CHAMPION TV🇮🇩#", CHAMPIONS TV 5 LIVE 2
+http://iptvtree.net:8080/137f5990/123a71f365/298491.m3u8
+#EXTINF:-1 tvg-logo="https://www.teknisitv.com/wp-content/uploads/2023/02/FREKUENSI-CHAMPIONS-TV-5-DAN-CHAMPIONS-TV-6..jpg" group-title="#🇮🇩CHAMPION TV🇮🇩#", CHAMPIONS TV 6 LIVE 2
+http://iptvtree.net:8080/137f5990/123a71f365/298492.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmrehIz_x34NlxqfXsJfkpWGy08Jb_-E81Yw&usqp=CAU" group-title="#🇮🇩CHAMPION TV🇮🇩#", CHAMPIONS TV 1 LIVE 3
 http://aanax.com:8080/live/2a41efbf/e9bc076c04/298512.m3u8
@@ -141,7 +153,10 @@ http://aanax.com:8080/live/2a41efbf/e9bc076c04/298512.m3u8
 http://aanax.com:8080/live/2a41efbf/e9bc076c04/298513.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW64JrHFj29Wnv2pTK1AzKAtpotsas8QQ7Eg&usqp=CAU" group-title="#🇮🇩CHAMPION TV🇮🇩#", CHAMPIONS TV 3 LIVE 3
 http://aanax.com:8080/live/2a41efbf/e9bc076c04/298514.m3u8
-
+#EXTINF:-1 tvg-logo="https://www.teknisitv.com/wp-content/uploads/2023/02/FREKUENSI-CHAMPIONS-TV-5-DAN-CHAMPIONS-TV-6..jpg" group-title="#🇮🇩CHAMPION TV🇮🇩#", CHAMPIONS TV 5 LIVE 3
+http://aanax.com:8080/live/2a41efbf/e9bc076c04/298491.m3u8
+#EXTINF:-1 tvg-logo="https://www.teknisitv.com/wp-content/uploads/2023/02/FREKUENSI-CHAMPIONS-TV-5-DAN-CHAMPIONS-TV-6..jpg" group-title="#🇮🇩CHAMPION TV🇮🇩#", CHAMPIONS TV 6 LIVE 3
+http://aanax.com:8080/live/2a41efbf/e9bc076c04/298492.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/logomotogp.png" group-title="#🏍️EVENT GP&F1🏎️#", GP 1
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=508165&extension=ts&play_token=LwIO2B91Rs
