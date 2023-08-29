@@ -9215,9 +9215,12 @@ http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=174707&extens
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=174706&extension=ts&play_token=4eaFB82r9d
 #EXTINF:-1 tvg-logo="______" group-title="LAIN-LAIN SPORT", GOLF NBC
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=174798&extension=ts&play_token=XOBF9Cn30Q
-#EXTINF:-1 tvg-logo="______" group-title="LAIN-LAIN SPORT", NBA TV
+#EXTINF:-1 tvg-logo="______" group-title="LAIN-LAIN SPORT", NBA TV 1
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=174795&extension=ts&play_token=Kux57Ra1IK
-
+#EXTINF:-1 tvg-logo="______" group-title="LAIN-LAIN SPORT", NBA TV 2
+http://10142525.xyz:8080/UmTCskNnN/AXwGAgNCCpcT/232235
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyuFyuTJCg06ESYxmitUg_y0hwTJ0pZgjGBQ&usqp=CAU" group-title="LAIN-LAIN SPORT", EDGE SPORT
+http://10142525.xyz:8080/UmTCskNnN/AXwGAgNCCpcT/32411
 
 
 #######################
@@ -9368,7 +9371,7 @@ http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/1170
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDkXhbSwjuSP-XuaUPzDRs9BBg1vWmOUpSGg&usqp=CAU" group-title="CLUB FOOTBALL", GALATASARAY TV
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=913366&extension=ts&play_token=rVaW2rlt6f
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl6MCmhuaV1Un8Zx7XUHnSWxUVBOANby0lDZb4pTCroTioIBaVx1ewjJEO&s=10" group-title="CLUB FOOTBALL", FENERBACE TV
-http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=913365&extension=ts&play_token=5xIas34OPG
+http://10142525.xyz:8080/UmTCskNnN/AXwGAgNCCpcT/5935
 
 
 
@@ -9418,12 +9421,12 @@ http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1121749&e
 http://31.42.184.159:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/130974
 #EXTINF:-1 tvg-logo="______" group-title="FIGHT SPORT", UFC FIGHT PASS
 http://31.42.184.159:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/224073
-#EXTINF:-1 tvg-logo="______" group-title="FIGHT SPORT", FIGHT NETWORK
+#EXTINF:-1 tvg-logo="______" group-title="FIGHT SPORT", FIGHT NETWORK 1
 http://31.42.184.159:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/224009
+#EXTINF:-1 tvg-logo="______" group-title="FIGHT SPORT", FIGHT NETWORK 2
+http://10142525.xyz:8080/UmTCskNnN/AXwGAgNCCpcT/95664
 #EXTINF:-1 tvg-logo="______" group-title="FIGHT SPORT", FIGHT BOX
 http://31.42.184.159:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/31054
-
-
 
 
 #######################
