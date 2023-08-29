@@ -7444,6 +7444,8 @@ http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=571246&extension=
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=571253&extension=ts&play_token=OqkrNxqNnQ
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png" group-title="ASIA SPORT", ASTRO CRICKET
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=1036490&extension=ts&play_token=83HkgGZDVI
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png" group-title="ASIA SPORT", ASTRO ARENA
+http://faucontv.live:8080/vaya/2kTxdjWYfn/34881
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/HUB%201.png" group-title="ASIA SPORT", HUB SPORT 1
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=941573&extension=ts&play_token=TAdJtgtiEy
@@ -7766,7 +7768,7 @@ http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=13469_&extens
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfjSeOSTC359ft3bMwjBAtu3LEH4dux-UmGQ&usqp=CAU" group-title="TURKY SPORT", TIVIBU SPORT 2 HD
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=13470_&extension=ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5pipv5NrSw3nGFZl6ngDg7CvdCvLIi1l6YQ&usqp=CAU" group-title="TURKY SPORT", TIVIBU SPORT 3 HD
-http://memotv.xyz:8080/koray.mum/3rFP5mWSCx/76311
+http://faucontv.live:8080/vaya/2kTxdjWYfn/9360
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5pipv5NrSw3nGFZl6ngDg7CvdCvLIi1l6YQ&usqp=CAU" group-title="TURKY SPORT", TIVIBU SPORT 4 HD
 http://aca3b.tk:8080/2011Dreambox/yWvGTS5y8c9W/16096
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_Jn70qrb72rdjk5On_2GVW4gFX5vCw2rOIw&usqp=CAU" group-title="TURKY SPORT", SMART SPORT
@@ -7811,6 +7813,8 @@ SPORT EROPA  ##########
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="EROPA SPORT", ###EROPA SPORT###
 https://github.com/inaldie/inaldie/raw/main/LOGO.ts
 
+#EXTINF:-1 tvg-logo="https://uploads.tapatalk-cdn.com/20211024/1d439f5f1f4590a608e86f27bd22114e.jpg" group-title="EROPA SPORT", ARENA SPORT 1x2
+http://faucontv.live:8080/vaya/2kTxdjWYfn/33370
 #EXTINF:-1 tvg-logo="https://uploads.tapatalk-cdn.com/20211024/1d439f5f1f4590a608e86f27bd22114e.jpg" group-title="EROPA SPORT", ARENA SPORT 1 PREMIUM
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=801855&extension=ts&play_token=5iYcwPJUh5
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Arena-2-premium_266x2001.png/revision/latest/scale-to-width-down/300?cb=20221111133122" group-title="EROPA SPORT", ARENA SPORT 2 PREMIUM
@@ -7915,7 +7919,7 @@ http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=154613&extension=
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKQCloYS3Xq7pf24b01Jmuk2oe23xmfXlmNg&usqp=CAU" group-title="EROPA SPORT", C MORE SPORT 2
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=154614&extension=ts&play_token=Z07bXITV8k
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKQCloYS3Xq7pf24b01Jmuk2oe23xmfXlmNg&usqp=CAU" group-title="EROPA SPORT", C MORE FOOTBALL
-http://10142525.xyz:8080/UmTCskNnN/AXwGAgNCCpcT/222147
+http://faucontv.live:8080/vaya/2kTxdjWYfn/114748
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/DIGI%201.png" group-title="EROPA SPORT", DIGI SPORT 1
@@ -7944,7 +7948,7 @@ http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=411388&extens
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpBuKyqlTKTHsAVbPnSbWQN5YGDHma5lpX3g&usqp=CAU" group-title="EROPA SPORT", DAZN ZONE
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1273580&extension=ts&play_token=bGsClCAwGV
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpBuKyqlTKTHsAVbPnSbWQN5YGDHma5lpX3g&usqp=CAU" group-title="EROPA SPORT", DAZN 1 ES
-http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=55482_&extension=ts
+http://faucontv.live:8080/vaya/2kTxdjWYfn/5219
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpBuKyqlTKTHsAVbPnSbWQN5YGDHma5lpX3g&usqp=CAU" group-title="EROPA SPORT", DAZN ZONA HD
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=691242&extension=ts&play_token=60FhUEUHIX
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpBuKyqlTKTHsAVbPnSbWQN5YGDHma5lpX3g&usqp=CAU" group-title="EROPA SPORT", DAZN 1 SERI A
@@ -7977,9 +7981,9 @@ http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=154916&extension=
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=189536325767_image-header_pRow_1690609699000" group-title="EROPA SPORT", ELEVEN SPORT 1
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=63300_&extension=ts
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=176341573856_image-header_pRow_1687892335000&quality=70" group-title="EROPA SPORT", ELEVEN SPORT 2
-http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=461187_&extension=ts
+http://faucontv.live:8080/vaya/2kTxdjWYfn/13073
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=176341573859_image-header_pRow_1687892335000&quality=70" group-title="EROPA SPORT", ELEVEN SPORT 3
-http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=461190_&extension=ts
+http://faucontv.live:8080/vaya/2kTxdjWYfn/12881
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOnqjFrSxSjDIRNYPiojTgohXlbgcKjuwAkNIxw_jhIXwn1ltE5FJPV6xqk2VWXSK9ado&usqp=CAU" group-title="EROPA SPORT", ELEVEN SPORT 4
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=63303_&extension=ts
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=176344133852_image-header_pRow_1687878826000" group-title="EROPA SPORT", ELEVEN SPORT 5
@@ -7996,11 +8000,6 @@ http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=41766_&e
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/Eleven_Sports_4.svg/revision/latest/scale-to-width-down/250?cb=20210210163056" group-title="EROPA SPORT", ELEVEN SPORT 4 PL
 http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=41767_&extension=ts&play_token=W0JcMWGscf
 
-
-#EXTINF:-1 tvg-logo="https://www.marketingreport.be/images/2022/Q3/dazn-eleven-sports-marketing-report.jpg" group-title="EROPA SPORT", ELEVEN SPORT 1
-http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=992_&extension=ts
-#EXTINF:-1 tvg-logo="https://www.marketingreport.be/images/2022/Q3/dazn-eleven-sports-marketing-report.jpg" group-title="EROPA SPORT", ELEVEN SPORT 2
-http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=993_&extension=ts
 
 
 #EXTINF:-1 tvg-logo="xxxxxxxx" group-title="EROPA SPORT", EUROSPORT 1 
@@ -8032,7 +8031,7 @@ http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=804473&extension=
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz6GFNujd2i4CKLn9xjF_ZpWCKTyAKtRQuXA&usqp=CAU" group-title="EROPA SPORT", KLUB SPORT 
-http://10142525.xyz:8080/UmTCskNnN/AXwGAgNCCpcT/173005
+http://faucontv.live:8080/vaya/2kTxdjWYfn/33342
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkLhSFflbk6g8cK4j6bjYH5tEMIQhd07rLuA&usqp=CAU" group-title="EROPA SPORT", KLUB SPORT 1 
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=845309&extension=ts&play_token=YO16GdFUjs
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRI_FAXSwTKQ4DxXchQsPwEd7gDJ5p5k-tlCw&usqp=CAU" group-title="EROPA SPORT", KLUB SPORT 2
@@ -8080,19 +8079,19 @@ http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=61818_&extens
 
 
 #EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/508692b4bb39baaa5fc257367b5d799e.png" group-title="EROPA SPORT", RMC SPORT 1 HD
-http://10142525.xyz:8080/UmTCskNnN/AXwGAgNCCpcT/171092
+http://faucontv.live:8080/vaya/2kTxdjWYfn/114486
 #EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/23bf89ddfb161b3421e73c78b16d2145.png" group-title="EROPA SPORT", RMC SPORT 2 HD
-http://10142525.xyz:8080/UmTCskNnN/AXwGAgNCCpcT/171093
+http://faucontv.live:8080/vaya/2kTxdjWYfn/114488
 #EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/508692b4bb39baaa5fc257367b5d799e.png" group-title="EROPA SPORT", RMC SPORT 1 FHD
-http://memotv.xyz:8080/koray.mum/3rFP5mWSCx/392964
+http://faucontv.live:8080/vaya/2kTxdjWYfn/114487
 #EXTINF:-1 tvg-logo="xxxxxxxx" group-title="EROPA SPORT", RMC SPORT 2 FHD
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=508156&extension=ts&play_token=Z6JZQHmj4P 
 #EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/0d1c01fd13c353330ad9a25c1484db80.png" group-title="EROPA SPORT", RMC SPORT 3 HD
-http://10142525.xyz:8080/UmTCskNnN/AXwGAgNCCpcT/171094
+http://faucontv.live:8080/vaya/2kTxdjWYfn/114490
 #EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/c0ba8f5d77423a254a5f6c8e3b8c0c45.png" group-title="EROPA SPORT", RMC SPORT 4 HD
-http://10142525.xyz:8080/UmTCskNnN/AXwGAgNCCpcT/171095
+http://faucontv.live:8080/vaya/2kTxdjWYfn/114491
 #EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/e6d0b47b757e61f99c72576c5d86c465.png" group-title="EROPA SPORT", RMC SPORT LIVE 5 HD
-http://memotv.xyz:8080/koray.mum/3rFP5mWSCx/293117
+http://faucontv.live:8080/vaya/2kTxdjWYfn/114492
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQISkXfljQOdZOskNSrCSNROXZQcgFp2twAbQ&usqp=CAU" group-title="EROPA SPORT", RAI SPORT
@@ -8126,13 +8125,7 @@ http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=1021_&extensi
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/vvvqxp1470408443.png" group-title="EROPA SPORT", SPORT TV 5
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=1022_&extension=ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSProcbvh2KwssGqfLZQBcdvEakAa5lELAaiw&usqp=CAU" group-title="EROPA SPORT", NBA TV SPORT
-http://10142525.xyz:8080/UmTCskNnN/AXwGAgNCCpcT/171840
-
-
-#EXTINF:-1 tvg-logo="_____" group-title="EROPA SPORT", SPORT 1 HU
-http://10142525.xyz:8080/UmTCskNnN/AXwGAgNCCpcT/225729
-#EXTINF:-1 tvg-logo="_____" group-title="EROPA SPORT", SPORT 2 HU
-http://10142525.xyz:8080/UmTCskNnN/AXwGAgNCCpcT/225730
+http://faucontv.live:8080/vaya/2kTxdjWYfn/9362
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/superPL.png" group-title="EROPA SPORT", SUPER SPORT PREMIER LEAGUE 
@@ -8167,18 +8160,11 @@ http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=239085&extens
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=239084&extension=ts&play_token=Tj5rP8kRtc
 
 #EXTINF:-1 tvg-logo="_____" group-title="EROPA SPORT", ORF SPORT AT
-http://10142525.xyz:8080/UmTCskNnN/AXwGAgNCCpcT/256723
+http://faucontv.live:8080/vaya/2kTxdjWYfn/114336
 #EXTINF:-1 tvg-logo="_____" group-title="EROPA SPORT", SKY SPORT AUSTRIA 1
-http://10142525.xyz:8080/UmTCskNnN/AXwGAgNCCpcT/256725
+http://faucontv.live:8080/vaya/2kTxdjWYfn/114337
 #EXTINF:-1 tvg-logo="_____" group-title="EROPA SPORT", SKY SPORT AUSTRIA 2
-http://10142525.xyz:8080/UmTCskNnN/AXwGAgNCCpcT/256727
-#EXTINF:-1 tvg-logo="_____" group-title="EROPA SPORT", SKY SPORT AUSTRIA 3
-http://10142525.xyz:8080/UmTCskNnN/AXwGAgNCCpcT/256729
-#EXTINF:-1 tvg-logo="_____" group-title="EROPA SPORT", SKY SPORT AUSTRIA 4
-http://10142525.xyz:8080/UmTCskNnN/AXwGAgNCCpcT/256731
-#EXTINF:-1 tvg-logo="_____" group-title="EROPA SPORT", SKY SPORT AUSTRIA 5
-http://10142525.xyz:8080/UmTCskNnN/AXwGAgNCCpcT/256733
-
+http://faucontv.live:8080/vaya/2kTxdjWYfn/114340
 
 
 
@@ -8223,6 +8209,14 @@ http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=811937&extens
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/playgolf.png" group-title="EROPA SPORT", PLAY SPORT GOLF
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=811936&extension=ts&play_token=gec2IMAjS7
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/play1.png" group-title="EROPA SPORT", PLAY SPORT 1 B
+http://faucontv.live:8080/vaya/2kTxdjWYfn/114543
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/play2.png" group-title="EROPA SPORT", PLAY SPORT 2 B
+http://faucontv.live:8080/vaya/2kTxdjWYfn/114544
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/play3.png" group-title="EROPA SPORT", PLAY SPORT 3 B
+http://faucontv.live:8080/vaya/2kTxdjWYfn/114545
+
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/TV_2_Sport_2023.svg/1200px-TV_2_Sport_2023.svg.png" group-title="EROPA SPORT", TV2 SPORT 1
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=111201_&extension=ts
@@ -8232,12 +8226,19 @@ http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=111202_&exten
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=111203_&extension=ts
 
 
-#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="EROPA SPORT", TV SPORT 1
-http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/10264
-#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="EROPA SPORT", TV SPORT 2
-http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/10257
-#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="EROPA SPORT", TV SPORT PREMIUM
-http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/10255
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="EROPA SPORT", TV2 SPORT 1
+http://faucontv.live:8080/vaya/2kTxdjWYfn/114793
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="EROPA SPORT", TV2 SPORT X
+http://faucontv.live:8080/vaya/2kTxdjWYfn/114793
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="EROPA SPORT", TV3 SPORT 2
+http://faucontv.live:8080/vaya/2kTxdjWYfn/114796
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="EROPA SPORT", SPORT 1 HU
+http://faucontv.live:8080/vaya/2kTxdjWYfn/115677
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="EROPA SPORT", SPORT 2 HU
+http://faucontv.live:8080/vaya/2kTxdjWYfn/115678
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="EROPA SPORT", 4 ARENA HU
+http://faucontv.live:8080/vaya/2kTxdjWYfn/34691
+
 
 #EXTINF:-1 tvg-logo="xxxxxxxx" group-title="EROPA SPORT", S SPORT TV 1
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=161952&extension=ts&play_token=49oVKQPh3R
@@ -8271,7 +8272,7 @@ http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/85699
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=132781&extension=ts&play_token=bVFFxXhGrN
 
 #EXTINF:-1 tvg-logo="xxxxxxxx" group-title="EROPA SPORT", V SPORT PREMIUM
-http://10142525.xyz:8080/UmTCskNnN/AXwGAgNCCpcT/222152
+http://faucontv.live:8080/vaya/2kTxdjWYfn/114763
 #EXTINF:-1 tvg-logo="xxxxxxxx" group-title="EROPA SPORT", V SPORT VINTER
 http://10142525.xyz:8080/UmTCskNnN/AXwGAgNCCpcT/222153
 #EXTINF:-1 tvg-logo="xxxxxxxx" group-title="EROPA SPORT", V SPORT MOTOR
@@ -9205,11 +9206,19 @@ http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AF:AD:53&stream=1021910&exte
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AF:AD:53&stream=1021794&extension=ts
 #EXTINF:-1 tvg-logo="______" group-title="LAIN-LAIN SPORT", ARENA SPORT SLV
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AF:AD:53&stream=1021782&extension=ts
-
-
+#EXTINF:-1 tvg-logo="______" group-title="LAIN-LAIN SPORT", L'EQUEPE
+http://faucontv.live:8080/vaya/2kTxdjWYfn/114516
+#EXTINF:-1 tvg-logo="______" group-title="LAIN-LAIN SPORT", GOLF CHANEL FR
+http://faucontv.live:8080/vaya/2kTxdjWYfn/114519
+#EXTINF:-1 tvg-logo="______" group-title="LAIN-LAIN SPORT", TVP SPORT
+http://faucontv.live:8080/vaya/2kTxdjWYfn/114847
+#EXTINF:-1 tvg-logo="______" group-title="LAIN-LAIN SPORT", M4 SPORT
+http://faucontv.live:8080/vaya/2kTxdjWYfn/115675
+#EXTINF:-1 tvg-logo="______" group-title="LAIN-LAIN SPORT", nSPORT
+http://faucontv.live:8080/vaya/2kTxdjWYfn/33345
 
 #EXTINF:-1 tvg-logo="xxxxxxxx" group-title="LAIN-LAIN SPORT", XTREAM SPORT
-http://10142525.xyz:8080/UmTCskNnN/AXwGAgNCCpcT/173414
+http://faucontv.live:8080/vaya/2kTxdjWYfn/9816
 #EXTINF:-1 tvg-logo="xxxxxxxx" group-title="LAIN-LAIN SPORT", MOTOSPORT
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=132601&extension=ts&play_token=VTr50vx2fK
 #EXTINF:-1 tvg-logo="xxxxxxxx" group-title="LAIN-LAIN SPORT", MATCH IGRA
@@ -9220,8 +9229,10 @@ http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=132595&extension=
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=841862&extension=ts&play_token=50kr8jEPAY
 #EXTINF:-1 tvg-logo="xxxxxxxx" group-title="LAIN-LAIN SPORT", KHL PRIME
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=132527&extension=ts&play_token=1p5Qyp7EY8
-#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="LAIN-LAIN SPORT", TELEKANAL
-http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=132726&extension=ts&play_token=vlJ3fcNuMu
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="LAIN-LAIN SPORT", SPORTKANALEN
+http://faucontv.live:8080/vaya/2kTxdjWYfn/114767
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="LAIN-LAIN SPORT", SPORT LIVE
+http://faucontv.live:8080/vaya/2kTxdjWYfn/114790
 #EXTINF:-1 tvg-logo="xxxxxxxx" group-title="LAIN-LAIN SPORT", SPORTSKA
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=110687&extension=ts&play_token=zbJ3kOYLbL
 
@@ -9240,9 +9251,9 @@ http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=174798&extens
 #EXTINF:-1 tvg-logo="______" group-title="LAIN-LAIN SPORT", NBA TV 1
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=174795&extension=ts&play_token=Kux57Ra1IK
 #EXTINF:-1 tvg-logo="______" group-title="LAIN-LAIN SPORT", NBA TV 2
-http://10142525.xyz:8080/UmTCskNnN/AXwGAgNCCpcT/232235
+http://faucontv.live:8080/vaya/2kTxdjWYfn/114609
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyuFyuTJCg06ESYxmitUg_y0hwTJ0pZgjGBQ&usqp=CAU" group-title="LAIN-LAIN SPORT", EDGE SPORT
-http://10142525.xyz:8080/UmTCskNnN/AXwGAgNCCpcT/32411
+http://faucontv.live:8080/vaya/2kTxdjWYfn/114741
 
 
 #######################
@@ -9386,14 +9397,19 @@ http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=107430&extens
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=983567&extension=ts&play_token=KIl56CmfeQ
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLtQRHjRZlYfBxxA73H4WfyIESKEmbK6T1lA&usqp=CAU" group-title="CLUB FOOTBALL", REAL MADRID TV
-http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=55543_&extension=ts
+http://faucontv.live:8080/vaya/2kTxdjWYfn/114582
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZHrR_ih_g1rYHvSaKFC9y_7LGFbuB4zJWjw&usqp=CAU" group-title="CLUB FOOTBALL", BARCA TV
-http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/1170
+http://faucontv.live:8080/vaya/2kTxdjWYfn/114583
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDkXhbSwjuSP-XuaUPzDRs9BBg1vWmOUpSGg&usqp=CAU" group-title="CLUB FOOTBALL", GALATASARAY TV
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=913366&extension=ts&play_token=rVaW2rlt6f
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl6MCmhuaV1Un8Zx7XUHnSWxUVBOANby0lDZb4pTCroTioIBaVx1ewjJEO&s=10" group-title="CLUB FOOTBALL", FENERBACE TV
-http://10142525.xyz:8080/UmTCskNnN/AXwGAgNCCpcT/5935
+http://faucontv.live:8080/vaya/2kTxdjWYfn/9353
+http://faucontv.live:8080/vaya/2kTxdjWYfn/114954
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9-5j47VYbMzeo5euGb5rpT-_YliZ1TnVpBA&usqp=CAU" group-title="CLUB FOOTBALL", SEVILLA TV
+http://faucontv.live:8080/vaya/2kTxdjWYfn/114586
 
 
 
@@ -9407,8 +9423,11 @@ https://github.com/inaldie/inaldie/raw/main/LOGO.ts
 
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/SK_Fight_HR_logo.png" group-title="FIGHT SPORT", FIGHT KLUB 1
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=880280&extension=ts&play_token=EbtHXiHBKX
-#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/SK_Fight_HR_logo.png" group-title="FIGHT SPORT", FIGHT KLUB 2
-http://10142525.xyz:8080/UmTCskNnN/AXwGAgNCCpcT/173416
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/SK_Fight_HR_logo.png" group-title="FIGHT SPORT", FIGHT SPORT KLUB
+http://faucontv.live:8080/vaya/2kTxdjWYfn/33348
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/SK_Fight_HR_logo.png" group-title="FIGHT SPORT", UFC FIGHT PASS
+http://faucontv.live:8080/vaya/2kTxdjWYfn/21243
+
 #EXTINF:-1 tvg-logo="-------" group-title="FIGHT SPORT", FIGHT BOX
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=61800_&extension=ts
 #EXTINF:-1 tvg-logo="-------" group-title="FIGHT SPORT", XTREAM SPORT
