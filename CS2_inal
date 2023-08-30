@@ -36,7 +36,7 @@ http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=571247&extension=
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/ligaeropa.png" group-title="#⚽EVENT BOLA⚽#", LIGA TOP EROPA 13
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:4b:61:87&stream=1350557_&extension=ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/ligaeropa.png" group-title="#⚽EVENT BOLA⚽#", LIGA TOP EROPA 14
-http://muka03.wanicelife.com:8880/live/3ca06303n13/asdfe23e32/28134.m3u8
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:E0:56&stream=59057&extension=ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/ligaeropa.png" group-title="#⚽EVENT BOLA⚽#", LIGA TOP EROPA 15
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=1131946&extension=ts&play_token=ijnmRQLtfl
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/ligaeropa.png" group-title="#⚽EVENT BOLA⚽#", LIGA TOP EROPA 16
@@ -49,7 +49,7 @@ http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=913380&extension=
 http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=1032457&extension=ts&play_token=cvcqACl3FV
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/ligaeropa.png" group-title="#⚽EVENT BOLA⚽#", LIGA TOP EROPA 20
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032471&extension=ts&play_token=InCwgv0Zsg
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/ligaeropa.png" group-title="#⚽EVENT BOLA⚽#", CARI DI EROPA SPORT
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/262/768/png-clipart-traffic-sign-sign-stop-angle-text.png" group-title="#⚽EVENT BOLA⚽#", CARI DI EROPA SPORT
 https://github.com/inaldie/inaldie/raw/main/LOGO.ts
 
 
@@ -138,7 +138,7 @@ http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=508165&extens
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/logomotogp.png" group-title="#🏍️EVENT GP&F1🏎️#", GP 2
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=692422&extension=ts&play_token=Nc9qifjsYN
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/logomotogp.png" group-title="#🏍️EVENT GP&F1🏎️#", GP 3
-http://obshd.tv:25461/@localhdtv/hffEJ2kzX3Qf/3616
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:E0:56&stream=305274&extension=ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/logomotogp.png" group-title="#🏍️EVENT GP&F1🏎️#", GP 4
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=239082&extension=ts&play_token=a0dyarOiLA
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/logomotogp.png" group-title="#🏍️EVENT GP&F1🏎️#", GP 5
@@ -150,7 +150,7 @@ http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=508331&extens
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/logof1.png" group-title="#🏍️EVENT GP&F1🏎️#", F1 2
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=83453&extension=ts&play_token=U71gOhaI4v
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/logof1.png" group-title="#🏍️EVENT GP&F1🏎️#", F1 3
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=692428&extension=ts&play_token=cz0KKH7WWe
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:E0:56&stream=295373&extension=ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/logof1.png" group-title="#🏍️EVENT GP&F1🏎️#", F1 4
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=61977_&extension=ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/logof1.png" group-title="#🏍️EVENT GP&F1🏎️#", F1 5
@@ -6919,13 +6919,28 @@ http://magott.net:80/okota380/RvPBwTrjvRPM/25734
 http://magott.net:80/okota380/RvPBwTrjvRPM/25735
 #EXTINF:-1 tvg-logo="http://magott.net:80/images/25f8473b19e0aa22e3d21720674a1578.png" group-title="BEIN GRUP", beIN SPORTS NBA HD
 http://magott.net:80/okota380/RvPBwTrjvRPM/38943
-#EXTINF:-1 tvg-logo="http://magott.net:80/images/91fee2f3adee5c6887032093f5216560.png" group-title="BEIN GRUP", BeINSport FRENCH 1 FHD
-http://magott.net:80/okota380/RvPBwTrjvRPM/58
-#EXTINF:-1 tvg-logo="http://magott.net:80/images/eb106688e865cd89283a075021c69292.png" group-title="BEIN GRUP", BeINSport FRENCH 2 FHD
-http://magott.net:80/okota380/RvPBwTrjvRPM/60
-#EXTINF:-1 tvg-logo="http://magott.net:80/images/40a0592195823a4b39c095751efde887.png" group-title="BEIN GRUP", BeINSport FRENCH 3 FHD
-http://magott.net:80/okota380/RvPBwTrjvRPM/62
 
+
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", BEIN SPORT 1 FR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:E0:56&stream=59062&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", BEIN SPORT 2 FR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:E0:56&stream=59063&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", BEIN SPORT 3 FR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:E0:56&stream=59064&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", BEIN SPORT 4 MAX
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:E0:56&stream=59066&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", BEIN SPORT 5 MAX
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:E0:56&stream=59067&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", BEIN SPORT 6 MAX
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:E0:56&stream=59068&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", BEIN SPORT 7 MAX
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:E0:56&stream=59069&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", BEIN SPORT 8 MAX
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:E0:56&stream=59070&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", BEIN SPORT 9 MAX
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:E0:56&stream=59071&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", BEIN SPORT 10 MAX
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:E0:56&stream=59065&extension=ts
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/brVtrxc/41.png" group-title="BEIN GRUP", BEIN SPORT PREMIUM 1
@@ -6952,78 +6967,9 @@ http://s1.pubnow.info:8080/Achraf-charaf/G8PMwKY3JqcR/73139
 http://s1.pubnow.info:8080/Achraf-charaf/G8PMwKY3JqcR/73141
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pQkTkBp/4k7.png" group-title="BEIN GRUP", BEIN SPORT 7
 http://s1.pubnow.info:8080/Achraf-charaf/G8PMwKY3JqcR/73143
-
-
 #EXTINF:-1 tvg-logo="http://vod-logo.net/photos/3963471dee86ddcfbe014f8b4eaa6eb3.jpg" group-title="BEIN GRUP", Bein Sport News HD
 http://s1.pubnow.info:8080/Achraf-charaf/G8PMwKY3JqcR/12941
-#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/70a3a85fc866f117eed9cb582e28f23d.jpg" group-title="BEIN GRUP", Bein Movies HD1
-http://s1.pubnow.info:8080/Achraf-charaf/G8PMwKY3JqcR/13087
-#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/966a57d91127d0a3f630faab369b68cf.jpg" group-title="BEIN GRUP", Bein Movies HD2
-http://s1.pubnow.info:8080/Achraf-charaf/G8PMwKY3JqcR/13088
-#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/db562edb68f96be59df823978606de4e.jpg" group-title="BEIN GRUP", Bein Movies HD3
-http://s1.pubnow.info:8080/Achraf-charaf/G8PMwKY3JqcR/13089
-#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/a015a4e71bdc409e5b4c3657e0c9ee82.jpg" group-title="BEIN GRUP", Bein Movies HD4
-http://s1.pubnow.info:8080/Achraf-charaf/G8PMwKY3JqcR/13090
-#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/0e96852a3a681794244179c87d15522b.jpg" group-title="BEIN GRUP", Bein Series 1 HD
-http://s1.pubnow.info:8080/Achraf-charaf/G8PMwKY3JqcR/13091
-#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/ab4db925e2c6631550ee3e4efe20d97a.jpg" group-title="BEIN GRUP", Bein Series 2 HD
-http://s1.pubnow.info:8080/Achraf-charaf/G8PMwKY3JqcR/13092
-#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/43d1bc3e02cbacac523e26fa11fe64f8.png" group-title="BEIN GRUP", Bein Drama 1HD
-http://s1.pubnow.info:8080/Achraf-charaf/G8PMwKY3JqcR/13093
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", Bein Fox Life HD
-http://s1.pubnow.info:8080/Achraf-charaf/G8PMwKY3JqcR/13094
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", Bein Fox Crime HD
-http://s1.pubnow.info:8080/Achraf-charaf/G8PMwKY3JqcR/13095
-#EXTINF:-1 tvg-logo="http://www.vod-logo.net/photos/89fed4025d8fea3cf9fddbba3dece3fc.jpg" group-title="BEIN GRUP", Bein Fox HD
-http://s1.pubnow.info:8080/Achraf-charaf/G8PMwKY3JqcR/13097
 
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", Bein Fox Movies HD
-http://s1.pubnow.info:8080/Achraf-charaf/G8PMwKY3JqcR/13098
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", Bein Fox Action Movies HD
-http://s1.pubnow.info:8080/Achraf-charaf/G8PMwKY3JqcR/13099
-#EXTINF:-1 tvg-logo="http://www.vod-logo.net/photos/4ebfc94bb0d3af9d2508eac495af595b.jpg" group-title="BEIN GRUP", Bein Star World HD
-http://s1.pubnow.info:8080/Achraf-charaf/G8PMwKY3JqcR/13100
-#EXTINF:-1 tvg-logo="http://www.vod-logo.net/photos/1e1105028ef2841768dc3c877a462095.jpg" group-title="BEIN GRUP", Bein Star Movies HD
-http://s1.pubnow.info:8080/Achraf-charaf/G8PMwKY3JqcR/13101
-#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/b1313851e2fbc7119d19e5dfa0f6253a.jpg" group-title="BEIN GRUP", Bein HG TV HD
-http://s1.pubnow.info:8080/Achraf-charaf/G8PMwKY3JqcR/13102
-#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/c7cea0ec0525f128734aefd3eaa0559a.jpg" group-title="BEIN GRUP", Bein AMC HD
-http://s1.pubnow.info:8080/Achraf-charaf/G8PMwKY3JqcR/13103
-#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/17de009b6886c6ebd69e8c2a1d82cd7d.jpg" group-title="BEIN GRUP", Bein Gourmet HD
-http://s1.pubnow.info:8080/Achraf-charaf/G8PMwKY3JqcR/13104
-#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/a294039ef167065cdaf9d495b4289466.JPG" group-title="BEIN GRUP", Bein Fatafeat HD
-http://s1.pubnow.info:8080/Achraf-charaf/G8PMwKY3JqcR/13105
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", Bein Fine Living HD
-http://s1.pubnow.info:8080/Achraf-charaf/G8PMwKY3JqcR/13106
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", Bein Food Network HD
-http://s1.pubnow.info:8080/Achraf-charaf/G8PMwKY3JqcR/13107
-#EXTINF:-1 tvg-logo="http://www.vod-logo.net/photos/6199f80a4bc58ab6b1ee9d2fd7039217.jpg" group-title="BEIN GRUP", Bein BBC earth HD
-http://s1.pubnow.info:8080/Achraf-charaf/G8PMwKY3JqcR/13108
-#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/380fe8b2cede2427e80611920087d990.jpg" group-title="BEIN GRUP", Bein Travel HD
-http://s1.pubnow.info:8080/Achraf-charaf/G8PMwKY3JqcR/13109
-#EXTINF:-1 tvg-logo="http://www.vod-logo.net/photos/8e60fb1507fc33be0d8e82e4b311260a.jpg" group-title="BEIN GRUP", Bein OutDoor HD
-http://s1.pubnow.info:8080/Achraf-charaf/G8PMwKY3JqcR/13110
-#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/de5640c6e35d7308dcb2723cbb26e09e.jpg" group-title="BEIN GRUP", Bein Discovery Max HD
-http://s1.pubnow.info:8080/Achraf-charaf/G8PMwKY3JqcR/13111
-#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/e16fa7b6cd243d1b3081e38a01b550e3.jpg" group-title="BEIN GRUP", Bein Discovery Life HD
-http://s1.pubnow.info:8080/Achraf-charaf/G8PMwKY3JqcR/13112
-#EXTINF:-1 tvg-logo="http://www.vod-logo.net/photos/286bcee8579c2ac48c056e811c051524.jpg" group-title="BEIN GRUP", Bein National Geographic HD
-http://s1.pubnow.info:8080/Achraf-charaf/G8PMwKY3JqcR/13113
-#EXTINF:-1 tvg-logo="http://www.vod-logo.net/photos/699edfa82550dc3b37bc1c7db976234b.jpg" group-title="BEIN GRUP", Bein National Geographic Wild HD
-http://s1.pubnow.info:8080/Achraf-charaf/G8PMwKY3JqcR/13114
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", Bein National Geographic People HD
-http://s1.pubnow.info:8080/Achraf-charaf/G8PMwKY3JqcR/13115
-#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/016f74e4f8b8c0499fee2f2efa60bd18.jpg" group-title="BEIN GRUP", Bein Animal Planet HD
-http://s1.pubnow.info:8080/Achraf-charaf/G8PMwKY3JqcR/13116
-#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/fc7dd5590d2ca58954499cefda7398e7.png" group-title="BEIN GRUP", Bein Baraem HD
-http://s1.pubnow.info:8080/Achraf-charaf/G8PMwKY3JqcR/13117
-#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/f9afa61e2ac8f44d1a69fcf72d1223a2.png" group-title="BEIN GRUP", Bein Jeem HD
-http://s1.pubnow.info:8080/Achraf-charaf/G8PMwKY3JqcR/13118
-#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/e5c00db765db29f63536879aaf95d73d.jpg" group-title="BEIN GRUP", Bein Boomerang HD
-http://s1.pubnow.info:8080/Achraf-charaf/G8PMwKY3JqcR/13119
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", Bein Baby HD
-http://s1.pubnow.info:8080/Achraf-charaf/G8PMwKY3JqcR/13120
 
 #EXTINF:-1 tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-SPORTFHD/BEIN2FRFHD.png" group-title="BEIN GRUP", |FR| BEIN SPORTS 1 FHD
 http://s1.pubnow.info:8080/Achraf-charaf/G8PMwKY3JqcR/170
@@ -7137,6 +7083,8 @@ http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=63135_&extens
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=63136_&extension=ts
 
 
+
+
 #EXTINF:-1 tvg-logo="-------" group-title="BEIN GRUP", BEIN MOVIE ACTION 1
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=31488_&extension=ts
 #EXTINF:-1 tvg-logo="-------" group-title="BEIN GRUP", BEIN MOVIE ACTION 2
@@ -7168,6 +7116,77 @@ http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=63102_&extens
 #EXTINF:-1 tvg-logo="-------" group-title="BEIN GRUP", SINEMA AKSIYON
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=31500_&extension=ts
 
+#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/70a3a85fc866f117eed9cb582e28f23d.jpg" group-title="BEIN GRUP", Bein Movies HD1
+http://s1.pubnow.info:8080/Achraf-charaf/G8PMwKY3JqcR/13087
+#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/966a57d91127d0a3f630faab369b68cf.jpg" group-title="BEIN GRUP", Bein Movies HD2
+http://s1.pubnow.info:8080/Achraf-charaf/G8PMwKY3JqcR/13088
+#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/db562edb68f96be59df823978606de4e.jpg" group-title="BEIN GRUP", Bein Movies HD3
+http://s1.pubnow.info:8080/Achraf-charaf/G8PMwKY3JqcR/13089
+#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/a015a4e71bdc409e5b4c3657e0c9ee82.jpg" group-title="BEIN GRUP", Bein Movies HD4
+http://s1.pubnow.info:8080/Achraf-charaf/G8PMwKY3JqcR/13090
+#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/0e96852a3a681794244179c87d15522b.jpg" group-title="BEIN GRUP", Bein Series 1 HD
+http://s1.pubnow.info:8080/Achraf-charaf/G8PMwKY3JqcR/13091
+#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/ab4db925e2c6631550ee3e4efe20d97a.jpg" group-title="BEIN GRUP", Bein Series 2 HD
+http://s1.pubnow.info:8080/Achraf-charaf/G8PMwKY3JqcR/13092
+#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/43d1bc3e02cbacac523e26fa11fe64f8.png" group-title="BEIN GRUP", Bein Drama 1HD
+http://s1.pubnow.info:8080/Achraf-charaf/G8PMwKY3JqcR/13093
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", Bein Fox Life HD
+http://s1.pubnow.info:8080/Achraf-charaf/G8PMwKY3JqcR/13094
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", Bein Fox Crime HD
+http://s1.pubnow.info:8080/Achraf-charaf/G8PMwKY3JqcR/13095
+#EXTINF:-1 tvg-logo="http://www.vod-logo.net/photos/89fed4025d8fea3cf9fddbba3dece3fc.jpg" group-title="BEIN GRUP", Bein Fox HD
+http://s1.pubnow.info:8080/Achraf-charaf/G8PMwKY3JqcR/13097
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", Bein Fox Movies HD
+http://s1.pubnow.info:8080/Achraf-charaf/G8PMwKY3JqcR/13098
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", Bein Fox Action Movies HD
+http://s1.pubnow.info:8080/Achraf-charaf/G8PMwKY3JqcR/13099
+#EXTINF:-1 tvg-logo="http://www.vod-logo.net/photos/4ebfc94bb0d3af9d2508eac495af595b.jpg" group-title="BEIN GRUP", Bein Star World HD
+http://s1.pubnow.info:8080/Achraf-charaf/G8PMwKY3JqcR/13100
+#EXTINF:-1 tvg-logo="http://www.vod-logo.net/photos/1e1105028ef2841768dc3c877a462095.jpg" group-title="BEIN GRUP", Bein Star Movies HD
+http://s1.pubnow.info:8080/Achraf-charaf/G8PMwKY3JqcR/13101
+#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/b1313851e2fbc7119d19e5dfa0f6253a.jpg" group-title="BEIN GRUP", Bein HG TV HD
+http://s1.pubnow.info:8080/Achraf-charaf/G8PMwKY3JqcR/13102
+#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/c7cea0ec0525f128734aefd3eaa0559a.jpg" group-title="BEIN GRUP", Bein AMC HD
+http://s1.pubnow.info:8080/Achraf-charaf/G8PMwKY3JqcR/13103
+#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/17de009b6886c6ebd69e8c2a1d82cd7d.jpg" group-title="BEIN GRUP", Bein Gourmet HD
+http://s1.pubnow.info:8080/Achraf-charaf/G8PMwKY3JqcR/13104
+#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/a294039ef167065cdaf9d495b4289466.JPG" group-title="BEIN GRUP", Bein Fatafeat HD
+http://s1.pubnow.info:8080/Achraf-charaf/G8PMwKY3JqcR/13105
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", Bein Fine Living HD
+http://s1.pubnow.info:8080/Achraf-charaf/G8PMwKY3JqcR/13106
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", Bein Food Network HD
+http://s1.pubnow.info:8080/Achraf-charaf/G8PMwKY3JqcR/13107
+#EXTINF:-1 tvg-logo="http://www.vod-logo.net/photos/6199f80a4bc58ab6b1ee9d2fd7039217.jpg" group-title="BEIN GRUP", Bein BBC earth HD
+http://s1.pubnow.info:8080/Achraf-charaf/G8PMwKY3JqcR/13108
+#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/380fe8b2cede2427e80611920087d990.jpg" group-title="BEIN GRUP", Bein Travel HD
+http://s1.pubnow.info:8080/Achraf-charaf/G8PMwKY3JqcR/13109
+#EXTINF:-1 tvg-logo="http://www.vod-logo.net/photos/8e60fb1507fc33be0d8e82e4b311260a.jpg" group-title="BEIN GRUP", Bein OutDoor HD
+http://s1.pubnow.info:8080/Achraf-charaf/G8PMwKY3JqcR/13110
+#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/de5640c6e35d7308dcb2723cbb26e09e.jpg" group-title="BEIN GRUP", Bein Discovery Max HD
+http://s1.pubnow.info:8080/Achraf-charaf/G8PMwKY3JqcR/13111
+#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/e16fa7b6cd243d1b3081e38a01b550e3.jpg" group-title="BEIN GRUP", Bein Discovery Life HD
+http://s1.pubnow.info:8080/Achraf-charaf/G8PMwKY3JqcR/13112
+#EXTINF:-1 tvg-logo="http://www.vod-logo.net/photos/286bcee8579c2ac48c056e811c051524.jpg" group-title="BEIN GRUP", Bein National Geographic HD
+http://s1.pubnow.info:8080/Achraf-charaf/G8PMwKY3JqcR/13113
+#EXTINF:-1 tvg-logo="http://www.vod-logo.net/photos/699edfa82550dc3b37bc1c7db976234b.jpg" group-title="BEIN GRUP", Bein National Geographic Wild HD
+http://s1.pubnow.info:8080/Achraf-charaf/G8PMwKY3JqcR/13114
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", Bein National Geographic People HD
+http://s1.pubnow.info:8080/Achraf-charaf/G8PMwKY3JqcR/13115
+#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/016f74e4f8b8c0499fee2f2efa60bd18.jpg" group-title="BEIN GRUP", Bein Animal Planet HD
+http://s1.pubnow.info:8080/Achraf-charaf/G8PMwKY3JqcR/13116
+#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/fc7dd5590d2ca58954499cefda7398e7.png" group-title="BEIN GRUP", Bein Baraem HD
+http://s1.pubnow.info:8080/Achraf-charaf/G8PMwKY3JqcR/13117
+#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/f9afa61e2ac8f44d1a69fcf72d1223a2.png" group-title="BEIN GRUP", Bein Jeem HD
+http://s1.pubnow.info:8080/Achraf-charaf/G8PMwKY3JqcR/13118
+#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/e5c00db765db29f63536879aaf95d73d.jpg" group-title="BEIN GRUP", Bein Boomerang HD
+http://s1.pubnow.info:8080/Achraf-charaf/G8PMwKY3JqcR/13119
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", Bein Baby HD
+http://s1.pubnow.info:8080/Achraf-charaf/G8PMwKY3JqcR/13120
+
+
+
 #EXTINF:-1 tvg-logo="http://one-iptv.com/imageslogo/beINMovies1.qa.png" group-title="BEIN GRUP", AR.| MOVIES HD 1 PREMIERE
 http://pro.xviptv.com:25443/live/6532287675/4648388393/48031.ts
 #EXTINF:-1 tvg-logo="http://one-iptv.com/imageslogo/beINMovies2.qa.png" group-title="BEIN GRUP", AR.| MOVIES HD 2 ACTION
@@ -7196,7 +7215,6 @@ http://pro.xviptv.com:25443/live/6532287675/4648388393/48006.ts
 http://pro.xviptv.com:25443/live/6532287675/4648388393/48027.ts
 #EXTINF:-1 tvg-logo="http://one-iptv.com/imageslogo/beINSeries2.qa.png" group-title="BEIN GRUP", AR.| SERIES 2 HD
 http://pro.xviptv.com:25443/live/6532287675/4648388393/48025.ts
-
 
 
 #EXTINF:-1 tvg-logo="http://myserveriptv.com:2082/images/808fc32d630bbb702a81e320385fe9a5.png" group-title="BEIN GRUP", TR: beIN Gurme
