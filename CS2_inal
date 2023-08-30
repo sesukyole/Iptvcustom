@@ -7453,7 +7453,7 @@ http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=571246&extension=
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=571253&extension=ts&play_token=OqkrNxqNnQ
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png" group-title="ASIA SPORT", ASTRO CRICKET
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=1036490&extension=ts&play_token=83HkgGZDVI
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png" group-title="ASIA SPORT", ASTRO ARENA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png" group-title="ASIA SPORT", ASTRO ARENA
 http://faucontv.live:8080/vaya/2kTxdjWYfn/34881
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/HUB%201.png" group-title="ASIA SPORT", HUB SPORT 1
