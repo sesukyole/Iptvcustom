@@ -7508,7 +7508,9 @@ http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=517224_&exte
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Sony_Sports_Ten_3.png/revision/latest/scale-to-width-down/460?cb=20221025085433" group-title="ASIA SPORT", SONY TEN SPORT 3
 http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=517225_&extension=ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/Sony_Sports_Ten_4.png/revision/latest/scale-to-width-down/460?cb=20221025090401" group-title="ASIA SPORT", SONY TEN SPORT 4
-http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=1114579&extension=ts&play_token=4LDPYXrgXr
+https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/Sony_Sports_Ten_4.png/revision/latest/scale-to-width-down/460?cb=20221025090401" group-title="ASIA SPORT", SONY TEN SPORT 4 B
+https://pubads.g.doubleclick.net/ssai/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/Sony_Sports_Ten_5.png/revision/latest/scale-to-width-down/460?cb=20221025091902" group-title="ASIA SPORT", SONY TEN SPORT 5
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=156016&extension=ts&play_token=sWYEQX5Wdw
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw7oODkwDTvMMXEEJU7wXcsI8h1ZJARNJ2Hw&usqp=CAU" group-title="ASIA SPORT", STAR SPORT 1
