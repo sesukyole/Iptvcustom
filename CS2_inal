@@ -11671,6 +11671,14 @@ http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=1275537&extensio
 http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=587343&extension=ts&play_token=9FqJa1TIIY
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdR4BUrpMkhG8BXeVTxxaXgUTosR6W9__9Nw&usqp=CAU" group-title="MOVIE 24/7", TRANSPORMERS
 http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=976605&extension=ts&play_token=oDyD96hBBf
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdR4BUrpMkhG8BXeVTxxaXgUTosR6W9__9Nw&usqp=CAU" group-title="MOVIE 24/7", TWILIGHT
+http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=976606&extension=ts&play_token=ByeDALI70z
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdR4BUrpMkhG8BXeVTxxaXgUTosR6W9__9Nw&usqp=CAU" group-title="MOVIE 24/7", RAMBO
+http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=559546&extension=ts&play_token=QUKc0dL3Y1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdR4BUrpMkhG8BXeVTxxaXgUTosR6W9__9Nw&usqp=CAU" group-title="MOVIE 24/7", FAMILY MOVIE
+http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=559550&extension=ts&play_token=a6vTVl06wu
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdR4BUrpMkhG8BXeVTxxaXgUTosR6W9__9Nw&usqp=CAU" group-title="MOVIE 24/7", HOROR MOVIE
+http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=559553&extension=ts&play_token=h5ISEO0WhP
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdR4BUrpMkhG8BXeVTxxaXgUTosR6W9__9Nw&usqp=CAU" group-title="MOVIE 24/7", MR. BEAN
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=559543&extension=ts&play_token=10v7yXhJgO
