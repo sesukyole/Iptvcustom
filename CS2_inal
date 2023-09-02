@@ -140,7 +140,7 @@ http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=508165&extens
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/logomotogp.png" group-title="#🏍️EVENT GP&F1🏎️#", GP 2
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=692422&extension=ts&play_token=Nc9qifjsYN
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/logomotogp.png" group-title="#🏍️EVENT GP&F1🏎️#", GP 3
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AF:AD:53&stream=1933_&extension=ts
+http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=79485&extension=ts&play_token=Y0kcP5QHeN
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/logomotogp.png" group-title="#🏍️EVENT GP&F1🏎️#", GP 4
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=239082&extension=ts&play_token=a0dyarOiLA
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/logomotogp.png" group-title="#🏍️EVENT GP&F1🏎️#", GP 5
