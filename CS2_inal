@@ -8332,7 +8332,6 @@ http://premium-ks.ddns.net:88/Metiiptv/kDdXP4CGrZk9/47175
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/SSAL6.png" group-title="EROPA SPORT", SUPER SPORT 6 SD
 http://premium-ks.ddns.net:88/Metiiptv/kDdXP4CGrZk9/47176
 
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EROPA SPORT", TRING SPORT News HD
 http://premium-ks.ddns.net:88/Metiiptv/kDdXP4CGrZk9/33503
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EROPA SPORT", TRING SPORT 1 HD
@@ -8357,7 +8356,6 @@ http://premium-ks.ddns.net:88/Metiiptv/kDdXP4CGrZk9/47182
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EROPA SPORT", TRING SPORT 5 FHD
 http://premium-ks.ddns.net:88/Metiiptv/kDdXP4CGrZk9/58869
 
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EROPA SPORT", OVER SPORT 1 HD
 http://premium-ks.ddns.net:88/Metiiptv/kDdXP4CGrZk9/46984
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EROPA SPORT", OVER SPORT 2 HD
@@ -8367,6 +8365,7 @@ http://premium-ks.ddns.net:88/Metiiptv/kDdXP4CGrZk9/46986
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EROPA SPORT", OVER SPORT 4 HD
 http://premium-ks.ddns.net:88/Metiiptv/kDdXP4CGrZk9/46987
 
+
 #EXTINF:-1 tvg-logo="xxxxxxxx" group-title="EROPA SPORT", OVER SPORT 1
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=819621&extension=ts&play_token=WsvtVnvgCL
 #EXTINF:-1 tvg-logo="xxxxxxxx" group-title="EROPA SPORT", OVER SPORT 2
@@ -8375,8 +8374,6 @@ http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=819622&extension=
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=819623&extension=ts&play_token=3C071RXBsV
 #EXTINF:-1 tvg-logo="xxxxxxxx" group-title="EROPA SPORT", OVER SPORT 4
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=819624&extension=ts&play_token=oNt6MZbYyo
-
-
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/ORANGE%201.png" group-title="EROPA SPORT", ORANGE SPORT 1
@@ -8412,14 +8409,13 @@ http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=2110_&extens
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV6yflzHGlwgQXKL8Gnk2sRat-PXqZNqOntw&usqp=CAU" group-title="EROPA SPORT", PREMIER SPORT 2
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=2109_&extension=ts
 
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnYYALOTPEaxuje-aQ7Vf5_25rphoZxdBA6w&usqp=CAU" group-title="EROPA SPORT", VIAPLAY SPORT 1 BK
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=2112_&extension=ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReHcyATuQKSg1kPQB91ZgSoRkcx44RYfjbOA&usqp=CAU" group-title="EROPA SPORT", VIAPLAY SPORT 2 BK
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=2111_&extension=ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwcRdr-6gCiwO39-xnVtHCJQRHCkayQnzEaw&usqp=CAU" group-title="EROPA SPORT", VIAPLAY SPORT EXTRA BK
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=2117_&extension=ts
-
-
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSekagYLw5CoZyv6xenPDktkLHb3wPYqYZbQw&usqp=CAU" group-title="EROPA SPORT", YES SPORT 1B
@@ -8463,8 +8459,6 @@ http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=1282760&extension
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=1282764&extension=ts&play_token=GEtvSbcm0n
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/Zvoet.png" group-title="EROPA SPORT", ZIGGO SPORT VOETBALL
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=1282748&extension=ts&play_token=mPBaNK3aZ6
-
-
 
 
 
@@ -8514,9 +8508,6 @@ http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=90791&extension=t
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=75284&extension=ts&play_token=CN2xBNmpdp
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCFdwEgf7Ef_A8t5mQHi28esDglHspqLd7sQ&usqp=CAU" group-title="LATIN SPORT", ESPN PREMIUM LAT
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=926450&extension=ts&play_token=CN2xBNmpdp
-
-
-
 
 #EXTINF:-1 tvg-logo="https://s8.postimg.cc/qthzouo05/1516325501_a57d469ee395de417336e66ec14dd41ddbf22918.jpg" group-title="LATIN SPORT", SPORTV HD
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=59184&extension=ts&play_token=CN2xBNmpdp 
@@ -9649,8 +9640,6 @@ http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=984951&extens
 #EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FSOval_wBackground_1040x585.gif" group-title="FOX SPORT", FOX SPORT PREMIUM
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=984953&extension=ts&play_token=HalHutHLf1
 
-
-
 #EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/chimg/3157925022.png" group-title="FOX SPORT", AU: FOX Sports NEWS HD
 http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/95989.ts
 #EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/chimg/9620865901.png" group-title="FOX SPORT", FOX Sport 501 HD
@@ -9749,9 +9738,6 @@ http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/117259.ts
 http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/115813.ts
 
 
-
-
-
 #EXTINF:-1 tvg-logo="https://www.peacocktv.com/dam/commerce/assets/partners/logo-peacock-social-1200x628.jpg" group-title="PEACOCK OD", PEACOCK SERIES 1
 http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095510&extension=ts&play_token=IFoO8jKkVg
 #EXTINF:-1 tvg-logo="https://www.peacocktv.com/dam/commerce/assets/partners/logo-peacock-social-1200x628.jpg" group-title="PEACOCK OD", PEACOCK SERIES 2
@@ -9777,681 +9763,580 @@ http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095500&e
 #EXTINF:-1 tvg-logo="https://www.peacocktv.com/dam/commerce/assets/partners/logo-peacock-social-1200x628.jpg" group-title="PEACOCK OD", PEACOCK SERIES 12
 http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095499&extension=ts&play_token=mQ5MP5caD7
 
-#EXTINF:-1 group-title="INDONE_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/net-id.png" tvg-id="net.id" tvg-name="[ID] Net. TV" ,[ID] Net. TV
-https://ktpremium.com:443/A0112/8544/73605
-#EXTINF:-1 group-title="INDONE_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rcti_id.png" tvg-id="rcti.id" tvg-name="[ID] RCTI" ,[ID] RCTI
-https://ktpremium.com:443/A0112/8544/73606
-#EXTINF:-1 group-title="INDONE_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sctv_id.png" tvg-id="sctv.id" tvg-name="[ID] SCTV" ,[ID] SCTV
-https://ktpremium.com:443/A0112/8544/73607
-#EXTINF:-1 group-title="INDONE_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trans_tv_id.png" tvg-id="trans.id" tvg-name="[ID] Trans TV" ,[ID] Trans TV
-https://ktpremium.com:443/A0112/8544/73608
-#EXTINF:-1 group-title="INDONE_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trans_7_id.png" tvg-id="trans.7.id" tvg-name="[ID] Trans 7" ,[ID] Trans 7
-https://ktpremium.com:443/A0112/8544/73609
-#EXTINF:-1 group-title="INDONE_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv_one_id.png" tvg-id="tvone.id" tvg-name="[ID] TV One" ,[ID] TV One
-https://ktpremium.com:443/A0112/8544/73610
-#EXTINF:-1 group-title="INDONE_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/metro_tv_id.png" tvg-id="metro.id" tvg-name="[ID] Metro TV" ,[ID] Metro TV
-https://ktpremium.com:443/A0112/8544/73611
-#EXTINF:-1 group-title="INDONE_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kompas-tv-id.png" tvg-id="kompas.id" tvg-name="[ID] Kompas TV" ,[ID] Kompas TV
-https://ktpremium.com:443/A0112/8544/73612
-#EXTINF:-1 group-title="INDONE_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnn_id.png" tvg-id="cnn.international.id" tvg-name="[ID] CNN Indonesia" ,[ID] CNN Indonesia
-https://ktpremium.com:443/A0112/8544/73613
-#EXTINF:-1 group-title="INDONE_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/berita-satu-news-channel-id.png" tvg-id="berita.satu.id" tvg-name="[ID] Berita Satu" ,[ID] Berita Satu
-https://ktpremium.com:443/A0112/8544/73614
-#EXTINF:-1 group-title="INDONE_SIA 1" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1641920474-.png" tvg-id="inews.id" tvg-name="[ID] Indonesiana tv" ,[ID] Indonesiana tv
-https://ktpremium.com:443/A0112/8544/73615
-#EXTINF:-1 group-title="INDONE_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mnc_id_tv.png" tvg-id="mnctv.id" tvg-name="[ID] MNC TV" ,[ID] MNC TV
-https://ktpremium.com:443/A0112/8544/73616
-#EXTINF:-1 group-title="INDONE_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/indosiar-id.png" tvg-id="indosiar.id" tvg-name="[ID] Indosiar" ,[ID] Indosiar
-https://ktpremium.com:443/A0112/8544/73617
-#EXTINF:-1 group-title="INDONE_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/antv.png" tvg-id="antv.id" tvg-name="[ID] ANTV" ,[ID] ANTV
-https://ktpremium.com:443/A0112/8544/73618
-#EXTINF:-1 group-title="INDONE_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/gtv-id.png" tvg-id="gtv.id" tvg-name="[ID] GTV" ,[ID] GTV
-https://ktpremium.com:443/A0112/8544/73619
-#EXTINF:-1 group-title="INDONE_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvri-id.png" tvg-id="tvri.id" tvg-name="[ID] TVRI" ,[ID] TVRI
-https://ktpremium.com:443/A0112/8544/73620
-#EXTINF:-1 group-title="INDONE_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/jak-tv-id.png" tvg-id="jaktv.id" tvg-name="[ID] JakTV" ,[ID] JakTV
-https://ktpremium.com:443/A0112/8544/73626
-#EXTINF:-1 group-title="INDONE_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/jtv_id.png" tvg-id="jaktv.id" tvg-name="[ID] JTV" ,[ID] JTV
-https://ktpremium.com:443/A0112/8544/73627
-#EXTINF:-1 group-title="INDONE_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv9_surabaya_id.png" tvg-id="9999" tvg-name="[ID] TV9 NU" ,[ID] TV9 NU
-https://ktpremium.com:443/A0112/8544/73629
-#EXTINF:-1 group-title="INDONE_SIA 1" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rajawali_tv_id.png" tvg-id="9999" tvg-name="[ID] Rajawali TV" ,[ID] Rajawali TV
-https://ktpremium.com:443/A0112/8544/73631
-#EXTINF:-1 group-title="INDONE_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/ent-id.png" tvg-id="entertainment.id" tvg-name="[ID] Entertainment" ,[ID] Entertainment
-https://ktpremium.com:443/A0112/8544/73636
-#EXTINF:-1 group-title="INDONE_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/imc-id.png" tvg-id="IMC.id" tvg-name="[ID] IMC" ,[ID] IMC
-https://ktpremium.com:443/A0112/8544/73869
-#EXTINF:-1 group-title="INDONE_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bioskop_id.png" tvg-id="zee.bioskop.id" tvg-name="[ID] Bioskop Indonesia" ,[ID] Bioskop Indonesia
-https://ktpremium.com:443/A0112/8544/73873
-#EXTINF:-1 group-title="INDONE_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/citra-drama-id.png" tvg-id="13739" tvg-name="[ID] Citra drama " ,[ID] Citra drama
-https://ktpremium.com:443/A0112/8544/901193
-#EXTINF:-1 group-title="INDONE_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/citra-dangdut-id.png" tvg-id="9999" tvg-name="[ID] Citra Dangdut" ,[ID] Citra Dangdut
-https://ktpremium.com:443/A0112/8544/901194
-#EXTINF:-1 group-title="INDONE_SIA 1" tvg-logo="https://reformed21.tv/images/logo.png" tvg-id="vision.prime.id" tvg-name="[ID] Reformed 21" ,[ID] Reformed 21
-https://ktpremium.com:443/A0112/8544/73875
-#EXTINF:-1 group-title="INDONE_SIA 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/BeritaSatuWorld.png/512px-BeritaSatuWorld.png" tvg-id="berita.satu.id" tvg-name="[ID] Berita Satu World" ,[ID] Berita Satu World
-https://ktpremium.com:443/A0112/8544/886796
-#EXTINF:-1 group-title="INDONE_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/jiangsu_tv.png" tvg-id="jiangsu.cn" tvg-name="[ID] Jiangsu TV" ,[ID] Jiangsu TV
-https://ktpremium.com:443/A0112/8544/73878
-#EXTINF:-1 group-title="INDONE_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hunan_cn_tv.png" tvg-id="hunan.cn" tvg-name="[ID] Hunan TV" ,[ID] Hunan TV
-https://ktpremium.com:443/A0112/8544/73879
-#EXTINF:-1 group-title="INDONE_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dragon-tv-cn.png" tvg-id="dongfang.cn" tvg-name="[ID] Shanghai Dragon TV" ,[ID] Shanghai Dragon TV
-https://ktpremium.com:443/A0112/8544/73880
-#EXTINF:-1 group-title="INDONE_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/anhui-satellite-tv-cn.png" tvg-id="anhui.cn" tvg-name="[ID] Anhui TV" ,[ID] Anhui TV
-https://ktpremium.com:443/A0112/8544/73882
-#EXTINF:-1 group-title="INDONE_SIA 1" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_90.png" tvg-id="lifestyle.fashion.id" tvg-name=" [ID] LifeStyle Fashion" , [ID] LifeStyle Fashion
-https://ktpremium.com:443/A0112/8544/73982
-#EXTINF:-1 group-title="INDONE_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvn-asia-kr.png" tvg-id="tvn.id" tvg-name="[ID] TvN" ,[ID] TvN
-https://ktpremium.com:443/A0112/8544/73985
-#EXTINF:-1 group-title="INDONE_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvnmovies.png" tvg-id="tvn.movies.id" tvg-name="[ID] TvN Movies" ,[ID] TvN Movies
-https://ktpremium.com:443/A0112/8544/73986
-#EXTINF:-1 group-title="INDONE_SIA 1" tvg-logo="https://www.onetvasia.com/sites/onetvasia.com/files/logos/onetvasia-logo.png" tvg-id="one.id" tvg-name="[ID] Sony One" ,[ID] Sony One
-https://ktpremium.com:443/A0112/8544/73987
-#EXTINF:-1 group-title="INDONE_SIA 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/13/Gem_TV_logo.png" tvg-id="gem.my" tvg-name="[ID] SGem HD(FHD)" ,[ID] SGem HD(FHD)
-https://ktpremium.com:443/A0112/8544/73989
-#EXTINF:-1 group-title="INDONE_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/arirang_kr.png" tvg-id="arirang.id" tvg-name="[ID] Arirang" ,[ID] Arirang
-https://ktpremium.com:443/A0112/8544/73990
-#EXTINF:-1 group-title="INDONE_SIA 1" tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/63/Dhamma_TV_baru.png" tvg-name="[ID] Dhamma TV" ,[ID] Dhamma TV
-https://ktpremium.com:443/A0112/8544/886807
-#EXTINF:-1 group-title="INDONE_SIA 1" tvg-logo="https://www.lyngsat.com/logo/tv/hh/huma-betang-tv-id.png" tvg-name="[ID] Huma Betang TV" ,[ID] Huma Betang TV
-https://ktpremium.com:443/A0112/8544/886811
-#EXTINF:-1 group-title="INDONE_SIA 1" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jogja-istimewa-tv-id.png" tvg-name="[ID] Jogja Istimewa TV" ,[ID] Jogja Istimewa TV
-https://ktpremium.com:443/A0112/8544/886828
-#EXTINF:-1 group-title="INDONE_SIA 1" tvg-logo="https://www.lyngsat.com/logo/tv/mm/madu-tv-id.png" tvg-name="[ID] Madu TV" ,[ID] Madu TV
-https://ktpremium.com:443/A0112/8544/886833
-#EXTINF:-1 group-title="INDONE_SIA 1" tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/81/Logo_MQTV.png" tvg-name="[ID] MQTV" ,[ID] MQTV
-https://ktpremium.com:443/A0112/8544/886836
-#EXTINF:-1 group-title="INDONE_SIA 1" tvg-logo="https://i.imgur.com/GOuGjwr.png" tvg-name="[ID] Sangaji TV" ,[ID] Sangaji TV
-https://ktpremium.com:443/A0112/8544/886841
-#EXTINF:-1 group-title="INDONE_SIA 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/43/Inspira_Logo_%282021%29.png/" tvg-name="[ID] Inspiratv" ,[ID] Inspiratv
-https://ktpremium.com:443/A0112/8544/886843
-#EXTINF:-1 group-title="INDONE_SIA 1" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/91/TVKU-BChannel.png" tvg-name="[ID] TVKU" ,[ID] TVKU
-https://ktpremium.com:443/A0112/8544/900813
-#EXTINF:-1 group-title="INDONE_SIA 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Logo_ntv.png/1200px-Logo_ntv.png" tvg-id="9999" tvg-name="[ID] Nusantaratv" ,[ID] Nusantaratv
-https://ktpremium.com:443/A0112/8544/34721
-#EXTINF:-1 group-title="INDONE_SIA 1" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/05/Hope-Channel-Indonesia-Live-TV-Online.png" tvg-id="idx.id" tvg-name="[ID] Hope Channel" ,[ID] Hope Channel
-https://ktpremium.com:443/A0112/8544/917012
-#EXTINF:-1 group-title="INDONE_SIA 1" tvg-logo="https://www.alinear.id/assets_web/images/article/daai-06_parabolakucom.jpg" tvg-name="[ID] DAAI TV" ,[ID] DAAI TV
-https://ktpremium.com:443/A0112/8544/921746
-#EXTINF:-1 group-title="INDONE_SIA 1" tvg-logo="https://static.visionplus.id/images/channel/c403f3ca/0649.PNG" tvg-name="[ID] Bandung TV" ,[ID] Bandung TV
-https://ktpremium.com:443/A0112/8544/921747
-#EXTINF:-1 group-title="INDONE_SIA 1" tvg-logo="https://registration.biznethome.net/bin/images/tv-program/channel/Biznet%20Adventure%20170x85.png" tvg-name="[ID] Biznet Adventure" ,[ID] Biznet Adventure
-https://ktpremium.com:443/A0112/8544/923599
-#EXTINF:-1 group-title="INDONE_SIA 1" tvg-logo="https://registration.biznethome.net/bin/images/tv-program/channel/BiznetHomeLifestyle.jpg" tvg-name="[ID] Biznet Lifestyle" ,[ID] Biznet Lifestyle
-https://ktpremium.com:443/A0112/8544/923600
-#EXTINF:-1 group-title="INDONE_SIA 1" tvg-logo="https://wapfever.com/upload/Posters%20800/Biznet.png" tvg-name="[ID] Biznet Kids" ,[ID] Biznet Kids
-https://ktpremium.com:443/A0112/8544/923601
 
 
+INDONESIA__________________________________________________________________________________________________________________________________
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="INDONE_SIA 1", ID: 01. ETV Live Event
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/298491.m3u8
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="INDONE_SIA 1", ID: 02. ETV Live Event 02
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/298492.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="INDONE_SIA 1", 01. ETV Live Event
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/298491
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="INDONE_SIA 1", ID: 24/7 Angry Birds Toons
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/298493.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="INDONE_SIA 1", 02. ETV Live Event 02
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/298492
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="INDONE_SIA 1", ID: 24/7 BabyBus Indonesia
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/298494.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="INDONE_SIA 1", 24/7 Angry Birds Toons
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/298493
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="INDONE_SIA 1", ID: 24/7 Donald Ducks
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/298495.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="INDONE_SIA 1", 24/7 BabyBus Indonesia
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/298494
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="INDONE_SIA 1", ID: 24/7 Doraemon
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/298496.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="INDONE_SIA 1", 24/7 Donald Ducks
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/298495
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="INDONE_SIA 1", ID: 24/7 Just For Laughs
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/298497.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="INDONE_SIA 1", 24/7 Doraemon
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/298496
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="INDONE_SIA 1", ID: 24/7 Mr Bean Cartoon
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/298498.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="INDONE_SIA 1", 24/7 Just For Laughs
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/298497
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="INDONE_SIA 1", ID: 24/7 Mr. Bean Classic
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/298499.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="INDONE_SIA 1", 24/7 Mr Bean Cartoon
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/298498
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="INDONE_SIA 1", ID: 24/7 Tom And Jerry
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/298500.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="INDONE_SIA 1", 24/7 Mr. Bean Classic
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/298499
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="INDONE_SIA 1", ID: 24/7 Upin Ipin
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/298501.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="INDONE_SIA 1", 24/7 Tom And Jerry
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/298500
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="INDONE_SIA 1", ID: 24/7 Warkop DKI
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/298502.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="INDONE_SIA 1", 24/7 Upin Ipin
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/298501
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="INDONE_SIA 1", ID: AMTV &#40;Aula Media TV&#41;
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/299484.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="INDONE_SIA 1", 24/7 Warkop DKI
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/298502
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/32ae863c9590a45b0a4f899c42c8b465.png" group-title="INDONE_SIA 1", ID: ANIMAL PLANET
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/157532.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="INDONE_SIA 1", AMTV &#40;Aula Media TV&#41;
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/299484
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ac69997f647a6e4b289ee8a647d0dfbd.png" group-title="INDONE_SIA 1", ID: Animax
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/165081.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/32ae863c9590a45b0a4f899c42c8b465.png" group-title="INDONE_SIA 1", ANIMAL PLANET
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/157532
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/d0f77c4ae23b787f4aab6ed458ece469.png" group-title="INDONE_SIA 1", ID: AniPlus
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/298504.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ac69997f647a6e4b289ee8a647d0dfbd.png" group-title="INDONE_SIA 1", Animax
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/165081
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/baae5840cf8cfd60d1bd93565e00ff59.png" group-title="INDONE_SIA 1", ID: ANTV
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/165072.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/d0f77c4ae23b787f4aab6ed458ece469.png" group-title="INDONE_SIA 1", AniPlus
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/298504
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/32bd23bf3ba1d1f2e4f55a42a928169e.png" group-title="INDONE_SIA 1", ID: Arirang
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/247447.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/baae5840cf8cfd60d1bd93565e00ff59.png" group-title="INDONE_SIA 1", ANTV
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/165072
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/125d62efd4ca9cc3e87364fa41cf6536.png" group-title="INDONE_SIA 1", ID: Asian Food Network
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/298503.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="INDONE_SIA 1", 24/7 Angry Birds Toons
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/298493
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3c8d63e4a3d5b6c065651caf9a8cde50.png" group-title="INDONE_SIA 1", ID: AXN
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/165079.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/125d62efd4ca9cc3e87364fa41cf6536.png" group-title="INDONE_SIA 1", Asian Food Network
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/298503
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/5e1f1850a8202cc1ef4f60c2a0e8acd3.png" group-title="INDONE_SIA 1", ID: Baby TV
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/157605.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3c8d63e4a3d5b6c065651caf9a8cde50.png" group-title="INDONE_SIA 1", AXN
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/165079
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/8665e7afb44b5a32eb3b9e0fa2b9b12f.png" group-title="INDONE_SIA 1", ID: Bali TV
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/197962.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/5e1f1850a8202cc1ef4f60c2a0e8acd3.png" group-title="INDONE_SIA 1", Baby TV
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/157605
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/6f66017709d5d2bd93d4dd0e028a7e80.png" group-title="INDONE_SIA 1", ID: BBC Earth
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/165106.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/8665e7afb44b5a32eb3b9e0fa2b9b12f.png" group-title="INDONE_SIA 1", Bali TV
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/197962
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="INDONE_SIA 1", ID: BBC Lifestyle
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/264747.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/425c62827170957e85a34b7e7563869c.png" group-title="INDONE_SIA 1", Bandung TV
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/166416
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/0df06bc563f4f3bf615dc3ea7e55fb8c.png" group-title="INDONE_SIA 1", ID: beIN Sports 1
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/165105.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/6f66017709d5d2bd93d4dd0e028a7e80.png" group-title="INDONE_SIA 1", BBC Earth
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/165106
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ba5a124ab816d4a371da240396786a62.png" group-title="INDONE_SIA 1", ID: beIN Sports 3
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/298506.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="INDONE_SIA 1", BBC Lifestyle
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/264747
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/bd019732db2be6aed863964f280e1d0c.svg" group-title="INDONE_SIA 1", ID: Berita Satu
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/162513.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/0df06bc563f4f3bf615dc3ea7e55fb8c.png" group-title="INDONE_SIA 1", beIN Sports 1
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/165105
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/88fc948cd7f31c7a29c4f302326724d7.png" group-title="INDONE_SIA 1", ID: Berita Satu news
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/287421.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ba5a124ab816d4a371da240396786a62.png" group-title="INDONE_SIA 1", beIN Sports 3
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/298506
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c5aca927f5717086d94a73d71939bffa.jpg" group-title="INDONE_SIA 1", ID: Berita Satu World
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/162136.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/bd019732db2be6aed863964f280e1d0c.svg" group-title="INDONE_SIA 1", Berita Satu
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/162513
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/72c02ddde0fd068592b1e7a6e1aa137f.jfif" group-title="INDONE_SIA 1", ID: Besmart
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/165087.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/88fc948cd7f31c7a29c4f302326724d7.png" group-title="INDONE_SIA 1", Berita Satu news
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/287421
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/c160471d97eadb4d67e82e6915754e96.png" group-title="INDONE_SIA 1", ID: Bioskop Indonesia
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/264801.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c5aca927f5717086d94a73d71939bffa.jpg" group-title="INDONE_SIA 1", Berita Satu World
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/162136
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/780b9b284a9a6eef24c46a6a1b64f894.png" group-title="INDONE_SIA 1", ID: Bloomberg TV
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/157599.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/c160471d97eadb4d67e82e6915754e96.png" group-title="INDONE_SIA 1", Bioskop Indonesia
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/264801
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/1d192d86ab16c1103668385201f76d94.png" group-title="INDONE_SIA 1", ID: Boomerang
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/165109.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/780b9b284a9a6eef24c46a6a1b64f894.png" group-title="INDONE_SIA 1", Bloomberg TV
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/157599
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/417e73b7aedc07a73aa59b7d76bc6e6b.png" group-title="INDONE_SIA 1", ID: Boomerang EN
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/298507.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/1d192d86ab16c1103668385201f76d94.png" group-title="INDONE_SIA 1", Boomerang
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/165109
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/bbdc8a56aca2bffb311728507a93f75f.png" group-title="INDONE_SIA 1", ID: Cartoon Network
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/157593.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/417e73b7aedc07a73aa59b7d76bc6e6b.png" group-title="INDONE_SIA 1", Boomerang EN
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/298507
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/c4ab7dac711298d08ad55255eee58029.png" group-title="INDONE_SIA 1", ID: CBeebies
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/247448.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/bbdc8a56aca2bffb311728507a93f75f.png" group-title="INDONE_SIA 1", Cartoon Network
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/157593
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/e781645d9f686de47e29b212df4791a1.png" group-title="INDONE_SIA 1", ID: CCM
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/165103.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/c4ab7dac711298d08ad55255eee58029.png" group-title="INDONE_SIA 1", CBeebies
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/247448
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/03722835968ebf5a812fcb4ad2d041dc.png" group-title="INDONE_SIA 1", ID: Celestial Movies
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/165065.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/e781645d9f686de47e29b212df4791a1.png" group-title="INDONE_SIA 1", CCM
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/165103
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/8bfe173c57ec17bf46e0f6ba975deb8a.png" group-title="INDONE_SIA 1", ID: CGTN
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/298510.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/03722835968ebf5a812fcb4ad2d041dc.png" group-title="INDONE_SIA 1", Celestial Movies
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/165065
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/493aaa3003ce5a94d1bcfa27cf5eedb2.png" group-title="INDONE_SIA 1", ID: CGTN Documentary
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/298511.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/8bfe173c57ec17bf46e0f6ba975deb8a.png" group-title="INDONE_SIA 1", CGTN
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/298510
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/9cb6c8614be38cc1944a1747d414bd86.png" group-title="INDONE_SIA 1", ID: Champion TV 1
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/298512.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/493aaa3003ce5a94d1bcfa27cf5eedb2.png" group-title="INDONE_SIA 1", CGTN Documentary
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/298511
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/62e36432e548966b8c3a4a2afe63ee7e.png" group-title="INDONE_SIA 1", ID: Champion TV 2
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/298513.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/9cb6c8614be38cc1944a1747d414bd86.png" group-title="INDONE_SIA 1", Champion TV 1
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/298512
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/676a8a5e1a9ddc807d4c646db2863591.png" group-title="INDONE_SIA 1", ID: Champion TV 3
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/298514.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/62e36432e548966b8c3a4a2afe63ee7e.png" group-title="INDONE_SIA 1", Champion TV 2
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/298513
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ef1ee75b73bdfcb0056cd605e00a2bca.png" group-title="INDONE_SIA 1", ID: Channel News Asia
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/157602.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/676a8a5e1a9ddc807d4c646db2863591.png" group-title="INDONE_SIA 1", Champion TV 3
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/298514
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="INDONE_SIA 1", ID: Chinese Drama
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/298516.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ef1ee75b73bdfcb0056cd605e00a2bca.png" group-title="INDONE_SIA 1", Channel News Asia
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/157602
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/67979916a84e98b9942945379c1e648b.png" group-title="INDONE_SIA 1", ID: CinemaWorld
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/165082.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="INDONE_SIA 1", Chinese Drama
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/298516
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/42d29b03357fec1753cf970323f02e04.png" group-title="INDONE_SIA 1", ID: Cinemax
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/197964.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/67979916a84e98b9942945379c1e648b.png" group-title="INDONE_SIA 1", CinemaWorld
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/165082
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/582b49165511b164bcca3bc14a8c5b6d.png" group-title="INDONE_SIA 1", ID: Citra Bioskop
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/298519.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/42d29b03357fec1753cf970323f02e04.png" group-title="INDONE_SIA 1", Cinemax
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/197964
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/675c678b8c55e53b1e5e9d3da50befb1.png" group-title="INDONE_SIA 1", ID: Citra Dangdut
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/247446.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/582b49165511b164bcca3bc14a8c5b6d.png" group-title="INDONE_SIA 1", Citra Bioskop
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/298519
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/f3002848368f2982b1a30e82f1842917.png" group-title="INDONE_SIA 1", ID: Citra Drama
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/264748.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/675c678b8c55e53b1e5e9d3da50befb1.png" group-title="INDONE_SIA 1", Citra Dangdut
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/247446
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/9b24e6afb5920e1696c0a0fceda060cf.png" group-title="INDONE_SIA 1", ID: Citra Entertainment
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/298520.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/f3002848368f2982b1a30e82f1842917.png" group-title="INDONE_SIA 1", Citra Drama
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/264748
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4415ae88fbabaa7f388eaa7dead5e038.png" group-title="INDONE_SIA 1", ID: CNBC Indonesia
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/165062.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/9b24e6afb5920e1696c0a0fceda060cf.png" group-title="INDONE_SIA 1", Citra Entertainment
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/298520
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8d73d72ec854dfe8a9c9865555bb9728.png" group-title="INDONE_SIA 1", ID: CNN Indonesia
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/162137.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4415ae88fbabaa7f388eaa7dead5e038.png" group-title="INDONE_SIA 1", CNBC Indonesia
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/165062
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/da42e92252317dddadd514f5c5b6e0dc.png" group-title="INDONE_SIA 1", ID: CNN International
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/264778.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8d73d72ec854dfe8a9c9865555bb9728.png" group-title="INDONE_SIA 1", CNN Indonesia
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/162137
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/99f1a318b5c6b2ea16112188fe3641eb.svg" group-title="INDONE_SIA 1", ID: Crime+ Investigation
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/165052.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/da42e92252317dddadd514f5c5b6e0dc.png" group-title="INDONE_SIA 1", CNN International
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/264778
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/346b56a716927612398ba160e78effd0.png" group-title="INDONE_SIA 1", ID: Da Ai TV
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/165061.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/99f1a318b5c6b2ea16112188fe3641eb.svg" group-title="INDONE_SIA 1", Crime+ Investigation
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/165052
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/e758a48ee4c9f4f226cf65764e549299.png" group-title="INDONE_SIA 1", ID: Discovery Asia
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/197968.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/346b56a716927612398ba160e78effd0.png" group-title="INDONE_SIA 1", Da Ai TV
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/165061
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4ed79d28be4e787382d0b8bf16a2b69b.png" group-title="INDONE_SIA 1", ID: Discovery World
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/157597.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/e758a48ee4c9f4f226cf65764e549299.png" group-title="INDONE_SIA 1", Discovery Asia
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/197968
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/a4ea1e073cfec663989ca1db24ba699f.png" group-title="INDONE_SIA 1", ID: Disney Channel
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/165075.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4ed79d28be4e787382d0b8bf16a2b69b.png" group-title="INDONE_SIA 1", Discovery World
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/157597
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7dcbeab064ba8b1eefb6115fc283aaeb.png" group-title="INDONE_SIA 1", ID: Disney Junior
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/162511.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/a4ea1e073cfec663989ca1db24ba699f.png" group-title="INDONE_SIA 1", Disney Channel
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/165075
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/d7b3960e71c668eeaff78b4145d6173e.png" group-title="INDONE_SIA 1", ID: Disney XD
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/276564.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7dcbeab064ba8b1eefb6115fc283aaeb.png" group-title="INDONE_SIA 1", Disney Junior
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/162511
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/b83befd00501db18989297ee6b217e02.png" group-title="INDONE_SIA 1", ID: DreamWorks
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/157610.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/d7b3960e71c668eeaff78b4145d6173e.png" group-title="INDONE_SIA 1", Disney XD
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/276564
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/848ef5f24db25a9bd1d39c675aa0dc80.png" group-title="INDONE_SIA 1", ID: Dunia Anak
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/264753.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/b83befd00501db18989297ee6b217e02.png" group-title="INDONE_SIA 1", DreamWorks
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/157610
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/7d1eda2ff2dc3180e2400733458a4a8b.png" group-title="INDONE_SIA 1", ID: Dunia Lain
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/298524.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/848ef5f24db25a9bd1d39c675aa0dc80.png" group-title="INDONE_SIA 1", Dunia Anak
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/264753
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/4438aed45f7b7df82c2bcba4858c3d88.png" group-title="INDONE_SIA 1", ID: Eat&Go
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/264765.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/7d1eda2ff2dc3180e2400733458a4a8b.png" group-title="INDONE_SIA 1", Dunia Lain
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/298524
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/aae56ad9266b920e324b5de943da25ae.png" group-title="INDONE_SIA 1", ID: Ent
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/157581.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/4438aed45f7b7df82c2bcba4858c3d88.png" group-title="INDONE_SIA 1", Eat&Go
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/264765
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="INDONE_SIA 1", ID: Etv Bioskop
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/298526.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/aae56ad9266b920e324b5de943da25ae.png" group-title="INDONE_SIA 1", Ent
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/157581
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="INDONE_SIA 1", ID: Etv Bioskop 02
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/298527.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="INDONE_SIA 1", Etv Bioskop
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/298526
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="INDONE_SIA 1", ID: Etv Bioskop 03
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/298528.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="INDONE_SIA 1", Etv Bioskop 02
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/298527
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="INDONE_SIA 1", ID: Etv Bioskop 04
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/298529.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="INDONE_SIA 1", Etv Bioskop 03
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/298528
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/1b93a982149c1ae794f98d2c80c5bf5d.png" group-title="INDONE_SIA 1", ID: Fashion TV
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/298530.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="INDONE_SIA 1", Etv Bioskop 04
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/298529
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/9a23440ace36f97097366f4bb8d2ecfa.png" group-title="INDONE_SIA 1", ID: Fight Sport
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/298531.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/1b93a982149c1ae794f98d2c80c5bf5d.png" group-title="INDONE_SIA 1", Fashion TV
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/298530
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="INDONE_SIA 1", ID: FLIK
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/165095.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/9a23440ace36f97097366f4bb8d2ecfa.png" group-title="INDONE_SIA 1", Fight Sport
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/298531
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/5c412828b788580430141e8acf3d7425.png" group-title="INDONE_SIA 1", ID: FMN
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/165057.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="INDONE_SIA 1", FLIK
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/165095
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/b4da330f49c65c6be3540a71af81d638.png" group-title="INDONE_SIA 1", ID: Fox Life
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/165083.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/5c412828b788580430141e8acf3d7425.png" group-title="INDONE_SIA 1", FMN
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/165057
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/dddbae34f8fafd015e5221a02075ad19.png" group-title="INDONE_SIA 1", ID: Galaxy
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/264773.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/b4da330f49c65c6be3540a71af81d638.png" group-title="INDONE_SIA 1", Fox Life
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/165083
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/3a174e88de5f3dad328641d7d7524b25.png" group-title="INDONE_SIA 1", ID: Galaxy Premium
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/264774.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/dddbae34f8fafd015e5221a02075ad19.png" group-title="INDONE_SIA 1", Galaxy
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/264773
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/5662c41e221b11f3cff14f60ac5b862e.png" group-title="INDONE_SIA 1", ID: GEM
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/298533.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/3a174e88de5f3dad328641d7d7524b25.png" group-title="INDONE_SIA 1", Galaxy Premium
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/264774
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="INDONE_SIA 1", ID: Golf
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/298534.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/5662c41e221b11f3cff14f60ac5b862e.png" group-title="INDONE_SIA 1", GEM
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/298533
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2498aa1ffc66cf53f77c63b77a787d3a.png" group-title="INDONE_SIA 1", ID: GTV
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/157578.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="INDONE_SIA 1", Golf
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/298534
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png" group-title="INDONE_SIA 1", ID: HBO
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/197972.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2498aa1ffc66cf53f77c63b77a787d3a.png" group-title="INDONE_SIA 1", GTV
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/157578
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/43c918deb93b6cb276bc97bc3316d66a.png" group-title="INDONE_SIA 1", ID: HBO Family
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/197055.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png" group-title="INDONE_SIA 1", HBO
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/197972
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/00e312e6e408859a759d2cb679bf2f28.png" group-title="INDONE_SIA 1", ID: HBO Hits
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/196480.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/43c918deb93b6cb276bc97bc3316d66a.png" group-title="INDONE_SIA 1", HBO Family
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/197055
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/b918a4f6087d1550bed78481f3fd878e.png" group-title="INDONE_SIA 1", ID: HBO Signature
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/221948.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/00e312e6e408859a759d2cb679bf2f28.png" group-title="INDONE_SIA 1", HBO Hits
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/196480
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/cbfaa9907820b6dbfc30fe48ae8bf3b8.png" group-title="INDONE_SIA 1", ID: HGTV
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/298535.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/b918a4f6087d1550bed78481f3fd878e.png" group-title="INDONE_SIA 1", HBO Signature
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/221948
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/64856f589d7cf4ebc75e471cc73e98f3.png" group-title="INDONE_SIA 1", ID: Hip Hip Horee!
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/298536.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/cbfaa9907820b6dbfc30fe48ae8bf3b8.png" group-title="INDONE_SIA 1", HGTV
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/298535
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/dfc965449b772322e8cb39b5c5491d62.png" group-title="INDONE_SIA 1", ID: History
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/162519.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/64856f589d7cf4ebc75e471cc73e98f3.png" group-title="INDONE_SIA 1", Hip Hip Horee!
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/298536
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/ae782ad6176bbda366bbaf7e52bdff09.png" group-title="INDONE_SIA 1", ID: Hits
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/165085.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/dfc965449b772322e8cb39b5c5491d62.png" group-title="INDONE_SIA 1", History
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/162519
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0f522aea18d3fbc38100a8f629bb4f07.png" group-title="INDONE_SIA 1", ID: Hits Movies
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/221947.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/ae782ad6176bbda366bbaf7e52bdff09.png" group-title="INDONE_SIA 1", Hits
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/165085
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/1470dba88dbd7fa85ae09b801fee6fc9.png" group-title="INDONE_SIA 1", ID: Horee!
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/264750.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0f522aea18d3fbc38100a8f629bb4f07.png" group-title="INDONE_SIA 1", Hits Movies
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/221947
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="INDONE_SIA 1", ID: Huma Betang TV
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/299486.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/1470dba88dbd7fa85ae09b801fee6fc9.png" group-title="INDONE_SIA 1", Horee!
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/264750
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/110bdcc65fd8509659d074e68e432214.png" group-title="INDONE_SIA 1", ID: Hunan TV
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/247443.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="INDONE_SIA 1", Huma Betang TV
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/299486
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/ccc0ed5631ee9e4dbde438fbcbbe0277.png" group-title="INDONE_SIA 1", ID: I AM Channel
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/287423.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/110bdcc65fd8509659d074e68e432214.png" group-title="INDONE_SIA 1", Hunan TV
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/247443
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="INDONE_SIA 1", ID: I Konser
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/264760.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/ccc0ed5631ee9e4dbde438fbcbbe0277.png" group-title="INDONE_SIA 1", I AM Channel
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/287423
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/aba9289c98406c8b6eaba1925ec4d591.png" group-title="INDONE_SIA 1", ID: IDX
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/157590.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="INDONE_SIA 1", I Konser
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/264760
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/634a1f725799280bbeeb992c9d19fb8f.png" group-title="INDONE_SIA 1", ID: Ie
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/157582.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/aba9289c98406c8b6eaba1925ec4d591.png" group-title="INDONE_SIA 1", IDX
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/157590
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/2b58230b601a563bb26eb0e8adc69e5d.png" group-title="INDONE_SIA 1", ID: IMC
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/264769.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/634a1f725799280bbeeb992c9d19fb8f.png" group-title="INDONE_SIA 1", Ie
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/157582
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="INDONE_SIA 1", ID: Indi Kids
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/298539.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/2b58230b601a563bb26eb0e8adc69e5d.png" group-title="INDONE_SIA 1", IMC
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/264769
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="INDONE_SIA 1", ID: Indosiar
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/162138.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="INDONE_SIA 1", Indi Kids
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/298539
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/773dea02b1aba8f709c668ca2ae43e1c.png" group-title="INDONE_SIA 1", ID: INews
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/157579.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="INDONE_SIA 1", Indosiar
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/162138
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="INDONE_SIA 1", ID: Infotainment
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/298541.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/773dea02b1aba8f709c668ca2ae43e1c.png" group-title="INDONE_SIA 1", INews
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/157579
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/8accd154ca087aac62b6dfaba31b8507.png" group-title="INDONE_SIA 1", ID: Insert
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/264766.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="INDONE_SIA 1", Infotainment
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/298541
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/9602d4376a3111f7a2fca2542480f8a1.png" group-title="INDONE_SIA 1", ID: Izzah TV
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/275984.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/8accd154ca087aac62b6dfaba31b8507.png" group-title="INDONE_SIA 1", Insert
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/264766
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/520121649c890cfb036e87548beffed6.png" group-title="INDONE_SIA 1", ID: Jak TV
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/157601.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/9602d4376a3111f7a2fca2542480f8a1.png" group-title="INDONE_SIA 1", Izzah TV
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/275984
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/b4dd6757aab14f77f848da99155b0d80.png" group-title="INDONE_SIA 1", ID: Jakarta Globe News
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/166399.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/520121649c890cfb036e87548beffed6.png" group-title="INDONE_SIA 1", Jak TV
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/157601
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/1cf2bc6e1e92eb6b90d262ac626787f7.png" group-title="INDONE_SIA 1", ID: JTV
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/165091.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/b4dd6757aab14f77f848da99155b0d80.png" group-title="INDONE_SIA 1", Jakarta Globe News
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/166399
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ce1fbaa72fd9c4f2b3095b33fc9fe696.png" group-title="INDONE_SIA 1", ID: K+
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/197969.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/1cf2bc6e1e92eb6b90d262ac626787f7.png" group-title="INDONE_SIA 1", JTV
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/165091
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/564c06a526774b8025fde18160461e1f.png" group-title="INDONE_SIA 1", ID: KBS World
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/197053.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ce1fbaa72fd9c4f2b3095b33fc9fe696.png" group-title="INDONE_SIA 1", K+
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/197969
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2e7e12a2db287afa4fcc4f41d273004f.png" group-title="INDONE_SIA 1", ID: Kids TV
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/162505.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/564c06a526774b8025fde18160461e1f.png" group-title="INDONE_SIA 1", KBS World
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/197053
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/16d25160960bdf82fb24de6143ae7ae9.png" group-title="INDONE_SIA 1", ID: KIX
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/165068.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2e7e12a2db287afa4fcc4f41d273004f.png" group-title="INDONE_SIA 1", Kids TV
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/162505
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/6dca0f82c0415242463eab39b28fd715.png" group-title="INDONE_SIA 1", ID: Kompas TV
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/165060.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/16d25160960bdf82fb24de6143ae7ae9.png" group-title="INDONE_SIA 1", KIX
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/165068
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/81b0c7cdcd17b9278bd3314c401b9600.png" group-title="INDONE_SIA 1", ID: Life
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/157585.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/6dca0f82c0415242463eab39b28fd715.png" group-title="INDONE_SIA 1", Kompas TV
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/165060
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/b6d40037e76d59f5cd57f43ea872153b.png" group-title="INDONE_SIA 1", ID: Lifestyle & Fashion
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/157592.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/81b0c7cdcd17b9278bd3314c401b9600.png" group-title="INDONE_SIA 1", Life
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/157585
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/7aabd389aa14698263ab6099a84ae153.png" group-title="INDONE_SIA 1", ID: Lifetime
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/298543.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/b6d40037e76d59f5cd57f43ea872153b.png" group-title="INDONE_SIA 1", Lifestyle & Fashion
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/157592
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/e4e8232626085a26b9c146aea7235215.png" group-title="INDONE_SIA 1", ID: Love Nature
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/264756.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/7aabd389aa14698263ab6099a84ae153.png" group-title="INDONE_SIA 1", Lifetime
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/298543
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/db1dfff49cbaffb6a323ce329f64a2f8.png" group-title="INDONE_SIA 1", ID: Mentari TV
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/298546.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/e4e8232626085a26b9c146aea7235215.png" group-title="INDONE_SIA 1", Love Nature
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/264756
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/7806170b5ef2464530dcaedcbe3e9a42.jpg" group-title="MALAY_SIA 1", MY: Astro Arena 2
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/287793.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/db1dfff49cbaffb6a323ce329f64a2f8.png" group-title="INDONE_SIA 1", Mentari TV
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/298546
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/6dfb5c834dbf9a8ce7f257f63d9be322.png" group-title="INDONE_SIA 1", ID: Miao Mi
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/266805.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0d6aa1d2981e77a4613a82f086c66e6f.png" group-title="INDONE_SIA 1", Metro TV
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/165059
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/67fd02c3def9c39cfd50f6a5dfd16510.png" group-title="INDONE_SIA 1", ID: MNC News
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/165058.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/6dfb5c834dbf9a8ce7f257f63d9be322.png" group-title="INDONE_SIA 1", Miao Mi
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/266805
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/b7918790d6ed6e4084150c40fd836251.png" group-title="INDONE_SIA 1", ID: MNC Sports
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/157589.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/67fd02c3def9c39cfd50f6a5dfd16510.png" group-title="INDONE_SIA 1", MNC News
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/165058
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/a69bff38e05e469908d7e8190e1184eb.png" group-title="INDONE_SIA 1", ID: MNC Sports 2
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/298548.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/b7918790d6ed6e4084150c40fd836251.png" group-title="INDONE_SIA 1", MNC Sports
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/157589
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/e5b6a41ba121fd867a41a6e8ccf30b20.png" group-title="INDONE_SIA 1", ID: MNC Sports 3
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/298549.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/a69bff38e05e469908d7e8190e1184eb.png" group-title="INDONE_SIA 1", MNC Sports 2
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/298548
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/12cf417a2f27f6bd0cdc7e212859dfe1.png" group-title="INDONE_SIA 1", ID: MNC TV
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/165054.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/e5b6a41ba121fd867a41a6e8ccf30b20.png" group-title="INDONE_SIA 1", MNC Sports 3
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/298549
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/e7f70e39cc40ff59938530edbd768d4f.png" group-title="INDONE_SIA 1", ID: Moji
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/298550.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/12cf417a2f27f6bd0cdc7e212859dfe1.png" group-title="INDONE_SIA 1", MNC TV
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/165054
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="INDONE_SIA 1", ID: MQTV
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/298551.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/e7f70e39cc40ff59938530edbd768d4f.png" group-title="INDONE_SIA 1", Moji
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/298550
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-07/291c3c364ac79b346426329acea392dd.png" group-title="INDONE_SIA 1", ID: MTA 7 Asia
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/162522.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="INDONE_SIA 1", MQTV
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/298551
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/572ee91ff1e528d04284dd7e952bed14.png" group-title="INDONE_SIA 1", ID: MTA TV
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/298552.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-07/291c3c364ac79b346426329acea392dd.png" group-title="INDONE_SIA 1", MTA 7 Asia
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/162522
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c55ff05370aeab02fdde282cdb7e6105.png" group-title="INDONE_SIA 1", ID: Music TV
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/165108.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/572ee91ff1e528d04284dd7e952bed14.png" group-title="INDONE_SIA 1", MTA TV
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/298552
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/a33da8890f49577c3a90507a07c8815d.png" group-title="INDONE_SIA 1", ID: My Cinema
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/298553.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c55ff05370aeab02fdde282cdb7e6105.png" group-title="INDONE_SIA 1", Music TV
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/165108
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/7602d6c9a46aec9787799e32fda8d070.png" group-title="INDONE_SIA 1", ID: My Cinema Asia
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/298554.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/a33da8890f49577c3a90507a07c8815d.png" group-title="INDONE_SIA 1", My Cinema
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/298553
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/21e2e3ff0f19266e11d9456e6bf19494.png" group-title="INDONE_SIA 1", ID: My Family
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/298555.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/7602d6c9a46aec9787799e32fda8d070.png" group-title="INDONE_SIA 1", My Cinema Asia
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/298554
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/9dcac0452d126b9596563d6aec5aa7a3.png" group-title="INDONE_SIA 1", ID: My Kidz
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/298556.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/21e2e3ff0f19266e11d9456e6bf19494.png" group-title="INDONE_SIA 1", My Family
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/298555
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/63e2ef1897448dd9519000543c357037.png" group-title="INDONE_SIA 1", ID: Nat Geo
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/165094.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/9dcac0452d126b9596563d6aec5aa7a3.png" group-title="INDONE_SIA 1", My Kidz
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/298556
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/0160f1fd2c3e9fd3a0d3338465d9b92f.png" group-title="INDONE_SIA 1", ID: Nat Geo Wild
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/197967.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/63e2ef1897448dd9519000543c357037.png" group-title="INDONE_SIA 1", Nat Geo
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/165094
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/640140bd2fc894332ef6c9f4fef9fd36.png" group-title="INDONE_SIA 1", ID: NBA TV
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/298558.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/0160f1fd2c3e9fd3a0d3338465d9b92f.png" group-title="INDONE_SIA 1", Nat Geo Wild
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/197967
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/708e6db12bbe5bfc95557e44f72ab6a0.png" group-title="INDONE_SIA 1", ID: Net
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/80292.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/640140bd2fc894332ef6c9f4fef9fd36.png" group-title="INDONE_SIA 1", NBA TV
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/298558
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/355fc0dc73253b7e89db48bfadbb2807.png" group-title="INDONE_SIA 1", ID: NHK World
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/298560.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/708e6db12bbe5bfc95557e44f72ab6a0.png" group-title="INDONE_SIA 1", Net
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/80292
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c407878e19cad2a98a707210492d0f4c.png" group-title="INDONE_SIA 1", ID: Nick Jr
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/165107.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/355fc0dc73253b7e89db48bfadbb2807.png" group-title="INDONE_SIA 1", NHK World
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/298560
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/7e1eb622eae30edbe35b5b87868b19f4.png" group-title="INDONE_SIA 1", ID: Nick Jr EN
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/298561.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c407878e19cad2a98a707210492d0f4c.png" group-title="INDONE_SIA 1", Nick Jr
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/165107
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/e1dd8b2c9477e9c047fc597e8835eebb.png" group-title="INDONE_SIA 1", ID: nickelodeon
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/162510.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/7e1eb622eae30edbe35b5b87868b19f4.png" group-title="INDONE_SIA 1", Nick Jr EN
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/298561
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/57916d34f1de029dc3287fae59b7ceb8.png" group-title="INDONE_SIA 1", ID: Nusantara TV
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/166410.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/e1dd8b2c9477e9c047fc597e8835eebb.png" group-title="INDONE_SIA 1", nickelodeon
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/162510
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/d606abe507f84e193a4667de2caf6c7f.png" group-title="INDONE_SIA 1", ID: OK TV
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/221956.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/57916d34f1de029dc3287fae59b7ceb8.png" group-title="INDONE_SIA 1", Nusantara TV
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/166410
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="INDONE_SIA 1", ID: ONE
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/298563.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/d606abe507f84e193a4667de2caf6c7f.png" group-title="INDONE_SIA 1", OK TV
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/221956
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/adfc2c1f1d74779905488ad1bc067153.png" group-title="INDONE_SIA 1", ID: Paramount Network
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/298564.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="INDONE_SIA 1", ONE
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/298563
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/a5c26c764dbc192e64d3019219ebebaf.png" group-title="INDONE_SIA 1", ID: Prambors
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/264761.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/eb14737d742919bfde6ea9747298a305.jpeg" group-title="INDONE_SIA 1", Padang TV
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/162140
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="INDONE_SIA 1", ID: Radar Cirebon Televisi
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/299483.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/adfc2c1f1d74779905488ad1bc067153.png" group-title="INDONE_SIA 1", Paramount Network
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/298564
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/553fc8904e711c0a1bf4f84ece28e985.png" group-title="INDONE_SIA 1", ID: Rajawali TV
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/196457.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/a5c26c764dbc192e64d3019219ebebaf.png" group-title="INDONE_SIA 1", Prambors
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/264761
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="INDONE_SIA 1", ID: RCTI
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/157591.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="INDONE_SIA 1", Radar Cirebon Televisi
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/299483
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/e86011037fb027f35b51ab4a38731e7b.png" group-title="INDONE_SIA 1", ID: Reformed 21
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/174574.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/553fc8904e711c0a1bf4f84ece28e985.png" group-title="INDONE_SIA 1", Rajawali TV
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/196457
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/72d376f51855e885d4d094d6f697324e.png" group-title="INDONE_SIA 1", ID: Rock Action
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/298490.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="INDONE_SIA 1", RCTI
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/157591
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/9a6cf4f6391f4d39f34c0a04a208e4c1.png" group-title="INDONE_SIA 1", ID: Rock Entertaiment
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/298565.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/e86011037fb027f35b51ab4a38731e7b.png" group-title="INDONE_SIA 1", Reformed 21
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/174574
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="INDONE_SIA 1", ID: Rock Extreme
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/298566.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/72d376f51855e885d4d094d6f697324e.png" group-title="INDONE_SIA 1", Rock Action
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/298490
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/25d069c7b9d080d58b938c698a148cdc.png" group-title="INDONE_SIA 1", ID: Rodja TV
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/264758.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/9a6cf4f6391f4d39f34c0a04a208e4c1.png" group-title="INDONE_SIA 1", Rock Entertaiment
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/298565
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/3fd36ee56651002d0195cd998d2d0f5b.png" group-title="INDONE_SIA 1", ID: RRI Net
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/266816.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="INDONE_SIA 1", Rock Extreme
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/298566
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/127dd049bd05a9d07b266c1d8883ca8b.png" group-title="INDONE_SIA 1", ID: SCTV
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/162141.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/25d069c7b9d080d58b938c698a148cdc.png" group-title="INDONE_SIA 1", Rodja TV
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/264758
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/66ccbde52f52776d0260f416549d914c.png" group-title="INDONE_SIA 1", ID: SEA Today
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/298568.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/3fd36ee56651002d0195cd998d2d0f5b.png" group-title="INDONE_SIA 1", RRI Net
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/266816
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-07/8b87b060c72b157ad6ee4f1d2b025e31.png" group-title="INDONE_SIA 1", ID: Sindonews TV
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/299485.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/127dd049bd05a9d07b266c1d8883ca8b.png" group-title="INDONE_SIA 1", SCTV
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/162141
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/da2ecbcb1534e2e02105084ca71466ad.png" group-title="INDONE_SIA 1", ID: Smithsonian Channel
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/264767.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/66ccbde52f52776d0260f416549d914c.png" group-title="INDONE_SIA 1", SEA Today
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/298568
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/c8bcdc3a1efe05b9889c9d515ec7fdbe.png" group-title="INDONE_SIA 1", ID: Sony One
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/165077.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-07/8b87b060c72b157ad6ee4f1d2b025e31.png" group-title="INDONE_SIA 1", Sindonews TV
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/299485
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/957f888d2a434d5f6a1526e178dcec47.png" group-title="INDONE_SIA 1", ID: SpoTV
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/298570.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/da2ecbcb1534e2e02105084ca71466ad.png" group-title="INDONE_SIA 1", Smithsonian Channel
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/264767
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/035c4b78f75c9bd0f7cfb4f61ebb3146.png" group-title="INDONE_SIA 1", ID: SpoTV 2
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/298571.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/c8bcdc3a1efe05b9889c9d515ec7fdbe.png" group-title="INDONE_SIA 1", Sony One
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/165077
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/54e3399a19f5ee556aa1f85f3103520c.png" group-title="INDONE_SIA 1", ID: Tech Storm
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/298572.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/957f888d2a434d5f6a1526e178dcec47.png" group-title="INDONE_SIA 1", SpoTV
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/298570
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/9397a211ee5003fca0d125a8c2232edd.png" group-title="INDONE_SIA 1", ID: Thrill
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/157580.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/035c4b78f75c9bd0f7cfb4f61ebb3146.png" group-title="INDONE_SIA 1", SpoTV 2
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/298571
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/9db0dba6fa657f28678589d5a274bfa9.png" group-title="INDONE_SIA 1", ID: TLC
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/165086.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/54e3399a19f5ee556aa1f85f3103520c.png" group-title="INDONE_SIA 1", Tech Storm
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/298572
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/0994a7413bfc1f57f5c00a777a8b2a34.png" group-title="INDONE_SIA 1", ID: Trans 7
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/162502.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/9397a211ee5003fca0d125a8c2232edd.png" group-title="INDONE_SIA 1", Thrill
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/157580
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/924d40ca9187329b206629697e2cfeb4.png" group-title="INDONE_SIA 1", ID: Trans TV
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/162503.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/9db0dba6fa657f28678589d5a274bfa9.png" group-title="INDONE_SIA 1", TLC
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/165086
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/276d4bb9823769badeb7209703d9e83a.png" group-title="INDONE_SIA 1", ID: TV 9 Nusantara
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/162509.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/0994a7413bfc1f57f5c00a777a8b2a34.png" group-title="INDONE_SIA 1", Trans 7
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/162502
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/c670d341a55f851a059f320c0b831037.png" group-title="INDONE_SIA 1", ID: TV Mu
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/196459.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/924d40ca9187329b206629697e2cfeb4.png" group-title="INDONE_SIA 1", Trans TV
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/162503
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/1ff4e1118db486e897f955e9733419e2.png" group-title="INDONE_SIA 1", ID: TV One
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/296214.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/276d4bb9823769badeb7209703d9e83a.png" group-title="INDONE_SIA 1", TV 9 Nusantara
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/162509
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/d8a152836e34ee6141b7efdf3d10da5b.png" group-title="INDONE_SIA 1", ID: TVN
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/197965.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/c670d341a55f851a059f320c0b831037.png" group-title="INDONE_SIA 1", TV Mu
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/196459
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c99306ef4b6afd25b48264fb45e91306.png" group-title="INDONE_SIA 1", ID: TVN Movies
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/157596.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/1ff4e1118db486e897f955e9733419e2.png" group-title="INDONE_SIA 1", TV One
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/296214
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/fa116bfa87b7355a9f73a63f8070843c.png" group-title="INDONE_SIA 1", ID: TVRI
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/162504.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/d8a152836e34ee6141b7efdf3d10da5b.png" group-title="INDONE_SIA 1", TVN
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/197965
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/65e84aeb0473183e918e3395efa3d64f.png" group-title="INDONE_SIA 1", ID: TVRI 4
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/287433.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c99306ef4b6afd25b48264fb45e91306.png" group-title="INDONE_SIA 1", TVN Movies
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/157596
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/f0192fca1abdd2175b5aff860adfd63e.png" group-title="INDONE_SIA 1", ID: TVRI Gorontalo
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/166698.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/fa116bfa87b7355a9f73a63f8070843c.png" group-title="INDONE_SIA 1", TVRI
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/162504
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/c5c7106cdb7be8d41387d8696774d07b.png" group-title="INDONE_SIA 1", ID: TVRI Jambi
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/166692.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/65e84aeb0473183e918e3395efa3d64f.png" group-title="INDONE_SIA 1", TVRI 4
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/287433
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/d07af261f0a1c95e9af8b5c8da7493cf.png" group-title="INDONE_SIA 1", ID: TVRI Jawa Barat
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/166688.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/f0192fca1abdd2175b5aff860adfd63e.png" group-title="INDONE_SIA 1", TVRI Gorontalo
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/166698
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/6876b1ded655d8d32a4b3a0b79cf0e72.png" group-title="INDONE_SIA 1", ID: TVRI Kalimantan Barat
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/166701.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/c5c7106cdb7be8d41387d8696774d07b.png" group-title="INDONE_SIA 1", TVRI Jambi
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/166692
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/f9a14843b0ad55e50f9141733710994e.png" group-title="INDONE_SIA 1", ID: TVRI Kalimantan Tengah
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/166702.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/d07af261f0a1c95e9af8b5c8da7493cf.png" group-title="INDONE_SIA 1", TVRI Jawa Barat
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/166688
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/05fa2b7d8fef39455387f2566b52701b.png" group-title="INDONE_SIA 1", ID: TVRI Sport
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/166686.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/6876b1ded655d8d32a4b3a0b79cf0e72.png" group-title="INDONE_SIA 1", TVRI Kalimantan Barat
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/166701
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/c13b7324e131c35d64fc7007c0b153ce.png" group-title="INDONE_SIA 1", ID: TVRI Sulawesi Selatan
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/166699.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/f9a14843b0ad55e50f9141733710994e.png" group-title="INDONE_SIA 1", TVRI Kalimantan Tengah
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/166702
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/ba768bd70edc3098433bdfaeacc616e6.jfif" group-title="INDONE_SIA 1", ID: TVRI World
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/295291.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/05fa2b7d8fef39455387f2566b52701b.png" group-title="INDONE_SIA 1", TVRI Sport
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/166686
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c06fb1934479ecc6192471dee8b59a73.png" group-title="INDONE_SIA 1", ID: U Channel
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/162146.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/c13b7324e131c35d64fc7007c0b153ce.png" group-title="INDONE_SIA 1", TVRI Sulawesi Selatan
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/166699
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/b3c7f04ad2b1bdc88af962a4b2402136.png" group-title="INDONE_SIA 1", ID: Usee Prime
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/162524.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/ba768bd70edc3098433bdfaeacc616e6.jfif" group-title="INDONE_SIA 1", TVRI World
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/295291
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="INDONE_SIA 1", ID: Usee Sport 1
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/298577.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c06fb1934479ecc6192471dee8b59a73.png" group-title="INDONE_SIA 1", U Channel
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/162146
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="INDONE_SIA 1", ID: Usee Sport 2
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/298578.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/b3c7f04ad2b1bdc88af962a4b2402136.png" group-title="INDONE_SIA 1", Usee Prime
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/162524
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/aace6b866a640045edacb67fe95b4435.png" group-title="INDONE_SIA 1", ID: Vision Prime
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/197958.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="INDONE_SIA 1", Usee Sport 1
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/298577
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e08e2ff4a5f2f8c6b281d41b443aa6e2.jpg" group-title="INDONE_SIA 1", ID: Warner TV
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/157594.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="INDONE_SIA 1", Usee Sport 2
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/298578
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4ffa668fdf208ec522418bd231225c7f.png" group-title="INDONE_SIA 1", ID: Zee Bioskop
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/157584.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/aace6b866a640045edacb67fe95b4435.png" group-title="INDONE_SIA 1", Vision Prime
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/197958
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ffe9e8c7ffa0c48eccb971c397c8e0de.png" group-title="INDONE_SIA 1", ID: ZooMoo
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/264751.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e08e2ff4a5f2f8c6b281d41b443aa6e2.jpg" group-title="INDONE_SIA 1", Warner TV
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/157594
 
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4ffa668fdf208ec522418bd231225c7f.png" group-title="INDONE_SIA 1", Zee Bioskop
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/157584
 
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ffe9e8c7ffa0c48eccb971c397c8e0de.png" group-title="INDONE_SIA 1", ZooMoo
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/264751
 
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="INDONE_SIA 2", ID: 01. ETV Live Event
@@ -11028,354 +10913,139 @@ http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/157584
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/264751
 
 
+MALAYSIA__________________________________________________________________________________________________________________________________
 
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/e0ca9c22b972add893fdad34af4255bc.png" group-title="MALAY_SIA 1", Animax
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/157486
 
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/f9cbb250de1822306dc0b7e9cdd23c9a.png" group-title="MALAY_SIA 1", Astro Arena
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/157485
 
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/7806170b5ef2464530dcaedcbe3e9a42.jpg" group-title="MALAY_SIA 1", Astro Arena 2
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/287793
 
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/e976949486bc089b9dec986e9a860ff8.png" group-title="MALAY_SIA 1", Astro Awani
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/157478
 
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/a52767c0cbab7a73d4554f002abe4b31.png" group-title="MALAY_SIA 1", Astro Ceria
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/157481
 
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/edc8a9c38c820781eb4785f4e5ee89ca.png" group-title="MALAY_SIA 1", Astro Cricket
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/157565
 
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/28fc1cfc2e9b5b2ba64f6bf5bcaa357d.png" group-title="MALAY_SIA 1", Astro Oasis
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/157489
 
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/584608e7b0eb904734396e6cc6831811.png" group-title="MALAY_SIA 1", Astro Prima
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/157467
 
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/98eeb75a39995d2c6ab45fb716af8310.png" group-title="MALAY_SIA 1", Astro Ria
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/158347
 
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/56d8756215a55bb4bc650428934f45d4.png" group-title="MALAY_SIA 1", Astro SuperSport
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/146068
 
-________________________________________________________________________________________________________________________________________________
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/601d9900ec857fb5c10762208e18f474.png" group-title="MALAY_SIA 1", Astro SuperSport 2
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/157556
 
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rtm_my_tv1.png" tvg-id="TV1" tvg-name=" [MY] TV1" , [MY] TV1
-https://ktpremium.com:443/A0112/8544/25808
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rtm_my_tv1.png" tvg-id="TV1" tvg-name="[MY] TV1 (B)" ,[MY] TV1 (B)
-https://ktpremium.com:443/A0112/8544/912825
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rtm_my_tv2.png" tvg-id="TV2" tvg-name="[MY] TV2" ,[MY] TV2
-https://ktpremium.com:443/A0112/8544/25809
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rtm_my_tv2.png" tvg-id="TV2" tvg-name="[MY] TV2 (B)" ,[MY] TV2 (B)
-https://ktpremium.com:443/A0112/8544/912826
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv3_my.png" tvg-id="TV3" tvg-name="[MY] TV3" ,[MY] TV3
-https://ktpremium.com:443/A0112/8544/25810
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv3_my.png" tvg-name="[MY] TV3 (A)" ,[MY] TV3 (A)
-https://ktpremium.com:443/A0112/8544/912827
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv3_my.png" tvg-id="TV3" tvg-name="[MY] TV3 (B)" ,[MY] TV3 (B)
-https://ktpremium.com:443/A0112/8544/912828
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv3_my.png" tvg-id="TV3" tvg-name="[MY] TV3 (C)" ,[MY] TV3 (C)
-https://ktpremium.com:443/A0112/8544/694449
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/ntv-7-my.png" tvg-id="DidikTVKPM" tvg-name="[MY] NTV7" ,[MY] NTV7
-https://ktpremium.com:443/A0112/8544/25811
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/ntv-7-my.png" tvg-id="DidikTVKPM" tvg-name="[MY] NTV7 (B)" ,[MY] NTV7 (B)
-https://ktpremium.com:443/A0112/8544/912829
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/8-tv-my.png" tvg-id="8TV" tvg-name="[MY] 8TV" ,[MY] 8TV
-https://ktpremium.com:443/A0112/8544/25812
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/8-tv-my.png" tvg-id="8TV" tvg-name="[MY] 8TV (B)" ,[MY] 8TV (B)
-https://ktpremium.com:443/A0112/8544/912830
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv9_my.png" tvg-id="TV9" tvg-name="[MY] TV9" ,[MY] TV9
-https://ktpremium.com:443/A0112/8544/25813
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv9_my.png" tvg-id="TV9" tvg-name="[MY] TV9 (B)" ,[MY] TV9 (B)
-https://ktpremium.com:443/A0112/8544/912831
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/awesome-tv-my.png" tvg-id="AwesomeTV" tvg-name="[MY] Awesome tv" ,[MY] Awesome tv
-https://ktpremium.com:443/A0112/8544/25828
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/awesome-tv-my.png" tvg-id="AwesomeTV" tvg-name="[MY] Awesome tv (B)" ,[MY] Awesome tv (B)
-https://ktpremium.com:443/A0112/8544/912832
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/TVS_Sarawak.jpg" tvg-id="TVS" tvg-name="[MY] TVS" ,[MY] TVS
-https://ktpremium.com:443/A0112/8544/656643
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="http://www.tvikim.my/images/logo-header-bak.png" tvg-id="9999" tvg-name="[MY] TV IKIM" ,[MY] TV IKIM
-https://ktpremium.com:443/A0112/8544/656644
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rtm-okey-my.png" tvg-id="RTMK03" tvg-name="[MY] OKEY TV" ,[MY] OKEY TV
-https://ktpremium.com:443/A0112/8544/656682
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://www.rtm.gov.my/images/2020/05/14/berita-rtm.png" tvg-id="RTMK05" tvg-name="[MY] Berita RTM" ,[MY] Berita RTM
-https://ktpremium.com:443/A0112/8544/900904
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TV6.jpg" tvg-id="RTMK06" tvg-name="[MY] TV6" ,[MY] TV6
-https://ktpremium.com:443/A0112/8544/900905
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/27/Mediacorp_Channel_5_2015.png" tvg-id="9999" tvg-name="[SG] Channel 5" ,[SG] Channel 5
-https://ktpremium.com:443/A0112/8544/25833
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3f/Channel8_2012_logo.png" tvg-id="9999" tvg-name="[SG] Channel 8" ,[SG] Channel 8
-https://ktpremium.com:443/A0112/8544/25834
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/ca/Channel_u_singapore.png" tvg-id="9999" tvg-name="[SG] Channel U" ,[SG] Channel U
-https://ktpremium.com:443/A0112/8544/25835
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/CNA_unveils_new_logo_as_it_celebrates_its_20th_anniversary.png" tvg-id="CNA" tvg-name="[SG] CNA(FHD)" ,[SG] CNA(FHD)
-https://ktpremium.com:443/A0112/8544/25837
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Mediacorp_Suria_2023.svg/1200px-Mediacorp_Suria_2023.svg.png" tvg-id="9999" tvg-name="[SG] Suria" ,[SG] Suria
-https://ktpremium.com:443/A0112/8544/25844
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://artefakts.sg/wp/wp-content/uploads/2018/03/Vasantham-logo.png" tvg-id="9999" tvg-name="[SG] Vasantham" ,[SG] Vasantham
-https://ktpremium.com:443/A0112/8544/25848
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro-citra-my.png" tvg-id="AstroCitra" tvg-name=" [MY] ASTRO Citra (not 24/7)" , [MY] ASTRO Citra (not 24/7)
-https://ktpremium.com:443/A0112/8544/25852
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro-citra-my.png" tvg-id="AstroCitra" tvg-name="[MY] ASTRO Citra (recording)" ,[MY] ASTRO Citra (recording)
-https://ktpremium.com:443/A0112/8544/913177
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_ria.png" tvg-id="AstroRia" tvg-name="[MY] ASTRO RIA HD(not 24/7)" ,[MY] ASTRO RIA HD(not 24/7)
-https://ktpremium.com:443/A0112/8544/25855
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_ria.png" tvg-id="AstroRia" tvg-name="[MY] ASTRO RIA HD (B)" ,[MY] ASTRO RIA HD (B)
-https://ktpremium.com:443/A0112/8544/912833
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro-prima-my.png" tvg-id="AstroPrima" tvg-name="[MY] ASTRO PRIMA HD " ,[MY] ASTRO PRIMA HD
-https://ktpremium.com:443/A0112/8544/25862
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro-oasis-my.png" tvg-id="AstroOasis" tvg-name="[MY] ASTRO OASIS HD" ,[MY] ASTRO OASIS HD
-https://ktpremium.com:443/A0112/8544/25864
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro-oasis-my.png" tvg-id="AstroOasis" tvg-name="[MY] ASTRO OASIS HD (B)" ,[MY] ASTRO OASIS HD (B)
-https://ktpremium.com:443/A0112/8544/912835
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro-warna-my.png" tvg-id="AstroWarna" tvg-name="[MY] ASTRO WARNA HD (not 24/7)" ,[MY] ASTRO WARNA HD (not 24/7)
-https://ktpremium.com:443/A0112/8544/25867
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro-warna-my.png" tvg-id="AstroWarna" tvg-name="[MY] ASTRO WARNA HD (B)" ,[MY] ASTRO WARNA HD (B)
-https://ktpremium.com:443/A0112/8544/912836
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/go_shop_my.png" tvg-id="GoShopBAARU" tvg-name="[MY] Go Shop 111" ,[MY] Go Shop 111
-https://ktpremium.com:443/A0112/8544/916394
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro-rania-my.png" tvg-id="AstroRania" tvg-name="[MY] Astro Rania HD" ,[MY] Astro Rania HD
-https://ktpremium.com:443/A0112/8544/908356
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro-aura-my.png" tvg-id="AstroAura" tvg-name="[MY] Astro Aura HD" ,[MY] Astro Aura HD
-https://ktpremium.com:443/A0112/8544/908357
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png" tvg-id="dunia.sinema.my" tvg-name="[MY] Dunia Sinema" ,[MY] Dunia Sinema
-https://ktpremium.com:443/A0112/8544/910753
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/go_shop_my.png" tvg-id="GoShopRUUMA" tvg-name="[MY] GO SHOP 118" ,[MY] GO SHOP 118
-https://ktpremium.com:443/A0112/8544/25875
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv_alhijrah.png" tvg-id="TVAlhijrah" tvg-name="[MY] TV ALHIJRAH" ,[MY] TV ALHIJRAH
-https://ktpremium.com:443/A0112/8544/25906
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/colors-in.png" tvg-id="ColorsHD" tvg-name=" [MY] COLORS HD" , [MY] COLORS HD
-https://ktpremium.com:443/A0112/8544/25928
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_vellithirai.png" tvg-id="AstroVellithirai" tvg-name="[MY] Astro Vellithirai" ,[MY] Astro Vellithirai
-https://ktpremium.com:443/A0112/8544/918423
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/476_144.png" tvg-id="SunLife" tvg-name="[MY] Sun Life" ,[MY] Sun Life
-https://ktpremium.com:443/A0112/8544/25934
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sun_tv_my.png" tvg-id="SunTV" tvg-name="[MY] Sun TV" ,[MY] Sun TV
-https://ktpremium.com:443/A0112/8544/911358
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/sun-music-HD-white.png" tvg-id="SunMusic" tvg-name="[MY] SUN MUSIC" ,[MY] SUN MUSIC
-https://ktpremium.com:443/A0112/8544/25933
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://www.dishpromotions.com/wp-content/uploads/ADTYA-logo.png" tvg-id="Adithya" tvg-name="[MY] Adithaya" ,[MY] Adithaya
-https://ktpremium.com:443/A0112/8544/905517
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://seeklogo.com/images/S/sun-news-logo-107E32491A-seeklogo.com.png" tvg-id="SunNews" tvg-name="[MY] Sun news" ,[MY] Sun news
-https://ktpremium.com:443/A0112/8544/911013
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sun_kondattam_tv.png" tvg-id="KTV" tvg-name="[MY] KTV" ,[MY] KTV
-https://ktpremium.com:443/A0112/8544/511756
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-vijay-international-hk.png" tvg-id="StarVijay" tvg-name="[MY] ASTRO Star Vijay HD" ,[MY] ASTRO Star Vijay HD
-https://ktpremium.com:443/A0112/8544/25944
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-vijay-international-hk.png" tvg-id="StarVijay" tvg-name="[MY] ASTRO Star Vijay HD (B)" ,[MY] ASTRO Star Vijay HD (B)
-https://ktpremium.com:443/A0112/8544/912838
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/298_144.png" tvg-id="ColorsTamilHD" tvg-name="[MY] COLORS TAMIL" ,[MY] COLORS TAMIL
-https://ktpremium.com:443/A0112/8544/25947
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/298_144.png" tvg-id="ColorsTamilHD" tvg-name="[MY] COLORS TAMIL (B)" ,[MY] COLORS TAMIL (B)
-https://ktpremium.com:443/A0112/8544/912839
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/zz/zee-tamizh-in.png" tvg-id="ZeeTamilHD" tvg-name="[MY] ZEE Tamil HD" ,[MY] ZEE Tamil HD
-https://ktpremium.com:443/A0112/8544/25949
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_vinmeen_hd_my.png" tvg-id="AstroVinmeenHD" tvg-name="[MY] Astro Vinmeen HD" ,[MY] Astro Vinmeen HD
-https://ktpremium.com:443/A0112/8544/25959
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_bom_thangathirai.png" tvg-id="BoxOfficeThangathirai" tvg-name="[MY] ABO Thangathirai" ,[MY] ABO Thangathirai
-https://ktpremium.com:443/A0112/8544/911365
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_522,h_294,c_scale,f_webp,q_auto:eco/resources/0-9-zeecinema/channel_list/1170x658withlogo807278654.png" tvg-id="ZeeCinema" tvg-name="[MY] Zee Cinema HD" ,[MY] Zee Cinema HD
-https://ktpremium.com:443/A0112/8544/911366
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/501_144.png" tvg-id="TVBMagic" tvg-name="[MY] TVB Magic" ,[MY] TVB Magic
-https://ktpremium.com:443/A0112/8544/924367
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/go_shop_my_chinese.png" tvg-id="GoShop2" tvg-name="[MY] Go Shop 303" ,[MY] Go Shop 303
-https://ktpremium.com:443/A0112/8544/916395
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/IQiyi_logo.svg/2560px-IQiyi_logo.svg.png" tvg-id="iQIYI" tvg-name="[MY] 爱奇艺 iQiyi" ,[MY] 爱奇艺 iQiyi
-https://ktpremium.com:443/A0112/8544/25961
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/IQiyi_logo.svg/2560px-IQiyi_logo.svg.png" tvg-id="iQIYI" tvg-name="[MY] 爱奇艺 iQiyi (B)" ,[MY] 爱奇艺 iQiyi (B)
-https://ktpremium.com:443/A0112/8544/912840
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_xiao_tai_yang.png" tvg-id="AstroXiaoTaiYang" tvg-name="[MY] 小太阳 HD" ,[MY] 小太阳 HD
-https://ktpremium.com:443/A0112/8544/25964
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_xiao_tai_yang.png" tvg-id="AstroXiaoTaiYang" tvg-name="[MY] 小太阳 HD (B)" ,[MY] 小太阳 HD (B)
-https://ktpremium.com:443/A0112/8544/912841
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_aec.png" tvg-id="AstroAEC" tvg-name="[MY] AEC HD " ,[MY] AEC HD
-https://ktpremium.com:443/A0112/8544/25968
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_aec.png" tvg-id="AstroAEC" tvg-name="[MY] AEC HD(B)" ,[MY] AEC HD(B)
-https://ktpremium.com:443/A0112/8544/916396
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_shuang_xing.png" tvg-id="AstroShuangXing" tvg-name="[MY] 双星 HD(block)" ,[MY] 双星 HD(block)
-https://ktpremium.com:443/A0112/8544/25970
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_shuang_xing.png" tvg-id="AstroShuangXing" tvg-name="[MY] 双星 HD (B)" ,[MY] 双星 HD (B)
-https://ktpremium.com:443/A0112/8544/912843
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_quan_jia_hd_my.png" tvg-id="AstroQuanJiaHD" tvg-name="[MY] 全佳 HD" ,[MY] 全佳 HD
-https://ktpremium.com:443/A0112/8544/25971
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvb_hk_jade_my.png" tvg-id="TVBJade" tvg-name="[MY] 翡翠华丽台" ,[MY] 翡翠华丽台
-https://ktpremium.com:443/A0112/8544/25972
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvb_hk_jade_my.png" tvg-id="TVBJade" tvg-name="[MY] 翡翠华丽台 (B)" ,[MY] 翡翠华丽台 (B)
-https://ktpremium.com:443/A0112/8544/912845
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro-hua-hee-dai-my.png" tvg-id="AstroHuaHeeDai" tvg-name=" [MY]  欢喜台 " , [MY]  欢喜台
-https://ktpremium.com:443/A0112/8544/25973
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro-hua-hee-dai-my.png" tvg-id="AstroHuaHeeDai" tvg-name=" [MY]  欢喜台  (B)" , [MY]  欢喜台  (B)
-https://ktpremium.com:443/A0112/8544/912847
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvb-xing-he-hk.png" tvg-id="TVBXingHe" tvg-name="[MY] TVB 星河(粤语)" ,[MY] TVB 星河(粤语)
-https://ktpremium.com:443/A0112/8544/25977
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvb-xing-he-hk.png" tvg-id="TVBXingHe" tvg-name="[MY] TVB 星河 HD (中文)" ,[MY] TVB 星河 HD (中文)
-https://ktpremium.com:443/A0112/8544/912848
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvb_hk_classic.png" tvg-id="TVBClassic" tvg-name="[MY] TVB 经典台" ,[MY] TVB 经典台
-https://ktpremium.com:443/A0112/8544/25979
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvb_hk_classic.png" tvg-id="TVBClassic" tvg-name="[MY] TVB 经典台 (B)" ,[MY] TVB 经典台 (B)
-https://ktpremium.com:443/A0112/8544/912849
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/e/e3/TvbEN.png/220px-TvbEN.png" tvg-id="TVBEntertainmentNews" tvg-name="[MY] TVB Entertainment News HD" ,[MY] TVB Entertainment News HD
-https://ktpremium.com:443/A0112/8544/918425
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/celestial-movies-hk.png" tvg-id="CelestialMovies" tvg-name="[MY] 天映频道 HD" ,[MY] 天映频道 HD
-https://ktpremium.com:443/A0112/8544/25981
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/celestial-classic-movies-hk.png" tvg-id="CCM" tvg-name="[MY] 天映经典" ,[MY] 天映经典
-https://ktpremium.com:443/A0112/8544/25982
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/phoenix_cn.png" tvg-id="PhoenixChineseChannel" tvg-name="[MY] Phoenix Chinese Channel HD" ,[MY] Phoenix Chinese Channel HD
-https://ktpremium.com:443/A0112/8544/25984
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/phoenix_cne.png" tvg-id="PhoenixInfoNews" tvg-name="[MY] Phoenix Info News HD" ,[MY] Phoenix Info News HD
-https://ktpremium.com:443/A0112/8544/25985
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvbs-asia-tw.png" tvg-id="TVBSAsia" tvg-name="[MY] TVBS ASIA HD" ,[MY] TVBS ASIA HD
-https://ktpremium.com:443/A0112/8544/25986
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cti_tv_asia.png" tvg-id="CTIAsia" tvg-name="[MY] 中天亚洲" ,[MY] 中天亚洲
-https://ktpremium.com:443/A0112/8544/25987
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro-aod-my.png" tvg-id="AstroAODHD" tvg-name="[MY] AOD 311 HD" ,[MY] AOD 311 HD
-https://ktpremium.com:443/A0112/8544/25990
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro-aod-my.png" tvg-id="AstroAOD352" tvg-name="[MY] AOD 352 HD" ,[MY] AOD 352 HD
-https://ktpremium.com:443/A0112/8544/25991
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro-aod-my.png" tvg-id="AstroAOD354" tvg-name="[MY] AOD 354 HD" ,[MY] AOD 354 HD
-https://ktpremium.com:443/A0112/8544/25993
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvn-asia-kr.png" tvg-id="tvN" tvg-name="[MY] tvN HD" ,[MY] tvN HD
-https://ktpremium.com:443/A0112/8544/26001
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvnmovies.png" tvg-id="tvNMovies" tvg-name="[MY] tvN Movies" ,[MY] tvN Movies
-https://ktpremium.com:443/A0112/8544/26003
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/kbs_world.png" tvg-id="KBSWorld" tvg-name="[MY] KBS World HD" ,[MY] KBS World HD
-https://ktpremium.com:443/A0112/8544/26006
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://www.onetvasia.com/sites/onetvasia.com/files/logos/onetvasia-logo.png" tvg-id="ONE" tvg-name="[MY] One HD" ,[MY] One HD
-https://ktpremium.com:443/A0112/8544/26009
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/boo_my.png" tvg-id="BOO" tvg-name="[MY] BOO" ,[MY] BOO
-https://ktpremium.com:443/A0112/8544/26011
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/K_Plus_Asia_Logo.jpg" tvg-id="K-Plus" tvg-name="[MY] K-plus" ,[MY] K-plus
-https://ktpremium.com:443/A0112/8544/26029
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo_my.png" tvg-id="HBO" tvg-name="[MY] HBO HD" ,[MY] HBO HD
-https://ktpremium.com:443/A0112/8544/916397
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo_my.png" tvg-id="HBO" tvg-name="[MY] HBO HD(sub)" ,[MY] HBO HD(sub)
-https://ktpremium.com:443/A0112/8544/26076
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo_hits.png" tvg-id="HBOHits" tvg-name="[MY] HBO Hits" ,[MY] HBO Hits
-https://ktpremium.com:443/A0112/8544/916401
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo_hits.png" tvg-id="HBOHits" tvg-name="[MY] HBO Hits (sub)" ,[MY] HBO Hits (sub)
-https://ktpremium.com:443/A0112/8544/26077
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo_signature_asia.png" tvg-id="hbo.signature.id" tvg-name="[MY] HBO Signature (sub)" ,[MY] HBO Signature (sub)
-https://ktpremium.com:443/A0112/8544/26080
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" tvg-id="HBOFamily" tvg-name="[MY] HBO Family" ,[MY] HBO Family
-https://ktpremium.com:443/A0112/8544/916400
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" tvg-id="HBOFamily" tvg-name="[MY] HBO Family (sub)" ,[MY] HBO Family (sub)
-https://ktpremium.com:443/A0112/8544/656642
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/thrill_hk.png" tvg-id="thrill.id" tvg-name="[MY] Thrill" ,[MY] Thrill
-https://ktpremium.com:443/A0112/8544/26094
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/warner_channel_us.png" tvg-id="WarnerTV" tvg-name="[MY] WARNER TV" ,[MY] WARNER TV
-https://ktpremium.com:443/A0112/8544/26097
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hits-movies-sg.png" tvg-id="HITSMovies" tvg-name="[MY] Hits Movies HD" ,[MY] Hits Movies HD
-https://ktpremium.com:443/A0112/8544/26102
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1200px-Cinemax_%28Yellow%29.svg.png" tvg-id="Cinemax" tvg-name="[MY] Cinemax" ,[MY] Cinemax
-https://ktpremium.com:443/A0112/8544/916398
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1200px-Cinemax_%28Yellow%29.svg.png" tvg-id="Cinemax" tvg-name="[MY] Cinemax (sub)" ,[MY] Cinemax (sub)
-https://ktpremium.com:443/A0112/8544/901187
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/showcase-movies-my.png" tvg-id="ShowcaseMovies" tvg-name="[MY] Showcase Movie" ,[MY] Showcase Movie
-https://ktpremium.com:443/A0112/8544/916399
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/453_144.png" tvg-id="Primetime" tvg-name="[MY] Primetime " ,[MY] Primetime
-https://ktpremium.com:443/A0112/8544/901189
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/1200px-Paramount_Network.svg.png" tvg-id="ParamountNetwork" tvg-name="[MY] Paramount Network " ,[MY] Paramount Network
-https://ktpremium.com:443/A0112/8544/901190
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://www.vhv.rs/dpng/d/592-5920199_home-cinemaworld-cinema-world-tv-hd-png-download.png" tvg-id="cinemaworld.my" tvg-name="[MY] CINEMA WORLD " ,[MY] CINEMA WORLD
-https://ktpremium.com:443/A0112/8544/901191
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2018/01/sky-news-hd-vector-logo.png" tvg-id="SkyNews" tvg-name="[MY] SKY NEWS HD" ,[MY] SKY NEWS HD
-https://ktpremium.com:443/A0112/8544/26156
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Euronews._2016_alternative_logo.png" tvg-id="612.unifi" tvg-name="[MY] Euronews" ,[MY] Euronews
-https://ktpremium.com:443/A0112/8544/26158
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/521_300.png" tvg-id="ABCAustralia" tvg-name="[MY] ABC AUSTRALIA" ,[MY] ABC AUSTRALIA
-https://ktpremium.com:443/A0112/8544/26160
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png" tvg-id="DW" tvg-name="[MY] DW HD" ,[MY] DW HD
-https://ktpremium.com:443/A0112/8544/26162
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://static.france24.com/meta_og_twcards/jsonld_publisher.png" tvg-id="France24" tvg-name="[MY] FRANCE24 HD" ,[MY] FRANCE24 HD
-https://ktpremium.com:443/A0112/8544/26165
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_awani.png" tvg-id="AstroAwani" tvg-name="[MY] ASTRO Awani HD" ,[MY] ASTRO Awani HD
-https://ktpremium.com:443/A0112/8544/26167
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_awani.png" tvg-id="AstroAwani" tvg-name="[MY] ASTRO Awani HD(B)" ,[MY] ASTRO Awani HD(B)
-https://ktpremium.com:443/A0112/8544/913137
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bernama-my.png" tvg-id="BernamaTV" tvg-name="[MY] Bernama News" ,[MY] Bernama News
-https://ktpremium.com:443/A0112/8544/26169
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnn-international-us.png" tvg-id="CNN" tvg-name="[MY] CNN HD" ,[MY] CNN HD
-https://ktpremium.com:443/A0112/8544/26171
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/24/BBC_News_HD_Logo.svg/795px-BBC_News_HD_Logo.svg.png" tvg-id="BBCNews" tvg-name="[MY] BBC News HD" ,[MY] BBC News HD
-https://ktpremium.com:443/A0112/8544/26174
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://ewsat.com/img/AL_JAZEERA_ENGLISH.png" tvg-id="AlJazeeraEnglish" tvg-name="[MY] Al-Jazzera HD" ,[MY] Al-Jazzera HD
-https://ktpremium.com:443/A0112/8544/26177
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/blommberg-tv-us.png" tvg-id="BloombergTV" tvg-name="[MY] Bloomberg TV" ,[MY] Bloomberg TV
-https://ktpremium.com:443/A0112/8544/26179
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cctv-4-asia-cn.png" tvg-id="CCTV4" tvg-name="[MY] CCTV4 HD" ,[MY] CCTV4 HD
-https://ktpremium.com:443/A0112/8544/26181
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cgtn_cn.png" tvg-id="CGTN" tvg-name="[MY] CGTN" ,[MY] CGTN
-https://ktpremium.com:443/A0112/8544/26192
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" tvg-id="cgtn.documentary.id" tvg-name="[MY] CGTN Documentary" ,[MY] CGTN Documentary
-https://ktpremium.com:443/A0112/8544/694497
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/arirang_kr.png" tvg-id="arirang.my" tvg-name="[MY] Arirang" ,[MY] Arirang
-https://ktpremium.com:443/A0112/8544/694473
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/1280px-KBS_World_%282009%29.svg.png" tvg-id="KBSWorld" tvg-name="[MY] KBS World" ,[MY] KBS World
-https://ktpremium.com:443/A0112/8544/870506
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nhk-world-japan-jp.png" tvg-id="NHKWorldPremium" tvg-name="[MY] NHK World" ,[MY] NHK World
-https://ktpremium.com:443/A0112/8544/834387
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png" tvg-id="CNBCAsia" tvg-name="[MY] CNBC Asia HD" ,[MY] CNBC Asia HD
-https://ktpremium.com:443/A0112/8544/26195
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" tvg-id="LoveNature" tvg-name="[MY] Love Nature" ,[MY] Love Nature
-https://ktpremium.com:443/A0112/8544/916402
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://images.squarespace-cdn.com/content/v1/616632df4479e534656ecf49/2017e527-15ce-4a89-acb0-6ad018d314fb/Global-Trekker_logo_primary.png" tvg-id="GlobalTrekker" tvg-name="[MY] Global Trekker" ,[MY] Global Trekker
-https://ktpremium.com:443/A0112/8544/916403
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nat_geo_us.png" tvg-id="national.geographic.id" tvg-name="[MY] NatGeo HD" ,[MY] NatGeo HD
-https://ktpremium.com:443/A0112/8544/26197
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nat_geo_wild_us.png" tvg-id="nat.geo.wild.id" tvg-name="[MY] NatGeo Wild HD" ,[MY] NatGeo Wild HD
-https://ktpremium.com:443/A0112/8544/26205
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery-channel-east-us.png" tvg-id="DiscoveryChannel" tvg-name="[MY] Discovery HD" ,[MY] Discovery HD
-https://ktpremium.com:443/A0112/8544/26207
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery_asia_us.png" tvg-id="DiscoveryAsia" tvg-name="[MY] Discovery Asia" ,[MY] Discovery Asia
-https://ktpremium.com:443/A0112/8544/26209
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/animal-planet-us.png" tvg-id="AnimalPlanet" tvg-name="[MY] Animal Planet HD" ,[MY] Animal Planet HD
-https://ktpremium.com:443/A0112/8544/26211
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/history_us.png" tvg-id="History" tvg-name="[MY] History HD" ,[MY] History HD
-https://ktpremium.com:443/A0112/8544/26213
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_ceria.png" tvg-id="AstroCeria" tvg-name="[MY] ASTRO CERIA HD" ,[MY] ASTRO CERIA HD
-https://ktpremium.com:443/A0112/8544/26238
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_ceria.png" tvg-id="AstroCeria" tvg-name="[MY] Ceria (B)" ,[MY] Ceria (B)
-https://ktpremium.com:443/A0112/8544/912821
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro-tutor-tv-sk-my.png" tvg-id="AstroTutorTVSK" tvg-name="[MY] Tutor TV SK" ,[MY] Tutor TV SK
-https://ktpremium.com:443/A0112/8544/912560
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro-tutor-tv-smk-my.png" tvg-id="AstroTutorTVSMK" tvg-name="[MY] Tutor TV SMK" ,[MY] Tutor TV SMK
-https://ktpremium.com:443/A0112/8544/912561
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/DreamWorks_Channel_Logo.svg/1200px-DreamWorks_Channel_Logo.svg.png" tvg-id="Dreamworks" tvg-name="[MY] DreamWorks" ,[MY] DreamWorks
-https://ktpremium.com:443/A0112/8544/912562
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/animax_asia.png" tvg-id="472.unifi" tvg-name="[MY] ANIMAX" ,[MY] ANIMAX
-https://ktpremium.com:443/A0112/8544/26240
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/media-upload/1495076748_logo-aniplus-png.png" tvg-id="9999" tvg-name="[MY] ANIPLUS HD" ,[MY] ANIPLUS HD
-https://ktpremium.com:443/A0112/8544/26242
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/OnAir_Logo_Boomerang_HD_2015.png" tvg-id="555.unifi" tvg-name="[MY] Boomerang HD" ,[MY] Boomerang HD
-https://ktpremium.com:443/A0112/8544/26245
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/CBeebies.png" tvg-id="CBeebies" tvg-name="[MY]  CBeebies" ,[MY]  CBeebies
-https://ktpremium.com:443/A0112/8544/26247
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/465_144.png" tvg-id="MoonbugKids" tvg-name="[MY] Moonbug Kids" ,[MY] Moonbug Kids
-https://ktpremium.com:443/A0112/8544/26200
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cartoon_network_global.png" tvg-id="CartoonNetwork" tvg-name="[MY] CARTOON NTWK HD" ,[MY] CARTOON NTWK HD
-https://ktpremium.com:443/A0112/8544/26273
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nickelodeon_us.png" tvg-id="Nickelodeon" tvg-name="[MY] NICKELODEON HD" ,[MY] NICKELODEON HD
-https://ktpremium.com:443/A0112/8544/26275
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nick_jr_us.png" tvg-id="NickJr" tvg-name="[MY] NICK JR" ,[MY] NICK JR
-https://ktpremium.com:443/A0112/8544/26276
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/baby_tv_eu.png" tvg-id="babytv.id" tvg-name="[MY] Baby TV" ,[MY] Baby TV
-https://ktpremium.com:443/A0112/8544/26277
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/axn_tw.png" tvg-id="AXN" tvg-name="[MY] AXN HD" ,[MY] AXN HD
-https://ktpremium.com:443/A0112/8544/26282
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hits_tv_sg.png" tvg-id="HITS" tvg-name="[MY] HITS HD" ,[MY] HITS HD
-https://ktpremium.com:443/A0112/8544/26284
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tlc_uk.png" tvg-id="TLC" tvg-name="[MY] TLC HD" ,[MY] TLC HD
-https://ktpremium.com:443/A0112/8544/26285
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/food-network-uk.png" tvg-id="FoodNetwork" tvg-name="[MY] FOOD NTWK HD" ,[MY] FOOD NTWK HD
-https://ktpremium.com:443/A0112/8544/26286
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1578301669_logo-asian-food-network-lg.png" tvg-id="AFN" tvg-name="[MY] Asian Food Network" ,[MY] Asian Food Network
-https://ktpremium.com:443/A0112/8544/916125
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/crime_investigation_us.png" tvg-id="CrimeInvestigation" tvg-name="[MY] C&I HD" ,[MY] C&I HD
-https://ktpremium.com:443/A0112/8544/26288
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bbc_earth_uk.png" tvg-id="BBCEarth" tvg-name="[MY] BBC Earth HD" ,[MY] BBC Earth HD
-https://ktpremium.com:443/A0112/8544/26290
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bbc_lifestyle_uk.png" tvg-id="BBCLifestyle" tvg-name="[MY] BBC Lifestyle" ,[MY] BBC Lifestyle
-https://ktpremium.com:443/A0112/8544/26291
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hgtv_us.png" tvg-id="HGTV" tvg-name="[MY] HGTV HD" ,[MY] HGTV HD
-https://ktpremium.com:443/A0112/8544/26294
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dmax-us.png" tvg-id="DMAX" tvg-name="[MY] DMAX HD" ,[MY] DMAX HD
-https://ktpremium.com:443/A0112/8544/26296
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/comedy-central-deutschland-us-de.png" tvg-id="324.comedy.central.爆笑台.hk" tvg-name="[MY] COMEDY CENTRAL" ,[MY] COMEDY CENTRAL
-https://ktpremium.com:443/A0112/8544/26297
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mtv_us.png" tvg-id="MTVLive" tvg-name="[MY] MTV live" ,[MY] MTV live
-https://ktpremium.com:443/A0112/8544/26298
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Blue_ant_entertainment_logo.png" tvg-id="317.blue.ant.綜藝娛樂.hk" tvg-name="[MY] Blue Ant Entertainment HD " ,[MY] Blue Ant Entertainment HD
-https://ktpremium.com:443/A0112/8544/656633
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://wikiimg.tojsiabtv.com/wikipedia/commons/thumb/d/d3/Blue_ant_extreme_logo.png/220px-Blue_ant_extreme_logo.png" tvg-id="318.blue.ant.超極娛樂.hk" tvg-name="[MY] Blue Ant Extreme HD " ,[MY] Blue Ant Extreme HD
-https://ktpremium.com:443/A0112/8544/656639
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Lifetime_logo17.svg/1200px-Lifetime_logo17.svg.png" tvg-id="Lifetime" tvg-name="[MY] LIFETIME " ,[MY] LIFETIME
-https://ktpremium.com:443/A0112/8544/656641
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://rtb-images.glueapi.io/300x0/live/rtb-sukmaindera-title.png" tvg-id="9999" tvg-name="RTB sukmaindera" ,RTB sukmaindera
-https://ktpremium.com:443/A0112/8544/897360
-#EXTINF:-1 group-title="MALAY_SIA 1" tvg-logo="https://rtb-images.glueapi.io/300x0//////live/GoLiveNew.png" tvg-id="9999" tvg-name="RTB GO" ,RTB GO
-https://ktpremium.com:443/A0112/8544/897365
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/c450e8241eb19fdbc99b78c96be08c2d.png" group-title="MALAY_SIA 1", Astro SuperSport 3
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/157557
 
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/a24abde2dc683d551ebfae1f0820315c.png" group-title="MALAY_SIA 1", Astro SuperSport 4
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/157558
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-02/480daf2471d76a0819242a59da7005f9.png" group-title="MALAY_SIA 1", Astro SuperSport 5
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/287792
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/bb06ccbe93af0e4d72aad4c77c5cb4c6.png" group-title="MALAY_SIA 1", Astro Vaanavil
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/201163
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/fa7dae21ca0a660204573e4d010232ab.png" group-title="MALAY_SIA 1", Astro Xiao Tai Yang
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/201164
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/2d7d739d57aa860159c36df8c746c779.png" group-title="MALAY_SIA 1", AXN
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/157542
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/c23b25dd57cbcc578a72dda7e35fdf08.png" group-title="MALAY_SIA 1", BBC Earth
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/171979
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/661d6fd8993dd9aaf43e249d036e9eb3.jpg" group-title="MALAY_SIA 1", beIN Sports
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/157561
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/602e805f1abfd464565db600ffd3f028.png" group-title="MALAY_SIA 1", Bloomberg TV
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/157533
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/515d63ff66edb49dc64a03093e9f6fd2.png" group-title="MALAY_SIA 1", Boomerang
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/171955
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/feda2de53c7fd947f29ff4740860c233.png" group-title="MALAY_SIA 1", Celestial Classic Movies (CCM)
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/157512
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/51e29412b2a80c8afa779e56b99dccdd.png" group-title="MALAY_SIA 1", Celestial Movies
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/174687
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-08/5304cac86cf9ef063e49c78303906da6.svg" group-title="MALAY_SIA 1", CNA
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/157524
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/ad7a1e1bb94a07f128ce21def6a0adc3.png" group-title="MALAY_SIA 1", Crime+ Investigation
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/157554
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/838a78d02f3d18a23b94402dd8420a2b.png" group-title="MALAY_SIA 1", Discovery Science
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/157530
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/d0e9f7b4beedf023994c4d1937b97aca.png" group-title="MALAY_SIA 1", Discovery World
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/157528
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/451dbdd3fbdd722d2ca3c1b4ba7ada36.png" group-title="MALAY_SIA 1", Disney XD
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/157544
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/4ffb0c9edc5497748d07145b50118c10.png" group-title="MALAY_SIA 1", Egg Network
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/157484
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/32a4269c4918eeef41af63deb0f43083.png" group-title="MALAY_SIA 1", FOX SPORTS 2
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/157488
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/dd5b9bef97274c22a06f1f088d34936a.png" group-title="MALAY_SIA 1", HGTV Asia
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/157553
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/25ab65a39a10d628b5c9319b423b6497.png" group-title="MALAY_SIA 1", Hits
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/157545
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/652a9e2547c9b24a6a2b0eb16b43a1f1.png" group-title="MALAY_SIA 1", HITS Movies
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/157477
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/98ac421179bbfd4dc8f4f4640667e35b.png" group-title="MALAY_SIA 1", Local Now Family Flix
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/296889
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/92307ca79c909c2f7881199792c74c0b.png" group-title="MALAY_SIA 1", Nick Jr
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/157546
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-07/b92ffe0e329e6808620cf9b9f92f1523.png" group-title="MALAY_SIA 1", NTV 7
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/174695
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-07/667e24a26ecfe1070bd6a40a113c0159.png" group-title="MALAY_SIA 1", RTB Sukmaindera
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/299546
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-07/7f3190f95ee41181d69a2edcc5321131.png" group-title="MALAY_SIA 1", RTM TV 1
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/158357
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/4d495580f894286e82e1f9ee33d2874b.png" group-title="MALAY_SIA 1", RTM TV 2
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/158355
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/7c4b2443678d05d7f2032e5519eec970.png" group-title="MALAY_SIA 1", TV 3
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/158360
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-07/3adc723d4576cb0b512751fe4073c326.png" group-title="MALAY_SIA 1", TV 9
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/171953
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-07/7bcedbeb3814000d4e785498f51b2099.png" group-title="MALAY_SIA 1", TV Alhijrah
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/157491
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/66ac88e17edd3d12e424a58a3a9b1d45.png" group-title="MALAY_SIA 1", TVN Movies
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/297499
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/ab95d8e974bb7f697b1dd79c7ac0f765.png" group-title="MALAY_SIA 1", Warner TV
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/157550
 
 
 
