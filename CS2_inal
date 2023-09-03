@@ -221,8 +221,7 @@ http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=61977_&extens
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAy6M9roB5zzsqC9YF5ZMU0WUU5dDcI9r3Mg&usqp=CAU" group-title="#🇪🇸EVENT DAZN🇮🇹#", DAZN F1 ES
 http://325481063776165257.of529.xyz:80/play/jean81/jean09092022/165257.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAy6M9roB5zzsqC9YF5ZMU0WUU5dDcI9r3Mg&usqp=CAU" group-title="#🇪🇸EVENT DAZN🇮🇹#", DAZN GP ES
-http://325481063776228384.of529.xyz:80/play/jean81/jean09092022/228384.ts
-
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/482125.ts
 
 
 ###############################
