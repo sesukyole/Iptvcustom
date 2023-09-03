@@ -40,7 +40,7 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:E0:56&stream=59057&extension
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/ligaeropa.png" group-title="#⚽EVENT BOLA⚽#", LIGA TOP EROPA 15
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=1131946&extension=ts&play_token=ijnmRQLtfl
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/ligaeropa.png" group-title="#⚽EVENT BOLA⚽#", LIGA TOP EROPA 16
-http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=110735&extension=ts&play_token=DMyrsnKH0i
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=213639&extension=ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/ligaeropa.png" group-title="#⚽EVENT BOLA⚽#", LIGA TOP EROPA 17
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=13184_&extension=ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/ligaeropa.png" group-title="#⚽EVENT BOLA⚽#", LIGA TOP EROPA 18
