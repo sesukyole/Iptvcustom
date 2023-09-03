@@ -8177,11 +8177,15 @@ http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=239085&extens
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=239084&extension=ts&play_token=Tj5rP8kRtc
 
 #EXTINF:-1 tvg-logo="_____" group-title="EROPA SPORT", ORF SPORT AT
-http://faucontv.live:8080/vaya/2kTxdjWYfn/114336
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=127405&extension=ts&play_token=ig1qtRO06T
 #EXTINF:-1 tvg-logo="_____" group-title="EROPA SPORT", SKY SPORT AUSTRIA 1
-http://faucontv.live:8080/vaya/2kTxdjWYfn/114337
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=284075&extension=ts&play_token=MQ5ch8CdOJ
 #EXTINF:-1 tvg-logo="_____" group-title="EROPA SPORT", SKY SPORT AUSTRIA 2
-http://faucontv.live:8080/vaya/2kTxdjWYfn/114340
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=284070&extension=ts&play_token=D303yeJQhK
+#EXTINF:-1 tvg-logo="_____" group-title="EROPA SPORT", SKY SPORT AUSTRIA 3
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=284069&extension=ts&play_token=H8RtFzjlqF
+
+
 
 
 
@@ -8225,13 +8229,6 @@ http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=811938&extens
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=811937&extension=ts&play_token=v7JIxP47xk
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/playgolf.png" group-title="EROPA SPORT", PLAY SPORT GOLF
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=811936&extension=ts&play_token=gec2IMAjS7
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/play1.png" group-title="EROPA SPORT", PLAY SPORT 1 B
-http://faucontv.live:8080/vaya/2kTxdjWYfn/114543
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/play2.png" group-title="EROPA SPORT", PLAY SPORT 2 B
-http://faucontv.live:8080/vaya/2kTxdjWYfn/114544
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/play3.png" group-title="EROPA SPORT", PLAY SPORT 3 B
-http://faucontv.live:8080/vaya/2kTxdjWYfn/114545
 
 
 
@@ -9269,13 +9266,13 @@ VIP SPORT #############
 https://github.com/inaldie/inaldie/raw/main/LOGO.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/OPTUS.png" group-title="VIP SPORT", OPTUS SPORT 1
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1519251_&extension=ts
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032471&extension=ts&play_token=Khv3PnbaYe
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/OPTUS.png" group-title="VIP SPORT", OPTUS SPORT 2
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1519252_&extension=ts
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032470&extension=ts&play_token=eGDCOZIjDb
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/OPTUS.png" group-title="VIP SPORT", OPTUS SPORT 3
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1519253_&extension=ts
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032469&extension=ts&play_token=JsZ6DDAJst
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/OPTUS.png" group-title="VIP SPORT", OPTUS SPORT 4
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1519254_&extension=ts
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032468&extension=ts&play_token=nm2nXBpyIo
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/OPTUS.png" group-title="VIP SPORT", OPTUS SPORT 5
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1519255_&extension=ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/OPTUS.png" group-title="VIP SPORT", OPTUS SPORT 6
@@ -9352,13 +9349,13 @@ http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1006289&e
 
 
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/qoerty1659622111.png" group-title="VIP SPORT", HUB SPORT PREMIER 1
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1350557_&extension=ts
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032529&extension=ts&play_token=OpptXaVhcy
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/sdvs4u1659622094.png" group-title="VIP SPORT", HUB SPORT PREMIER 2
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1350558_&extension=ts
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032528&extension=ts&play_token=QBypMdmojw
 #EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_Channels2/223_1920x1080_HTV.png" group-title="VIP SPORT", HUB SPORT PREMIER 3
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1350559_&extension=ts
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032527&extension=ts&play_token=fo5fJ8Ujby
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/emwu7x1659622075.png" group-title="VIP SPORT", HUB SPORT PREMIER 4
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1350560_&extension=ts
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032526&extension=ts&play_token=lC7DTPFcAA
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOINE5o77GfpUx8T6kq7PPCjrjd8lPOCEq0g&usqp=CAU" group-title="VIP SPORT", HUB SPORT PREMIER 5
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1350561_&extension=ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoD9_AMiHo1CuZafw1TTPtV5Jn7JxYPJxITQ&usqp=CAU" group-title="VIP SPORT", HUB SPORT PREMIER 6
