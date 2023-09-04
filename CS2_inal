@@ -5807,7 +5807,7 @@ http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=35363_&extension
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", MTV DANCE 
 http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=35362_&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", MTV DANCE 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", MTV CLUB 
 http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=657076_&extension=ts
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", MTV CLASIC 
 http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=158524_&extension=ts
