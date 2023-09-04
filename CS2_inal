@@ -8463,26 +8463,30 @@ VIP SPORT #############
 https://github.com/inaldie/inaldie/raw/main/LOGO.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/OPTUS.png" group-title="VIP SPORT", OPTUS SPORT 1
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032471&extension=ts&play_token=Khv3PnbaYe
+http://nplay.is:2095/play/live.php?mac=10:27:be:15:df:31&stream=350480_&extension=ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/OPTUS.png" group-title="VIP SPORT", OPTUS SPORT 2
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032470&extension=ts&play_token=eGDCOZIjDb
+http://nplay.is:2095/play/live.php?mac=10:27:be:15:df:31&stream=350481_&extension=ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/OPTUS.png" group-title="VIP SPORT", OPTUS SPORT 3
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032469&extension=ts&play_token=JsZ6DDAJst
+http://nplay.is:2095/play/live.php?mac=10:27:be:15:df:31&stream=350482_&extension=ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/OPTUS.png" group-title="VIP SPORT", OPTUS SPORT 4
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032468&extension=ts&play_token=nm2nXBpyIo
+http://nplay.is:2095/play/live.php?mac=10:27:be:15:df:31&stream=350483_&extension=ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/OPTUS.png" group-title="VIP SPORT", OPTUS SPORT 5
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1519255_&extension=ts
+http://nplay.is:2095/play/live.php?mac=10:27:be:15:df:31&stream=350484_&extension=ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/OPTUS.png" group-title="VIP SPORT", OPTUS SPORT 6
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1519256_&extension=ts
+http://nplay.is:2095/play/live.php?mac=10:27:be:15:df:31&stream=350485_&extension=ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/OPTUS.png" group-title="VIP SPORT", OPTUS SPORT 7
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1519257_&extension=ts
+http://nplay.is:2095/play/live.php?mac=10:27:be:15:df:31&stream=350486_&extension=ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/OPTUS.png" group-title="VIP SPORT", OPTUS SPORT 8
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1519258_&extension=ts
+http://nplay.is:2095/play/live.php?mac=10:27:be:15:df:31&stream=350487_&extension=ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/OPTUS.png" group-title="VIP SPORT", OPTUS SPORT 9
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1519261_&extension=ts
+http://nplay.is:2095/play/live.php?mac=10:27:be:15:df:31&stream=350488_&extension=ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/OPTUS.png" group-title="VIP SPORT", OPTUS SPORT 10
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1519260_&extension=ts
- 
+http://nplay.is:2095/play/live.php?mac=10:27:be:15:df:31&stream=350489_&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/OPTUS.png" group-title="VIP SPORT", OPTUS SPORT 11
+http://nplay.is:2095/play/live.php?mac=10:27:be:15:df:31&stream=350490_&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/OPTUS.png" group-title="VIP SPORT", OPTUS SPORT 12
+http://nplay.is:2095/play/live.php?mac=10:27:be:15:df:31&stream=350491_&extension=ts
+
  
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqhpkXd2_32db0w95SPISgC2Soe21B9bd03W7D4aLNdE35el87Ei2kghah&s=10" group-title="VIP SPORT",  MLS 🍎 APPLE+ 1
