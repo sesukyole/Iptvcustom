@@ -5776,6 +5776,25 @@ MUSIC MTV  ############
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="MUSIC MTV", ###MUSIC MTV###
 https://github.com/inaldie/inaldie/raw/main/LOGO.ts
 
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", STINGRAY KARAOKE
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=568767_&extension=ts
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", STINGRAY POP
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=568769_&extension=ts
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", STINGRAY ALTERNATIV ROCK
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=568772_&extension=ts
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", STINGRAY LATIN
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=568773_&extension=ts
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", STINGRAY URBAN BEATS
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=568774_&extension=ts
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", STINGRAY CLASSIC ROCK 
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=479326_&extension=ts
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", STINGRAY LIVE MUSIC 
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=331504_&extension=ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", STINGRAY GREAT HITS 
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=568761_&extension=ts
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", MTV 
 http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=66789_&extension=ts
 
@@ -5803,7 +5822,7 @@ http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=45820_&extension
 http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=20150_&extension=ts
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", MTV BLOCK PARTY 
-http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=331507_&extension=ts
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=331506_&extension=ts
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", MTV BIGGEST POP
 http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=331507_&extension=ts
@@ -5815,345 +5834,102 @@ http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=331508_&extensio
 http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=331510_&extension=ts
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", MTV 24/7
 http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=297728_&extension=ts
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", STINGRAY CONCERT
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=99147_&extension=ts
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", STINGRAY C MUSIC
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=99146_&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", MS |  MTV Yo! HD
-http://sdmx.vip:8080/19CLAUDIO/p2RTE8sjBBCP/2098824
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", MEZZO LIVE 
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=35709_&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", MS | MTV HD
-http://sdmx.vip:8080/19CLAUDIO/p2RTE8sjBBCP/2098821
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", CLUBBING TV
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=297729_&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", MS | MTV hits
-http://sdmx.vip:8080/19CLAUDIO/p2RTE8sjBBCP/2098823
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", MTV 80S
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=51598_&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", MS | MTV LIVE
-http://sdmx.vip:8080/19CLAUDIO/p2RTE8sjBBCP/2098822
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", MTV 90S
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=51597_&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", MS | XL MUSICA TV HD
-http://sdmx.vip:8080/19CLAUDIO/p2RTE8sjBBCP/2098845
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", MTV 00S
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=20419_&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", MS| MTV 80s
-http://sdmx.vip:8080/19CLAUDIO/p2RTE8sjBBCP/2145661
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", MTV LIVE
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=657036_&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", MS| MTV 90s
-http://sdmx.vip:8080/19CLAUDIO/p2RTE8sjBBCP/2145708
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", MTV CLUB
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=657076_&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", MS| Much Music
-http://sdmx.vip:8080/19CLAUDIO/p2RTE8sjBBCP/2145545
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", MTV 80'S
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=100971_&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", PE| Best Cable Music
-http://sdmx.vip:8080/19CLAUDIO/p2RTE8sjBBCP/207961
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", MTV 90'S
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=19354_&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", US | MTV 2 HD
-http://sdmx.vip:8080/19CLAUDIO/p2RTE8sjBBCP/175439
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", MTV 00'S
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=38233_&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", US | MTV HD
-http://sdmx.vip:8080/19CLAUDIO/p2RTE8sjBBCP/17238
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", MTV BASE
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=38236_&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", USA: Nick Music
-http://sdmx.vip:8080/19CLAUDIO/p2RTE8sjBBCP/2107688
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", OSN MUSIC NOW
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=20238_&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", CA: MTV 2
-http://sdmx.vip:8080/19CLAUDIO/p2RTE8sjBBCP/2168386
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", MTV MUSIC
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=102574_&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", MS | FIRST MUSIC CHANNEL
-http://sdmx.vip:8080/19CLAUDIO/p2RTE8sjBBCP/2170026
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", RETRO MUSIC
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=17277_&extension=ts
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", CALTEX MUSIC
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=15545_&extension=ts
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", AFRO MUSIC
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=10912_&extension=ts
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", RUSSIAN MUSIC BOX
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=445685_&extension=ts
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", FIRST MUSIC
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=445724_&extension=ts
 
-#EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/BEINentertainment4K/jeem.png" group-title="MUSIC MTV", AR|beIN JEEM
-http://kingtop10.net:7070/0600076528/6hzs9yyg/71250
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", STINGRAY C MUSIC
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=445900_&extension=ts
 
-#EXTINF:-1 tvg-logo="http://212.8.253.112/logo/EUROPE/FRANCE/BFMHD.png" group-title="MUSIC MTV", FR|BFM TV HD
-http://kingtop10.net:7070/0600076528/6hzs9yyg/73947
 
-#EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/CANAL+fr/BFM%20HD.png" group-title="MUSIC MTV", FR|BFM TV SD
-http://kingtop10.net:7070/0600076528/6hzs9yyg/74028
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", NICK MUSIC
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=12102_&extension=ts
 
-#EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/RFMTV.png" group-title="MUSIC MTV", FR|RFM TV HD
-http://kingtop10.net:7070/0600076528/6hzs9yyg/5849
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", MTV MUSIC 24
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=12087_&extension=ts
 
-#EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/MTV%20FRANCE.png" group-title="MUSIC MTV", FR|MTV FRANCE HD
-http://kingtop10.net:7070/0600076528/6hzs9yyg/5862
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", DELUXE MUSIC
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=19515_&extension=ts
 
-#EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/MEZZO%20LIVE.png" group-title="MUSIC MTV", FR|MEZZO LIVE HD
-http://kingtop10.net:7070/0600076528/6hzs9yyg/5864
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", RETRO MUSIC
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=34907_&extension=ts
 
-#EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/MEZZO.png" group-title="MUSIC MTV", FR|MEZZO HD
-http://kingtop10.net:7070/0600076528/6hzs9yyg/5865
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", MTV LOVE MUSIC
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=298311_&extension=ts
 
-#EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/FRANCE.HD/M6%20MUSIC.png" group-title="MUSIC MTV", FR|M6 MUSIC HD
-http://kingtop10.net:7070/0600076528/6hzs9yyg/125483
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", HITS MUSIC
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=20862_&extension=ts
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm0AQkpeh2ZPrdXNmZbi_RYFFk57z6ObT3Pm0_jd_hekcZovVHHWexBZixPA" group-title="MUSIC MTV", FR|BFM TV FHD
-http://kingtop10.net:7070/0600076528/6hzs9yyg/93088
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuwQOikKgwnvQSDUymYv2b5yGXdOu4dJa-NV5PKQdrC2NqFtxMjZS9VY0o" group-title="MUSIC MTV", FR|M6 MUSIC FHD
-http://kingtop10.net:7070/0600076528/6hzs9yyg/6389
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7NZl-gEGfB4JIM58PM1ZzOMbEMCUryC8q5VoVGVuknRW4tvirdQx-LQxL" group-title="MUSIC MTV", FR|MTV FRANCE FHD
-http://kingtop10.net:7070/0600076528/6hzs9yyg/6400
-
-#EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/CANAL+fr/BFM%20HD.png" group-title="MUSIC MTV", FR|BFM TV SD
-http://kingtop10.net:7070/0600076528/6hzs9yyg/74028
-
-#EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/CANAL+fr/BFM%20HD.png" group-title="MUSIC MTV", FR|BFMTV FHD (H.265)
-http://kingtop10.net:7070/0600076528/6hzs9yyg/47960
-
-#EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/CANAL+fr/M6-pu.png" group-title="MUSIC MTV", FR|M6 MUSIC FHD (H.265)
-http://kingtop10.net:7070/0600076528/6hzs9yyg/48000
-
-#EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/ARTCH/music.png" group-title="MUSIC MTV", PPV| ART MUSIC
-http://kingtop10.net:7070/0600076528/6hzs9yyg/154618
-
-#EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/LEBANOON/MTV%20Lebanon.jpg" group-title="MUSIC MTV", AR|MTV HD
-http://kingtop10.net:7070/0600076528/6hzs9yyg/71480
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", AR|MUSIC ALHANEEN TV
-http://kingtop10.net:7070/0600076528/6hzs9yyg/186544
-
-#EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/DELOGO/DU+REG%20&%20NACH.png" group-title="MUSIC MTV", DE| MTV HD
-http://kingtop10.net:7070/0600076528/6hzs9yyg/180110
-
-#EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/DELOGO/DU+REG%20&%20NACH.png" group-title="MUSIC MTV", DE| LUXE MUSIC
-http://kingtop10.net:7070/0600076528/6hzs9yyg/180112
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", IT| SKY MTV HD
-http://kingtop10.net:7070/0600076528/6hzs9yyg/194622
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", IT| SKY MTV FHD
-http://kingtop10.net:7070/0600076528/6hzs9yyg/194669
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", NL|Qmusic
-http://kingtop10.net:7070/0600076528/6hzs9yyg/83657
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", US| MTV Classic
-http://kingtop10.net:7070/0600076528/6hzs9yyg/198576
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", US| MTV
-http://kingtop10.net:7070/0600076528/6hzs9yyg/198575
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", US| MTV2
-http://kingtop10.net:7070/0600076528/6hzs9yyg/198574
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", US| NICK_MUSIC
-http://kingtop10.net:7070/0600076528/6hzs9yyg/182724
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", |SEN| MUSIC TV
-http://kingtop10.net:7070/0600076528/6hzs9yyg/184623
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", |SEN| a2i  music
-http://kingtop10.net:7070/0600076528/6hzs9yyg/184624
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", |SEN| MUSIC SENEGAL HITS HD
-http://kingtop10.net:7070/0600076528/6hzs9yyg/184651
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", |SEN| MUSIC SENEGAL HITS 2 HD
-http://kingtop10.net:7070/0600076528/6hzs9yyg/184652
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", |SEN| MUSIC SENEGAL HITS 3 HD
-http://kingtop10.net:7070/0600076528/6hzs9yyg/184653
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", |SEN| MUSICTV SENEGAL
-http://kingtop10.net:7070/0600076528/6hzs9yyg/184655
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", AF-SN|A2i MUSIC
-http://kingtop10.net:7070/0600076528/6hzs9yyg/122315
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", |MUSIC| TRACE URBAN
-http://kingtop10.net:7070/0600076528/6hzs9yyg/184718
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", |MUSIC| TRACE TGROPICAL
-http://kingtop10.net:7070/0600076528/6hzs9yyg/184719
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", |MUSIC| TRACE NAIJA
-http://kingtop10.net:7070/0600076528/6hzs9yyg/184720
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", |MUSIC| TRACE MIZKI
-http://kingtop10.net:7070/0600076528/6hzs9yyg/184721
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", |MUSIC| TRACE AFRICA
-http://kingtop10.net:7070/0600076528/6hzs9yyg/184722
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", |MUSIC| TRACE SPORTS STARTS
-http://kingtop10.net:7070/0600076528/6hzs9yyg/184723
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", |MUSIC| TRACE GOSPEL
-http://kingtop10.net:7070/0600076528/6hzs9yyg/184724
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", |MUSIC| DIGITAL BLACK MUSIC
-http://kingtop10.net:7070/0600076528/6hzs9yyg/184725
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", |MUSIC| BBLACK CLASSIK
-http://kingtop10.net:7070/0600076528/6hzs9yyg/184726
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", |MUSIC| BBLACK AFRICA
-http://kingtop10.net:7070/0600076528/6hzs9yyg/184727
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", |MUSIC| AFRO MUSIC
-http://kingtop10.net:7070/0600076528/6hzs9yyg/184728
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", |GENERAL| DBMTV
-http://kingtop10.net:7070/0600076528/6hzs9yyg/184743
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", |Africa| Afro Music TV
-http://kingtop10.net:7070/0600076528/6hzs9yyg/184796
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", AF| IVOIRE TV Music
-http://kingtop10.net:7070/0600076528/6hzs9yyg/166292
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", AF|Digital Black Music
-http://kingtop10.net:7070/0600076528/6hzs9yyg/121866
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", IN| RAJ MUSIC
-http://kingtop10.net:7070/0600076528/6hzs9yyg/149957
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", IN| GEMINI MUSIC HD.
-http://kingtop10.net:7070/0600076528/6hzs9yyg/149947
-
-#EXTINF:-1 tvg-logo="https://mobara.tv/logos/mtv.jpg" group-title="MUSIC MTV", IN| TS MTV FHD+
-http://kingtop10.net:7070/0600076528/6hzs9yyg/149728
-
-#EXTINF:-1 tvg-logo="https://bestmediainfo.com/wp-content/uploads/2018/12/MTV-beats-turns-two_3.jpg" group-title="MUSIC MTV", IN| TS MTV BEATS FHD
-http://kingtop10.net:7070/0600076528/6hzs9yyg/149725
-
-#EXTINF:-1 tvg-logo="https://mobara.tv/logos/india.png" group-title="MUSIC MTV", IN| PBN MUSIC
-http://kingtop10.net:7070/0600076528/6hzs9yyg/149569
-
-#EXTINF:-1 tvg-logo="https://mobara.tv/logos/india.png" group-title="MUSIC MTV", IN| JHANJAR MUSIC HD
-http://kingtop10.net:7070/0600076528/6hzs9yyg/149567
-
-#EXTINF:-1 tvg-logo="https://mobara.tv/logos/india.png" group-title="MUSIC MTV", IN| Vision Punjab Music HD
-http://kingtop10.net:7070/0600076528/6hzs9yyg/149566
-
-#EXTINF:-1 tvg-logo="https://mobara.tv/logos/india.png" group-title="MUSIC MTV", IN| 5 AAB MUSIC HD
-http://kingtop10.net:7070/0600076528/6hzs9yyg/149561
-
-#EXTINF:-1 tvg-logo="https://mobara.tv/logos/india.png" group-title="MUSIC MTV", IN| PTC MUSIC
-http://kingtop10.net:7070/0600076528/6hzs9yyg/149556
-
-#EXTINF:-1 tvg-logo="https://mobara.tv/logos/india.png" group-title="MUSIC MTV", IN| TARANG MUSIC
-http://kingtop10.net:7070/0600076528/6hzs9yyg/149529
-
-#EXTINF:-1 tvg-logo="https://mobara.tv/logos/india.png" group-title="MUSIC MTV", IN| UDAYA MUSIC
-http://kingtop10.net:7070/0600076528/6hzs9yyg/149515
-
-#EXTINF:-1 tvg-logo="https://mobara.tv/logos/india.png" group-title="MUSIC MTV", IN| RAJ MUSIC
-http://kingtop10.net:7070/0600076528/6hzs9yyg/149499
-
-#EXTINF:-1 tvg-logo="https://mobara.tv/logos/india.png" group-title="MUSIC MTV", IN| PUBLIC MUSIC
-http://kingtop10.net:7070/0600076528/6hzs9yyg/149498
-
-#EXTINF:-1 tvg-logo="https://mobara.tv/logos/india.png" group-title="MUSIC MTV", IN| IBC MUSIC
-http://kingtop10.net:7070/0600076528/6hzs9yyg/149458
-
-#EXTINF:-1 tvg-logo="https://mobara.tv/logos/india.png" group-title="MUSIC MTV", IN| SUN MUSIC HD
-http://kingtop10.net:7070/0600076528/6hzs9yyg/149452
-
-#EXTINF:-1 tvg-logo="https://mobara.tv/logos/india.png" group-title="MUSIC MTV", IN| SUN MUSIC FHD
-http://kingtop10.net:7070/0600076528/6hzs9yyg/149434
-
-#EXTINF:-1 tvg-logo="https://mobara.tv/logos/india.png" group-title="MUSIC MTV", IN|  SURYA MUSIC
-http://kingtop10.net:7070/0600076528/6hzs9yyg/149309
-
-#EXTINF:-1 tvg-logo="https://mobara.tv/logos/india.png" group-title="MUSIC MTV", IN| SURYA MUSIC
-http://kingtop10.net:7070/0600076528/6hzs9yyg/149308
-
-#EXTINF:-1 tvg-logo="https://mobara.tv/logos/sun_music.png" group-title="MUSIC MTV", IN| SUN MUSIC HD
-http://kingtop10.net:7070/0600076528/6hzs9yyg/149132
-
-#EXTINF:-1 tvg-logo="https://mobara.tv/logos/music_india.png" group-title="MUSIC MTV", IN| MUSIC INDIA
-http://kingtop10.net:7070/0600076528/6hzs9yyg/149083
-
-#EXTINF:-1 tvg-logo="https://mobara.tv/logos/mtv.jpg" group-title="MUSIC MTV", IN| MTV BEATS
-http://kingtop10.net:7070/0600076528/6hzs9yyg/149082
-
-#EXTINF:-1 tvg-logo="https://mobara.tv/logos/b4u_music_in.png" group-title="MUSIC MTV", IN| B4U MUSIC
-http://kingtop10.net:7070/0600076528/6hzs9yyg/149033
-
-#EXTINF:-1 tvg-logo="https://mobara.tv/logos/MUSICMASTI.png" group-title="MUSIC MTV", PK| MUSIC MASTI
-http://kingtop10.net:7070/0600076528/6hzs9yyg/150428
-
-#EXTINF:-1 tvg-logo="https://mobara.tv/logos/jalwa_tv_pk.png" group-title="MUSIC MTV", PK| JALWA MUSIC
-http://kingtop10.net:7070/0600076528/6hzs9yyg/150415
-
-#EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/bouquet/romania.png" group-title="MUSIC MTV", RO| CLUB MTV
-http://kingtop10.net:7070/0600076528/6hzs9yyg/171011
-
-#EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/bouquet/romania.png" group-title="MUSIC MTV", RO| MTV Live
-http://kingtop10.net:7070/0600076528/6hzs9yyg/171012
-
-#EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/bouquet/romania.png" group-title="MUSIC MTV", RO| MTV Hits
-http://kingtop10.net:7070/0600076528/6hzs9yyg/171013
-
-#EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/bouquet/romania.png" group-title="MUSIC MTV", RO| MTV 90s
-http://kingtop10.net:7070/0600076528/6hzs9yyg/171014
-
-#EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/bouquet/romania.png" group-title="MUSIC MTV", RO| Music Channel
-http://kingtop10.net:7070/0600076528/6hzs9yyg/171015
-
-#EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/bouquet/romania.png" group-title="MUSIC MTV", RO| Hit Music
-http://kingtop10.net:7070/0600076528/6hzs9yyg/171034
-
-#EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/bouquet/romania.png" group-title="MUSIC MTV", RO| MTV Dance
-http://kingtop10.net:7070/0600076528/6hzs9yyg/171044
-
-#EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/bouquet/romania.png" group-title="MUSIC MTV", RO| MTV Rocks
-http://kingtop10.net:7070/0600076528/6hzs9yyg/171045
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", NO| MTV HD
-http://kingtop10.net:7070/0600076528/6hzs9yyg/178239
-
-#EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/bouquet/DENMARK.png" group-title="MUSIC MTV", DK| MTV
-http://kingtop10.net:7070/0600076528/6hzs9yyg/178949
-
-#EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/bouquet/POLAND.png" group-title="MUSIC MTV", PL|MTV
-http://kingtop10.net:7070/0600076528/6hzs9yyg/124938
-
-#EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/bouquet/Brazil.png" group-title="MUSIC MTV", BR| MTV HD
-http://kingtop10.net:7070/0600076528/6hzs9yyg/169443
-
-#EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/bouquet/Brazil.png" group-title="MUSIC MTV", BR| Music Box Brazil
-http://kingtop10.net:7070/0600076528/6hzs9yyg/169445
-
-#EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/bouquet/Bortugal%20HD.png" group-title="MUSIC MTV", PT| MTV PORTUGAL
-http://kingtop10.net:7070/0600076528/6hzs9yyg/179101
-
-#EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/bouquet/Bortugal%20HD.png" group-title="MUSIC MTV", PT| MEZZO
-http://kingtop10.net:7070/0600076528/6hzs9yyg/179109
-
-#EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/bouquet/EX-YU.png" group-title="MUSIC MTV", Ex-Yu| Srb: Pink Music 1
-http://kingtop10.net:7070/0600076528/6hzs9yyg/171239
-
-#EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/bouquet/EX-YU.png" group-title="MUSIC MTV", Ex-Yu| Srb: Pink Music 2
-http://kingtop10.net:7070/0600076528/6hzs9yyg/171240
-
-#EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/bouquet/EX-YU.png" group-title="MUSIC MTV", Ex-Yu| Srb: CMC Music HD
-http://kingtop10.net:7070/0600076528/6hzs9yyg/171331
-
-#EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/bouquet/canada.png" group-title="MUSIC MTV", CA|MTV 2
-http://kingtop10.net:7070/0600076528/6hzs9yyg/175821
-
-#EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/bouquet/canada.png" group-title="MUSIC MTV", CA|MTV HD
-http://kingtop10.net:7070/0600076528/6hzs9yyg/175822
-
-#EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/bouquet/canada.png" group-title="MUSIC MTV", CA|Much Music HD
-http://kingtop10.net:7070/0600076528/6hzs9yyg/175837
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", SW| MTV
-http://kingtop10.net:7070/0600076528/6hzs9yyg/198782
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", SW| MTV MUSIC
-http://kingtop10.net:7070/0600076528/6hzs9yyg/198783
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", PR| Best Cable Music HD
-http://kingtop10.net:7070/0600076528/6hzs9yyg/165500
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", ARG| MUSIC TOP
-http://kingtop10.net:7070/0600076528/6hzs9yyg/165362
-
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", MTV MUSIC
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=85411_&extension=ts
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", MUSIC ROCK CHOICE
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=15035_&extension=ts
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", MUSIC REGGAE CHOICE
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=15029_&extension=ts
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", MUSIC RAP CHOICE
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=15036_&extension=ts
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", MUSIC R&B SOUL
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=15038_&extension=ts
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", MUSIC POP CHOICE
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=15039_&extension=ts
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", MUSIC TEN BEATS CHOICE
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=15031_&extension=ts
 
 
 
