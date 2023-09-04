@@ -6611,8 +6611,23 @@ http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=571253&extension=
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=1036490&extension=ts&play_token=83HkgGZDVI
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png" group-title="ASIA SPORT", ASTRO ARENA
 http://iptvtree.net:8080/joeBt/FBe7D5gDbFzmWdAx/157485
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png" group-title="ASIA SPORT", ASTRO ARENA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png" group-title="ASIA SPORT", ASTRO ARENA 2
 http://iptvtree.net:8080/joeBt/FBe7D5gDbFzmWdAx/287793
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="ASIA SPORT", ASTRO SUPERSPORT 1 BK
+http://nplay.is:2095/play/live.php?mac=10:27:be:15:df:31&stream=115615_&extension=ts
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png" group-title="ASIA SPORT", ASTRO SUPERSPORT 2 BK
+http://nplay.is:2095/play/live.php?mac=10:27:be:15:df:31&stream=115616_&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6hyQfCsG2uj55y1lfQkHLo5SeTvsJEr4j6nCVwUnioe5X2MlOaRK-ijrS2KmXh0GDubc&usqp=CAU" group-title="ASIA SPORT", ASTRO SUPERSPORT 3 BK
+http://nplay.is:2095/play/live.php?mac=10:27:be:15:df:31&stream=115617_&extension=ts
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="ASIA SPORT", ASTRO SUPERSPORT 4 BK
+http://nplay.is:2095/play/live.php?mac=10:27:be:15:df:31&stream=115618_&extension=ts
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Astro_SuperSport_UHD.png/revision/latest?cb=20220415221642" group-title="ASIA SPORT", ASTRO SUPERSPORT 1 UHD
+http://nplay.is:2095/play/live.php?mac=10:27:be:15:df:31&stream=348095_&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png" group-title="ASIA SPORT", ASTRO CRICKET BK
+http://nplay.is:2095/play/live.php?mac=10:27:be:15:df:31&stream=115614_&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQipmZeJaO5X50CB4A1hLmR3uZPXTZrNaihZg&usqp=CAU" group-title="ASIA SPORT", ASTRO GOLF
+http://nplay.is:2095/play/live.php?mac=10:27:be:15:df:31&stream=115703_&extension=ts
 
 
 
