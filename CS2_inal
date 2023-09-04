@@ -2462,6 +2462,21 @@ MOVIE MANCANAGARA  #######
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="MOVIE MANCANEGARA", ###MOVIE MANCANEGARA###
 https://github.com/inaldie/inaldie/raw/main/LOGO.ts
 
+
+#EXTINF:-1 tvg-logo="_______" group-title="MOVIE MANCANEGARA" HBO SIGNATURE
+http://vivo.10initiatived.uk:8880/287994003284/287994003284/31473
+#EXTINF:-1 tvg-logo="_______" group-title="MOVIE MANCANEGARA" HBO FAMILY
+http://vivo.10initiatived.uk:8880/287994003284/287994003284/31462
+#EXTINF:-1 tvg-logo="_______" group-title="MOVIE MANCANEGARA", HBO 1
+http://vivo.10initiatived.uk:8880/287994003284/287994003284/31465
+#EXTINF:-1 tvg-logo="_______" group-title="MOVIE MANCANEGARA" HBO 2
+http://vivo.10initiatived.uk:8880/287994003284/287994003284/31460
+#EXTINF:-1 tvg-logo="_______" group-title="MOVIE MANCANEGARA" TELECINE ACTION
+http://vivo.10initiatived.uk:8880/287994003284/287994003284/31583
+#EXTINF:-1 tvg-logo="_______" group-title="MOVIE MANCANEGARA" MEGAPIX
+http://vivo.10initiatived.uk:8880/287994003284/287994003284/31278
+
+
 #EXTINF:-1 tvg-logo="_______" group-title="MOVIE MANCANEGARA", GREAT MOVIES
 http://premium-ks.ddns.net:88/Megaiptv/YlMNx6nZAA/57762
 #EXTINF:-1 tvg-logo="_______" group-title="MOVIE MANCANEGARA", GREAT MOVIES ACTION
