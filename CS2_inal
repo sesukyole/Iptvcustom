@@ -7764,6 +7764,107 @@ SPORT EROPA 2 BACKUP  ##########
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="EROPA SPORT 2", ###EROPA SPORT BACKUP###
 https://github.com/inaldie/inaldie/raw/main/LOGO.ts
 
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", ARENA FIGHT
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=103873_&extension=ts
+
+
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", ARENA SPORT 1 BA
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=107272_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", ARENA SPORT PREMIUM 1 BA
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=542769_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", ARENA SPORT PREMIUM 2 BA
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=542770_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", ARENA SPORT PREMIUM 3 BA
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=542771_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", ARENA SPORT PREMIUM 1 RS
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=130979_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", ARENA SPORT PREMIUM 2 RS
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=130980_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", ARENA SPORT PREMIUM 3 RS
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=130981_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", ARENA SPORT 1 RS
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=9726_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", ARENA SPORT 2 RS
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=9724_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", ARENA SPORT 3 RS
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=9722_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", ARENA SPORT 4 RS
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=9720_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", ARENA SPORT 5 RS
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=9718_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", ARENA SPORT 6 RS
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=123623_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", ARENA SPORT 7 RS
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=123624_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", ARENA SPORT 8 RS
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=123625_&extension=ts
+
+
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", ARENA SPORT 1 SI
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=103935_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", ARENA SPORT 2 SI
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=103936_&extension=ts
+
+
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", ARENA SPORT 1 CZ
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=106580_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", ARENA MATCH 1 HU
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=445775_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", ARENA 4 HU
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=99128_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", PRO ARENA RO
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=36087_&extension=ts
+
+
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", ARENA SPORT 1 HR
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=41396_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", ARENA SPORT 2 HR
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=41395_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", ARENA SPORT 3 HR
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=41394_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", ARENA SPORT 4 HR
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=41393_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", ARENA SPORT 5 HR
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=102552_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", ARENA SPORT 6 HR
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=9727_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", ARENA SPORT 7 HR
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=123592_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", ARENA SPORT 8 HR
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=123593_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", ARENA SPORT 9 HR
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=123594_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", ARENA SPORT 10 HR
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=123595_&extension=ts
+
+
 #EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", ART SPORT 1
 http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=120381_&extension=ts
 
@@ -7803,6 +7904,41 @@ http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=9816_&extension=
 http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=9817_&extension=ts
 #EXTINF:-1 tvg-logo="https://www.bt.com/content/dam/bt/portal/images/articles/sport/tiles/TNTSports.jpg/_jcr_content/renditions/landscape-mobile.570.321.jpg" group-title="EROPA SPORT 2", BT TNT SPORT 10 EXTRA
 http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=389199_&extension=ts
+
+#EXTINF:-1 tvg-logo="________" group-title="EROPA SPORT 2", CANAL+ SPORT 1 PL
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=18013_&extension=ts
+#EXTINF:-1 tvg-logo="________" group-title="EROPA SPORT 2", CANAL+ SPORT 2 PL
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=18014_&extension=ts
+#EXTINF:-1 tvg-logo="________" group-title="EROPA SPORT 2", CANAL+ SPORT 3 PL
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=42359_&extension=ts
+#EXTINF:-1 tvg-logo="________" group-title="EROPA SPORT 2", CANAL+ SPORT 4 PL
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=42360_&extension=ts
+#EXTINF:-1 tvg-logo="________" group-title="EROPA SPORT 2", CANAL+ SPORT 5 PL
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=256446_&extension=ts
+#EXTINF:-1 tvg-logo="________" group-title="EROPA SPORT 2", CANAL+ SPORT 1 AF
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=219795_&extension=ts
+#EXTINF:-1 tvg-logo="________" group-title="EROPA SPORT 2", CANAL+ SPORT 2 AF
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=39531_&extension=ts
+#EXTINF:-1 tvg-logo="________" group-title="EROPA SPORT 2", CANAL+ SPORT 3 AF
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=39530_&extension=ts
+#EXTINF:-1 tvg-logo="________" group-title="EROPA SPORT 2", CANAL+ SPORT 4 AF
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=600375_&extension=ts
+#EXTINF:-1 tvg-logo="________" group-title="EROPA SPORT 2", CANAL+ SPORT 5 AF
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=600376_&extension=ts
+
+#EXTINF:-1 tvg-logo="________" group-title="EROPA SPORT 2", CANAL+ SPORT FR
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=23011_&extension=ts
+
+#EXTINF:-1 tvg-logo="________" group-title="EROPA SPORT 2", CANAL+ FOOT FR
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=23009_&extension=ts
+#EXTINF:-1 tvg-logo="________" group-title="EROPA SPORT 2", CANAL+ PREMIER LEAGUE FR
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=92904_&extension=ts
+#EXTINF:-1 tvg-logo="________" group-title="EROPA SPORT 2", CANAL+ FORMULA 1
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=600394_&extension=ts
+#EXTINF:-1 tvg-logo="________" group-title="EROPA SPORT 2", CANAL+ MOTOGP
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=600395_&extension=ts
+
+
 
 
 #EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", K SPORT 1
