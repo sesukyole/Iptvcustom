@@ -7098,29 +7098,6 @@ http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=726584&extension=
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=726585&extension=ts&play_token=QohVDVZoOK
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/TNT%201.png" group-title="EROPA SPORT", BT TNT SPORT 1
-http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=9851_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/TNT%202.png" group-title="EROPA SPORT", BT TNT SPORT 2
-http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=9849_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/TNT%203.png" group-title="EROPA SPORT", BT TNT SPORT 3
-http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=9847_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/TNT%204.png" group-title="EROPA SPORT", BT TNT SPORT 4
-http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=389197_&extension=ts
-#EXTINF:-1 tvg-logo="https://www.bt.com/content/dam/bt/portal/images/articles/sport/tiles/TNTSports.jpg/_jcr_content/renditions/landscape-mobile.570.321.jpg" group-title="EROPA SPORT", BT TNT SPORT 5 EXTRA
-http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=9813_&extension=ts
-#EXTINF:-1 tvg-logo="https://www.bt.com/content/dam/bt/portal/images/articles/sport/tiles/TNTSports.jpg/_jcr_content/renditions/landscape-mobile.570.321.jpg" group-title="EROPA SPORT", BT TNT SPORT 6 EXTRA
-http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=9814_&extension=ts
-#EXTINF:-1 tvg-logo="https://www.bt.com/content/dam/bt/portal/images/articles/sport/tiles/TNTSports.jpg/_jcr_content/renditions/landscape-mobile.570.321.jpg" group-title="EROPA SPORT", BT TNT SPORT 7 EXTRA
-http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=9815_&extension=ts
-#EXTINF:-1 tvg-logo="https://www.bt.com/content/dam/bt/portal/images/articles/sport/tiles/TNTSports.jpg/_jcr_content/renditions/landscape-mobile.570.321.jpg" group-title="EROPA SPORT", BT TNT SPORT 8 EXTRA
-http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=9816_&extension=ts
-#EXTINF:-1 tvg-logo="https://www.bt.com/content/dam/bt/portal/images/articles/sport/tiles/TNTSports.jpg/_jcr_content/renditions/landscape-mobile.570.321.jpg" group-title="EROPA SPORT", BT TNT SPORT 9 EXTRA
-http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=9817_&extension=ts
-#EXTINF:-1 tvg-logo="https://www.bt.com/content/dam/bt/portal/images/articles/sport/tiles/TNTSports.jpg/_jcr_content/renditions/landscape-mobile.570.321.jpg" group-title="EROPA SPORT", BT TNT SPORT 10 EXTRA
-http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=389199_&extension=ts
-
-
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/TNT%201.png" group-title="EROPA SPORT", BT TNT SPORT 1 BK
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=11484_&extension=ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/TNT%202.png" group-title="EROPA SPORT", BT TNT SPORT 2 BK
@@ -7801,6 +7778,29 @@ http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=534989_&extensio
 
 #EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", ART SPORT 6
 http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=534990_&extension=ts
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/TNT%201.png" group-title="EROPA SPORT 2", BT TNT SPORT 1
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=9851_&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/TNT%202.png" group-title="EROPA SPORT 2", BT TNT SPORT 2
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=9849_&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/TNT%203.png" group-title="EROPA SPORT 2", BT TNT SPORT 3
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=9847_&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/TNT%204.png" group-title="EROPA SPORT 2", BT TNT SPORT 4
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=389197_&extension=ts
+#EXTINF:-1 tvg-logo="https://www.bt.com/content/dam/bt/portal/images/articles/sport/tiles/TNTSports.jpg/_jcr_content/renditions/landscape-mobile.570.321.jpg" group-title="EROPA SPORT 2", BT TNT SPORT 5 EXTRA
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=9813_&extension=ts
+#EXTINF:-1 tvg-logo="https://www.bt.com/content/dam/bt/portal/images/articles/sport/tiles/TNTSports.jpg/_jcr_content/renditions/landscape-mobile.570.321.jpg" group-title="EROPA SPORT 2", BT TNT SPORT 6 EXTRA
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=9814_&extension=ts
+#EXTINF:-1 tvg-logo="https://www.bt.com/content/dam/bt/portal/images/articles/sport/tiles/TNTSports.jpg/_jcr_content/renditions/landscape-mobile.570.321.jpg" group-title="EROPA SPORT 2", BT TNT SPORT 7 EXTRA
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=9815_&extension=ts
+#EXTINF:-1 tvg-logo="https://www.bt.com/content/dam/bt/portal/images/articles/sport/tiles/TNTSports.jpg/_jcr_content/renditions/landscape-mobile.570.321.jpg" group-title="EROPA SPORT 2", BT TNT SPORT 8 EXTRA
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=9816_&extension=ts
+#EXTINF:-1 tvg-logo="https://www.bt.com/content/dam/bt/portal/images/articles/sport/tiles/TNTSports.jpg/_jcr_content/renditions/landscape-mobile.570.321.jpg" group-title="EROPA SPORT 2", BT TNT SPORT 9 EXTRA
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=9817_&extension=ts
+#EXTINF:-1 tvg-logo="https://www.bt.com/content/dam/bt/portal/images/articles/sport/tiles/TNTSports.jpg/_jcr_content/renditions/landscape-mobile.570.321.jpg" group-title="EROPA SPORT 2", BT TNT SPORT 10 EXTRA
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=389199_&extension=ts
+
 
 #EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", K SPORT 1
 http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=534991_&extension=ts
