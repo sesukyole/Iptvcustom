@@ -7875,6 +7875,40 @@ http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=566764_&extensio
 #EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", OVER SPORT 4 AL
 http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=566763_&extension=ts
 
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", V SPORT GOLF DK
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=118374_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", V SPORT ULTRA DK
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=114242_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", V SPORT VINTER SE
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=40983_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", V SPORT MOTOR SE
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=37562_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", V SPORT FOOTBALL SE
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=40982_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", V SPORT 1 SE
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=8183_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", V SPORT EXTRA SE
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=49966_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", V SPORT PREMIUM SE
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=35456_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", TV4 SPORTKAMALEN SE
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=35921_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", TV4 FOOTBALL SE
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=35838_&extension=ts
+
+
+
+
+
 
 
 #######################
