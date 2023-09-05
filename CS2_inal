@@ -6951,16 +6951,16 @@ http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=13599_&extens
 #EXTINF:-1 tvg-logo="http://magott.net:80/images/255b7043dcedff89dc098baa522183a8.png" group-title="TURKY SPORT", BEIN MAX 2
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=15181_&extension=ts
 
-#EXTINF:-1 tvg-logo="http://magott.net:80/images/d4c9a82eabcea9ef8c626da20887aa40.png" group-title="TURKY SPORT", BEIN SPORT 1 TR SD
-http://premium-ks.ddns.net:88/Megaiptv/YlMNx6nZAA/64918
-#EXTINF:-1 tvg-logo="http://magott.net:80/images/3fe05b7b5fa9e0c4f4e647e0dd514177.png" group-title="TURKY SPORT", BEIN SPORT 2 TR SD
-http://premium-ks.ddns.net:88/Megaiptv/YlMNx6nZAA/64924
-#EXTINF:-1 tvg-logo="http://magott.net:80/images/16e477b068241cc66b0034bbffa682e8.png" group-title="TURKY SPORT", BEIN SPORT 3 TR SD
-http://premium-ks.ddns.net:88/Megaiptv/YlMNx6nZAA/64927
-#EXTINF:-1 tvg-logo="http://magott.net:80/images/11a736e3ce515928d57c8eda23b5c1a1.png" group-title="TURKY SPORT", BEIN SPORT 4 TR SD
-http://premium-ks.ddns.net:88/Megaiptv/YlMNx6nZAA/64930
-#EXTINF:-1 tvg-logo="http://magott.net:80/images/11a736e3ce515928d57c8eda23b5c1a1.png" group-title="TURKY SPORT", BEIN SPORT 5 TR SD
-http://premium-ks.ddns.net:88/Megaiptv/YlMNx6nZAA/69554
+#EXTINF:-1 tvg-logo="http://magott.net:80/images/d4c9a82eabcea9ef8c626da20887aa40.png" group-title="TURKY SPORT", BEIN SPORT 1 TR HD
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=401094_&extension=ts
+#EXTINF:-1 tvg-logo="http://magott.net:80/images/3fe05b7b5fa9e0c4f4e647e0dd514177.png" group-title="TURKY SPORT", BEIN SPORT 2 TR HD
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=401100_&extension=ts
+#EXTINF:-1 tvg-logo="http://magott.net:80/images/16e477b068241cc66b0034bbffa682e8.png" group-title="TURKY SPORT", BEIN SPORT 3 TR HD
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=401105_&extension=ts
+#EXTINF:-1 tvg-logo="http://magott.net:80/images/11a736e3ce515928d57c8eda23b5c1a1.png" group-title="TURKY SPORT", BEIN SPORT 4 TR HD
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=401108_&extension=ts
+#EXTINF:-1 tvg-logo="http://magott.net:80/images/11a736e3ce515928d57c8eda23b5c1a1.png" group-title="TURKY SPORT", BEIN MAX 1 TR HD
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=401110_&extension=ts
 
 
 
