@@ -6101,13 +6101,13 @@ http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=23399_&extension
 http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=94452_&extension=ts
 
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/wprkho1631279247.png" group-title="BEIN GRUP", BEIN SPORT 2 ENGLISH
-http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=39506_&extension=ts
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=94448_&extension=ts
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/836319515679993856/o21RFHuA_400x400.jpg" group-title="BEIN GRUP", BEIN SPORT N
 http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=39504_&extension=ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/BeIN_SPORTS_USA_logo_2017.jpg" group-title="BEIN GRUP", BEIN SPORT US CANADA
-http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=94448_&extension=ts
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=39506_&extension=ts
 
 
 
