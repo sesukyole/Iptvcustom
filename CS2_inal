@@ -6086,6 +6086,32 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:E0:56&stream=59071&extension
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:E0:56&stream=59065&extension=ts
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/BeIN_SPORTS_Australia_logo_2017.jpg" group-title="BEIN GRUP", BEIN SPORT 1 AU
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=141846_&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/BeIN_SPORTS_Australia_logo_2017.jpg" group-title="BEIN GRUP", BEIN SPORT 2 AU
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=141856_&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/BeIN_SPORTS_Australia_logo_2017.jpg" group-title="BEIN GRUP", BEIN SPORT 3 AU
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=14184546_&extension=ts
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/XTRA_2.png/revision/latest/scale-to-width-down/250?cb=20201108180658" group-title="BEIN GRUP", BEIN SPORT EXTRA AU
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=331469_&extension=ts
+#EXTINF:-1 tvg-logo="https://truthinadvertising.org/wp-content/uploads/2018/10/Screen-Shot-2018-10-29-at-4.29.06-PM.png" group-title="BEIN GRUP", BEIN SPORT CONECT N AU
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=23399_&extension=ts
+
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_ENGLISH_Digital_Mono.png" group-title="BEIN GRUP", BEIN SPORT 1 ENGLISH
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=94452_&extension=ts
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/wprkho1631279247.png" group-title="BEIN GRUP", BEIN SPORT 2 ENGLISH
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=39506_&extension=ts
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/836319515679993856/o21RFHuA_400x400.jpg" group-title="BEIN GRUP", BEIN SPORT N
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=39504_&extension=ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/BeIN_SPORTS_USA_logo_2017.jpg" group-title="BEIN GRUP", BEIN SPORT US CANADA
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=94448_&extension=ts
+
+
+
+
 #EXTINF:-1 tvg-logo="-------" group-title="BEIN GRUP", BEIN MOVIE ACTION 1
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=31488_&extension=ts
 #EXTINF:-1 tvg-logo="-------" group-title="BEIN GRUP", BEIN MOVIE ACTION 2
@@ -6280,9 +6306,6 @@ MOVISTAR GRUP   #######
 ################################################################################################################################################################################# SPORT ASIA
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="MOVISTAR GRUP", ###MOVISTAR GRUP###
 https://github.com/inaldie/inaldie/raw/main/LOGO.ts
-
-
-
 
 #EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/7ccc72037477a18bc857a423caa99782.png" group-title="MOVISTAR GRUP", MOVIESTAR SPORT LALIGA
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=16510_&extension=ts
