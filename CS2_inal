@@ -2478,27 +2478,20 @@ http://vivo.10initiatived.uk:8880/287994003284/287994003284/31462
 http://vivo.10initiatived.uk:8880/287994003284/287994003284/31465
 #EXTINF:-1 tvg-logo="_______" group-title="MOVIE MANCANEGARA", HBO 2
 http://vivo.10initiatived.uk:8880/287994003284/287994003284/31460
+#EXTINF:-1 tvg-logo="_______" group-title="MOVIE MANCANEGARA", CINEMAX
+http://vivo.10initiatived.uk:8880/287994003284/287994003284/16702
 #EXTINF:-1 tvg-logo="_______" group-title="MOVIE MANCANEGARA", TELECINE ACTION
 http://vivo.10initiatived.uk:8880/287994003284/287994003284/31583
 #EXTINF:-1 tvg-logo="_______" group-title="MOVIE MANCANEGARA", MEGAPIX
 http://vivo.10initiatived.uk:8880/287994003284/287994003284/31278
-
-
-#EXTINF:-1 tvg-logo="_______" group-title="MOVIE MANCANEGARA", GREAT MOVIES
-http://premium-ks.ddns.net:88/Megaiptv/YlMNx6nZAA/57762
-#EXTINF:-1 tvg-logo="_______" group-title="MOVIE MANCANEGARA", GREAT MOVIES ACTION
-http://premium-ks.ddns.net:88/Megaiptv/YlMNx6nZAA/57763
-#EXTINF:-1 tvg-logo="_______" group-title="MOVIE MANCANEGARA", GREAT MOVIES CLASSIC
-http://premium-ks.ddns.net:88/Megaiptv/YlMNx6nZAA/57764
-#EXTINF:-1 tvg-logo="_______" group-title="MOVIE MANCANEGARA", GREAT TV
-http://premium-ks.ddns.net:88/Megaiptv/YlMNx6nZAA/57765
-#EXTINF:-1 tvg-logo="_______" group-title="MOVIE MANCANEGARA", GREAT TV+1
-http://premium-ks.ddns.net:88/Megaiptv/YlMNx6nZAA/57766
-#EXTINF:-1 tvg-logo="_______" group-title="MOVIE MANCANEGARA", HOROR CHANEL
-http://premium-ks.ddns.net:88/Megaiptv/YlMNx6nZAA/57773
-#EXTINF:-1 tvg-logo="_______" group-title="MOVIE MANCANEGARA", HOROR CHANEL +1
-http://premium-ks.ddns.net:88/Megaiptv/YlMNx6nZAA/57774
-
+#EXTINF:-1 tvg-logo="_______" group-title="MOVIE MANCANEGARA", PARAMOUT CHANEL
+http://vivo.10initiatived.uk:8880/287994003284/287994003284/16746
+#EXTINF:-1 tvg-logo="_______" group-title="MOVIE MANCANEGARA", AXN
+http://vivo.10initiatived.uk:8880/287994003284/287994003284/16695
+#EXTINF:-1 tvg-logo="_______" group-title="MOVIE MANCANEGARA", TNT
+http://vivo.10initiatived.uk:8880/287994003284/287994003284/16760
+#EXTINF:-1 tvg-logo="_______" group-title="MOVIE MANCANEGARA", TNT SERIES
+http://vivo.10initiatived.uk:8880/287994003284/287994003284/16761
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAKsiP5GzkJAjhzIKnxOpXMF95XecN1MlZ6g-c2F41oOwMRYyD-GGA5-13DaDerYsgIEY&usqp=CAU" group-title="MOVIE MANCANEGARA", UK: CineBox 2 Animation
@@ -8113,6 +8106,9 @@ http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=59294&extension=t
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhAHWm_Cdk4Qqeb_gAP0L4TmeiGOMNZl00PA&usqp=CAU" group-title="LATIN SPORT", PREMIER 1
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=59161&extension=ts&play_token=CN2xBNmpdp 
 
+#EXTINF:-1 tvg-logo="https://s8.postimg.cc/qthzouo05/1516325501_a57d469ee395de417336e66ec14dd41ddbf22918.jpg" group-title="LATIN SPORT", SPORTV HD
+http://vivo.10initiatived.uk:8880/287994003284/287994003284/16753
+
 
 #EXTINF:-1 tvg-logo="http://static.process-one.net/bootstrap/img/art/customers_mlb.png" group-title="LATIN SPORT", MLB NETWORK HD (US)
 https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/12728.m3u8
@@ -8967,8 +8963,8 @@ https://github.com/inaldie/inaldie/raw/main/LOGO.ts
 
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/SK_Fight_HR_logo.png" group-title="FIGHT SPORT", FIGHT KLUB 1
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=880280&extension=ts&play_token=EbtHXiHBKX
-#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/SK_Fight_HR_logo.png" group-title="FIGHT SPORT", FIGHT SPORT KLUB
-http://faucontv.live:8080/vaya/2kTxdjWYfn/33348
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/SK_Fight_HR_logo.png" group-title="FIGHT SPORT", COMBATE
+http://vivo.10initiatived.uk:8880/287994003284/287994003284/16703
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/SK_Fight_HR_logo.png" group-title="FIGHT SPORT", UFC FIGHT PASS
 http://faucontv.live:8080/vaya/2kTxdjWYfn/21243
 
@@ -9047,7 +9043,14 @@ http://es.xipi3.xyz:2052/live/GROUPG6/sh4BNGcVjx2u/96088.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCFdwEgf7Ef_A8t5mQHi28esDglHspqLd7sQ&usqp=CAU" group-title="ESPN SPORT", NL ESPN EXTRA
 http://es.xipi3.xyz:2052/live/GROUPG6/sh4BNGcVjx2u/96090.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCFdwEgf7Ef_A8t5mQHi28esDglHspqLd7sQ&usqp=CAU" group-title="ESPN SPORT", ESPN
+http://vivo.10initiatived.uk:8880/287994003284/287994003284/31034
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCFdwEgf7Ef_A8t5mQHi28esDglHspqLd7sQ&usqp=CAU" group-title="ESPN SPORT", ESPN 2
+http://vivo.10initiatived.uk:8880/287994003284/287994003284/16716
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCFdwEgf7Ef_A8t5mQHi28esDglHspqLd7sQ&usqp=CAU" group-title="ESPN SPORT", ESPN 3
+http://vivo.10initiatived.uk:8880/287994003284/287994003284/16725
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCFdwEgf7Ef_A8t5mQHi28esDglHspqLd7sQ&usqp=CAU" group-title="ESPN SPORT", ESPN 4
+http://vivo.10initiatived.uk:8880/287994003284/287994003284/31148
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCFdwEgf7Ef_A8t5mQHi28esDglHspqLd7sQ&usqp=CAU" group-title="ESPN SPORT", ESPN PREMIUM
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=926450&extension=ts&play_token=gpJGAEeMqs
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCFdwEgf7Ef_A8t5mQHi28esDglHspqLd7sQ&usqp=CAU" group-title="ESPN SPORT", ESPN DEPORTES VIVO
