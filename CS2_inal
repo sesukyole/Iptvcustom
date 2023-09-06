@@ -269,9 +269,9 @@ http://tvkuonline.my.id:25461/riyad/riyad/9
 http://tvkuonline.my.id:25461/riyad/riyad/10
 #EXTINF:-1 group-title="NASIONAL DIGITAL", GTV
 http://tvkuonline.my.id:25461/riyad/riyad/11
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/METRO.png", group-title="NASIONAL DIGITAL",METROTV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/METRO.png", group-title="NASIONAL DIGITAL", METROTV HD
 http://tvkuonline.my.id:25461/riyad/riyad/12
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/TRANS.png", group-title="NASIONAL DIGITAL",TRANSTV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/TRANS.png", group-title="NASIONAL DIGITAL", TRANSTV HD
 http://tvkuonline.my.id:25461/riyad/riyad/13
 #EXTINF:-1 group-title="NASIONAL DIGITAL", Indosiar
 http://tvkuonline.my.id:25461/riyad/riyad/14
@@ -279,17 +279,17 @@ http://tvkuonline.my.id:25461/riyad/riyad/14
 http://tvkuonline.my.id:25461/riyad/riyad/15
 #EXTINF:-1 group-title="NASIONAL DIGITAL", SCTV
 http://tvkuonline.my.id:25461/riyad/riyad/16
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/ANTV.png", group-title="NASIONAL DIGITAL",ANTV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/ANTV.png", group-title="NASIONAL DIGITAL", ANTV HD
 http://tvkuonline.my.id:25461/riyad/riyad/17
 #EXTINF:-1 group-title="NASIONAL DIGITAL", NET.
 http://tvkuonline.my.id:25461/riyad/riyad/18
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/KOMPAS.png", group-title="NASIONAL DIGITAL",KOMPASTV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/KOMPAS.png", group-title="NASIONAL DIGITAL", KOMPASTV HD
 http://tvkuonline.my.id:25461/riyad/riyad/19
 #EXTINF:-1 group-title="NASIONAL DIGITAL", RTV
 http://tvkuonline.my.id:25461/riyad/riyad/21
 #EXTINF:-1 group-title="NASIONAL DIGITAL", Mentari TV
 http://tvkuonline.my.id:25461/riyad/riyad/23
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/MOJI.png", group-title="NASIONAL DIGITAL",MOJI HD
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/MOJI.png", group-title="NASIONAL DIGITAL", MOJI HD
 http://tvkuonline.my.id:25461/riyad/riyad/24
 #EXTINF:-1 group-title="NASIONAL DIGITAL", INEWS
 http://tvkuonline.my.id:25461/riyad/riyad/22
