@@ -849,15 +849,15 @@ http://tvkuonline.my.id:25461/riyad/riyad/424
 
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png" group-title="MNC GRUP", HBO Ex
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/197972.m3u8
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/197972
 #EXTINF:-1 group-title="MNC GRUP" tvg-id="HBO Family HD" tvg-url="-----------------------" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch112_160_115",HBO Family Ex
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/197055.m3u8
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/197055
 #EXTINF:-1 group-title="MNC GRUP" tvg-id="HBO Hits HD" tvg-url="-----------------------" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch111_160_115",HBO Hits Ex
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/196480.m3u8
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/196480
 #EXTINF:-1 group-title="MNC GRUP" tvg-id="HBO Signature HD" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_160_115",HBO Signatur Ex
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/221948.m3u8
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/221948
 #EXTINF:-1 group-title="MNC GRUP" tvg-id="Cinemax" tvg-url="-----------------------l" tvg-logo="https://i.imgur.com/uB76Ft0.png",Cinema Ex
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/197964.m3u8
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/197964
 
 
 #KODIPROP:inputstream.adaptive.license_type=https://cubmu.deerem-12537iptv.workers.dev/license-proxy-widevine/cenc/?specConform=true
@@ -919,22 +919,22 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Paramount-HD/sa_dash_vmx/Paramount-HD.
 http://edge.linknetott.swiftserve.com/channelgroup2/cg232production/ch309/03.m3u8
 
 #EXTINF:-1 group-title="MNC GRUP" tvg-id="" tvg-url="-----------------------l" tvg-logo="https://thumbor.prod.vidiocdn.com/gYngIcjyXI6_5Nesj57ALzHIQTA=/smart/filters:strip_icc():quality(70)/vidio-web-prod-user/uploads/user/avatar/7988362/ejav-41dff4.jpg",ETV Bioskop 1
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/298526.m3u8
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/298526
 #EXTINF:-1 group-title="MNC GRUP" tvg-id="" tvg-url="-----------------------l" tvg-logo="https://thumbor.prod.vidiocdn.com/gYngIcjyXI6_5Nesj57ALzHIQTA=/smart/filters:strip_icc():quality(70)/vidio-web-prod-user/uploads/user/avatar/7988362/ejav-41dff4.jpg",ETV Bioskop 1 Ex
 http://gamsgo.cyou:8080/protoniumtv2020/BEsFfJ53gJrRXqde/298526
 
 #EXTINF:-1 group-title="MNC GRUP" tvg-id="" tvg-url="-----------------------l" tvg-logo="https://thumbor.prod.vidiocdn.com/gYngIcjyXI6_5Nesj57ALzHIQTA=/smart/filters:strip_icc():quality(70)/vidio-web-prod-user/uploads/user/avatar/7988362/ejav-41dff4.jpg",ETV Bioskop 2
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/298527.m3u8
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/298527
 #EXTINF:-1 group-title="MNC GRUP" tvg-id="" tvg-url="-----------------------l" tvg-logo="https://thumbor.prod.vidiocdn.com/gYngIcjyXI6_5Nesj57ALzHIQTA=/smart/filters:strip_icc():quality(70)/vidio-web-prod-user/uploads/user/avatar/7988362/ejav-41dff4.jpg",ETV Bioskop 2 Ex
 http://gamsgo.cyou:8080/protoniumtv2020/BEsFfJ53gJrRXqde/298527
 
 #EXTINF:-1 group-title="MNC GRUP" tvg-id="" tvg-url="-----------------------l" tvg-logo="https://thumbor.prod.vidiocdn.com/gYngIcjyXI6_5Nesj57ALzHIQTA=/smart/filters:strip_icc():quality(70)/vidio-web-prod-user/uploads/user/avatar/7988362/ejav-41dff4.jpg",ETV Bioskop 3
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/298528.m3u8
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/298528
 #EXTINF:-1 group-title="MNC GRUP" tvg-id="" tvg-url="-----------------------l" tvg-logo="https://thumbor.prod.vidiocdn.com/gYngIcjyXI6_5Nesj57ALzHIQTA=/smart/filters:strip_icc():quality(70)/vidio-web-prod-user/uploads/user/avatar/7988362/ejav-41dff4.jpg",ETV Bioskop 3 Ex
 http://gamsgo.cyou:8080/protoniumtv2020/BEsFfJ53gJrRXqde/298528
 
 #EXTINF:-1 group-title="MNC GRUP" tvg-id="" tvg-url="-----------------------l" tvg-logo="https://thumbor.prod.vidiocdn.com/gYngIcjyXI6_5Nesj57ALzHIQTA=/smart/filters:strip_icc():quality(70)/vidio-web-prod-user/uploads/user/avatar/7988362/ejav-41dff4.jpg",ETV Bioskop 4
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/298529.m3u8
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/298529
 #EXTINF:-1 group-title="MNC GRUP" tvg-id="" tvg-url="-----------------------l" tvg-logo="https://thumbor.prod.vidiocdn.com/gYngIcjyXI6_5Nesj57ALzHIQTA=/smart/filters:strip_icc():quality(70)/vidio-web-prod-user/uploads/user/avatar/7988362/ejav-41dff4.jpg",ETV Bioskop 4 Ex
 http://gamsgo.cyou:8080/protoniumtv2020/BEsFfJ53gJrRXqde/298529
 
