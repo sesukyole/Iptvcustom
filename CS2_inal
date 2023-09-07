@@ -7824,14 +7824,23 @@ http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=534989_&extensio
 #EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", ART SPORT 6
 http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=534990_&extension=ts
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/TNT%201.png" group-title="EROPA SPORT 2", BT TNT SPORT 1 SD
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=128229_&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/TNT%202.png" group-title="EROPA SPORT 2", BT TNT SPORT 2 SD
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=128230_&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/TNT%203.png" group-title="EROPA SPORT 2", BT TNT SPORT 3 SD
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=128231_&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/TNT%204.png" group-title="EROPA SPORT 2", BT TNT SPORT 4 SD
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=389198_&extension=ts
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/TNT%201.png" group-title="EROPA SPORT 2", BT TNT SPORT 1
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/TNT%201.png" group-title="EROPA SPORT 2", BT TNT SPORT 1 HD
 http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=9851_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/TNT%202.png" group-title="EROPA SPORT 2", BT TNT SPORT 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/TNT%202.png" group-title="EROPA SPORT 2", BT TNT SPORT 2 HD
 http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=9849_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/TNT%203.png" group-title="EROPA SPORT 2", BT TNT SPORT 3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/TNT%203.png" group-title="EROPA SPORT 2", BT TNT SPORT 3 HD
 http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=9847_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/TNT%204.png" group-title="EROPA SPORT 2", BT TNT SPORT 4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/TNT%204.png" group-title="EROPA SPORT 2", BT TNT SPORT 4 HD
 http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=389197_&extension=ts
 #EXTINF:-1 tvg-logo="https://www.bt.com/content/dam/bt/portal/images/articles/sport/tiles/TNTSports.jpg/_jcr_content/renditions/landscape-mobile.570.321.jpg" group-title="EROPA SPORT 2", BT TNT SPORT 5 EXTRA
 http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=9813_&extension=ts
@@ -7878,6 +7887,19 @@ http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=92904_&extension
 http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=600394_&extension=ts
 #EXTINF:-1 tvg-logo="________" group-title="EROPA SPORT 2", CANAL+ MOTOGP
 http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=600395_&extension=ts
+
+
+#EXTINF:-1 tvg-logo="________" group-title="EROPA SPORT 2", C MORE SPORT 1
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=20585_&extension=ts
+#EXTINF:-1 tvg-logo="________" group-title="EROPA SPORT 2", C MORE SPORT 2
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=87371_&extension=ts
+#EXTINF:-1 tvg-logo="________" group-title="EROPA SPORT 2", C MORE MAX 2
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=630762_&extension=ts
+#EXTINF:-1 tvg-logo="________" group-title="EROPA SPORT 2", C MORE MAX 1
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=630761_&extension=ts
+#EXTINF:-1 tvg-logo="________" group-title="EROPA SPORT 2", C MORE MAX 2
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=630762_&extension=ts
+
 
 #EXTINF:-1 tvg-logo="________" group-title="EROPA SPORT 2", DIEMA 1 BG
 http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=49883_&extension=ts
