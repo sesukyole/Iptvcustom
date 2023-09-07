@@ -6041,6 +6041,39 @@ http://magott.net:80/okota380/RvPBwTrjvRPM/25735
 http://magott.net:80/okota380/RvPBwTrjvRPM/38943
 
 
+
+#EXTINF:-1 tvg-logo="_______" group-title="BEIN GRUP", BEIN SPORT PREMIUM 3 AR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:E0:56&stream=192756&extension=m3u8
+#EXTINF:-1 tvg-logo="_______" group-title="BEIN GRUP", BEIN SPORT PREMIUM 2 AR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:E0:56&stream=192757&extension=m3u8
+#EXTINF:-1 tvg-logo="_______" group-title="BEIN GRUP", BEIN SPORT PREMIUM 1 AR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:E0:56&stream=192758&extension=m3u8
+
+#EXTINF:-1 tvg-logo="_______" group-title="BEIN GRUP", BEIN SPORT 1 AR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:E0:56&stream=192754&extension=m3u8
+
+#EXTINF:-1 tvg-logo="_______" group-title="BEIN GRUP", BEIN SPORT 2 AR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:E0:56&stream=192753&extension=m3u8
+
+#EXTINF:-1 tvg-logo="_______" group-title="BEIN GRUP", BEIN SPORT 3 AR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:E0:56&stream=192752&extension=m3u8
+
+#EXTINF:-1 tvg-logo="_______" group-title="BEIN GRUP", BEIN SPORT 4 AR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:E0:56&stream=192751&extension=m3u8
+
+#EXTINF:-1 tvg-logo="_______" group-title="BEIN GRUP", BEIN SPORT 5 AR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:E0:56&stream=192750&extension=m3u8
+
+#EXTINF:-1 tvg-logo="_______" group-title="BEIN GRUP", BEIN SPORT 6 AR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:E0:56&stream=192749&extension=m3u8
+
+#EXTINF:-1 tvg-logo="_______" group-title="BEIN GRUP", BEIN SPORT 7 AR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:E0:56&stream=192748&extension=m3u8
+
+#EXTINF:-1 tvg-logo="_______" group-title="BEIN GRUP", BEIN SPORT 8 AR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:E0:56&stream=192760&extension=m3u8
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/BeIN_SPORTS_France_logo_2017.jpg" group-title="BEIN GRUP", BEIN HABER
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=27725_&extension=ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/BeIN_SPORTS_France_logo_2017.jpg" group-title="BEIN GRUP", BEIN SPORT 1 FR
