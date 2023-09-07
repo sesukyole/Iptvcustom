@@ -7879,6 +7879,14 @@ http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=600394_&extensio
 #EXTINF:-1 tvg-logo="________" group-title="EROPA SPORT 2", CANAL+ MOTOGP
 http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=600395_&extension=ts
 
+#EXTINF:-1 tvg-logo="________" group-title="EROPA SPORT 2", DIEMA 1 BG
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=49883_&extension=ts
+#EXTINF:-1 tvg-logo="________" group-title="EROPA SPORT 2", DIEMA 2 BG
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=49884_&extension=ts
+
+#EXTINF:-1 tvg-logo="________" group-title="EROPA SPORT 2", TV3 SPORT DK
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=49884_&extension=ts
+
 
 
 
@@ -8686,6 +8694,11 @@ http://iptvtree.net:8080/joeBt/FBe7D5gDbFzmWdAx/147
 http://iptvtree.net:8080/joeBt/FBe7D5gDbFzmWdAx/297555
 #EXTINF:-1 tvg-logo="______" group-title="LAIN-LAIN SPORT", EQUIDIA
 http://iptvtree.net:8080/joeBt/FBe7D5gDbFzmWdAx/276130
+
+#EXTINF:-1 tvg-logo="________" group-title="LAIN-LAIN SPORT", WORLD POKER TOUR PLUTO DK
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=118343_&extension=ts
+#EXTINF:-1 tvg-logo="________" group-title="LAIN-LAIN SPORT", WORLD POKER TOUR DK
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=118344_&extension=ts
 
 #EXTINF:-1 tvg-logo="______" group-title="LAIN-LAIN SPORT", GOLF CHANEL FR
 http://iptvtree.net:8080/joeBt/FBe7D5gDbFzmWdAx/279613
