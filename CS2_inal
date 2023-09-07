@@ -7957,6 +7957,20 @@ http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=102611_&extensio
 #EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", SUPER SPORT 7 AL
 http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=102742_&extension=ts
 
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", TV2 SPORT 1 NO
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=85948_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", TV2 SPORT 2 NO
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=85949_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", TV2 SPORT PREMIUM 1 NO
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=58984_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", TV2 SPORT PREMIUM 2 NO
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=61145_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", MUTV
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=62663_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", LA LIGA TV
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=630759_&extension=ts
+
 #EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", OVER SPORT 1 AL
 http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=566761_&extension=ts
 
@@ -7986,6 +8000,15 @@ http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=40982_&extension
 
 #EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", V SPORT 1 SE
 http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=8183_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", V SPORT 2 NO
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=35346_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", V SPORT 3 NO
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=35345_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", V SPORT+ NO
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=85944_&extension=ts
 
 #EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", V SPORT EXTRA SE
 http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=49966_&extension=ts
@@ -8723,7 +8746,8 @@ http://premium-ks.ddns.net:88/Megaiptv/YlMNx6nZAA/65087
 #EXTINF:-1 tvg-logo="xxxxxxxx" group-title="LAIN-LAIN SPORT", SPORTSKA
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=110687&extension=ts&play_token=zbJ3kOYLbL
 
-
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="LAIN-LAIN SPORT", MOTORVISION TV
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=298068_&extension=ts
 
 #EXTINF:-1 tvg-logo="______" group-title="LAIN-LAIN SPORT", TRECE SPORT 
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=508164&extension=ts&play_token=U6DIYVbv7g 
@@ -10875,8 +10899,12 @@ http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=584446_&exten
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdR4BUrpMkhG8BXeVTxxaXgUTosR6W9__9Nw&usqp=CAU" group-title="MOVIE 24/7", AMERICAN PIE
 http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=524443_&extension=ts
 
-
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdR4BUrpMkhG8BXeVTxxaXgUTosR6W9__9Nw&usqp=CAU" group-title="MOVIE 24/7", AVATAR LEGEND OF ENG
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=298083_&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdR4BUrpMkhG8BXeVTxxaXgUTosR6W9__9Nw&usqp=CAU" group-title="MOVIE 24/7", DORA TV
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=298086_&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdR4BUrpMkhG8BXeVTxxaXgUTosR6W9__9Nw&usqp=CAU" group-title="MOVIE 24/7", JUST FOR LAUGHS
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=298034_&extension=ts
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RAKUTEN TV", Top Movies - Rakuten TV
 https://16464fe910f94d65ab9b9255101d7fc7.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-gb_TopFree/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.content_classification=15&ads.device_lmt=0&ads.device_make=chrome&ads.device_model=GENERIC&ads.device_type=web&ads.device_year=1970&ads.env=prod&ads.gdpr_consent=CPn5KgAPn5KgAADABBPLC4CsAP_AAH_AAAAAHrsVZCpcBSlgYCpoAIoAKIAUEAAAgiAAABAAAoABCAAAIAQAgAAgIAAAAAAAAAAAIAJAAQAAAAEAAAAAAAAAAAAIIACAAAAAIABAAAAAAAAACAAAAAAAAAAAAAAEAAAAgABAABAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAgZ8xVkKlwFKWBgKGgAggAogBQQAACCIAAAEAACAAAIAAAgBACAACAAAAAAAAAAAAAgAgABAAAAAQAAAAAAAAAAAAggAIAAAAAgAEAAAAAAAAAAAAAAAAAAAAAAAAQAAACAAEAAEAAAAAAQAA.YAAAAAAAA4DA&ads.market=uk&ads.player_height=1080&ads.player_width=1920&ads.pod_type=playerpage_midroll&ads.ppid=9545f581-7373-4bce-8a6f-29b52118cc80&ads.rtv_content_id=2903&ads.rtv_content_language=eng&ads.rtvid=271858&ads.streaming_id=2a192d90-18f9-4585-96a7-ed8731ba4e32&ads.user_type=visitor&ads.wurl_channel=838
