@@ -835,6 +835,10 @@ https://kbtv.akamaized.net/hls/live/2031188/kanalbuya/1.m3u8
 #KODIPROP:inputstream.adaptive.license_type=https://cubmupart4.apiv2x.workers.dev/
 #KODIPROP:inputstream.adaptive.license_key=https://cubmupart4.apiv2x.workers.dev/
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmudrmpunyaku.garudatvvip.workers.dev/
+
+
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png" group-title="MNC GRUP", ID: HBO
 http://tvkuonline.my.id:25461/riyad/riyad/412
