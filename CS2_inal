@@ -6674,7 +6674,8 @@ http://humiptv.live:8080/live/tarun589853/5787489bcsh/143060.ts
 http://humiptv.live:8080/live/tarun589853/5787489bcsh/143062.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgydv2d77A9X-p9A1FDLAfhE6sbMrxekWqJw&usqp=CAU" group-title="ASIA SPORT", BEIN SPORTS 1 ENG
 http://humiptv.live:8080/live/tarun589853/5787489bcsh/23793.ts
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgydv2d77A9X-p9A1FDLAfhE6sbMrxekWqJw&usqp=CAU" group-title="ASIA SPORT", BEIN RUGBY
+https://m2.ballnaja.com:8443/beIN_Sports_Rugby/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="ASIA SPORT", ASTRO SUPERSPORT 1
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=571245&extension=ts&play_token=oatD6LI1Qd
