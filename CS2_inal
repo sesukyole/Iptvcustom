@@ -5799,6 +5799,8 @@ MUSIC MTV  ############
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="MUSIC MTV", ###MUSIC MTV###
 https://github.com/inaldie/inaldie/raw/main/LOGO.ts
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", K-POP
+https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", STINGRAY KARAOKE
 http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=568767_&extension=ts
