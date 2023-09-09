@@ -2457,8 +2457,6 @@ http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=155746&extension=
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=282639&extension=ts&play_token=gjQNgDXxy7
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-movies-select-hd-logo-300x300.jpg" group-title="MOVIE ASIA", STAR MOVIE SELECT
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=155729&extension=ts&play_token=0PPEjDb7oS
-#EXTINF:-1 tvg-logo="https://nationalviews.com/wp-content/uploads/2015/06/mn-times-network-new-channel.jpg" group-title="MOVIE ASIA", MNX+
-http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=1110624&extension=ts&play_token=cT3SQ9NFiW
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1e/Paramount_Global.svg/1200px-Paramount_Global.svg.png" group-title="MOVIE ASIA", PARAMOUNT
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=926158&extension=ts&play_token=aAJE4w4Gau
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Pix_new.png" group-title="MOVIE ASIA", SONY PIX
@@ -2485,6 +2483,39 @@ http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=941631&extension=
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=683143&extension=ts&play_token=TeIVxddeud
 #EXTINF:-1 tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2017/10/zee_bioskop.png" group-title="MOVIE ASIA", ZEE BIOSKOP
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=683155&extension=ts&play_token=RMCZ5rD42m
+#EXTINF:-1 tvg-logo="_____" group-title="MOVIE ASIA", KOREAN MORE TH
+http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=563007_&extension=ts
+#EXTINF:-1 tvg-logo="_____" group-title="MOVIE ASIA", ASIAN MORE TH
+http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=563003_&extension=ts
+#EXTINF:-1 tvg-logo="_____" group-title="MOVIE ASIA", CHINESE MORE TH
+http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=563005_&extension=ts
+#EXTINF:-1 tvg-logo="_____" group-title="MOVIE ASIA", THAI FILM TH
+http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=115415_&extension=ts
+#EXTINF:-1 tvg-logo="_____" group-title="MOVIE ASIA", ASIAN FILM TH
+http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=115412_&extension=ts
+#EXTINF:-1 tvg-logo="_____" group-title="MOVIE ASIA", KMTV FILM TH
+http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=115414_&extension=ts
+
+#EXTINF:-1 tvg-logo="_____" group-title="MOVIE ASIA", MOVIE HITS TH
+http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=115679_&extension=ts
+#EXTINF:-1 tvg-logo="_____" group-title="MOVIE ASIA", CINEMAX TH
+http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=116079_&extension=ts
+#EXTINF:-1 tvg-logo="_____" group-title="MOVIE ASIA", FAMILY PLIX
+http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=563015_&extension=ts
+
+#EXTINF:-1 tvg-logo="_____" group-title="MOVIE ASIA", CHANNEL 3 TH
+http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=115313_&extension=ts
+#EXTINF:-1 tvg-logo="_____" group-title="MOVIE ASIA", STAR MOVIE
+http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=115802_&extension=ts
+#EXTINF:-1 tvg-logo="_____" group-title="MOVIE ASIA", PPTV
+http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=115501_&extension=ts
+#EXTINF:-1 tvg-logo="_____" group-title="MOVIE ASIA", WARNER TV
+http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=115823_&extension=ts
+
+
+
+
+
 
 ##########################
 MOVIE MANCANAGARA  #######
