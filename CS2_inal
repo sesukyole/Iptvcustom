@@ -2511,6 +2511,14 @@ http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=115802_&exte
 http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=115501_&extension=ts
 #EXTINF:-1 tvg-logo="_____" group-title="MOVIE ASIA", WARNER TV
 http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=115823_&extension=ts
+#EXTINF:-1 tvg-logo="_____" group-title="MOVIE ASIA", TAP ACTION FLIX PH
+http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=463658_&extension=ts
+#EXTINF:-1 tvg-logo="_____" group-title="MOVIE ASIA", TAP EDGE PH
+http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=463659_&extension=ts
+#EXTINF:-1 tvg-logo="_____" group-title="MOVIE ASIA", TAP MOVIE PH
+http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=463660_&extension=ts
+
+
 
 
 
@@ -6707,9 +6715,9 @@ http://humiptv.live:8080/live/tarun589853/5787489bcsh/151181.ts
 https://m2.ballnaja.com:8443/Soccer_Channel/tracks-v1a1/mono.m3u8
 http://humiptv.live:8080/live/tarun589853/5787489bcsh/151186.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2dcE3mjJNK1PXvA6dyegcuadQrjtNZjxKwg&usqp=CAU" group-title="ASIA SPORT", BEIN SPORTS
-http://humiptv.live:8080/live/tarun589853/5787489bcsh/143059.ts
+http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=40668_&extension=ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSxSmaCkSbJqWAIDq5p2qUlH9vwzZGtJPEyg&usqp=CAU" group-title="ASIA SPORT", BEIN SPORTS 2
-http://humiptv.live:8080/live/tarun589853/5787489bcsh/143060.ts
+http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=40667_&extension=ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyJqZS3W4KLWOqPQgau88zHVTAfB7HBgqHXQ&usqp=CAU" group-title="ASIA SPORT", BEIN SPORTS 3
 http://humiptv.live:8080/live/tarun589853/5787489bcsh/143062.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgydv2d77A9X-p9A1FDLAfhE6sbMrxekWqJw&usqp=CAU" group-title="ASIA SPORT", BEIN SPORTS 1 ENG
@@ -6836,13 +6844,24 @@ http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=115433_&exte
 http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=115805_&extension=ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkXhsnEyJlU37o_mIrCwRY9VIFRkHRxrF7jA&usqp=CAU" group-title="ASIA SPORT", TRUE FIGHT
 http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=115500_&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/SPOTV.png" group-title="ASIA SPORT", SPOTV 1 PH
+http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=463657_&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/SPOTV2.png" group-title="ASIA SPORT", SPOTV 2 PH
+http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=463656_&extension=ts
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSifKAaGK0AD88SQnu6MsApMLGHPDwIkNmSDw&usqp=CAU" group-title="ASIA SPORT", ONE SPORT+
-http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=926161&extension=ts&play_token=CtutLKlCDV
+
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSifKAaGK0AD88SQnu6MsApMLGHPDwIkNmSDw&usqp=CAU" group-title="ASIA SPORT", ONE SPORT
-http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=926161&extension=ts&play_token=1CpygHM1Ws
+http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=926161&extension=ts&play_token=CtutLKlCDV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSifKAaGK0AD88SQnu6MsApMLGHPDwIkNmSDw&usqp=CAU" group-title="ASIA SPORT", ONE SPORT+
+http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=463644_&extension=ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/PremierSports-ph.png" group-title="ASIA SPORT", PREMIER SPORT
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=926155&extension=ts&play_token=xnMdkwJ3DA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/PremierSports-ph.png" group-title="ASIA SPORT", PREMIER SPORT PH
+http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=463651_&extension=ts
+#EXTINF:-1 tvg-logo="_____" group-title="ASIA SPORT", TAP SPORT PH
+http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=463661_&extension=ts
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRS5wCyBfWh2VcgWDzncPDI1zH78Z_pX53EQ&usqp=CAU" group-title="ASIA SPORT", TENS SPORT PAKISTAN
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=65516_&extension=m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ca/DD-Sports.jpg/revision/latest?cb=20190103102616" group-title="ASIA SPORT", DD SPORT
@@ -6853,6 +6872,8 @@ http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=1057243&extension
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=281100&extension=ts&play_token=oQRFFemyV3
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe_3eP1ynRWyxsNyqMee3WFzlKHh3gTF4yfA&usqp=CAU" group-title="ASIA SPORT", D SPORT
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=156027&extension=ts&play_token=VJdoeOPRGI
+#EXTINF:-1 tvg-logo="_____" group-title="ASIA SPORT", OUTDOOR
+http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=463644_&extension=ts
 
 
 
@@ -8289,7 +8310,41 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:17:BE&stream=55557&extension
 #EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", DAZN F1 ES
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:17:BE&stream=55560&extension=ts
 
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", SUPER MAXIMO 1
+http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=647880_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", SUPER SPORT ACTION
+http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=647876_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", SUPER SPORT CRICKET
+http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=647865_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", SUPER SPORT FOOTBALL
+http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=647866_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", SUPER SPORT FOOTBALL PLUS
+http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=647867_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", SUPER SPORT GOLF 
+http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=647870_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", SUPER SPORT GRANDSTAND
+http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=39409_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", SUPER SPORT PREMIER LEAGUE
+http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=39408_&extension=ts
 
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", SUPER SPORT LA LIGA
+http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=647863_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", SUPER SPORT MOTORSPORT 
+http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=647871_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", SUPER SPORT PSL
+http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=647868_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", SUPER SPORT RUGBY
+http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=647869_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", SUPER SPORT TENNIS 
+http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=647877_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", SUPER SPORT VARIETY 1
+http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=647872_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", SUPER SPORT VARIETY 2
+http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=647873_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", SUPER SPORT VARIETY 3
+http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=647874_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", SUPER SPORT VARIETY 4
+http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=647875_&extension=ts
 
 
 
