@@ -2428,11 +2428,11 @@ http://line.rs6ott.com:80/play/live.php?mac=00:1a:79:2e:9c:e7&stream=571235&exte
 #EXTINF:-1 tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1648809294-.png" group-title="MOVIE ASIA", CELESTIAL MOVIE
 http://line.rs6ott.com:80/play/live.php?mac=00:1a:79:2e:9c:e7&stream=571218&extension=ts&play_token=S8g36gtE4X
 
-#EXTINF:-1 tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1648809294-.png" group-title="MOVIE ASIA", CELESTIAL CLASSIC MOVIE
+#EXTINF:-1 tvg-logo="________" group-title="MOVIE ASIA", CELESTIAL CLASSIC MOVIE
 http://line.rs6ott.com:80/play/live.php?mac=00:1a:79:2e:9c:e7&stream=571182&extension=ts&play_token=nxHBMrxMtK
-#EXTINF:-1 tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1648809294-.png" group-title="MOVIE ASIA", KIX
+#EXTINF:-1 tvg-logo="________" group-title="MOVIE ASIA", KIX
 http://line.rs6ott.com:80/play/live.php?mac=00:1a:79:2e:9c:e7&stream=571196&extension=ts&play_token=suzJjxJyLg
-#EXTINF:-1 tvg-logo="https://orangemagazine.ph/wp-content/uploads/2015/09/AXN-ASIA-New-Logo-e1442906648156.png" group-title="MOVIE ASIA", AXN
+#EXTINF:-1 tvg-logo="______" group-title="MOVIE ASIA", AXN
 http://line.rs6ott.com:80/play/live.php?mac=00:1a:79:2e:9c:e7&stream=571222&extension=ts&play_token=HGSOCzqcvL
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/611-cinemax.png/250px-611-cinemax.png" group-title="MOVIE ASIA", CINEMAX
 http://line.rs6ott.com:80/play/live.php?mac=00:1a:79:2e:9c:e7&stream=571214&extension=ts&play_token=NQ6zUk9rwN
@@ -2462,11 +2462,11 @@ http://line.rs6ott.com:80/play/live.php?mac=00:1a:79:2e:9c:e7&stream=571200&exte
 http://line.rs6ott.com:80/play/live.php?mac=00:1a:79:2e:9c:e7&stream=571260&extension=ts&play_token=e8wTfSf3h0
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_25.png" group-title="MOVIE ASIA", TVN MOVIE
 http://line.rs6ott.com:80/play/live.php?mac=00:1a:79:2e:9c:e7&stream=571261&extension=ts&play_token=NjKuaU4ICe
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_25.png" group-title="MOVIE ASIA", NICK HD+
+#EXTINF:-1 tvg-logo="________" group-title="MOVIE ASIA", NICK HD+
 http://line.rs6ott.com:80/play/live.php?mac=00:1a:79:2e:9c:e7&stream=282630&extension=ts&play_token=i1rhAODQc7
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/800px-KBS_World_%282009%29.svg.png" group-title="MOVIE ASIA", KBS WORLD
 http://line.rs6ott.com:80/play/live.php?mac=00:1a:79:2e:9c:e7&stream=157340&extension=ts&play_token=LTh6xow4iK
-#EXTINF:-1 tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2017/10/zee_bioskop.png" group-title="MOVIE ASIA", ZEE TAMIL
+#EXTINF:-1 tvg-logo="_____" group-title="MOVIE ASIA", ZEE TAMIL
 http://line.rs6ott.com:80/play/live.php?mac=00:1a:79:2e:9c:e7&stream=571250&extension=ts&play_token=hOkTqu6spT
 #EXTINF:-1 tvg-logo="_____" group-title="MOVIE ASIA", SUN TV
 http://line.rs6ott.com:80/play/live.php?mac=00:1a:79:2e:9c:e7&stream=571190&extension=ts&play_token=LtVZhXxX0A
@@ -2509,7 +2509,7 @@ http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=563015_&exte
 
 #EXTINF:-1 tvg-logo="_____" group-title="MOVIE ASIA", CHANNEL 3 TH
 http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=115313_&extension=ts
-#EXTINF:-1 tvg-logo="_____" group-title="MOVIE ASIA", STAR MOVIE
+#EXTINF:-1 tvg-logo="_____" group-title="MOVIE ASIA", CELESTIAL CLASSIC MOVIE TH 
 http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=115802_&extension=ts
 #EXTINF:-1 tvg-logo="_____" group-title="MOVIE ASIA", PPTV
 http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=115501_&extension=ts
