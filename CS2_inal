@@ -6897,7 +6897,6 @@ http://humiptv.live:8080/live/tarun589853/5787489bcsh/151181.ts
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkFkU9iQl9b4zhaV00r9TLXytWjCKlFrl1YQ&usqp=CAU" group-title="ASIA SPORT", SOCCER CHANEL
-https://m2.ballnaja.com:8443/Soccer_Channel/tracks-v1a1/mono.m3u8
 http://humiptv.live:8080/live/tarun589853/5787489bcsh/151186.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2dcE3mjJNK1PXvA6dyegcuadQrjtNZjxKwg&usqp=CAU" group-title="ASIA SPORT", BEIN SPORTS
 http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=40668_&extension=ts
@@ -7243,8 +7242,6 @@ http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=13469_&extens
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=13470_&extension=ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5pipv5NrSw3nGFZl6ngDg7CvdCvLIi1l6YQ&usqp=CAU" group-title="TURKY SPORT", TIVIBU SPORT 3 HD
 http://mol-2.com:8080/FnB395KegENkUxB/mdp0fspYNCHqt7A/57724
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5pipv5NrSw3nGFZl6ngDg7CvdCvLIi1l6YQ&usqp=CAU" group-title="TURKY SPORT", TIVIBU SPORT 4 HD
-http://aca3b.tk:8080/2011Dreambox/yWvGTS5y8c9W/16096
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_Jn70qrb72rdjk5On_2GVW4gFX5vCw2rOIw&usqp=CAU" group-title="TURKY SPORT", SMART SPORT
 http://line.rs6ott.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=913376&extension=ts&play_token=Y8CkHYVoQO
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToSawLyH55lq44yYTFql2XmVBICUqIY3tI4A&usqp=CAU" group-title="TURKY SPORT", SMART SPORT 2
@@ -7254,8 +7251,6 @@ http://line.rs6ott.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=913374&exte
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr-1aRXnx2kyg6zmpw2eolvGGYdhnefkNP0w&usqp=CAU" group-title="TURKY SPORT", A SPORT
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=14824_&extension=ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaoqewrLeupWRGeCuqXwt1iynogKUbK11VKg&usqp=CAU" group-title="TURKY SPORT", TRT SPORT SD
-http://premium-ks.ddns.net:88/Megaiptv/YlMNx6nZAA/69617
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaoqewrLeupWRGeCuqXwt1iynogKUbK11VKg&usqp=CAU" group-title="TURKY SPORT", TRT SPORT HD
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=14828_&extension=ts
@@ -7769,17 +7764,14 @@ http://mol-2.com:8080/FnB395KegENkUxB/mdp0fspYNCHqt7A/390411
 http://mol-2.com:8080/FnB395KegENkUxB/mdp0fspYNCHqt7A/390409
 
 
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/ukraS1.png" group-title="EROPA SPORT", SPORT 1 UR
 http://line.rs6ott.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=841689&extension=ts&play_token=8p1hv8pbj4
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/ukraS2.png" group-title="EROPA SPORT", SPORT 2 UR
 http://line.rs6ott.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=841688&extension=ts&play_token=g8cDt8M7TG
 
 
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/RTSH.png" group-title="EROPA SPORT", RTSH SPORT HD
 http://premium-ks.ddns.net:88/Metiiptv/kDdXP4CGrZk9/1601
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/ART%201.png" group-title="EROPA SPORT", ART SPORT 1 HD
 http://premium-ks.ddns.net:88/Metiiptv/kDdXP4CGrZk9/8232
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/ART%202.png" group-title="EROPA SPORT", ART SPORT 2 HD
@@ -7954,7 +7946,7 @@ http://line.rs6ott.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=1282764&ext
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/Zvoet.png" group-title="EROPA SPORT", ZIGGO SPORT VOETBALL
 http://line.rs6ott.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=1282748&extension=ts&play_token=mPBaNK3aZ6
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/Zspo.png" group-title="EROPA SPORT", ZIGGO SPORT
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/Zspo.png" group-title="EROPA SPORT", ZIGGO SPORT HD
 http://mol-2.com:8080/FnB395KegENkUxB/mdp0fspYNCHqt7A/80535
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/Ztenis.png" group-title="EROPA SPORT", ZIGGO SPORT TENNIS HD
 http://mol-2.com:8080/FnB395KegENkUxB/mdp0fspYNCHqt7A/80532
