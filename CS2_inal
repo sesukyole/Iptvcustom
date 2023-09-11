@@ -238,194 +238,10 @@ https://github.com/inaldie/inaldie/raw/main/LOGO.ts
 
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="NASIONAL DIGITAL", ###NASIONAL DIGITAL###
-https://github.com/inaldie/inaldie/raw/main/LOGO.ts
-#EXTINF:-1 group-title="NASIONAL DIGITAL", MYTV Net
-http://tvkuonline.my.id:25461/riyad/riyad/1
-#EXTINF:-1 group-title="NASIONAL DIGITAL", MYTV 2
-http://tvkuonline.my.id:25461/riyad/riyad/2
-#EXTINF:-1 group-title="NASIONAL DIGITAL", MYTV 3
-http://tvkuonline.my.id:25461/riyad/riyad/3
-#EXTINF:-1 group-title="NASIONAL DIGITAL", MYTV 4
-http://tvkuonline.my.id:25461/riyad/riyad/4
-#EXTINF:-1 group-title="NASIONAL DIGITAL", MYTV 5
-http://tvkuonline.my.id:25461/riyad/riyad/5
-#EXTINF:-1 group-title="NASIONAL DIGITAL", MYTV 6
-http://tvkuonline.my.id:25461/riyad/riyad/6
-#EXTINF:-1 group-title="NASIONAL DIGITAL", MYTV 7 Live Events
-http://tvkuonline.my.id:25461/riyad/riyad/7
-#EXTINF:-1 group-title="NASIONAL DIGITAL", Jowo Channel
-http://tvkuonline.my.id:25461/riyad/riyad/421
-#EXTINF:-1 group-title="NASIONAL DIGITAL", RCTI
-http://tvkuonline.my.id:25461/riyad/riyad/8
-#EXTINF:-1 group-title="NASIONAL DIGITAL", MNCTV
-http://tvkuonline.my.id:25461/riyad/riyad/9
-#EXTINF:-1 group-title="NASIONAL DIGITAL", TV ONE
-http://tvkuonline.my.id:25461/riyad/riyad/10
-#EXTINF:-1 group-title="NASIONAL DIGITAL", GTV
-http://tvkuonline.my.id:25461/riyad/riyad/11
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/METRO.png" group-title="NASIONAL DIGITAL", METROTV HD
-http://tvkuonline.my.id:25461/riyad/riyad/12
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/TRANS.png" group-title="NASIONAL DIGITAL", TRANSTV HD
-http://tvkuonline.my.id:25461/riyad/riyad/13
-#EXTINF:-1 group-title="NASIONAL DIGITAL", Indosiar
-http://tvkuonline.my.id:25461/riyad/riyad/14
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/TRANS%207.png" group-title="NASIONAL DIGITAL",TRANS7 HD
-http://tvkuonline.my.id:25461/riyad/riyad/15
-#EXTINF:-1 group-title="NASIONAL DIGITAL", SCTV
-http://tvkuonline.my.id:25461/riyad/riyad/16
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/ANTV.png" group-title="NASIONAL DIGITAL", ANTV HD
-http://tvkuonline.my.id:25461/riyad/riyad/17
-#EXTINF:-1 group-title="NASIONAL DIGITAL", NET.
-http://tvkuonline.my.id:25461/riyad/riyad/18
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/KOMPAS.png" group-title="NASIONAL DIGITAL", KOMPASTV HD
-http://tvkuonline.my.id:25461/riyad/riyad/19
-#EXTINF:-1 group-title="NASIONAL DIGITAL", RTV
-http://tvkuonline.my.id:25461/riyad/riyad/21
-#EXTINF:-1 group-title="NASIONAL DIGITAL", Mentari TV
-http://tvkuonline.my.id:25461/riyad/riyad/23
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/MOJI.png" group-title="NASIONAL DIGITAL", MOJI HD
-http://tvkuonline.my.id:25461/riyad/riyad/24
-#EXTINF:-1 group-title="NASIONAL DIGITAL", INEWS
-http://tvkuonline.my.id:25461/riyad/riyad/22
-#EXTINF:-1 group-title="NASIONAL DIGITAL", CNN Indonesia
-http://tvkuonline.my.id:25461/riyad/riyad/25
-#EXTINF:-1 group-title="NASIONAL DIGITAL", CNBC Indonesia
-http://tvkuonline.my.id:25461/riyad/riyad/27
-#EXTINF:-1 group-title="NASIONAL DIGITAL", Berita Satu
-http://tvkuonline.my.id:25461/riyad/riyad/28
-#EXTINF:-1 group-title="NASIONAL DIGITAL", TVRI Nasional
-http://tvkuonline.my.id:25461/riyad/riyad/439
-#EXTINF:-1 group-title="NASIONAL DIGITAL", JTV
-http://tvkuonline.my.id:25461/riyad/riyad/45
-#EXTINF:-1 group-title="NASIONAL DIGITAL", Bali TV
-http://tvkuonline.my.id:25461/riyad/riyad/432
-#EXTINF:-1 group-title="NASIONAL DIGITAL", NTV
-http://tvkuonline.my.id:25461/riyad/riyad/72
-#EXTINF:-1 group-title="NASIONAL DIGITAL", SPOTV
-http://tvkuonline.my.id:25461/riyad/riyad/422
-#EXTINF:-1 group-title="NASIONAL DIGITAL", SPOTV 2
-http://tvkuonline.my.id:25461/riyad/riyad/423
-#EXTINF:-1 group-title="NASIONAL DIGITAL", MUTV
-http://tvkuonline.my.id:25461/riyad/riyad/48
-#EXTINF:-1 group-title="NASIONAL DIGITAL", Real Madrid TV
-http://tvkuonline.my.id:25461/riyad/riyad/408
-#EXTINF:-1 group-title="NASIONAL DIGITAL", Bein Sports 1 HD
-http://tvkuonline.my.id:25461/riyad/riyad/416
-#EXTINF:-1 group-title="NASIONAL DIGITAL", Bein Sports 3 HD
-http://tvkuonline.my.id:25461/riyad/riyad/417
-#EXTINF:-1 group-title="NASIONAL DIGITAL", FoxSport HD
-http://tvkuonline.my.id:25461/riyad/riyad/418
-#EXTINF:-1 group-title="NASIONAL DIGITAL", Usee Sports 1
-http://tvkuonline.my.id:25461/riyad/riyad/419
-#EXTINF:-1 group-title="NASIONAL DIGITAL", Usee Sports 2
-http://tvkuonline.my.id:25461/riyad/riyad/420
-#EXTINF:-1 group-title="NASIONAL DIGITAL", Fight Sport HD
-http://tvkuonline.my.id:25461/riyad/riyad/446
-#EXTINF:-1 group-title="NASIONAL DIGITAL", NBA TV
-http://tvkuonline.my.id:25461/riyad/riyad/447
-#EXTINF:-1 group-title="NASIONAL DIGITAL", Sports TV
-http://tvkuonline.my.id:25461/riyad/riyad/406
-#EXTINF:-1 group-title="NASIONAL DIGITAL", HBO HD
-http://tvkuonline.my.id:25461/riyad/riyad/412
-#EXTINF:-1 group-title="NASIONAL DIGITAL", HBO Hits
-http://tvkuonline.my.id:25461/riyad/riyad/413
-#EXTINF:-1 group-title="NASIONAL DIGITAL", HBO Signature HD
-http://tvkuonline.my.id:25461/riyad/riyad/414
-#EXTINF:-1 group-title="NASIONAL DIGITAL", HBO Family HD
-http://tvkuonline.my.id:25461/riyad/riyad/415
-#EXTINF:-1 group-title="NASIONAL DIGITAL", Cinemax
-http://tvkuonline.my.id:25461/riyad/riyad/424
-#EXTINF:-1 group-title="NASIONAL DIGITAL", Galaxy HD
-http://tvkuonline.my.id:25461/riyad/riyad/448
-#EXTINF:-1 group-title="NASIONAL DIGITAL", Galaxy Movies Premium
-http://tvkuonline.my.id:25461/riyad/riyad/449
-#EXTINF:-1 group-title="NASIONAL DIGITAL", AXN HD
-http://tvkuonline.my.id:25461/riyad/riyad/444
-#EXTINF:-1 group-title="NASIONAL DIGITAL", Cinema World
-http://tvkuonline.my.id:25461/riyad/riyad/401
-#EXTINF:-1 group-title="NASIONAL DIGITAL", My Cinema Europe
-http://tvkuonline.my.id:25461/riyad/riyad/372
-#EXTINF:-1 group-title="NASIONAL DIGITAL", K+
-http://tvkuonline.my.id:25461/riyad/riyad/391
-#EXTINF:-1 group-title="NASIONAL DIGITAL", TVN
-http://tvkuonline.my.id:25461/riyad/riyad/392
-#EXTINF:-1 group-title="NASIONAL DIGITAL", TVN Movies
-http://tvkuonline.my.id:25461/riyad/riyad/393
-#EXTINF:-1 group-title="NASIONAL DIGITAL", Celestial Movies
-http://tvkuonline.my.id:25461/riyad/riyad/394
-#EXTINF:-1 group-title="NASIONAL DIGITAL", Celestial Classic Movies
-http://tvkuonline.my.id:25461/riyad/riyad/396
-#EXTINF:-1 group-title="NASIONAL DIGITAL", Thrill
-http://tvkuonline.my.id:25461/riyad/riyad/398
-#EXTINF:-1 group-title="NASIONAL DIGITAL", HITS
-http://tvkuonline.my.id:25461/riyad/riyad/400
-#EXTINF:-1 group-title="NASIONAL DIGITAL", Paramount Network
-http://tvkuonline.my.id:25461/riyad/riyad/442
-#EXTINF:-1 group-title="NASIONAL DIGITAL", FLiK
-http://tvkuonline.my.id:25461/riyad/riyad/434
-#EXTINF:-1 group-title="NASIONAL DIGITAL", Citra Drama
-http://tvkuonline.my.id:25461/riyad/riyad/427
-#EXTINF:-1 group-title="NASIONAL DIGITAL", Bioskop Indonesia
-http://tvkuonline.my.id:25461/riyad/riyad/433
-#EXTINF:-1 group-title="NASIONAL DIGITAL", KIX
-http://tvkuonline.my.id:25461/riyad/riyad/402
-#EXTINF:-1 group-title="NASIONAL DIGITAL", My Cinema
-http://tvkuonline.my.id:25461/riyad/riyad/443
-#EXTINF:-1 group-title="NASIONAL DIGITAL", Rock Action
-http://tvkuonline.my.id:25461/riyad/riyad/403
-#EXTINF:-1 group-title="NASIONAL DIGITAL", Rock Entertainment
-http://tvkuonline.my.id:25461/riyad/riyad/404
-#EXTINF:-1 group-title="NASIONAL DIGITAL", Dunia Lain
-http://tvkuonline.my.id:25461/riyad/riyad/435
-#EXTINF:-1 group-title="NASIONAL DIGITAL", Zoo Moo Asia
-http://tvkuonline.my.id:25461/riyad/riyad/407
-#EXTINF:-1 group-title="NASIONAL DIGITAL", Aniplus Asia
-http://tvkuonline.my.id:25461/riyad/riyad/395
-#EXTINF:-1 group-title="NASIONAL DIGITAL", Indi Kids
-http://tvkuonline.my.id:25461/riyad/riyad/440
-#EXTINF:-1 group-title="NASIONAL DIGITAL", Cartoon Network
-http://tvkuonline.my.id:25461/riyad/riyad/425
-#EXTINF:-1 group-title="NASIONAL DIGITAL", DreamWorks HD
-http://tvkuonline.my.id:25461/riyad/riyad/441
-#EXTINF:-1 group-title="NASIONAL DIGITAL", Nick Jr
-http://tvkuonline.my.id:25461/riyad/riyad/426
-#EXTINF:-1 group-title="NASIONAL DIGITAL", National Geograpic
-http://tvkuonline.my.id:25461/riyad/riyad/428
-#EXTINF:-1 group-title="NASIONAL DIGITAL", Nat Geo Wild
-http://tvkuonline.my.id:25461/riyad/riyad/429
-#EXTINF:-1 group-title="NASIONAL DIGITAL", Tech Storm
-http://tvkuonline.my.id:25461/riyad/riyad/445
-#EXTINF:-1 group-title="NASIONAL DIGITAL", AFN
-http://tvkuonline.my.id:25461/riyad/riyad/450
-#EXTINF:-1 group-title="NASIONAL DIGITAL", HGTV
-http://tvkuonline.my.id:25461/riyad/riyad/452
-#EXTINF:-1 group-title="NASIONAL DIGITAL", History Channel
-http://tvkuonline.my.id:25461/riyad/riyad/430
-#EXTINF:-1 group-title="NASIONAL DIGITAL", Smithsonian Channel
-http://tvkuonline.my.id:25461/riyad/riyad/387
-#EXTINF:-1 group-title="NASIONAL DIGITAL", Sony GEM
-http://tvkuonline.my.id:25461/riyad/riyad/451
-#EXTINF:-1 group-title="NASIONAL DIGITAL", MTA TV
-http://tvkuonline.my.id:25461/riyad/riyad/411
-#EXTINF:-1 group-title="NASIONAL DIGITAL", Makkah TV
-http://tvkuonline.my.id:25461/riyad/riyad/71
-#EXTINF:-1 group-title="NASIONAL DIGITAL", U Channel
-http://tvkuonline.my.id:25461/riyad/riyad/431
-#EXTINF:-1 group-title="NASIONAL DIGITAL", TVMU
-http://tvkuonline.my.id:25461/riyad/riyad/436
-#EXTINF:-1 group-title="NASIONAL DIGITAL", TV9 Nusantara
-http://tvkuonline.my.id:25461/riyad/riyad/437
-#EXTINF:-1 group-title="NASIONAL DIGITAL", Rodja TV
-http://tvkuonline.my.id:25461/riyad/riyad/438
-#EXTINF:-1 group-title="NASIONAL DIGITAL", TV MUI
-http://tvkuonline.my.id:25461/riyad/riyad/410
-
-
 ##########################
 FIRSHMEDIA    ############
 ################################################################################################################################################################################# MOVIE ASIA
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png", group-title="FIRSTMEDIA", ###FIRSMEDIA CHANNEL###
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png", group-title="FIRSTMEDIA", ###FIRSTMEDIA CHANNEL###
 https://github.com/inaldie/inaldie/raw/main/LOGO.ts
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/MOJI.png" group-title="FIRSTMEDIA", MOJI HD
@@ -2065,6 +1881,193 @@ http://live.serverstreaming.net:9340/kisifm
 #EXTINF:-1  tvg-id="" tvg-url="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/Smooth_fm_jkt.png/" group-title="MNC GRUP",KISI FM Bogor
 https://svara-stream.radioddns.net:8443/jakarta_smoothfm_mp3
 
+
+#######################
+KOP ID & MY ##########
+#################################################################################################################################################################################
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="NASIONAL DIGITAL", ###NASIONAL DIGITAL###
+https://github.com/inaldie/inaldie/raw/main/LOGO.ts
+#EXTINF:-1 group-title="NASIONAL DIGITAL", MYTV Net
+http://tvkuonline.my.id:25461/riyad/riyad/1
+#EXTINF:-1 group-title="NASIONAL DIGITAL", MYTV 2
+http://tvkuonline.my.id:25461/riyad/riyad/2
+#EXTINF:-1 group-title="NASIONAL DIGITAL", MYTV 3
+http://tvkuonline.my.id:25461/riyad/riyad/3
+#EXTINF:-1 group-title="NASIONAL DIGITAL", MYTV 4
+http://tvkuonline.my.id:25461/riyad/riyad/4
+#EXTINF:-1 group-title="NASIONAL DIGITAL", MYTV 5
+http://tvkuonline.my.id:25461/riyad/riyad/5
+#EXTINF:-1 group-title="NASIONAL DIGITAL", MYTV 6
+http://tvkuonline.my.id:25461/riyad/riyad/6
+#EXTINF:-1 group-title="NASIONAL DIGITAL", MYTV 7 Live Events
+http://tvkuonline.my.id:25461/riyad/riyad/7
+#EXTINF:-1 group-title="NASIONAL DIGITAL", Jowo Channel
+http://tvkuonline.my.id:25461/riyad/riyad/421
+#EXTINF:-1 group-title="NASIONAL DIGITAL", RCTI
+http://tvkuonline.my.id:25461/riyad/riyad/8
+#EXTINF:-1 group-title="NASIONAL DIGITAL", MNCTV
+http://tvkuonline.my.id:25461/riyad/riyad/9
+#EXTINF:-1 group-title="NASIONAL DIGITAL", TV ONE
+http://tvkuonline.my.id:25461/riyad/riyad/10
+#EXTINF:-1 group-title="NASIONAL DIGITAL", GTV
+http://tvkuonline.my.id:25461/riyad/riyad/11
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/METRO.png" group-title="NASIONAL DIGITAL", METROTV HD
+http://tvkuonline.my.id:25461/riyad/riyad/12
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/TRANS.png" group-title="NASIONAL DIGITAL", TRANSTV HD
+http://tvkuonline.my.id:25461/riyad/riyad/13
+#EXTINF:-1 group-title="NASIONAL DIGITAL", Indosiar
+http://tvkuonline.my.id:25461/riyad/riyad/14
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/TRANS%207.png" group-title="NASIONAL DIGITAL",TRANS7 HD
+http://tvkuonline.my.id:25461/riyad/riyad/15
+#EXTINF:-1 group-title="NASIONAL DIGITAL", SCTV
+http://tvkuonline.my.id:25461/riyad/riyad/16
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/ANTV.png" group-title="NASIONAL DIGITAL", ANTV HD
+http://tvkuonline.my.id:25461/riyad/riyad/17
+#EXTINF:-1 group-title="NASIONAL DIGITAL", NET.
+http://tvkuonline.my.id:25461/riyad/riyad/18
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/KOMPAS.png" group-title="NASIONAL DIGITAL", KOMPASTV HD
+http://tvkuonline.my.id:25461/riyad/riyad/19
+#EXTINF:-1 group-title="NASIONAL DIGITAL", RTV
+http://tvkuonline.my.id:25461/riyad/riyad/21
+#EXTINF:-1 group-title="NASIONAL DIGITAL", Mentari TV
+http://tvkuonline.my.id:25461/riyad/riyad/23
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/MOJI.png" group-title="NASIONAL DIGITAL", MOJI HD
+http://tvkuonline.my.id:25461/riyad/riyad/24
+#EXTINF:-1 group-title="NASIONAL DIGITAL", INEWS
+http://tvkuonline.my.id:25461/riyad/riyad/22
+#EXTINF:-1 group-title="NASIONAL DIGITAL", CNN Indonesia
+http://tvkuonline.my.id:25461/riyad/riyad/25
+#EXTINF:-1 group-title="NASIONAL DIGITAL", CNBC Indonesia
+http://tvkuonline.my.id:25461/riyad/riyad/27
+#EXTINF:-1 group-title="NASIONAL DIGITAL", Berita Satu
+http://tvkuonline.my.id:25461/riyad/riyad/28
+#EXTINF:-1 group-title="NASIONAL DIGITAL", TVRI Nasional
+http://tvkuonline.my.id:25461/riyad/riyad/439
+#EXTINF:-1 group-title="NASIONAL DIGITAL", JTV
+http://tvkuonline.my.id:25461/riyad/riyad/45
+#EXTINF:-1 group-title="NASIONAL DIGITAL", Bali TV
+http://tvkuonline.my.id:25461/riyad/riyad/432
+#EXTINF:-1 group-title="NASIONAL DIGITAL", NTV
+http://tvkuonline.my.id:25461/riyad/riyad/72
+#EXTINF:-1 group-title="NASIONAL DIGITAL", SPOTV
+http://tvkuonline.my.id:25461/riyad/riyad/422
+#EXTINF:-1 group-title="NASIONAL DIGITAL", SPOTV 2
+http://tvkuonline.my.id:25461/riyad/riyad/423
+#EXTINF:-1 group-title="NASIONAL DIGITAL", MUTV
+http://tvkuonline.my.id:25461/riyad/riyad/48
+#EXTINF:-1 group-title="NASIONAL DIGITAL", Real Madrid TV
+http://tvkuonline.my.id:25461/riyad/riyad/408
+#EXTINF:-1 group-title="NASIONAL DIGITAL", Bein Sports 1 HD
+http://tvkuonline.my.id:25461/riyad/riyad/416
+#EXTINF:-1 group-title="NASIONAL DIGITAL", Bein Sports 3 HD
+http://tvkuonline.my.id:25461/riyad/riyad/417
+#EXTINF:-1 group-title="NASIONAL DIGITAL", FoxSport HD
+http://tvkuonline.my.id:25461/riyad/riyad/418
+#EXTINF:-1 group-title="NASIONAL DIGITAL", Usee Sports 1
+http://tvkuonline.my.id:25461/riyad/riyad/419
+#EXTINF:-1 group-title="NASIONAL DIGITAL", Usee Sports 2
+http://tvkuonline.my.id:25461/riyad/riyad/420
+#EXTINF:-1 group-title="NASIONAL DIGITAL", Fight Sport HD
+http://tvkuonline.my.id:25461/riyad/riyad/446
+#EXTINF:-1 group-title="NASIONAL DIGITAL", NBA TV
+http://tvkuonline.my.id:25461/riyad/riyad/447
+#EXTINF:-1 group-title="NASIONAL DIGITAL", Sports TV
+http://tvkuonline.my.id:25461/riyad/riyad/406
+#EXTINF:-1 group-title="NASIONAL DIGITAL", HBO HD
+http://tvkuonline.my.id:25461/riyad/riyad/412
+#EXTINF:-1 group-title="NASIONAL DIGITAL", HBO Hits
+http://tvkuonline.my.id:25461/riyad/riyad/413
+#EXTINF:-1 group-title="NASIONAL DIGITAL", HBO Signature HD
+http://tvkuonline.my.id:25461/riyad/riyad/414
+#EXTINF:-1 group-title="NASIONAL DIGITAL", HBO Family HD
+http://tvkuonline.my.id:25461/riyad/riyad/415
+#EXTINF:-1 group-title="NASIONAL DIGITAL", Cinemax
+http://tvkuonline.my.id:25461/riyad/riyad/424
+#EXTINF:-1 group-title="NASIONAL DIGITAL", Galaxy HD
+http://tvkuonline.my.id:25461/riyad/riyad/448
+#EXTINF:-1 group-title="NASIONAL DIGITAL", Galaxy Movies Premium
+http://tvkuonline.my.id:25461/riyad/riyad/449
+#EXTINF:-1 group-title="NASIONAL DIGITAL", AXN HD
+http://tvkuonline.my.id:25461/riyad/riyad/444
+#EXTINF:-1 group-title="NASIONAL DIGITAL", Cinema World
+http://tvkuonline.my.id:25461/riyad/riyad/401
+#EXTINF:-1 group-title="NASIONAL DIGITAL", My Cinema Europe
+http://tvkuonline.my.id:25461/riyad/riyad/372
+#EXTINF:-1 group-title="NASIONAL DIGITAL", K+
+http://tvkuonline.my.id:25461/riyad/riyad/391
+#EXTINF:-1 group-title="NASIONAL DIGITAL", TVN
+http://tvkuonline.my.id:25461/riyad/riyad/392
+#EXTINF:-1 group-title="NASIONAL DIGITAL", TVN Movies
+http://tvkuonline.my.id:25461/riyad/riyad/393
+#EXTINF:-1 group-title="NASIONAL DIGITAL", Celestial Movies
+http://tvkuonline.my.id:25461/riyad/riyad/394
+#EXTINF:-1 group-title="NASIONAL DIGITAL", Celestial Classic Movies
+http://tvkuonline.my.id:25461/riyad/riyad/396
+#EXTINF:-1 group-title="NASIONAL DIGITAL", Thrill
+http://tvkuonline.my.id:25461/riyad/riyad/398
+#EXTINF:-1 group-title="NASIONAL DIGITAL", HITS
+http://tvkuonline.my.id:25461/riyad/riyad/400
+#EXTINF:-1 group-title="NASIONAL DIGITAL", Paramount Network
+http://tvkuonline.my.id:25461/riyad/riyad/442
+#EXTINF:-1 group-title="NASIONAL DIGITAL", FLiK
+http://tvkuonline.my.id:25461/riyad/riyad/434
+#EXTINF:-1 group-title="NASIONAL DIGITAL", Citra Drama
+http://tvkuonline.my.id:25461/riyad/riyad/427
+#EXTINF:-1 group-title="NASIONAL DIGITAL", Bioskop Indonesia
+http://tvkuonline.my.id:25461/riyad/riyad/433
+#EXTINF:-1 group-title="NASIONAL DIGITAL", KIX
+http://tvkuonline.my.id:25461/riyad/riyad/402
+#EXTINF:-1 group-title="NASIONAL DIGITAL", My Cinema
+http://tvkuonline.my.id:25461/riyad/riyad/443
+#EXTINF:-1 group-title="NASIONAL DIGITAL", Rock Action
+http://tvkuonline.my.id:25461/riyad/riyad/403
+#EXTINF:-1 group-title="NASIONAL DIGITAL", Rock Entertainment
+http://tvkuonline.my.id:25461/riyad/riyad/404
+#EXTINF:-1 group-title="NASIONAL DIGITAL", Dunia Lain
+http://tvkuonline.my.id:25461/riyad/riyad/435
+#EXTINF:-1 group-title="NASIONAL DIGITAL", Zoo Moo Asia
+http://tvkuonline.my.id:25461/riyad/riyad/407
+#EXTINF:-1 group-title="NASIONAL DIGITAL", Aniplus Asia
+http://tvkuonline.my.id:25461/riyad/riyad/395
+#EXTINF:-1 group-title="NASIONAL DIGITAL", Indi Kids
+http://tvkuonline.my.id:25461/riyad/riyad/440
+#EXTINF:-1 group-title="NASIONAL DIGITAL", Cartoon Network
+http://tvkuonline.my.id:25461/riyad/riyad/425
+#EXTINF:-1 group-title="NASIONAL DIGITAL", DreamWorks HD
+http://tvkuonline.my.id:25461/riyad/riyad/441
+#EXTINF:-1 group-title="NASIONAL DIGITAL", Nick Jr
+http://tvkuonline.my.id:25461/riyad/riyad/426
+#EXTINF:-1 group-title="NASIONAL DIGITAL", National Geograpic
+http://tvkuonline.my.id:25461/riyad/riyad/428
+#EXTINF:-1 group-title="NASIONAL DIGITAL", Nat Geo Wild
+http://tvkuonline.my.id:25461/riyad/riyad/429
+#EXTINF:-1 group-title="NASIONAL DIGITAL", Tech Storm
+http://tvkuonline.my.id:25461/riyad/riyad/445
+#EXTINF:-1 group-title="NASIONAL DIGITAL", AFN
+http://tvkuonline.my.id:25461/riyad/riyad/450
+#EXTINF:-1 group-title="NASIONAL DIGITAL", HGTV
+http://tvkuonline.my.id:25461/riyad/riyad/452
+#EXTINF:-1 group-title="NASIONAL DIGITAL", History Channel
+http://tvkuonline.my.id:25461/riyad/riyad/430
+#EXTINF:-1 group-title="NASIONAL DIGITAL", Smithsonian Channel
+http://tvkuonline.my.id:25461/riyad/riyad/387
+#EXTINF:-1 group-title="NASIONAL DIGITAL", Sony GEM
+http://tvkuonline.my.id:25461/riyad/riyad/451
+#EXTINF:-1 group-title="NASIONAL DIGITAL", MTA TV
+http://tvkuonline.my.id:25461/riyad/riyad/411
+#EXTINF:-1 group-title="NASIONAL DIGITAL", Makkah TV
+http://tvkuonline.my.id:25461/riyad/riyad/71
+#EXTINF:-1 group-title="NASIONAL DIGITAL", U Channel
+http://tvkuonline.my.id:25461/riyad/riyad/431
+#EXTINF:-1 group-title="NASIONAL DIGITAL", TVMU
+http://tvkuonline.my.id:25461/riyad/riyad/436
+#EXTINF:-1 group-title="NASIONAL DIGITAL", TV9 Nusantara
+http://tvkuonline.my.id:25461/riyad/riyad/437
+#EXTINF:-1 group-title="NASIONAL DIGITAL", Rodja TV
+http://tvkuonline.my.id:25461/riyad/riyad/438
+#EXTINF:-1 group-title="NASIONAL DIGITAL", TV MUI
+http://tvkuonline.my.id:25461/riyad/riyad/410
 
 
 #######################
