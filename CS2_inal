@@ -464,6 +464,24 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch2)/index.m3u8
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch410)/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/METRO.png" group-title="FIRSTMEDIA", METROTV HD
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch394)/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", RCTI
+http://103.84.206.91:8989/4036/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", GTV
+http://103.84.206.91:8989/4037/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", MNCTV
+http://103.84.206.91:8989/4038/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", ANTV
+http://103.84.206.91:8989/4039/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", HBO
+http://103.84.206.91:8989/4029/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", HBO FAMILY
+http://103.84.206.91:8989/4032/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", HBO HITS
+http://103.84.206.91:8989/4033/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", HBO SIGNATURE 
+http://103.84.206.91:8989/4034/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", CINEMAX
+http://103.84.206.91:8989/4035/hls/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/IDX.png" group-title="FIRSTMEDIA", IDX CHANNEL
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch389)/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/GARUDAtv.png" group-title="FIRSTMEDIA", GARUDATV
