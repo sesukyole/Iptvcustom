@@ -6970,22 +6970,26 @@ http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032473&exten
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/NOW%20PREMIER.png" group-title="ASIA SPORT", HK| NOW SPORT PRIME
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032480&extension=ts&play_token=Ybjpa2BRhQ
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/NOW%201.png" group-title="ASIA SPORT", HK| NOW SPORT 1 PREMIER LEAGUE
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032487&extension=ts&play_token=f8v6LXbTnv 
+http://line.rs6ott.com:80/play/live.php?mac=00:1a:79:2e:9c:e7&stream=554953&extension=ts&play_token=7O6qNoxnHS 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/NOW%201.png" group-title="ASIA SPORT", NOW SPORT 1
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497551&extension=ts
+http://line.rs6ott.com:80/play/live.php?mac=00:1a:79:2e:9c:e7&stream=1032479&extension=ts&play_token=52rJj9sIxH
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/NOW%202.png" group-title="ASIA SPORT", NOW SPORT 2
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497552&extension=ts
+http://line.rs6ott.com:80/play/live.php?mac=00:1a:79:2e:9c:e7&stream=1032478&extension=ts&play_token=hYH2uQlTE4
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/NOW%203.png" group-title="ASIA SPORT", NOW SPORT 3
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497553&extension=ts
+http://line.rs6ott.com:80/play/live.php?mac=00:1a:79:2e:9c:e7&stream=1032477&extension=ts&play_token=wzBm2PYJuE
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/NOW%204.png" group-title="ASIA SPORT", NOW SPORT 4
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497554&extension=ts
+http://line.rs6ott.com:80/play/live.php?mac=00:1a:79:2e:9c:e7&stream=1032476&extension=ts&play_token=tDYN8wO4Nx
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/NOW%205.png" group-title="ASIA SPORT", NOW SPORT 5
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497555&extension=ts
+http://line.rs6ott.com:80/play/live.php?mac=00:1a:79:2e:9c:e7&stream=1032475&extension=ts&play_token=nxMw1sI7sm
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/NOW%206.png" group-title="ASIA SPORT", NOW SPORT 6
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497556&extension=ts
+http://line.rs6ott.com:80/play/live.php?mac=00:1a:79:2e:9c:e7&stream=1032474&extension=ts&play_token=xIE8SCC9ly
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/NOW%207.png" group-title="ASIA SPORT", NOW SPORT 7
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497557&extension=ts
+http://line.rs6ott.com:80/play/live.php?mac=00:1a:79:2e:9c:e7&stream=1032473&extension=ts&play_token=SdlT0aFgWy
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/NOW%207.png" group-title="ASIA SPORT", NOW SPORT 1 PREMIER LEAGUE
+http://line.rs6ott.com:80/play/live.php?mac=00:1a:79:2e:9c:e7&stream=1110622&extension=ts&play_token=PrW5bSqW2A
+
+
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Sony_Sports_Ten_1.png/revision/latest/scale-to-width-down/460?cb=20221025083646" group-title="ASIA SPORT", SONY TEN SPORT 1
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=14795_&extension=ts
