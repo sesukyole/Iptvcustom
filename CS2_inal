@@ -6628,8 +6628,29 @@ http://line.rs6ott.com:80/play/live.php?mac=00:1a:79:2e:9c:e7&stream=1032475&ext
 http://line.rs6ott.com:80/play/live.php?mac=00:1a:79:2e:9c:e7&stream=1032474&extension=ts&play_token=xIE8SCC9ly
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/NOW%207.png" group-title="ASIA SPORT", NOW SPORT 7
 http://line.rs6ott.com:80/play/live.php?mac=00:1a:79:2e:9c:e7&stream=1032473&extension=ts&play_token=SdlT0aFgWy
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/NOW%207.png" group-title="ASIA SPORT", NOW SPORT 1 PREMIER 4K
+http://servi-teevee.net:80/BigBoB747475564765Hgdr/GhyT82FaS2828Mas/754595
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/NOW%207.png" group-title="ASIA SPORT", NOW SPORT 1 PREMIER LEAGUE
-http://line.rs6ott.com:80/play/live.php?mac=00:1a:79:2e:9c:e7&stream=1110622&extension=ts&play_token=PrW5bSqW2A
+http://servi-teevee.net:80/BigBoB747475564765Hgdr/GhyT82FaS2828Mas/754587
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/NOW%207.png" group-title="ASIA SPORT", NOW SPORT 2 PREMIER LEAGUE
+http://servi-teevee.net:80/BigBoB747475564765Hgdr/GhyT82FaS2828Mas/754588
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/NOW%201.png" group-title="ASIA SPORT", NOW SPORT 1 BK
+http://servi-teevee.net:80/BigBoB747475564765Hgdr/GhyT82FaS2828Mas/754597
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/NOW%202.png" group-title="ASIA SPORT", NOW SPORT 2 BK
+http://servi-teevee.net:80/BigBoB747475564765Hgdr/GhyT82FaS2828Mas/754598
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/NOW%203.png" group-title="ASIA SPORT", NOW SPORT 3 BK
+http://servi-teevee.net:80/BigBoB747475564765Hgdr/GhyT82FaS2828Mas/754599
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/NOW%204.png" group-title="ASIA SPORT", NOW SPORT 4 BK
+http://servi-teevee.net:80/BigBoB747475564765Hgdr/GhyT82FaS2828Mas/754600
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/NOW%205.png" group-title="ASIA SPORT", NOW SPORT 5 BK
+http://servi-teevee.net:80/BigBoB747475564765Hgdr/GhyT82FaS2828Mas/754601
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/NOW%206.png" group-title="ASIA SPORT", NOW SPORT 6 BK
+http://servi-teevee.net:80/BigBoB747475564765Hgdr/GhyT82FaS2828Mas/754602
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/NOW%207.png" group-title="ASIA SPORT", NOW SPORT 7 BK
+http://servi-teevee.net:80/BigBoB747475564765Hgdr/GhyT82FaS2828Mas/754603
+
+
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Sony_Sports_Ten_1.png/revision/latest/scale-to-width-down/460?cb=20221025083646" group-title="ASIA SPORT", SONY TEN SPORT 1
