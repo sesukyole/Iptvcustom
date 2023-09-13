@@ -220,7 +220,7 @@ http://line.rs6ott.com:80/play/live.php?mac=00:1a:79:2e:9c:e7&stream=1040328&ext
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/ligaeropa.png" group-title="#⚽EVENT BOLA⚽#", LIGA TOP EROPA 2
 http://line.rs6ott.com:80/play/live.php?mac=00:1a:79:2e:9c:e7&stream=1040315&extension=ts&play_token=aqQkNoLsqg
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/ligaeropa.png" group-title="#⚽EVENT BOLA⚽#", LIGA TOP EROPA 3
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=811941&extension=ts&play_token=0PGpJWMoeq
+http://line.rs6ott.com:80/play/live.php?mac=00:1a:79:2e:9c:e7&stream=811941&extension=ts&play_token=2VpmsG1X1n
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/ligaeropa.png" group-title="#⚽EVENT BOLA⚽#", LIGA TOP EROPA 4
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032487&extension=ts&play_token=f8v6LXbTnv
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/ligaeropa.png" group-title="#⚽EVENT BOLA⚽#", LIGA TOP EROPA 5
@@ -7297,17 +7297,17 @@ http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=63652_&e
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/play1.png" group-title="EROPA SPORT", PLAY SPORT 1
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=811941&extension=ts&play_token=0PGpJWMoeq
+http://line.rs6ott.com:80/play/live.php?mac=00:1a:79:2e:9c:e7&stream=811941&extension=ts&play_token=2VpmsG1X1n
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/play2.png" group-title="EROPA SPORT", PLAY SPORT 2
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=228520&extension=ts
+http://line.rs6ott.com:80/play/live.php?mac=00:1a:79:2e:9c:e7&stream=811940&extension=ts&play_token=J9C72QshgM
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/play3.png" group-title="EROPA SPORT", PLAY SPORT 3
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=811939&extension=ts&play_token=c2oclzwFiK
+http://line.rs6ott.com:80/play/live.php?mac=00:1a:79:2e:9c:e7&stream=811939&extension=ts&play_token=HAhLnsWF8W
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/play4.png" group-title="EROPA SPORT", PLAY SPORT 4
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=811938&extension=ts&play_token=pumZRcTXZt
+http://line.rs6ott.com:80/play/live.php?mac=00:1a:79:2e:9c:e7&stream=811938&extension=ts&play_token=gYVvNmO3NY
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/play5.png" group-title="EROPA SPORT", PLAY SPORT 5
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=811937&extension=ts&play_token=v7JIxP47xk
+http://line.rs6ott.com:80/play/live.php?mac=00:1a:79:2e:9c:e7&stream=811937&extension=ts&play_token=I2JTBsFbdh
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/playgolf.png" group-title="EROPA SPORT", PLAY SPORT GOLF
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=811936&extension=ts&play_token=gec2IMAjS7
+http://line.rs6ott.com:80/play/live.php?mac=00:1a:79:2e:9c:e7&stream=811936&extension=ts&play_token=w17emRioLj
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT20ugcrrQih-9fWpsiXByYzRH412Ut9frqGw&usqp=CAU" group-title="EROPA SPORT", PLAY SPORT LIVE
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=453420&extension=ts
 
