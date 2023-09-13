@@ -6563,28 +6563,10 @@ https://github.com/inaldie/inaldie/raw/main/LOGO.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/SPOTV.png" group-title="ASIA SPORT", SPOTV 1
 http://line.rs6ott.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=683117&extension=ts&play_token=ttKChD9xXt
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/SPOTV.png" group-title="ASIA SPORT", SPOTV 1
-http://humiptv.live:8080/live/tarun589853/5787489bcsh/143137.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/SPOTV2.png" group-title="ASIA SPORT", SPOTV 2
-http://humiptv.live:8080/live/tarun589853/5787489bcsh/151193.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/SS1.png" group-title="ASIA SPORT", SPORTSTAR 1
-http://humiptv.live:8080/live/tarun589853/5787489bcsh/151188.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/SS2.png" group-title="ASIA SPORT", SPORTSTAR 2
-http://humiptv.live:8080/live/tarun589853/5787489bcsh/151187.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/SS3.png" group-title="ASIA SPORT", SPORTSTAR 3
-http://humiptv.live:8080/live/tarun589853/5787489bcsh/151181.ts
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkFkU9iQl9b4zhaV00r9TLXytWjCKlFrl1YQ&usqp=CAU" group-title="ASIA SPORT", SOCCER CHANEL
-http://humiptv.live:8080/live/tarun589853/5787489bcsh/151186.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2dcE3mjJNK1PXvA6dyegcuadQrjtNZjxKwg&usqp=CAU" group-title="ASIA SPORT", BEIN SPORTS
 http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=40668_&extension=ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSxSmaCkSbJqWAIDq5p2qUlH9vwzZGtJPEyg&usqp=CAU" group-title="ASIA SPORT", BEIN SPORTS 2
 http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=40667_&extension=ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyJqZS3W4KLWOqPQgau88zHVTAfB7HBgqHXQ&usqp=CAU" group-title="ASIA SPORT", BEIN SPORTS 3
-http://humiptv.live:8080/live/tarun589853/5787489bcsh/143062.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgydv2d77A9X-p9A1FDLAfhE6sbMrxekWqJw&usqp=CAU" group-title="ASIA SPORT", BEIN SPORTS 1 ENG
-http://humiptv.live:8080/live/tarun589853/5787489bcsh/23793.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgydv2d77A9X-p9A1FDLAfhE6sbMrxekWqJw&usqp=CAU" group-title="ASIA SPORT", BEIN RUGBY
 https://m2.ballnaja.com:8443/beIN_Sports_Rugby/tracks-v1a1/mono.m3u8
 
@@ -6621,8 +6603,6 @@ http://nplay.is:2095/play/live.php?mac=10:27:be:15:df:31&stream=115614_&extensio
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQipmZeJaO5X50CB4A1hLmR3uZPXTZrNaihZg&usqp=CAU" group-title="ASIA SPORT", ASTRO GOLF
 http://nplay.is:2095/play/live.php?mac=10:27:be:15:df:31&stream=115703_&extension=ts
 
-
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/HUB%201.png" group-title="ASIA SPORT", HUB SPORT 1
 http://line.rs6ott.com:80/play/live.php?mac=00:1a:79:2e:9c:e7&stream=941573&extension=ts&play_token=RP5LJytYQt
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/HUB%202.png" group-title="ASIA SPORT", HUB SPORT 2
@@ -6632,25 +6612,8 @@ http://line.rs6ott.com:80/play/live.php?mac=00:1a:79:2e:9c:e7&stream=941571&exte
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/HUB%20Premier.png" group-title="ASIA SPORT", HUB SPORT PREMIER 1
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:4b:61:87&stream=1350557_&extension=ts
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/NOW%201.png" group-title="ASIA SPORT", HK| NOW SPORT 1 HD
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032479&extension=ts&play_token=hGRrjPUyyU 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/NOW%202.png" group-title="ASIA SPORT", HK| NOW SPORT 2 HD
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032478&extension=ts&play_token=SRT0eR0mbX 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/NOW%203.png" group-title="ASIA SPORT", HK| NOW SPORT 3 HD
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032477&extension=ts&play_token=erpep0elTG 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/NOW%204.png" group-title="ASIA SPORT", HK| NOW SPORT 4 HD
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032476&extension=ts&play_token=uVa5K2kJum 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/NOW%205.png" group-title="ASIA SPORT", HK| NOW SPORT 5 HD
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032475&extension=ts&play_token=1e8lAvJ0Lu 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/NOW%206.png" group-title="ASIA SPORT", HK| NOW SPORT 6 HD
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032474&extension=ts&play_token=eLcCOeOgYn
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/NOW%207.png" group-title="ASIA SPORT", HK| NOW SPORT 7 HD
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032473&extension=ts&play_token=699aMCZA2z 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/NOW%20PREMIER.png" group-title="ASIA SPORT", HK| NOW SPORT PRIME
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032480&extension=ts&play_token=Ybjpa2BRhQ
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/NOW%201.png" group-title="ASIA SPORT", HK| NOW SPORT 1 PREMIER LEAGUE
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/NOW%201.png" group-title="ASIA SPORT", NOW SPORT 1 PREMIER LEAGUE
 http://line.rs6ott.com:80/play/live.php?mac=00:1a:79:2e:9c:e7&stream=554953&extension=ts&play_token=7O6qNoxnHS 
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/NOW%201.png" group-title="ASIA SPORT", NOW SPORT 1
 http://line.rs6ott.com:80/play/live.php?mac=00:1a:79:2e:9c:e7&stream=1032479&extension=ts&play_token=52rJj9sIxH
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/NOW%202.png" group-title="ASIA SPORT", NOW SPORT 2
@@ -6667,7 +6630,6 @@ http://line.rs6ott.com:80/play/live.php?mac=00:1a:79:2e:9c:e7&stream=1032474&ext
 http://line.rs6ott.com:80/play/live.php?mac=00:1a:79:2e:9c:e7&stream=1032473&extension=ts&play_token=SdlT0aFgWy
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/NOW%207.png" group-title="ASIA SPORT", NOW SPORT 1 PREMIER LEAGUE
 http://line.rs6ott.com:80/play/live.php?mac=00:1a:79:2e:9c:e7&stream=1110622&extension=ts&play_token=PrW5bSqW2A
-
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Sony_Sports_Ten_1.png/revision/latest/scale-to-width-down/460?cb=20221025083646" group-title="ASIA SPORT", SONY TEN SPORT 1
@@ -6717,8 +6679,6 @@ http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=463657_&exte
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/SPOTV2.png" group-title="ASIA SPORT", SPOTV 2 PH
 http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=463656_&extension=ts
 
-
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSifKAaGK0AD88SQnu6MsApMLGHPDwIkNmSDw&usqp=CAU" group-title="ASIA SPORT", ONE SPORT
 http://line.rs6ott.com:80/play/live.php?mac=00:1a:79:2e:9c:e7&stream=926161&extension=ts&play_token=bo2m2wHalz
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSifKAaGK0AD88SQnu6MsApMLGHPDwIkNmSDw&usqp=CAU" group-title="ASIA SPORT", ONE SPORT+
@@ -6744,7 +6704,6 @@ http://line.rs6ott.com:80/play/live.php?mac=00:1a:79:2e:9c:e7&stream=156027&exte
 http://line.rs6ott.com:80/play/live.php?mac=00:1a:79:2e:9c:e7&stream=281089&extension=ts&play_token=Ef05JWjFXG
 #EXTINF:-1 tvg-logo="_____" group-title="ASIA SPORT", OUTDOOR
 http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=463644_&extension=ts
-
 
 
 
@@ -7050,12 +7009,10 @@ http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=63649_&e
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/CANAL%2B_Sport_5.png/800px-CANAL%2B_Sport_5.png" group-title="EROPA SPORT", CANAL+ SPORT 5
 http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=15616_&extension=ts&play_token=W0JcMWGscf
 
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTihnQcGtCDaDE5Gr3agIKFcPtc95k0_RliBg&usqp=CAU" group-title="EROPA SPORT", C MORE SPORT 1
 http://line.rs6ott.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=154613&extension=ts&play_token=iFj5xcZHeF
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKQCloYS3Xq7pf24b01Jmuk2oe23xmfXlmNg&usqp=CAU" group-title="EROPA SPORT", C MORE SPORT 2
 http://line.rs6ott.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=154614&extension=ts&play_token=Z07bXITV8k
-
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/DIGI%201.png" group-title="EROPA SPORT", DIGI SPORT 1
 http://line.rs6ott.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=56119&extension=ts&play_token=pNhBMebn4P
