@@ -6980,6 +6980,14 @@ http://line.rs6ott.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=726584&exte
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNs1mzwhcRdT5QEy8a2k1JI1GDuuNnR1OaVF7ozmxno0c6pcHrL2Uu4NiQecDkkY8qNg&usqp=CAU" group-title="EROPA SPORT", ARENA SPORT 10 HR
 http://line.rs6ott.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=726585&extension=ts&play_token=QohVDVZoOK
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9htRBFDpxgTgZHl7j3NK9uqRCed--f0AmItjbHmanlr5M7mpsRjbI_kRhiYj0zoVnECU&usqp=CAU" group-title="EROPA SPORT", ARENA SPORT 1 CR
+http://line.rs6ott.com:80/play/live.php?mac=00:1a:79:2e:9c:e7&stream=161931&extension=ts&play_token=UZW0tLD2e9
+#EXTINF:-1 tvg-logo="https://neotel.mk/wp-content/uploads/2021/02/arena_sport_2.png" group-title="EROPA SPORT", ARENA SPORT 2 CR
+http://line.rs6ott.com:80/play/live.php?mac=00:1a:79:2e:9c:e7&stream=161932&extension=ts&play_token=HeNdedmiz2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGjZMF2fuGgxxgOrss5YOOMhI6SipPZgaLlFIHS9yVniH_ESyJ9WVclgedA_NUa8Z5m3s&usqp=CAU" group-title="EROPA SPORT", ARENA SPORT 3 CR
+http://line.rs6ott.com:80/play/live.php?mac=00:1a:79:2e:9c:e7&stream=161933&extension=ts&play_token=ycMTn63wDw
+
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/TNT%201.png" group-title="EROPA SPORT", BT TNT SPORT 1
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=11484_&extension=ts
