@@ -6653,6 +6653,16 @@ http://line.rs6ott.com:80/play/live.php?mac=00:1a:79:2e:9c:e7&stream=1327365&ext
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdCYnAbUMdNdXADJNi7AYkoJURGvIh5AXYVg&usqp=CAU" group-title="ASIA SPORT", STAR SPORT SELECT 2
 http://line.rs6ott.com:80/play/live.php?mac=00:1a:79:2e:9c:e7&stream=282676&extension=ts&play_token=YvoJBAEGqi
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw7oODkwDTvMMXEEJU7wXcsI8h1ZJARNJ2Hw&usqp=CAU" group-title="ASIA SPORT", STAR SPORT 1 BK
+http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=7892_&extension=ts&play_token=W0JcMWGscf
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ51qv6jcXrkmPJuK-IolWWogc8Qf65hfvGdw&usqp=CAU" group-title="ASIA SPORT", STAR SPORT 2 BK
+http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=7893_&extension=ts&play_token=W0JcMWGscf
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Sony_Sports_Ten_1.png/revision/latest/scale-to-width-down/460?cb=20221025083646" group-title="ASIA SPORT", SONY TEN SPORT 1
+http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=14795_&extension=ts&play_token=W0JcMWGscf
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/Sony_Sports_Ten_2.png/revision/latest/scale-to-width-down/460?cb=20221025084500" group-title="ASIA SPORT", SONY TEN SPORT 2
+http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=14794_&extension=ts&play_token=W0JcMWGscf
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Sony_Sports_Ten_3.png/revision/latest/scale-to-width-down/460?cb=20221025085433" group-title="ASIA SPORT", SONY TEN SPORT 3
+http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=14798_&extension=ts&play_token=W0JcMWGscf
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_original.png" group-title="ASIA SPORT", TRUE SPORT PREMIER 1
 http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=115758_&extension=ts
@@ -6855,8 +6865,12 @@ http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=401100_&extensio
 http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=401105_&extension=ts
 #EXTINF:-1 tvg-logo="http://magott.net:80/images/11a736e3ce515928d57c8eda23b5c1a1.png" group-title="TURKY SPORT", BEIN SPORT 4 TR HD
 http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=401108_&extension=ts
+#EXTINF:-1 tvg-logo="http://magott.net:80/images/11a736e3ce515928d57c8eda23b5c1a1.png" group-title="TURKY SPORT", BEIN SPORT 5 TR HD
+http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=109251_&extension=ts&play_token=W0JcMWGscf
+
 #EXTINF:-1 tvg-logo="http://magott.net:80/images/11a736e3ce515928d57c8eda23b5c1a1.png" group-title="TURKY SPORT", BEIN MAX 1 TR HD
 http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=401110_&extension=ts
+
 
 
 
@@ -7092,6 +7106,14 @@ http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=41766_&e
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/Eleven_Sports_4.svg/revision/latest/scale-to-width-down/250?cb=20210210163056" group-title="EROPA SPORT", ELEVEN SPORT 4 PL
 http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=41767_&extension=ts&play_token=W0JcMWGscf
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/play1.png" group-title="EROPA SPORT", PLAY SPORT 1 BG
+http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=65657_&extension=ts&play_token=W0JcMWGscf
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/play2.png" group-title="EROPA SPORT", PLAY SPORT 2
+http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=65624_&extension=ts&play_token=W0JcMWGscf
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/play3.png" group-title="EROPA SPORT", PLAY SPORT 3
+http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=48789_&extension=ts&play_token=W0JcMWGscf
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/play4.png" group-title="EROPA SPORT", PLAY SPORT 4
+http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=48790_&extension=ts&play_token=W0JcMWGscf
 
 
 #EXTINF:-1 tvg-logo="xxxxxxxx" group-title="EROPA SPORT", EUROSPORT 1 
@@ -7170,7 +7192,7 @@ http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=61818_&extens
 
 
 #EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/508692b4bb39baaa5fc257367b5d799e.png" group-title="EROPA SPORT", RMC SPORT 1 HD
-http://mol-2.com:8080/FnB395KegENkUxB/mdp0fspYNCHqt7A/59057
+http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=63138_&extension=ts&play_token=W0JcMWGscf
 #EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/23bf89ddfb161b3421e73c78b16d2145.png" group-title="EROPA SPORT", RMC SPORT 2 HD
 http://mol-2.com:8080/FnB395KegENkUxB/mdp0fspYNCHqt7A/59058
 #EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/508692b4bb39baaa5fc257367b5d799e.png" group-title="EROPA SPORT", RMC SPORT 1 FHD
@@ -7786,6 +7808,29 @@ http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=630761_&extensio
 #EXTINF:-1 tvg-logo="________" group-title="EROPA SPORT 2", C MORE MAX 2
 http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=630762_&extension=ts
 
+#EXTINF:-1 tvg-logo="_____________" group-title="EROPA SPORT 2", M4 SPORT
+http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=49326_&extension=ts&play_token=W0JcMWGscf
+#EXTINF:-1 tvg-logo="_____________" group-title="EROPA SPORT 2", MAX SPORT 1
+http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=61815_&extension=ts&play_token=W0JcMWGscf
+#EXTINF:-1 tvg-logo="_____________" group-title="EROPA SPORT 2", MAX SPORT 2
+http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=61816_&extension=ts&play_token=W0JcMWGscf
+#EXTINF:-1 tvg-logo="_____________" group-title="EROPA SPORT 2", MAX SPORT 3
+http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=61817_&extension=ts&play_token=W0JcMWGscf
+#EXTINF:-1 tvg-logo="_____________" group-title="EROPA SPORT 2", MAX SPORT 4
+http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=61818_&extension=ts&play_token=W0JcMWGscf
+
+#EXTINF:-1 tvg-logo="_____________" group-title="EROPA SPORT 2", NOVA SPORT 1 CZ
+http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=23580_&extension=ts&play_token=W0JcMWGscf
+#EXTINF:-1 tvg-logo="_____________" group-title="EROPA SPORT 2", NOVA SPORT 2 CZ
+http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=23581_&extension=ts&play_token=W0JcMWGscf
+
+#EXTINF:-1 tvg-logo="_____________" group-title="EROPA SPORT 2", SPORT 1 HU
+http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=23634_&extension=ts&play_token=W0JcMWGscf
+#EXTINF:-1 tvg-logo="_____________" group-title="EROPA SPORT 2", SPORT 2 HU
+http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=23635_&extension=ts&play_token=W0JcMWGscf
+#EXTINF:-1 tvg-logo="_____________" group-title="EROPA SPORT 2", SPORT 2 CZ
+http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=23584_&extension=ts&play_token=W0JcMWGscf
+
 
 #EXTINF:-1 tvg-logo="________" group-title="EROPA SPORT 2", DIEMA 1 BG
 http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=49883_&extension=ts
@@ -8120,8 +8165,6 @@ http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=647875&exten
 
 
 
-
-
 #######################
 LATIN SPORT
 ################################################################################################################################################################################# SPORT LATIN
@@ -8171,7 +8214,7 @@ http://line.rs6ott.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=926450&exte
 #EXTINF:-1 tvg-logo="https://s8.postimg.cc/qthzouo05/1516325501_a57d469ee395de417336e66ec14dd41ddbf22918.jpg" group-title="LATIN SPORT", SPORTV HD
 http://line.rs6ott.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=59184&extension=ts&play_token=CN2xBNmpdp 
 #EXTINF:-1 tvg-logo="https://s8.postimg.cc/7oeqf3h1x/1516325624_37a7dacc74e5ee85edf0c0c2074a56e4bb894bca.jpg" group-title="LATIN SPORT", SPORTV 2 HD
-http://line.rs6ott.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=59183&extension=ts&play_token=CN2xBNmpdp 
+http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=64201_&extension=ts&play_token=W0JcMWGscf
 #EXTINF:-1 tvg-logo="https://s8.postimg.cc/7oeqf3h1x/1516325624_37a7dacc74e5ee85edf0c0c2074a56e4bb894bca.jpg" group-title="LATIN SPORT", SPORTV 3 HD
 http://line.rs6ott.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=59182&extension=ts&play_token=CN2xBNmpdp 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFVYJKAIECFogJKTCAAM1a4Tqf9O-rd4Argg&s" group-title="LATIN SPORT", BAND SPORT HD
@@ -8179,10 +8222,29 @@ http://line.rs6ott.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=59294&exten
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhAHWm_Cdk4Qqeb_gAP0L4TmeiGOMNZl00PA&usqp=CAU" group-title="LATIN SPORT", PREMIER 1
 http://line.rs6ott.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=59161&extension=ts&play_token=CN2xBNmpdp 
 
+#EXTINF:-1 tvg-logo="_____________" group-title="LATIN SPORT", AFN SPORT
+http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=63164_&extension=ts&play_token=W0JcMWGscf
+#EXTINF:-1 tvg-logo="_____________" group-title="LATIN SPORT", ESPN SPORT
+http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=18215_&extension=ts&play_token=W0JcMWGscf
+#EXTINF:-1 tvg-logo="_____________" group-title="LATIN SPORT", FIGHT NETWORK
+http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=29513_&extension=ts&play_token=W0JcMWGscf
+#EXTINF:-1 tvg-logo="_____________" group-title="LATIN SPORT", FOX SPORT SOCCER
+http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=19942_&extension=ts&play_token=W0JcMWGscf
+#EXTINF:-1 tvg-logo="_____________" group-title="LATIN SPORT", FOX SPORT 1
+http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=18206_&extension=ts&play_token=W0JcMWGscf
+#EXTINF:-1 tvg-logo="_____________" group-title="LATIN SPORT", FOX SPORT 2
+http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=18205_&extension=ts&play_token=W0JcMWGscf
+#EXTINF:-1 tvg-logo="_____________" group-title="LATIN SPORT", SPORTSNET ONE
+http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=18154_&extension=ts&play_token=W0JcMWGscf
+#EXTINF:-1 tvg-logo="_____________" group-title="LATIN SPORT", MLB NETWORK
+http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=24828_&extension=ts&play_token=W0JcMWGscf
+#EXTINF:-1 tvg-logo="_____________" group-title="LATIN SPORT", MLB NETWORK
+http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=24828_&extension=ts&play_token=W0JcMWGscf
+#EXTINF:-1 tvg-logo="_____________" group-title="LATIN SPORT", DIRECTTV SPORT
+http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=66832_&extension=ts&play_token=W0JcMWGscf
+
 #EXTINF:-1 tvg-logo="https://s8.postimg.cc/qthzouo05/1516325501_a57d469ee395de417336e66ec14dd41ddbf22918.jpg" group-title="LATIN SPORT", SPORTV HD
 http://vivo.10initiatived.uk:8880/287994003284/287994003284/16753
-
-
 #EXTINF:-1 tvg-logo="http://static.process-one.net/bootstrap/img/art/customers_mlb.png" group-title="LATIN SPORT", MLB NETWORK HD (US)
 https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/12728.m3u8
 #EXTINF:-1 tvg-logo="http://stmgroup.xyz/logo/NBA.png" group-title="LATIN SPORT", NBA TV (US)
