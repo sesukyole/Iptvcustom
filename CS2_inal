@@ -9447,6 +9447,87 @@ http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=984951&extens
 #EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FSOval_wBackground_1040x585.gif" group-title="FOX SPORT", FOX SPORT PREMIUM
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=984953&extension=ts&play_token=HalHutHLf1
 
+#EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FSOval_wBackground_1040x585.gif" group-title="MOVIE ASIA", FOX MOVIES
+http://line.rs6ott.com:80/play/live.php?mac=00:1a:79:2e:9c:e7&stream=110856&extension=ts&play_token=33OqsgppFx
+#EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FSOval_wBackground_1040x585.gif" group-title="FOX SPORT", FOX SPORT 1 US
+http://line.rs6ott.com:80/play/live.php?mac=00:1a:79:2e:9c:e7&stream=45571&extension=ts&play_token=33OqsgppFx
+#EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FSOval_wBackground_1040x585.gif" group-title="FOX SPORT", FOX SPORT 2 US
+http://line.rs6ott.com:80/play/live.php?mac=00:1a:79:2e:9c:e7&stream=45570&extension=ts&play_token=33OqsgppFx
+#EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FSOval_wBackground_1040x585.gif" group-title="FOX SPORT", FOX SPORT SOCCER
+http://line.rs6ott.com:80/play/live.php?mac=00:1a:79:2e:9c:e7&stream=45572&extension=ts&play_token=33OqsgppFx
+#EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FSOval_wBackground_1040x585.gif" group-title="FOX SPORT", FOX SPORT ARIZONA
+http://line.rs6ott.com:80/play/live.php?mac=00:1a:79:2e:9c:e7&stream=45569&extension=ts&play_token=33OqsgppFx
+#EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FSOval_wBackground_1040x585.gif" group-title="FOX SPORT", FOX SPORT 1 ES
+http://line.rs6ott.com:80/play/live.php?mac=00:1a:79:2e:9c:e7&stream=984950&extension=ts&play_token=33OqsgppFx
+#EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FSOval_wBackground_1040x585.gif" group-title="FOX SPORT", FOX SPORT 2 ES
+http://line.rs6ott.com:80/play/live.php?mac=00:1a:79:2e:9c:e7&stream=984951&extension=ts&play_token=33OqsgppFx
+#EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FSOval_wBackground_1040x585.gif" group-title="FOX SPORT", FOX SPORT 3 ES
+http://line.rs6ott.com:80/play/live.php?mac=00:1a:79:2e:9c:e7&stream=984952&extension=ts&play_token=33OqsgppFx
+#EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FSOval_wBackground_1040x585.gif" group-title="FOX SPORT", FOX SPORT PREMIUM
+http://line.rs6ott.com:80/play/live.php?mac=00:1a:79:2e:9c:e7&stream=984953&extension=ts&play_token=33OqsgppFx
+#EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FSOval_wBackground_1040x585.gif" group-title="FOX SPORT", FOX DEPORTES LAT
+http://line.rs6ott.com:80/play/live.php?mac=00:1a:79:2e:9c:e7&stream=90292&extension=ts&play_token=33OqsgppFx
+#EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FSOval_wBackground_1040x585.gif" group-title="FOX SPORT", FOX SPORT 1 LAT
+http://line.rs6ott.com:80/play/live.php?mac=00:1a:79:2e:9c:e7&stream=75279&extension=ts&play_token=33OqsgppFx
+#EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FSOval_wBackground_1040x585.gif" group-title="FOX SPORT", FOX SPORT 2 LAT
+http://line.rs6ott.com:80/play/live.php?mac=00:1a:79:2e:9c:e7&stream=25509&extension=ts&play_token=33OqsgppFx
+#EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FSOval_wBackground_1040x585.gif" group-title="FOX SPORT", FOX SPORT 3 LAT
+http://line.rs6ott.com:80/play/live.php?mac=00:1a:79:2e:9c:e7&stream=25508&extension=ts&play_token=33OqsgppFx
+#EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FSOval_wBackground_1040x585.gif" group-title="FOX SPORT", FOX SPORT PREMIUM LAT
+http://line.rs6ott.com:80/play/live.php?mac=00:1a:79:2e:9c:e7&stream=75276&extension=ts&play_token=33OqsgppFx
+#EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FSOval_wBackground_1040x585.gif" group-title="FOX SPORT", FOX SPORT PREMIUM ARG
+http://line.rs6ott.com:80/play/live.php?mac=00:1a:79:2e:9c:e7&stream=79300&extension=ts&play_token=33OqsgppFx
+#EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FSOval_wBackground_1040x585.gif" group-title="FOX SPORT", FOX SPORT 1 ARG
+http://line.rs6ott.com:80/play/live.php?mac=00:1a:79:2e:9c:e7&stream=79290&extension=ts&play_token=33OqsgppFx
+#EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FSOval_wBackground_1040x585.gif" group-title="FOX SPORT", FOX SPORT 2 ARG
+http://line.rs6ott.com:80/play/live.php?mac=00:1a:79:2e:9c:e7&stream=79289&extension=ts&play_token=33OqsgppFx
+#EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FSOval_wBackground_1040x585.gif" group-title="FOX SPORT", FOX SPORT 3 ARG
+http://line.rs6ott.com:80/play/live.php?mac=00:1a:79:2e:9c:e7&stream=79288&extension=ts&play_token=33OqsgppFx
+#EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FSOval_wBackground_1040x585.gif" group-title="FOX SPORT", FOX SPORT CHI
+http://line.rs6ott.com:80/play/live.php?mac=00:1a:79:2e:9c:e7&stream=79317&extension=ts&play_token=33OqsgppFx
+#EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FSOval_wBackground_1040x585.gif" group-title="FOX SPORT", FOX SPORT CLARO
+http://line.rs6ott.com:80/play/live.php?mac=00:1a:79:2e:9c:e7&stream=779446&extension=ts&play_token=33OqsgppFx
+#EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FSOval_wBackground_1040x585.gif" group-title="FOX SPORT", FOX SPORT 1 CLARO
+http://line.rs6ott.com:80/play/live.php?mac=00:1a:79:2e:9c:e7&stream=779430&extension=ts&play_token=33OqsgppFx
+#EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FSOval_wBackground_1040x585.gif" group-title="FOX SPORT", FOX SPORT 2 CLARO
+http://line.rs6ott.com:80/play/live.php?mac=00:1a:79:2e:9c:e7&stream=779429&extension=ts&play_token=33OqsgppFx
+#EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FSOval_wBackground_1040x585.gif" group-title="FOX SPORT", FOX SPORT 3 CLARO
+http://line.rs6ott.com:80/play/live.php?mac=00:1a:79:2e:9c:e7&stream=779431&extension=ts&play_token=33OqsgppFx
+#EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FSOval_wBackground_1040x585.gif" group-title="FOX SPORT", FOX SPORT 1 CO
+http://line.rs6ott.com:80/play/live.php?mac=00:1a:79:2e:9c:e7&stream=75312&extension=ts&play_token=33OqsgppFx
+#EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FSOval_wBackground_1040x585.gif" group-title="FOX SPORT", FOX SPORT 2 CO
+http://line.rs6ott.com:80/play/live.php?mac=00:1a:79:2e:9c:e7&stream=75311&extension=ts&play_token=33OqsgppFx
+#EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FSOval_wBackground_1040x585.gif" group-title="FOX SPORT", FOX SPORT 3 CO
+http://line.rs6ott.com:80/play/live.php?mac=00:1a:79:2e:9c:e7&stream=75310&extension=ts&play_token=33OqsgppFx
+#EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FSOval_wBackground_1040x585.gif" group-title="FOX SPORT", FOX SPORT 1 MXC
+http://line.rs6ott.com:80/play/live.php?mac=00:1a:79:2e:9c:e7&stream=552849&extension=ts&play_token=33OqsgppFx
+#EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FSOval_wBackground_1040x585.gif" group-title="FOX SPORT", FOX SPORT 2 MXC
+http://line.rs6ott.com:80/play/live.php?mac=00:1a:79:2e:9c:e7&stream=552847&extension=ts&play_token=33OqsgppFx
+#EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FSOval_wBackground_1040x585.gif" group-title="FOX SPORT", FOX SPORT 3 MXC
+http://line.rs6ott.com:80/play/live.php?mac=00:1a:79:2e:9c:e7&stream=552846&extension=ts&play_token=33OqsgppFx
+#EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FSOval_wBackground_1040x585.gif" group-title="FOX SPORT", FOX SPORT 1 BR
+http://line.rs6ott.com:80/play/live.php?mac=00:1a:79:2e:9c:e7&stream=59255&extension=ts&play_token=33OqsgppFx
+#EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FSOval_wBackground_1040x585.gif" group-title="FOX SPORT", FOX SPORT 2 BR
+http://line.rs6ott.com:80/play/live.php?mac=00:1a:79:2e:9c:e7&stream=59254&extension=ts&play_token=33OqsgppFx
+#EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FSOval_wBackground_1040x585.gif" group-title="FOX SPORT", FOX SPORT 501 AU
+http://line.rs6ott.com:80/play/live.php?mac=00:1a:79:2e:9c:e7&stream=646971&extension=ts&play_token=33OqsgppFx
+#EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FSOval_wBackground_1040x585.gif" group-title="FOX SPORT", FOX SPORT 502 AU
+http://line.rs6ott.com:80/play/live.php?mac=00:1a:79:2e:9c:e7&stream=646970&extension=ts&play_token=33OqsgppFx
+#EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FSOval_wBackground_1040x585.gif" group-title="FOX SPORT", FOX SPORT 503 AU
+http://line.rs6ott.com:80/play/live.php?mac=00:1a:79:2e:9c:e7&stream=646969&extension=ts&play_token=33OqsgppFx
+#EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FSOval_wBackground_1040x585.gif" group-title="FOX SPORT", FOX SPORT 504 AU
+http://line.rs6ott.com:80/play/live.php?mac=00:1a:79:2e:9c:e7&stream=646968&extension=ts&play_token=33OqsgppFx
+#EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FSOval_wBackground_1040x585.gif" group-title="FOX SPORT", FOX SPORT 505 AU
+http://line.rs6ott.com:80/play/live.php?mac=00:1a:79:2e:9c:e7&stream=646967&extension=ts&play_token=33OqsgppFx
+#EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FSOval_wBackground_1040x585.gif" group-title="FOX SPORT", FOX SPORT 506 AU
+http://line.rs6ott.com:80/play/live.php?mac=00:1a:79:2e:9c:e7&stream=646966&extension=ts&play_token=33OqsgppFx
+#EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FSOval_wBackground_1040x585.gif" group-title="FOX SPORT", FOX SPORT 507 AU
+http://line.rs6ott.com:80/play/live.php?mac=00:1a:79:2e:9c:e7&stream=646965&extension=ts&play_token=33OqsgppFx
+#EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FSOval_wBackground_1040x585.gif" group-title="FOX SPORT", FOX SOCCER PLUS CRB
+http://line.rs6ott.com:80/play/live.php?mac=00:1a:79:2e:9c:e7&stream=533668&extension=ts&play_token=33OqsgppFx
+#EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FSOval_wBackground_1040x585.gif" group-title="FOX SPORT", FOX SPORT RACING CRB
+http://line.rs6ott.com:80/play/live.php?mac=00:1a:79:2e:9c:e7&stream=533669&extension=ts&play_token=33OqsgppFx
+
 #EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/chimg/3157925022.png" group-title="FOX SPORT", AU: FOX Sports NEWS HD
 http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/95989.ts
 #EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/chimg/9620865901.png" group-title="FOX SPORT", FOX Sport 501 HD
@@ -9543,6 +9624,7 @@ http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/134677.ts
 http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/117259.ts
 #EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/chimg/7602740368.png" group-title="FOX SPORT", FOX Sport 502 HD
 http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/115813.ts
+
 
 
 #EXTINF:-1 tvg-logo="https://www.peacocktv.com/dam/commerce/assets/partners/logo-peacock-social-1200x628.jpg" group-title="PEACOCK OD", PEACOCK SERIES 1
