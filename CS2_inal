@@ -8248,8 +8248,10 @@ http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=64201_&e
 http://line.rs6ott.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=59182&extension=ts&play_token=CN2xBNmpdp 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFVYJKAIECFogJKTCAAM1a4Tqf9O-rd4Argg&s" group-title="LATIN SPORT", BAND SPORT HD
 http://line.rs6ott.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=59294&extension=ts 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhAHWm_Cdk4Qqeb_gAP0L4TmeiGOMNZl00PA&usqp=CAU" group-title="LATIN SPORT", PREMIER 1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhAHWm_Cdk4Qqeb_gAP0L4TmeiGOMNZl00PA&usqp=CAU" group-title="LATIN SPORT", PREMIERE 1
 http://line.rs6ott.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=59161&extension=ts&play_token=CN2xBNmpdp 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhAHWm_Cdk4Qqeb_gAP0L4TmeiGOMNZl00PA&usqp=CAU" group-title="LATIN SPORT", PREMIERE 2
+http://line.rs6ott.com:80/play/live.php?mac=00:1a:79:2e:9c:e7&stream=59202&extension=ts&play_token=UxolvlsEGM
 
 #EXTINF:-1 tvg-logo="_____________" group-title="LATIN SPORT", AFN SPORT
 http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=63164_&extension=ts&play_token=W0JcMWGscf
