@@ -469,22 +469,27 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch2)/index.m3u8
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch410)/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/METRO.png" group-title="FIRSTMEDIA", METROTV HD
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch394)/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", RCTI
-http://kuchini.site:8080/resplice/BiD8iEiMv7js1OUL/157591
+http://xtv.ooo:8080/owais1/12345/351023
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", GTV
-http://kuchini.site:8080/resplice/BiD8iEiMv7js1OUL/157578
+http://xtv.ooo:8080/owais1/12345/350954
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", MNCTV
-http://kuchini.site:8080/resplice/BiD8iEiMv7js1OUL/165054
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", ANTV
-http://kuchini.site:8080/resplice/BiD8iEiMv7js1OUL/165072
+http://xtv.ooo:8080/owais1/12345/350996
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", SCTV
+http://xtv.ooo:8080/owais1/12345/351030
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", HBO
-http://kuchini.site:8080/resplice/BiD8iEiMv7js1OUL/197972
+http://xtv.ooo:8080/owais1/12345/350955
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", HBO FAMILY
-http://kuchini.site:8080/resplice/BiD8iEiMv7js1OUL/197055
+http://xtv.ooo:8080/owais1/12345/350956
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", HBO HITS
-http://kuchini.site:8080/resplice/BiD8iEiMv7js1OUL/196480
+http://xtv.ooo:8080/owais1/12345/350957
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", HBO SIGNATURE 
-http://kuchini.site:8080/resplice/BiD8iEiMv7js1OUL/221948
+http://xtv.ooo:8080/owais1/12345/350958
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", CINEMAX 
+http://xtv.ooo:8080/owais1/12345/350922
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/IDX.png" group-title="FIRSTMEDIA", IDX CHANNEL
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch389)/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/GARUDAtv.png" group-title="FIRSTMEDIA", GARUDATV
