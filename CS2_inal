@@ -7648,21 +7648,21 @@ http://nplay.is:2095/play/live.php?mac=10:27:be:15:df:31&stream=115758_&extensio
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_original.png" group-title="ASIA SPORT", TRUE SPORT PREMIER 2
 http://nplay.is:2095/play/live.php?mac=10:27:be:15:df:31&stream=115508_&extension=ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdlqYZa73cC9fSWnXPa1CkMXvB7unGz04AHQ&usqp=CAU" group-title="ASIA SPORT", TRUE SPORT 1
-http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=115531_&extension=ts
+http://nplay.is:2095/play/live.php?mac=10:27:be:15:df:31&stream=115531_&extension=ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQziHusQLXASNkPSoPW_lDG9TUGJhUmFAIE-Q&usqp=CAU" group-title="ASIA SPORT", TRUE SPORT 2
-http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=115533_&extension=ts
+http://nplay.is:2095/play/live.php?mac=10:27:be:15:df:31&stream=115533_&extension=ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD3IDGS7fUmfNh1TK_rpoaCtOpCafCFlSo-w&usqp=CAU" group-title="ASIA SPORT", TRUE SPORT 5
-http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=115541_&extension=ts
+http://nplay.is:2095/play/live.php?mac=10:27:be:15:df:31&stream=115541_&extension=ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSb_ivRHGOUhC1CqSJn_EXLn1aIwxobA1ezg&usqp=CAU" group-title="ASIA SPORT", TRUE SPORT 7
-http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=115798_&extension=ts
+http://nplay.is:2095/play/live.php?mac=10:27:be:15:df:31&stream=115798_&extension=ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzeishbuUZHk6MkdtScQoq6wP3NrJZEmUTvQ&usqp=CAU" group-title="ASIA SPORT", TRUE SPOTV 1
-http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=115684_&extension=ts
+http://nplay.is:2095/play/live.php?mac=10:27:be:15:df:31&stream=115684_&extension=ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzeishbuUZHk6MkdtScQoq6wP3NrJZEmUTvQ&usqp=CAU" group-title="ASIA SPORT", TRUE SPOTV 2
-http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=115433_&extension=ts
+http://nplay.is:2095/play/live.php?mac=10:27:be:15:df:31&stream=115433_&extension=ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNWbyVhmzfRD-vajvdshCzABgugNtI0x3fbw&usqp=CAU" group-title="ASIA SPORT", TRUE TENNIS
-http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=115805_&extension=ts
+http://nplay.is:2095/play/live.php?mac=10:27:be:15:df:31&stream=115805_&extension=ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkXhsnEyJlU37o_mIrCwRY9VIFRkHRxrF7jA&usqp=CAU" group-title="ASIA SPORT", TRUE FIGHT
-http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=115500_&extension=ts
+http://nplay.is:2095/play/live.php?mac=10:27:be:15:df:31&stream=115500_&extension=ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/SPOTV.png" group-title="ASIA SPORT", SPOTV 1 PH
 http://nplay.is:2095/play/live.php?mac=10:27:be:15:df:31&stream=463657_&extension=ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/SPOTV2.png" group-title="ASIA SPORT", SPOTV 2 PH
@@ -8035,8 +8035,6 @@ http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=411389&extens
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=411388&extension=ts&play_token=4IS0zXf2D6 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpBuKyqlTKTHsAVbPnSbWQN5YGDHma5lpX3g&usqp=CAU" group-title="EROPA SPORT", DAZN ZONE
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1273580&extension=ts&play_token=bGsClCAwGV
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpBuKyqlTKTHsAVbPnSbWQN5YGDHma5lpX3g&usqp=CAU" group-title="EROPA SPORT", DAZN 1 ES
-http://faucontv.live:8080/vaya/2kTxdjWYfn/5219
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpBuKyqlTKTHsAVbPnSbWQN5YGDHma5lpX3g&usqp=CAU" group-title="EROPA SPORT", DAZN ZONA HD
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=691242&extension=ts&play_token=60FhUEUHIX
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpBuKyqlTKTHsAVbPnSbWQN5YGDHma5lpX3g&usqp=CAU" group-title="EROPA SPORT", DAZN 1 SERI A
@@ -10061,7 +10059,7 @@ http://line.rs6ott.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=913366&exte
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl6MCmhuaV1Un8Zx7XUHnSWxUVBOANby0lDZb4pTCroTioIBaVx1ewjJEO&s=10" group-title="CLUB FOOTBALL", FENERBACE TV
 http://iptvtree.net:8080/joeBt/FBe7D5gDbFzmWdAx/575
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9-5j47VYbMzeo5euGb5rpT-_YliZ1TnVpBA&usqp=CAU" group-title="CLUB FOOTBALL", SEVILLA TV
-http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=100151_&extension=ts
+http://nplay.is:2095/play/live.php?mac=10:27:be:15:df:31&stream=100151_&extension=ts
 
 
 
