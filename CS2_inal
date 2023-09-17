@@ -892,15 +892,15 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(cec31cdd-d2ff
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ef01e28-6fac-49c1-9aa4-40b37d431881)/manifest.mpd
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png" group-title="MNC GRUP", HBO
-http://sysadminhost.net:8080/de77df6b/0f1f4102c5/197972
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/197972
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/43c918deb93b6cb276bc97bc3316d66a.png" group-title="MNC GRUP", HBO Family
-http://sysadminhost.net:8080/de77df6b/0f1f4102c5/197055
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/197055
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/00e312e6e408859a759d2cb679bf2f28.png" group-title="MNC GRUP", HBO Hits
-http://sysadminhost.net:8080/de77df6b/0f1f4102c5/196480
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/196480
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/b918a4f6087d1550bed78481f3fd878e.png" group-title="MNC GRUP", HBO Signature
-http://sysadminhost.net:8080/de77df6b/0f1f4102c5/221948
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/221948
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/42d29b03357fec1753cf970323f02e04.png" group-title="MNC GRUP", Cinemax
-http://sysadminhost.net:8080/de77df6b/0f1f4102c5/197964
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/197964
 
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png" group-title="MNC GRUP", HBO Ex
