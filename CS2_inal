@@ -7850,9 +7850,6 @@ http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=109251_&
 #EXTINF:-1 tvg-logo="http://magott.net:80/images/11a736e3ce515928d57c8eda23b5c1a1.png" group-title="TURKY SPORT", BEIN MAX 1 TR HD
 http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=401110_&extension=ts
 
-
-
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv64ZKhZ2nqmJvMaOoLH8gapX2x--OhcuvOw&usqp=CAU" group-title="TURKY SPORT", TIVIBU SPORT 1 HD
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=13469_&extension=ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfjSeOSTC359ft3bMwjBAtu3LEH4dux-UmGQ&usqp=CAU" group-title="TURKY SPORT", TIVIBU SPORT 2 HD
@@ -7998,7 +7995,6 @@ http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=508150&extens
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/canalinfo.png" group-title="EROPA SPORT", INFOSPORT 
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=508169&extension=ts&play_token=NaNl5etGT6 
 
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Canal%2B_1_PL.png/800px-Canal%2B_1_PL.png" group-title="EROPA SPORT", CANAL+ SPORT 1
 http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=21909_&extension=ts&play_token=W0JcMWGscf
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Canal%2B_Sport_2_PL.png/800px-Canal%2B_Sport_2_PL.png" group-title="EROPA SPORT", CANAL+ SPORT 2
@@ -8033,7 +8029,6 @@ http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=804_&extensio
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/DIGI%204.png" group-title="EROPA SPORT", DIGI SPORT 4
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=9180_&extension=ts
 
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpBuKyqlTKTHsAVbPnSbWQN5YGDHma5lpX3g&usqp=CAU" group-title="EROPA SPORT", DAZN 1 DE
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=411389&extension=ts&play_token=HsuxrD6mL2 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpBuKyqlTKTHsAVbPnSbWQN5YGDHma5lpX3g&usqp=CAU" group-title="EROPA SPORT", DAZN 2 DE
@@ -8055,7 +8050,6 @@ http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=811932&extension
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpBuKyqlTKTHsAVbPnSbWQN5YGDHma5lpX3g&usqp=CAU" group-title="EROPA SPORT", DAZN ELEVAN SPORT 3
 http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=811931&extension=ts&play_token=CuwXckvtuK
 
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/diema1.png" group-title="EROPA SPORT", DIEMA SPORT 1
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=14249_&extension=ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/diema2.png" group-title="EROPA SPORT", DIEMA SPORT 2
@@ -8069,7 +8063,6 @@ http://line.rs6ott.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=154819&exte
 http://line.rs6ott.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=154820&extension=ts&play_token=MU1hoMHWkL
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/diema3.png" group-title="EROPA SPORT", DIEMA SPORT 3 B
 http://line.rs6ott.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=154916&extension=ts&play_token=ryQXUsfsRT
-
 
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=189536325767_image-header_pRow_1690609699000" group-title="EROPA SPORT", ELEVEN SPORT 1 PT
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=63300_&extension=ts
@@ -8319,7 +8312,6 @@ http://line.rs6ott.com:80/play/live.php?mac=00:1a:79:2e:9c:e7&stream=811937&exte
 http://line.rs6ott.com:80/play/live.php?mac=00:1a:79:2e:9c:e7&stream=811936&extension=ts&play_token=w17emRioLj
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT20ugcrrQih-9fWpsiXByYzRH412Ut9frqGw&usqp=CAU" group-title="EROPA SPORT", PLAY SPORT LIVE
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=453420&extension=ts
-
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/TV_2_Sport_2023.svg/1200px-TV_2_Sport_2023.svg.png" group-title="EROPA SPORT", TV2 SPORT 1
@@ -8602,45 +8594,30 @@ https://github.com/inaldie/inaldie/raw/main/LOGO.ts
 
 #EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", ARENA SPORT PREMIUM 1 RS
 http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=136335_&extension=ts&play_token=W0JcMWGscf
-
-
 #EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", ARENA SPORT 1 RS
 http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=534_&extension=ts&play_token=W0JcMWGscf
-
 #EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", ARENA SPORT 2 RS
 http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=535_&extension=ts&play_token=W0JcMWGscf
-
 #EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", ARENA SPORT 3 RS
 http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=536_&extension=ts&play_token=W0JcMWGscf
-
 #EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", ARENA SPORT 4 RS
 http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=537_&extension=ts&play_token=W0JcMWGscf
-
 #EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", ARENA SPORT 5 RS
 http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=401_&extension=ts&play_token=W0JcMWGscf
 
-
 #EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", ARENA SPORT 1 HR
 http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=404_&extension=ts&play_token=W0JcMWGscf
-
 #EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", ARENA SPORT 2 HR
 http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=218_&extension=ts&play_token=W0JcMWGscf
-
 #EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", ARENA SPORT 3 HR
 http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=405_&extension=ts&play_token=W0JcMWGscf
-
 #EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", ARENA SPORT 4 HR
 http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=406_&extension=ts&play_token=W0JcMWGscf
-
 #EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", ARENA SPORT 5 HR
 http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=787_&extension=ts&play_token=W0JcMWGscf
 
-#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", SKY SPORT ARENA IT
-http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=64226_&extension=ts&play_token=W0JcMWGscf
-
 #EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", MATCH ARENA RU
 http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=65413_&extension=ts&play_token=W0JcMWGscf
-
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/TNT%201.png" group-title="EROPA SPORT 2", BT TNT SPORT 1 HD
 http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=11484_&extension=ts&play_token=W0JcMWGscf
@@ -8671,7 +8648,6 @@ http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=63648_&e
 #EXTINF:-1 tvg-logo="________" group-title="EROPA SPORT 2", CANAL+ SPORT 4 PL
 http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=63649_&extension=ts&play_token=W0JcMWGscf
 
-
 #EXTINF:-1 tvg-logo="________" group-title="EROPA SPORT 2", CANAL+ SPORT FR
 http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=157_&extension=ts&play_token=W0JcMWGscf
 EXTINF:-1 tvg-logo="________" group-title="EROPA SPORT 2", CANAL+ PREMIER LEAGUE FR
@@ -8687,9 +8663,24 @@ http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=71502_&e
 #EXTINF:-1 tvg-logo="________" group-title="EROPA SPORT 2", V SPORT MOTOR
 http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=28026_&extension=ts&play_token=W0JcMWGscf
 #EXTINF:-1 tvg-logo="________" group-title="EROPA SPORT 2", V SPORT FOOTBALL
-http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=28029_&extension=ts&play_token=W0JcMWGscf
+http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=13760_&extension=ts&play_token=W0JcMWGscf
+#EXTINF:-1 tvg-logo="________" group-title="EROPA SPORT 2", V SPORT PREMIUM
+http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=61028_&extension=ts&play_token=W0JcMWGscf
 #EXTINF:-1 tvg-logo="________" group-title="EROPA SPORT 2", V SPORT GOLF
 http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=65453_&extension=ts&play_token=W0JcMWGscf
+#EXTINF:-1 tvg-logo="________" group-title="EROPA SPORT 2", V SPORT 1
+http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=64970_&extension=ts&play_token=W0JcMWGscf
+
+#EXTINF:-1 tvg-logo="________" group-title="EROPA SPORT 2", TV3 SPORT 1
+http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=13764_&extension=ts&play_token=W0JcMWGscf
+#EXTINF:-1 tvg-logo="________" group-title="EROPA SPORT 2", TV3 SPORT 2
+http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=13765_&extension=ts&play_token=W0JcMWGscf
+#EXTINF:-1 tvg-logo="________" group-title="EROPA SPORT 2", TV2 SPORT 1
+http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=111201_&extension=ts&play_token=W0JcMWGscf
+#EXTINF:-1 tvg-logo="________" group-title="EROPA SPORT 2", TV2 SPORT 2
+http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=111202_&extension=ts&play_token=W0JcMWGscf
+#EXTINF:-1 tvg-logo="________" group-title="EROPA SPORT 2", TV2 SPORT PREMIUM
+http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=111203_&extension=ts&play_token=W0JcMWGscf
 
 #EXTINF:-1 tvg-logo="_____________" group-title="EROPA SPORT 2", M4 SPORT
 http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=49326_&extension=ts&play_token=W0JcMWGscf
@@ -8714,6 +8705,26 @@ http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=23635_&e
 #EXTINF:-1 tvg-logo="_____________" group-title="EROPA SPORT 2", SPORT 2 CZ
 http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=23584_&extension=ts&play_token=W0JcMWGscf
 
+#EXTINF:-1 tvg-logo="________" group-title="EROPA SPORT 2", DIGI SPORT 1 RO
+http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=802_&extension=ts&play_token=W0JcMWGscf
+#EXTINF:-1 tvg-logo="________" group-title="EROPA SPORT 2", DIGI SPORT 2 RO
+http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=803_&extension=ts&play_token=W0JcMWGscf
+#EXTINF:-1 tvg-logo="________" group-title="EROPA SPORT 2", DIGI SPORT 3 RO
+http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=804_&extension=ts&play_token=W0JcMWGscf
+#EXTINF:-1 tvg-logo="________" group-title="EROPA SPORT 2", DIGI SPORT 4 RO
+http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=9180_&extension=ts&play_token=W0JcMWGscf
+
+#EXTINF:-1 tvg-logo="________" group-title="EROPA SPORT 2", ORANGE SPORT 1 RO
+http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=38422_&extension=ts&play_token=W0JcMWGscf
+#EXTINF:-1 tvg-logo="________" group-title="EROPA SPORT 2", ORANGE SPORT 2 RO
+http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=65476_&extension=ts&play_token=W0JcMWGscf
+#EXTINF:-1 tvg-logo="________" group-title="EROPA SPORT 2", ORANGE SPORT 3 RO
+http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=38424_&extension=ts&play_token=W0JcMWGscf
+#EXTINF:-1 tvg-logo="________" group-title="EROPA SPORT 2", ORANGE SPORT 4 RO
+http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=38425_&extension=ts&play_token=W0JcMWGscf
+
+#EXTINF:-1 tvg-logo="________" group-title="EROPA SPORT 2", PRIMA SPORT 2 RO
+http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=61894_&extension=ts&play_token=W0JcMWGscf
 
 #EXTINF:-1 tvg-logo="________" group-title="EROPA SPORT 2", DIEMA 1 BG
 http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=14249_&extension=ts&play_token=W0JcMWGscf
@@ -8721,6 +8732,36 @@ http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=14249_&e
 http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=14250_&extension=ts&play_token=W0JcMWGscf
 #EXTINF:-1 tvg-logo="-------" group-title="EROPA SPORT 2", DIEMA 3 BG
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=61800_&extension=ts
+
+#EXTINF:-1 tvg-logo="________" group-title="EROPA SPORT 2", ELEVEN SPORT 1 PT
+http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=63300_&extension=ts&play_token=W0JcMWGscf
+
+#EXTINF:-1 tvg-logo="________" group-title="EROPA SPORT 2", ELEVEN SPORT 2 PT
+http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=63301_&extension=ts&play_token=W0JcMWGscf
+
+#EXTINF:-1 tvg-logo="________" group-title="EROPA SPORT 2", ELEVEN SPORT 3 PT
+http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=63302_&extension=ts&play_token=W0JcMWGscf
+
+#EXTINF:-1 tvg-logo="________" group-title="EROPA SPORT 2", ELEVEN SPORT 4 PT
+http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=63303_&extension=ts&play_token=W0JcMWGscf
+
+#EXTINF:-1 tvg-logo="________" group-title="EROPA SPORT 2", ELEVEN SPORT 5 PT
+http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=63304_&extension=ts&play_token=W0JcMWGscf
+
+#EXTINF:-1 tvg-logo="________" group-title="EROPA SPORT 2", ELEVEN SPORT 6 PT
+http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=63305_&extension=ts&play_token=W0JcMWGscf
+
+#EXTINF:-1 tvg-logo="________" group-title="EROPA SPORT 2", ELEVEN SPORT 1 BE
+http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=40242_&extension=ts&play_token=W0JcMWGscf
+#EXTINF:-1 tvg-logo="________" group-title="EROPA SPORT 2", ELEVEN SPORT 2 BE
+http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=40243_&extension=ts&play_token=W0JcMWGscf
+#EXTINF:-1 tvg-logo="________" group-title="EROPA SPORT 2", ELEVEN SPORT 3 BE
+http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=65656_&extension=ts&play_token=W0JcMWGscf
+#EXTINF:-1 tvg-logo="________" group-title="EROPA SPORT 2", ELEVEN PRO LEAGUE 1 BE
+http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=66512_&extension=ts&play_token=W0JcMWGscf
+#EXTINF:-1 tvg-logo="________" group-title="EROPA SPORT 2", ELEVEN PRO LEAGUE 2 BE
+http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=66513_&extension=ts&play_token=W0JcMWGscf
+
 
 #EXTINF:-1 tvg-logo="________" group-title="EROPA SPORT 2", RTSH SPORT
 http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=65211_&extension=ts&play_token=W0JcMWGscf
@@ -8734,13 +8775,10 @@ http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=65112_&e
 
 #EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", K SPORT 1
 http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=9833_&extension=ts&play_token=W0JcMWGscf
-
 #EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", K SPORT 2
 http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=8967_&extension=ts&play_token=W0JcMWGscf
-
 #EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", K SPORT 3
 http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=9834_&extension=ts&play_token=W0JcMWGscf
-
 #EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", K SPORT 4
 http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=9835_&extension=ts&play_token=W0JcMWGscf
 
@@ -8759,41 +8797,79 @@ http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=65014_&e
 
 #EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", TRING SPORT 1
 http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=2332_&extension=ts&play_token=W0JcMWGscf
-
 #EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", TRING SPORT 2
 http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=2333_&extension=ts&play_token=W0JcMWGscf
-
 #EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", TRING SPORT 3
 http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=2334_&extension=ts&play_token=W0JcMWGscf
-
 #EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", TRING SPORT 4
 http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=2504_&extension=ts&play_token=W0JcMWGscf
 
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", SKY SPORT AUSTRIA 1
+http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=15926_&extension=ts&play_token=W0JcMWGscf
+
+
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", SKY SPORT F1 DE
+http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=64226_&extension=ts&play_token=W0JcMWGscf
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", SKY SPORT TOP EVENT DE
+http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=106441_&extension=ts&play_token=W0JcMWGscf
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", SKY SPORT PREMIER LEAGUE DE
+http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=106443_&extension=ts&play_token=W0JcMWGscf
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", SKY SPORT MIX DE
+http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=106445_&extension=ts&play_token=W0JcMWGscf
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", SKY SPORT GOLF DE
+http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=106444_&extension=ts&play_token=W0JcMWGscf
+
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", SKY SPORT ARENA UK
+http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=28035_&extension=ts&play_token=W0JcMWGscf
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", SKY SPORT CRICKET UK
+http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=210_&extension=ts&play_token=W0JcMWGscf
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", SKY SPORT F1 UK
+http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=28034_&extension=ts&play_token=W0JcMWGscf
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", SKY SPORT GOLF UK
+http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=11401_&extension=ts&play_token=W0JcMWGscf
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", SKY SPORT MAIN EVENT UK
+http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=7641_&extension=ts&play_token=W0JcMWGscf
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", SKY SPORT PREMIER LEAGUE UK
+http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=213_&extension=ts&play_token=W0JcMWGscf
+
+
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", SKY SPORT ARENA IT
+http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=64226_&extension=ts&play_token=W0JcMWGscf
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", SKY SPORT NBA IT
+http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=64227_&extension=ts&play_token=W0JcMWGscf
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", SKY SPORT FOOTBALL IT
+http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=64224_&extension=ts&play_token=W0JcMWGscf
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", SKY SPORT 24 IT
+http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=296_&extension=ts&play_token=W0JcMWGscf
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", SKY SPORT CALCIO 1 IT
+http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=46477_&extension=ts&play_token=W0JcMWGscf
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", SKY SPORT GP IT
+http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=46094_&extension=ts&play_token=W0JcMWGscf
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", SKY SPORT F1 IT
+http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=31015_&extension=ts&play_token=W0JcMWGscf
 
 
 #EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", KLUB SPORT RS
 http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=14686_&extension=ts&play_token=W0JcMWGscf
-
 #EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", KLUB SPORT 1 RS
 http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=1983_&extension=ts&play_token=W0JcMWGscf
-
 #EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", KLUB SPORT 2 RS
 http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=1984_&extension=ts&play_token=W0JcMWGscf
-
 #EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", KLUB SPORT 3 RS
 http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=239_&extension=ts&play_token=W0JcMWGscf
-
 #EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", KLUB SPORT 4 RS
 http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=14687_&extension=ts&play_token=W0JcMWGscf
-
 #EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", KLUB SPORT 5 RS
 http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=14688_&extension=ts&play_token=W0JcMWGscf
-
 #EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", KLUB SPORT 6 RS
 http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=38251_&extension=ts&play_token=W0JcMWGscf
 
-#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", KLUB SPORT GOLF RS
-http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=29928_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", KLUB SPORT 1 SL
+http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=63028_&extension=ts&play_token=W0JcMWGscf
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", KLUB SPORT 2 SL
+http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=63029_&extension=ts&play_token=W0JcMWGscf
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", KLUB SPORT 3 SL
+http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=63030_&extension=ts&play_token=W0JcMWGscf
 
 
 #EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", VOO WORLD SPORT 1 BE
@@ -8991,6 +9067,9 @@ http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=647874_&exte
 #EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", SUPER SPORT VARIETY 4
 http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=647875&extension=ts
 
+
+#EXTINF:-1 tvg-logo="________" group-title="EROPA SPORT 2", FOX SPORT SOCCER
+http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=19942_&extension=ts&play_token=W0JcMWGscf
 
 
 
