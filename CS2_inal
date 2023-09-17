@@ -7518,13 +7518,15 @@ http://nplay.is:2095/play/live.php?mac=10:27:be:15:df:31&stream=40667_&extension
 https://m2.ballnaja.com:8443/beIN_Sports_Rugby/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="ASIA SPORT", ASTRO SUPERSPORT 1
-http://line.rs6ott.com:80/play/live.php?mac=00:1a:79:2e:9c:e7&stream=1111034&extension=ts&play_token=JPtkjqIlEm
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=918986&extension=ts&play_token=8Zz1UB3C6t
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png" group-title="ASIA SPORT", ASTRO SUPERSPORT 2
-http://line.rs6ott.com:80/play/live.php?mac=00:1a:79:2e:9c:e7&stream=1111033&extension=ts&play_token=lsnMkgDGhh
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=918985&extension=ts&play_token=N2gmDtJgav
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6hyQfCsG2uj55y1lfQkHLo5SeTvsJEr4j6nCVwUnioe5X2MlOaRK-ijrS2KmXh0GDubc&usqp=CAU" group-title="ASIA SPORT", ASTRO SUPERSPORT 3
-http://line.rs6ott.com:80/play/live.php?mac=00:1a:79:2e:9c:e7&stream=1111032&extension=ts&play_token=qvMDdXTn2U
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=918984&extension=ts&play_token=NZ62AqCWce
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="ASIA SPORT", ASTRO SUPERSPORT 4
-http://line.rs6ott.com:80/play/live.php?mac=00:1a:79:2e:9c:e7&stream=1111031&extension=ts&play_token=6PpWM5Frxd
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=918983&extension=ts&play_token=c8RjPsbc3c
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="ASIA SPORT", W SPORTS
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=918982&extension=ts&play_token=ChLPsnBWKh
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLsTesDDQYnobFOfseTNlCUC0D6YpW7zW5dtk2-26khhNvc63fbDt3B1HNrjooeIf53io&usqp=CAU" group-title="ASIA SPORT", ASTRO RUGBY PASS TV
 http://line.rs6ott.com:80/play/live.php?mac=00:1a:79:2e:9c:e7&stream=571253&extension=ts&play_token=ti8v8NQuJr
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png" group-title="ASIA SPORT", ASTRO CRICKET
@@ -7576,26 +7578,30 @@ http://line.rs6ott.com:80/play/live.php?mac=00:1a:79:2e:9c:e7&stream=1032474&ext
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/NOW%207.png" group-title="ASIA SPORT", NOW SPORT 7
 http://line.rs6ott.com:80/play/live.php?mac=00:1a:79:2e:9c:e7&stream=1032473&extension=ts&play_token=SdlT0aFgWy
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/NOW%207.png" group-title="ASIA SPORT", NOW SPORT 1 PREMIER 4K
-http://servi-teevee.net:80/BigBoB747475564765Hgdr/GhyT82FaS2828Mas/754595
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/NOW%207.png" group-title="ASIA SPORT", NOW SPORT 1 PREMIER 4K 616
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032489&extension=ts&play_token=ro9g113loO
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/NOW%207.png" group-title="ASIA SPORT", NOW SPORT 1 PREMIER 4K 617
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032488&extension=ts&play_token=KuWxK9MZCf
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/NOW%207.png" group-title="ASIA SPORT", NOW SPORT 1 PREMIER LEAGUE
-http://servi-teevee.net:80/BigBoB747475564765Hgdr/GhyT82FaS2828Mas/754587
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032487&extension=ts&play_token=vS3V9XxwP4
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/NOW%207.png" group-title="ASIA SPORT", NOW SPORT 2 PREMIER LEAGUE
-http://servi-teevee.net:80/BigBoB747475564765Hgdr/GhyT82FaS2828Mas/754588
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032486&extension=ts&play_token=vS3V9XxwP4
+
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/NOW%201.png" group-title="ASIA SPORT", NOW SPORT 1 BK
-http://servi-teevee.net:80/BigBoB747475564765Hgdr/GhyT82FaS2828Mas/754597
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032479&extension=ts&play_token=ifnUhTWkbe
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/NOW%202.png" group-title="ASIA SPORT", NOW SPORT 2 BK
-http://servi-teevee.net:80/BigBoB747475564765Hgdr/GhyT82FaS2828Mas/754598
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032478&extension=ts&play_token=uZItM5etJe
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/NOW%203.png" group-title="ASIA SPORT", NOW SPORT 3 BK
-http://servi-teevee.net:80/BigBoB747475564765Hgdr/GhyT82FaS2828Mas/754599
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032477&extension=ts&play_token=eNwJ4j8bI4
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/NOW%204.png" group-title="ASIA SPORT", NOW SPORT 4 BK
-http://servi-teevee.net:80/BigBoB747475564765Hgdr/GhyT82FaS2828Mas/754600
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032476&extension=ts&play_token=yCQ1cFcsup
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/NOW%205.png" group-title="ASIA SPORT", NOW SPORT 5 BK
-http://servi-teevee.net:80/BigBoB747475564765Hgdr/GhyT82FaS2828Mas/754601
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032475&extension=ts&play_token=aRxePb2gTe
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/NOW%206.png" group-title="ASIA SPORT", NOW SPORT 6 BK
-http://servi-teevee.net:80/BigBoB747475564765Hgdr/GhyT82FaS2828Mas/754602
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032474&extension=ts&play_token=t0ZnE6MJJC
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/NOW%207.png" group-title="ASIA SPORT", NOW SPORT 7 BK
-http://servi-teevee.net:80/BigBoB747475564765Hgdr/GhyT82FaS2828Mas/754603
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032473&extension=ts&play_token=pSeVzK6WU3
 
 
 
