@@ -9031,41 +9031,47 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:17:BE&stream=55557&extension
 #EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", DAZN F1 ES
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:17:BE&stream=55560&extension=ts
 
-#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", SUPER MAXIMO 1
-http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=647880_&extension=ts
-#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", SUPER SPORT ACTION
-http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=647876_&extension=ts
-#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", SUPER SPORT CRICKET
-http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=647865_&extension=ts
-#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", SUPER SPORT FOOTBALL
-http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=647866_&extension=ts
-#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", SUPER SPORT FOOTBALL PLUS
-http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=647867_&extension=ts
-#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", SUPER SPORT GOLF 
-http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=647870_&extension=ts
-#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", SUPER SPORT GRANDSTAND
-http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=39409_&extension=ts
-#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", SUPER SPORT PREMIER LEAGUE
-http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=39408_&extension=ts
 
 #EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", SUPER SPORT LA LIGA
-http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=647863_&extension=ts
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AF:AD:53&stream=1350747_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", SUPER SPORT PREMIER LEAGUE
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AF:AD:53&stream=1350748_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", SUPER SPORT CRICKET
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AF:AD:53&stream=1350746_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", SUPER SPORT BLITZ
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AF:AD:53&stream=1350745_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", SUPER SPORT ACTION
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AF:AD:53&stream=1350744_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", SUPER SPORT GRANDSTAND
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AF:AD:53&stream=1350743_&extension=ts
+
+
 #EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", SUPER SPORT MOTORSPORT 
-http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=647871_&extension=ts
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AF:AD:53&stream=1350749_&extension=ts
 #EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", SUPER SPORT PSL
-http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=647868_&extension=ts
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AF:AD:53&stream=1350750_&extension=ts
 #EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", SUPER SPORT RUGBY
-http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=647869_&extension=ts
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AF:AD:53&stream=1350751_&extension=ts
 #EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", SUPER SPORT TENNIS 
-http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=647877_&extension=ts
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AF:AD:53&stream=1350760_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", SUPER SPORT GOLF 
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AF:AD:53&stream=1350759_&extension=ts
 #EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", SUPER SPORT VARIETY 1
-http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=647872_&extension=ts
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AF:AD:53&stream=1350749_&extension=ts
 #EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", SUPER SPORT VARIETY 2
-http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=647873_&extension=ts
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AF:AD:53&stream=1350753_&extension=ts
 #EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", SUPER SPORT VARIETY 3
-http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=647874_&extension=ts
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AF:AD:53&stream=1350754_&extension=ts
 #EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", SUPER SPORT VARIETY 4
-http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=647875&extension=ts
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AF:AD:53&stream=1350755_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", SUPER SPORT PLAY 
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AF:AD:53&stream=1350758_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", ESPN 1 AF
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AF:AD:53&stream=1350757_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", ESPN 1 AF
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AF:AD:53&stream=1350756_&extension=ts
+
 
 
 #EXTINF:-1 tvg-logo="________" group-title="EROPA SPORT 2", FOX SPORT SOCCER
@@ -9760,9 +9766,6 @@ LAIN-LAIN SPORT  ######
 ################################################################################################################################################################################# LAIN-LAIN SPORT
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="LAIN-LAIN SPORT", ###LAIN-LAIN SPORT###
 https://github.com/inaldie/inaldie/raw/main/LOGO.ts
-
-#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="LAIN-LAIN SPORT", TRACE SPORT STARS
-http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=115318_&extension=ts
 
 #EXTINF:-1 tvg-logo="xxxxxxxx" group-title="LAIN-LAIN SPORT", AUTOMOTO 
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=508154&extension=ts&play_token=MQYoRJeFcv 
