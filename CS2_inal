@@ -7866,6 +7866,80 @@ http://line.rs6ott.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=913367&exte
 
 
 
+#######################
+AUSTRALIA SPORT  ###########
+################################################################################################################################################################################# ARAB SPORT
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="AUSTRALIA SPORT", ###AUSTRALIA SPORT###
+https://github.com/inaldie/inaldie/raw/main/LOGO.ts
+
+#EXTINF:-1 tvg-logo="______" group-title="AUSTRALIA SPORT", FOX SPORT 501
+http://193.107.202.221:81/play/live.php?mac=00:1A:79:AB:62:70&stream=106507_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="AUSTRALIA SPORT", FOX SPORT 502
+http://193.107.202.221:81/play/live.php?mac=00:1A:79:AB:62:70&stream=106509_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="AUSTRALIA SPORT", FOX SPORT 503
+http://193.107.202.221:81/play/live.php?mac=00:1A:79:AB:62:70&stream=106511_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="AUSTRALIA SPORT", FOX SPORT 504
+http://193.107.202.221:81/play/live.php?mac=00:1A:79:AB:62:70&stream=106513_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="AUSTRALIA SPORT", FOX SPORT 505
+http://193.107.202.221:81/play/live.php?mac=00:1A:79:AB:62:70&stream=106515_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="AUSTRALIA SPORT", FOX SPORT 506
+http://193.107.202.221:81/play/live.php?mac=00:1A:79:AB:62:70&stream=106517_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="AUSTRALIA SPORT", FOX SPORT 507
+http://193.107.202.221:81/play/live.php?mac=00:1A:79:AB:62:70&stream=106519_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="AUSTRALIA SPORT", BEIN SPORT
+http://193.107.202.221:81/play/live.php?mac=00:1A:79:AB:62:70&stream=106497_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="AUSTRALIA SPORT", BEIN SPORT 2
+http://193.107.202.221:81/play/live.php?mac=00:1A:79:AB:62:70&stream=106499_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="AUSTRALIA SPORT", BEIN SPORT 3
+http://193.107.202.221:81/play/live.php?mac=00:1A:79:AB:62:70&stream=106501_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="AUSTRALIA SPORT", RACING.COM
+http://193.107.202.221:81/play/live.php?mac=00:1A:79:AB:62:70&stream=106495_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="AUSTRALIA SPORT", OPTUS 1
+http://193.107.202.221:81/play/live.php?mac=00:1A:79:AB:62:70&stream=1123736_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="AUSTRALIA SPORT", OPTUS 2
+http://193.107.202.221:81/play/live.php?mac=00:1A:79:AB:62:70&stream=1123735_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="AUSTRALIA SPORT", OPTUS 3
+http://193.107.202.221:81/play/live.php?mac=00:1A:79:AB:62:70&stream=1123734_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="AUSTRALIA SPORT", OPTUS 4
+http://193.107.202.221:81/play/live.php?mac=00:1A:79:AB:62:70&stream=1123733_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="AUSTRALIA SPORT", OPTUS 5
+http://193.107.202.221:81/play/live.php?mac=00:1A:79:AB:62:70&stream=1123732_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="AUSTRALIA SPORT", OPTUS 6
+http://193.107.202.221:81/play/live.php?mac=00:1A:79:AB:62:70&stream=1123731_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="AUSTRALIA SPORT", OPTUS 7
+http://193.107.202.221:81/play/live.php?mac=00:1A:79:AB:62:70&stream=1123730_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="AUSTRALIA SPORT", OPTUS 8
+http://193.107.202.221:81/play/live.php?mac=00:1A:79:AB:62:70&stream=1123729_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="AUSTRALIA SPORT", OPTUS 9
+http://193.107.202.221:81/play/live.php?mac=00:1A:79:AB:62:70&stream=1123728_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="AUSTRALIA SPORT", OPTUS 10
+http://193.107.202.221:81/play/live.php?mac=00:1A:79:AB:62:70&stream=1123727_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="AUSTRALIA SPORT", OPTUS 10
+http://193.107.202.221:81/play/live.php?mac=00:1A:79:AB:62:70&stream=1123727_&extension=ts
+
+
+
 
 
 #######################
@@ -8198,38 +8272,6 @@ http://mol-2.com:8080/FnB395KegENkUxB/mdp0fspYNCHqt7A/461184
 http://mol-2.com:8080/FnB395KegENkUxB/mdp0fspYNCHqt7A/56612
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSProcbvh2KwssGqfLZQBcdvEakAa5lELAaiw&usqp=CAU" group-title="EROPA SPORT", SKY NBA
 http://mol-2.com:8080/FnB395KegENkUxB/mdp0fspYNCHqt7A/56611
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/superPL.png" group-title="EROPA SPORT", SUPER SPORT PREMIER LEAGUE 
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=239078&extension=ts&play_token=WIj93CqWrq
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/superlaliga.png" group-title="EROPA SPORT", SUPER SPORT LIGA
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=239076&extension=ts&play_token=WDliZuSmkz
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/supertennis.png" group-title="EROPA SPORT", SUPER SPORT TENNIS
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=425314&extension=ts&play_token=KmNBsBy8G3
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/superblitz.png" group-title="EROPA SPORT", SUPER SPORT BLITZ
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=425310&extension=ts&play_token=cB75vs6tv4
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/superpsl.png" group-title="EROPA SPORT", SUPER SPORT PSL
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=239077&extension=ts&play_token=wAy6FmsPtA
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/supergolf.png" group-title="EROPA SPORT", SUPER SPORT GOLF
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=425667&extension=ts&play_token=Sh0E1BOGwg
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/supergrandstand.png" group-title="EROPA SPORT", SUPER SPORT GRANDSTAND
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=239079&extension=ts&play_token=iplWY8qXC5
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/supermotor.png" group-title="EROPA SPORT", SUPER SPORT MOTOR SPORT
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=239082&extension=ts&play_token=a0dyarOiLA
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/superfootball.png" group-title="EROPA SPORT", SUPER SPORT FOOTBALL
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=239083&extension=ts&play_token=tJv2b2KNwD
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/superrugby.png" group-title="EROPA SPORT", SUPER SPORT RUGBY
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=239086&extension=ts&play_token=TCL5qFctcH
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/supercricket.png" group-title="EROPA SPORT", SUPER SPORT CRICKET
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=239087&extension=ts&play_token=blkGUKpfD1
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/supervariety1.png" group-title="EROPA SPORT", SUPER SPORT VARIETY 1
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=239081&extension=ts&play_token=7C6v0BjPnK
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/supervariety2.png" group-title="EROPA SPORT", SUPER SPORT VARIETY 2
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=239080&extension=ts&play_token=kt1XRyNjAK
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/supervariety3.png" group-title="EROPA SPORT", SUPER SPORT VARIETY 3
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=239085&extension=ts&play_token=EJNtH2IgAS
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/supervariety4.png" group-title="EROPA SPORT", SUPER SPORT VARIETY 4
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=239084&extension=ts&play_token=Tj5rP8kRtc
 
 
 #EXTINF:-1 tvg-logo="_____" group-title="EROPA SPORT", ORF SPORT AT
@@ -8735,7 +8777,6 @@ http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=66512_&e
 #EXTINF:-1 tvg-logo="________" group-title="EROPA SPORT 2", ELEVEN PRO LEAGUE 2 BE
 http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=66513_&extension=ts&play_token=W0JcMWGscf
 
-
 #EXTINF:-1 tvg-logo="________" group-title="EROPA SPORT 2", RTSH SPORT
 http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=65211_&extension=ts&play_token=W0JcMWGscf
 
@@ -8779,7 +8820,6 @@ http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=2504_&ex
 
 #EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", SKY SPORT AUSTRIA 1
 http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=15926_&extension=ts&play_token=W0JcMWGscf
-
 
 #EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", SKY SPORT F1 DE
 http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=64226_&extension=ts&play_token=W0JcMWGscf
@@ -9005,50 +9045,255 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:17:BE&stream=55557&extension
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:17:BE&stream=55560&extension=ts
 
 
-#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", SUPER SPORT LA LIGA
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AF:AD:53&stream=1350747_&extension=ts
-#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", SUPER SPORT PREMIER LEAGUE
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AF:AD:53&stream=1350748_&extension=ts
-#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", SUPER SPORT CRICKET
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AF:AD:53&stream=1350746_&extension=ts
-#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", SUPER SPORT BLITZ
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AF:AD:53&stream=1350745_&extension=ts
-#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", SUPER SPORT ACTION
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AF:AD:53&stream=1350744_&extension=ts
-#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", SUPER SPORT GRANDSTAND
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AF:AD:53&stream=1350743_&extension=ts
-
-
-#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", SUPER SPORT MOTORSPORT 
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AF:AD:53&stream=1350749_&extension=ts
-#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", SUPER SPORT PSL
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AF:AD:53&stream=1350750_&extension=ts
-#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", SUPER SPORT RUGBY
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AF:AD:53&stream=1350751_&extension=ts
-#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", SUPER SPORT TENNIS 
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AF:AD:53&stream=1350760_&extension=ts
-#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", SUPER SPORT GOLF 
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AF:AD:53&stream=1350759_&extension=ts
-#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", SUPER SPORT VARIETY 1
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AF:AD:53&stream=1350749_&extension=ts
-#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", SUPER SPORT VARIETY 2
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AF:AD:53&stream=1350753_&extension=ts
-#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", SUPER SPORT VARIETY 3
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AF:AD:53&stream=1350754_&extension=ts
-#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", SUPER SPORT VARIETY 4
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AF:AD:53&stream=1350755_&extension=ts
-#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", SUPER SPORT PLAY 
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AF:AD:53&stream=1350758_&extension=ts
-
 #EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", ESPN 1 AF
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AF:AD:53&stream=1350757_&extension=ts
 #EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", ESPN 1 AF
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AF:AD:53&stream=1350756_&extension=ts
 
-
-
 #EXTINF:-1 tvg-logo="________" group-title="EROPA SPORT 2", FOX SPORT SOCCER
 http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=19942_&extension=ts&play_token=W0JcMWGscf
+
+
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", SKY SPORT 1 NZ
+http://193.107.202.221:81/play/live.php?mac=00:1A:79:AB:62:70&stream=242895_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", SKY SPORT 2 NZ
+http://193.107.202.221:81/play/live.php?mac=00:1A:79:AB:62:70&stream=242894_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", SKY SPORT 3 NZ
+http://193.107.202.221:81/play/live.php?mac=00:1A:79:AB:62:70&stream=242893_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", SKY SPORT 4 NZ
+http://193.107.202.221:81/play/live.php?mac=00:1A:79:AB:62:70&stream=242892_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", SKY SPORT 5 NZ
+http://193.107.202.221:81/play/live.php?mac=00:1A:79:AB:62:70&stream=242891_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", SKY SPORT 6 NZ
+http://193.107.202.221:81/play/live.php?mac=00:1A:79:AB:62:70&stream=242890_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", SKY SPORT 7 NZ
+http://193.107.202.221:81/play/live.php?mac=00:1A:79:AB:62:70&stream=242889_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", SKY SPORT 8 NZ
+http://193.107.202.221:81/play/live.php?mac=00:1A:79:AB:62:70&stream=242888_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", SKY SPORT 9 NZ
+http://193.107.202.221:81/play/live.php?mac=00:1A:79:AB:62:70&stream=242887_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", SKY SPORT 9 NZ
+http://193.107.202.221:81/play/live.php?mac=00:1A:79:AB:62:70&stream=242887_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", SKY SPORT SELECT NZ
+http://193.107.202.221:81/play/live.php?mac=00:1A:79:AB:62:70&stream=242886_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", CANAL+ PL
+http://193.107.202.221:81/play/live.php?mac=00:1A:79:AB:62:70&stream=1116687_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", CANAL+ 1 PL
+http://193.107.202.221:81/play/live.php?mac=00:1A:79:AB:62:70&stream=1116687_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", CANAL+ 2 PL
+http://193.107.202.221:81/play/live.php?mac=00:1A:79:AB:62:70&stream=1116691_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", CANAL+ 3 PL
+http://193.107.202.221:81/play/live.php?mac=00:1A:79:AB:62:70&stream=1116689_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", CANAL+ 4 PL
+http://193.107.202.221:81/play/live.php?mac=00:1A:79:AB:62:70&stream=1116688_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", ELEVEN 1 PL
+http://193.107.202.221:81/play/live.php?mac=00:1A:79:AB:62:70&stream=1116686_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", ELEVEN 2 PL
+http://193.107.202.221:81/play/live.php?mac=00:1A:79:AB:62:70&stream=1116685_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", ELEVEN 3 PL
+http://193.107.202.221:81/play/live.php?mac=00:1A:79:AB:62:70&stream=1116684_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", ELEVEN 4 PL
+http://193.107.202.221:81/play/live.php?mac=00:1A:79:AB:62:70&stream=1116683_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", POLSAT FIGHT PL
+http://193.107.202.221:81/play/live.php?mac=00:1A:79:AB:62:70&stream=1116674_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", POLSAT SPORT PL
+http://193.107.202.221:81/play/live.php?mac=00:1A:79:AB:62:70&stream=1116673_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", POLSAT SPORT PREMIUM 1 PL
+http://193.107.202.221:81/play/live.php?mac=00:1A:79:AB:62:70&stream=1116668_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", POLSAT SPORT PREMIUM 2 PL
+http://193.107.202.221:81/play/live.php?mac=00:1A:79:AB:62:70&stream=1116667_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", POLSAT SPORT PREMIUM 3 PL
+http://193.107.202.221:81/play/live.php?mac=00:1A:79:AB:62:70&stream=1116676_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", POLSAT SPORT PREMIUM 4 PL
+http://193.107.202.221:81/play/live.php?mac=00:1A:79:AB:62:70&stream=1116675_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", SPORT TV+ PT
+http://193.107.202.221:81/play/live.php?mac=00:1A:79:AB:62:70&stream=102346_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", SPORT TV 1  PT
+http://193.107.202.221:81/play/live.php?mac=00:1A:79:AB:62:70&stream=102347_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", SPORT TV 2  PT
+http://193.107.202.221:81/play/live.php?mac=00:1A:79:AB:62:70&stream=102348_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", SPORT TV 3 PT
+http://193.107.202.221:81/play/live.php?mac=00:1A:79:AB:62:70&stream=102349_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", SPORT TV 4 PT
+http://193.107.202.221:81/play/live.php?mac=00:1A:79:AB:62:70&stream=102350_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", SPORT TV 5 PT
+http://193.107.202.221:81/play/live.php?mac=00:1A:79:AB:62:70&stream=102351_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", ELEVEN 1 PT
+http://193.107.202.221:81/play/live.php?mac=00:1A:79:AB:62:70&stream=102191_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", ELEVEN 2 PT
+http://193.107.202.221:81/play/live.php?mac=00:1A:79:AB:62:70&stream=102192_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", ELEVEN 3 PT
+http://193.107.202.221:81/play/live.php?mac=00:1A:79:AB:62:70&stream=102193_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", ELEVEN 4 PT
+http://193.107.202.221:81/play/live.php?mac=00:1A:79:AB:62:70&stream=118140_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", ELEVEN 5 PT
+http://193.107.202.221:81/play/live.php?mac=00:1A:79:AB:62:70&stream=118141_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", ELEVEN 6 PT
+http://193.107.202.221:81/play/live.php?mac=00:1A:79:AB:62:70&stream=118142_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", NBA TV PT
+http://193.107.202.221:81/play/live.php?mac=00:1A:79:AB:62:70&stream=118220_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", FIGHTKLUB PL
+http://193.107.202.221:81/play/live.php?mac=00:1A:79:AB:62:70&stream=1116678_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", SPORT KLUB PL
+http://193.107.202.221:81/play/live.php?mac=00:1A:79:AB:62:70&stream=1116671_&extension=ts
+
+
+
+#######################
+AFRICA SPORT
+################################################################################################################################################################################# SPORT LATIN
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="AFRICA SPORT", ###AFRICA SPORT###
+https://github.com/inaldie/inaldie/raw/main/LOGO.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/superPL.png" group-title="AFRICA SPORT", SUPERSPORT PREMIER LEAGUE 
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=239078&extension=ts&play_token=WIj93CqWrq
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/superlaliga.png" group-title="AFRICA SPORT", SUPERSPORT LIGA
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=239076&extension=ts&play_token=WDliZuSmkz
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/supertennis.png" group-title="AFRICA SPORT", SUPERSPORT TENNIS
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=425314&extension=ts&play_token=KmNBsBy8G3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/superblitz.png" group-title="AFRICA SPORT", SUPERSPORT BLITZ
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=425310&extension=ts&play_token=cB75vs6tv4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/superpsl.png" group-title="AFRICA SPORT", SUPERSPORT PSL
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=239077&extension=ts&play_token=wAy6FmsPtA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/supergolf.png" group-title="AFRICA SPORT", SUPERSPORT GOLF
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=425667&extension=ts&play_token=Sh0E1BOGwg
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/supergrandstand.png" group-title="AFRICA SPORT", SUPERSPORT GRANDSTAND
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=239079&extension=ts&play_token=iplWY8qXC5
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/supermotor.png" group-title="AFRICA SPORT", SUPERSPORT MOTOR SPORT
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=239082&extension=ts&play_token=a0dyarOiLA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/superfootball.png" group-title="AFRICA SPORT", SUPERSPORT FOOTBALL
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=239083&extension=ts&play_token=tJv2b2KNwD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/superrugby.png" group-title="AFRICA SPORT", SUPERSPORT RUGBY
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=239086&extension=ts&play_token=TCL5qFctcH
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/supercricket.png" group-title="AFRICA SPORT", SUPERSPORT CRICKET
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=239087&extension=ts&play_token=blkGUKpfD1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/supervariety1.png" group-title="AFRICA SPORT", SUPERSPORT VARIETY 1
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=239081&extension=ts&play_token=7C6v0BjPnK
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/supervariety2.png" group-title="AFRICA SPORT", SUPERSPORT VARIETY 2
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=239080&extension=ts&play_token=kt1XRyNjAK
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/supervariety3.png" group-title="AFRICA SPORT", SUPERSPORT VARIETY 3
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=239085&extension=ts&play_token=EJNtH2IgAS
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/supervariety4.png" group-title="AFRICA SPORT", SUPERSPORT VARIETY 4
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=239084&extension=ts&play_token=Tj5rP8kRtc
+
+
+#EXTINF:-1 tvg-logo="______" group-title="AFRICA SPORT", SUPERSPORT LA LIGA
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AF:AD:53&stream=1350747_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="AFRICA SPORT", SUPERSPORT PREMIER LEAGUE
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AF:AD:53&stream=1350748_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="AFRICA SPORT", SUPERSPORT CRICKET
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AF:AD:53&stream=1350746_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="AFRICA SPORT", SUPERSPORT BLITZ
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AF:AD:53&stream=1350745_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="AFRICA SPORT", SUPERSPORT ACTION
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AF:AD:53&stream=1350744_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="AFRICA SPORT", SUPERSPORT GRANDSTAND
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AF:AD:53&stream=1350743_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="AFRICA SPORT", SUPERSPORT MOTORSPORT 
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AF:AD:53&stream=1350749_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="AFRICA SPORT", SUPERSPORT PSL
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AF:AD:53&stream=1350750_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="AFRICA SPORT", SUPERSPORT RUGBY
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AF:AD:53&stream=1350751_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="AFRICA SPORT", SUPERSPORT TENNIS 
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AF:AD:53&stream=1350760_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="AFRICA SPORT", SUPERSPORT GOLF 
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AF:AD:53&stream=1350759_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="AFRICA SPORT", SUPERSPORT VARIETY 1
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AF:AD:53&stream=1350749_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="AFRICA SPORT", SUPERSPORT VARIETY 2
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AF:AD:53&stream=1350753_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="AFRICA SPORT", SUPERSPORT VARIETY 3
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AF:AD:53&stream=1350754_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="AFRICA SPORT", SUPERSPORT VARIETY 4
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AF:AD:53&stream=1350755_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="AFRICA SPORT", SUPERSPORT PLAY 
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AF:AD:53&stream=1350758_&extension=ts
+
+
+#EXTINF:-1 tvg-logo="______" group-title="AFRICA SPORT", SUPERSPORT ACTION
+http://193.107.202.221:81/play/live.php?mac=00:1A:79:AB:62:70&stream=38690_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="AFRICA SPORT", SUPERSPORT BLITZ 
+http://193.107.202.221:81/play/live.php?mac=00:1A:79:AB:62:70&stream=38691_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="AFRICA SPORT", SUPERSPORT CRICKET
+http://193.107.202.221:81/play/live.php?mac=00:1A:79:AB:62:70&stream=38692_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="AFRICA SPORT", SUPERSPORT FOOTBALL
+http://193.107.202.221:81/play/live.php?mac=00:1A:79:AB:62:70&stream=38694_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="AFRICA SPORT", SUPERSPORT GOLF
+http://193.107.202.221:81/play/live.php?mac=00:1A:79:AB:62:70&stream=38696_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="AFRICA SPORT", SUPERSPORT GRANDSTAND 
+http://193.107.202.221:81/play/live.php?mac=00:1A:79:AB:62:70&stream=38697_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="AFRICA SPORT", SUPERSPORT LA LIGA
+http://193.107.202.221:81/play/live.php?mac=00:1A:79:AB:62:70&stream=38698_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="AFRICA SPORT", SUPERSPORT MAXIMO 1 
+http://193.107.202.221:81/play/live.php?mac=00:1A:79:AB:62:70&stream=38699_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="AFRICA SPORT", SUPERSPORT MOTORSPORT 
+http://193.107.202.221:81/play/live.php?mac=00:1A:79:AB:62:70&stream=38700_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="AFRICA SPORT", SUPERSPORT PLAY 1
+http://193.107.202.221:81/play/live.php?mac=00:1A:79:AB:62:70&stream=38701_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="AFRICA SPORT", SUPERSPORT PLAY 2
+http://193.107.202.221:81/play/live.php?mac=00:1A:79:AB:62:70&stream=38702_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="AFRICA SPORT", SUPERSPORT PREMIER LEAGUE
+http://193.107.202.221:81/play/live.php?mac=00:1A:79:AB:62:70&stream=38703_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="AFRICA SPORT", SUPERSPORT PSL
+http://193.107.202.221:81/play/live.php?mac=00:1A:79:AB:62:70&stream=38704_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="AFRICA SPORT", SUPERSPORT RUGBY
+http://193.107.202.221:81/play/live.php?mac=00:1A:79:AB:62:70&stream=38705_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="AFRICA SPORT", SUPERSPORT TENNIS
+http://193.107.202.221:81/play/live.php?mac=00:1A:79:AB:62:70&stream=38706_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="AFRICA SPORT", SUPERSPORT VARIETY 1
+http://193.107.202.221:81/play/live.php?mac=00:1A:79:AB:62:70&stream=38707_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="AFRICA SPORT", SUPERSPORT VARIETY 2
+http://193.107.202.221:81/play/live.php?mac=00:1A:79:AB:62:70&stream=38708_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="AFRICA SPORT", SUPERSPORT VARIETY 3
+http://193.107.202.221:81/play/live.php?mac=00:1A:79:AB:62:70&stream=38709_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="AFRICA SPORT", SUPERSPORT VARIETY 4
+http://193.107.202.221:81/play/live.php?mac=00:1A:79:AB:62:70&stream=38710_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="AFRICA SPORT", SPORTMAX 1
+http://193.107.202.221:81/play/live.php?mac=00:1A:79:AB:62:70&stream=1563682_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="AFRICA SPORT", SPORTMAX 2
+http://193.107.202.221:81/play/live.php?mac=00:1A:79:AB:62:70&stream=1563681_&extension=ts
 
 
 
