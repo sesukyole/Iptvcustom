@@ -11273,7 +11273,231 @@ http://forevertv.me:8080/263117997354/213574458699/84603
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", Dn- Sky Sport 2 SD
 http://forevertv.me:8080/263117997354/213574458699/29229
 
+#EXTINF:-1 tvg-logo="______" group-title="SPORT SD-HD", TNT BT SPORT 1 
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=97146_&extension=ts
 
+#EXTINF:-1 tvg-logo="______" group-title="SPORT SD-HD", TNT BT SPORT 2
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=97148_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORT SD-HD", TNT BT SPORT 3
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=97150_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORT SD-HD", TNT BT SPORT 4
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=97145_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORT SD-HD", BEIN SPORT 1 AR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=192754_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORT SD-HD", BEIN SPORT 2 AR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=192753_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORT SD-HD", BEIN SPORT 3 AR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=192752_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORT SD-HD", BEIN SPORT 4 AR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=192751_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORT SD-HD", BEIN SPORT 5 AR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=192750_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORT SD-HD", BEIN SPORT 6 AR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=192749_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORT SD-HD", BEIN SPORT 7 AR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=192748_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORT SD-HD", BEIN SPORT 1 FR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=59062_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORT SD-HD", BEIN SPORT 2 FR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=59063_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORT SD-HD", BEIN SPORT 3 FR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=59064_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORT SD-HD", BEIN SPORT 4 MAX FR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=59066_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORT SD-HD", BEIN SPORT 5 MAX FR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=59067_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORT SD-HD", BEIN SPORT 6 MAX FR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=59068_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORT SD-HD", BEIN SPORT 7 MAX FR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=59069_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORT SD-HD", CANAL+ FORMULA 1 FR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=305273_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORT SD-HD", CANAL+ MOTOGP FR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=305273_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORT SD-HD", CANAL+ 1 AF
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=368899_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORT SD-HD", CANAL+ 2 AF
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=457084_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORT SD-HD", CANAL+ 3 AF
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=368901_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORT SD-HD", CANAL+ 4 AF
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=457086_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORT SD-HD", CANAL+ 5 AF
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=457087_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORT SD-HD", SPORT 1 DE
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=58291_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORT SD-HD", SPORT TV 1 PT
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=97130_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORT SD-HD", SPORT TV 2 PT
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=97135_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORT SD-HD", SPORT TV 3 PT
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=97137_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORT SD-HD", SPORT TV 4 PT
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=97139_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORT SD-HD", SPORT TV 5 PT
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=97141_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORT SD-HD", SPORT TV 6 PT
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=97128_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORT SD-HD", SPORT TV+ PT
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=461168_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORT SD-HD", EUROSPORT 1 FR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=59072_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORT SD-HD", EUROSPORT 2 FR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=59073_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORT SD-HD", L'EQUIPE FR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=59027_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORT SD-HD", GOLF CHANNEL FR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=59075_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORT SD-HD", GOLF+ FR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=59074_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORT SD-HD", MOTOR SPORT VISION FR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=148222_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORT SD-HD", PRIME VIDIO SPORT 1 FR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=364002_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORT SD-HD", PRIME VIDIO SPORT 2 FR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=370271_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORT SD-HD", PRIME VIDIO SPORT 3 FR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=370274_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORT SD-HD", PRIME VIDIO SPORT 4 FR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=370277_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORT SD-HD", PRIME VIDIO SPORT 5 FR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=370280_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORT SD-HD", PRIME VIDIO SPORT 6 FR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=370283_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORT SD-HD", PRIME VIDIO SPORT 7 FR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=370286_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORT SD-HD", PRIME VIDIO SPORT 8 FR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=370289_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORT SD-HD", RMC SPORT 1 FR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=59057_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORT SD-HD", RMC SPORT 2 FR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=59058_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORT SD-HD", SKY SPORT 24 IT
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=56594_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORT SD-HD", SKY SPORT UNO IT
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=56600_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORT SD-HD", SKY SPORT ACTION IT
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=337100_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORT SD-HD", SKY SPORT MOTOGP IT
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=56603_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORT SD-HD", SKY SPORT F1 IT
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=56606_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORT SD-HD", SKY SPORT GOLF IT
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=56609_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORT SD-HD", SKY SPORT NBA IT
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=56612_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORT SD-HD", SKY SPORT FOOTBALL IT
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=56617_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORT SD-HD", SKY SPORT ARENA IT
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=56620_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORT SD-HD", SKY SPORT CALCIO IT
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=56623_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORT SD-HD", SKY SPORT CALCIO 1 IT
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=56652_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORT SD-HD", SKY SPORT CALCIO 2 IT
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=56658_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORT SD-HD", SKY SPORT CALCIO 3 IT
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=56661_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORT SD-HD", SKY SPORT GOLF UK
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=97143_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORT SD-HD", SKY SPORT F1 UK
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=97141_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORT SD-HD", SKY SPORT FOOTBALL UK
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=97139_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORT SD-HD", SKY SPORT PREMIER LEAGUE UK
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=97137_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORT SD-HD", SKY SPORT ARENA UK
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=97130_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORT SD-HD", SKY SPORT MIX UK
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=97128_&extension=ts
+
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORT SD-HD", DAZN SPORT 1 IT
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=56671_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORT SD-HD", CANAL+ SPORT PL
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=97261_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORT SD-HD", ELEVEN SPORT 1 PL
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=97264_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORT SD-HD", ELEVEN SPORT 2 PL
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=97265_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORT SD-HD", ELEVEN SPORT 3 PL
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=97266_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORT SD-HD", ELEVEN SPORT 4 PL
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=97267_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORT SD-HD", TVP SPORT PL
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=97263_&extension=ts
 
 
 
