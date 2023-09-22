@@ -11396,124 +11396,100 @@ http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/117259.ts
 #EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/chimg/7602740368.png" group-title="FOX SPORT", FOX Sport 502 HD
 http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/115813.ts
 
+#######################
+SPORT SD-HD  ##########
+#################################################################################################################################################################################
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT SD-HD", ##SPORT SD-HD###
+https://github.com/inaldie/inaldie/raw/main/LOGO.ts
 
-
-#EXTINF:-1 tvg-logo="______" group-title="SSC SPORT", SSC SPORT 1
+#EXTINF:-1 tvg-logo="______" group-title="SPORT SD-HD", SSC SPORT 1
 http://line.rs6ott.com:80/play/live.php?mac=00:1A:79:4A:B7:3B&stream=1002800&extension=ts&play_token=KaFCITa0vc
-
-#EXTINF:-1 tvg-logo="______" group-title="SSC SPORT", SSC SPORT 2
+#EXTINF:-1 tvg-logo="______" group-title="SPORT SD-HD", SSC SPORT 2
 http://line.rs6ott.com:80/play/live.php?mac=00:1A:79:4A:B7:3B&stream=1002792&extension=ts&play_token=4GhxU10CGh
-
-#EXTINF:-1 tvg-logo="______" group-title="SSC SPORT", SSC SPORT 3
+#EXTINF:-1 tvg-logo="______" group-title="SPORT SD-HD", SSC SPORT 3
 http://line.rs6ott.com:80/play/live.php?mac=00:1A:79:4A:B7:3B&stream=1002784&extension=ts&play_token=zum7XSlhaf
-
-#EXTINF:-1 tvg-logo="______" group-title="SSC SPORT", SSC SPORT 4
+#EXTINF:-1 tvg-logo="______" group-title="SPORT SD-HD", SSC SPORT 4
 http://line.rs6ott.com:80/play/live.php?mac=00:1A:79:4A:B7:3B&stream=1002777&extension=ts&play_token=Djz9hd6eUk
-#EXTINF:-1 tvg-logo="______" group-title="SSC SPORT", SSC SPORT 5
+#EXTINF:-1 tvg-logo="______" group-title="SPORT SD-HD", SSC SPORT 5
 http://line.rs6ott.com:80/play/live.php?mac=00:1A:79:4A:B7:3B&stream=1002773&extension=ts&play_token=OIZLqhHzH6
-
-#EXTINF:-1 tvg-logo="______" group-title="SSC SPORT", SSC SPORT EXTRA 1
+#EXTINF:-1 tvg-logo="______" group-title="SPORT SD-HD", SSC SPORT EXTRA 1
 http://line.rs6ott.com:80/play/live.php?mac=00:1A:79:4A:B7:3B&stream=1002796&extension=ts&play_token=YsIbKwHAbv
-#EXTINF:-1 tvg-logo="______" group-title="SSC SPORT", SSC SPORT EXTRA 2
+#EXTINF:-1 tvg-logo="______" group-title="SPORT SD-HD", SSC SPORT EXTRA 2
 http://line.rs6ott.com:80/play/live.php?mac=00:1A:79:4A:B7:3B&stream=1002788&extension=ts&play_token=7SaQSbWWx3
-#EXTINF:-1 tvg-logo="______" group-title="SSC SPORT", SSC SPORT EXTRA 3
+#EXTINF:-1 tvg-logo="______" group-title="SPORT SD-HD", SSC SPORT EXTRA 3
 http://line.rs6ott.com:80/play/live.php?mac=00:1A:79:4A:B7:3B&stream=1002780&extension=ts&play_token=AHuiQPQK4z
-
-
-
-
-#EXTINF:-1 tvg-logo="______" group-title="BEIN SPORT", BEIN SPORT AFC
+#EXTINF:-1 tvg-logo="______" group-title="SPORT SD-HD", BEIN SPORT AFC
 http://line.rs6ott.com:80/play/live.php?mac=00:1A:79:4A:B7:3B&stream=1338135&extension=ts&play_token=QUWjS6DD37
-#EXTINF:-1 tvg-logo="______" group-title="BEIN SPORT", BEIN SPORT AFC 1
+#EXTINF:-1 tvg-logo="______" group-title="SPORT SD-HD", BEIN SPORT AFC 1
 http://line.rs6ott.com:80/play/live.php?mac=00:1A:79:4A:B7:3B&stream=1338134&extension=ts&play_token=xzQ0loQJHp
-
-#EXTINF:-1 tvg-logo="______" group-title="BEIN SPORT", BEIN SPORT AFC 2
+#EXTINF:-1 tvg-logo="______" group-title="SPORT SD-HD", BEIN SPORT AFC 2
 http://line.rs6ott.com:80/play/live.php?mac=00:1A:79:4A:B7:3B&stream=1338133&extension=ts&play_token=8dMwTUnEAz
-
-#EXTINF:-1 tvg-logo="______" group-title="BEIN SPORT", BEIN SPORT AFC 3
+#EXTINF:-1 tvg-logo="______" group-title="SPORT SD-HD", BEIN SPORT AFC 3
 http://line.rs6ott.com:80/play/live.php?mac=00:1A:79:4A:B7:3B&stream=1338132&extension=ts&play_token=9IOhR5RU1t
-
-#EXTINF:-1 tvg-logo="______" group-title="BEIN SPORT", BEIN SPORT AFC 4
+#EXTINF:-1 tvg-logo="______" group-title="SPORT SD-HD", BEIN SPORT AFC 4
 http://line.rs6ott.com:80/play/live.php?mac=00:1A:79:4A:B7:3B&stream=1338131&extension=ts&play_token=7k73sJoLD9
-
-#EXTINF:-1 tvg-logo="______" group-title="BEIN SPORT", BEIN SPORT 1
+#EXTINF:-1 tvg-logo="______" group-title="SPORT SD-HD", BEIN SPORT 1
 http://line.rs6ott.com:80/play/live.php?mac=00:1A:79:4A:B7:3B&stream=1330457&extension=ts&play_token=cpYDfinhO7
-
-#EXTINF:-1 tvg-logo="______" group-title="BEIN SPORT", BEIN SPORT 2
+#EXTINF:-1 tvg-logo="______" group-title="SPORT SD-HD", BEIN SPORT 2
 http://line.rs6ott.com:80/play/live.php?mac=00:1A:79:4A:B7:3B&stream=1330458&extension=ts&play_token=J6hH3FuQ2l
-
-#EXTINF:-1 tvg-logo="______" group-title="BEIN SPORT", BEIN SPORT 3
+#EXTINF:-1 tvg-logo="______" group-title="SPORT SD-HD", BEIN SPORT 3
 http://line.rs6ott.com:80/play/live.php?mac=00:1A:79:4A:B7:3B&stream=1330459&extension=ts&play_token=MgKGtlbmtk
-
-#EXTINF:-1 tvg-logo="______" group-title="BEIN SPORT", BEIN SPORT 4
+#EXTINF:-1 tvg-logo="______" group-title="SPORT SD-HD", BEIN SPORT 4
 http://line.rs6ott.com:80/play/live.php?mac=00:1A:79:4A:B7:3B&stream=1330460&extension=ts&play_token=zGsoRt2yi4
-
-#EXTINF:-1 tvg-logo="______" group-title="BEIN SPORT", BEIN SPORT 5
+#EXTINF:-1 tvg-logo="______" group-title="SPORT SD-HD", BEIN SPORT 5
 http://line.rs6ott.com:80/play/live.php?mac=00:1A:79:4A:B7:3B&stream=1330461&extension=ts&play_token=zGsoRt2yi4
-
-#EXTINF:-1 tvg-logo="______" group-title="BEIN SPORT", BEIN SPORT 6
+#EXTINF:-1 tvg-logo="______" group-title="SPORT SD-HD", BEIN SPORT 6
 http://line.rs6ott.com:80/play/live.php?mac=00:1A:79:4A:B7:3B&stream=1330462&extension=ts&play_token=zGsoRt2yi4
-
-#EXTINF:-1 tvg-logo="______" group-title="BEIN SPORT", BEIN SPORT 7
+#EXTINF:-1 tvg-logo="______" group-title="SPORT SD-HD", BEIN SPORT 7
 http://line.rs6ott.com:80/play/live.php?mac=00:1A:79:4A:B7:3B&stream=1330463&extension=ts&play_token=zGsoRt2yi4 
-
-#EXTINF:-1 tvg-logo="______" group-title="BEIN SPORT", BEIN SPORT 8
+#EXTINF:-1 tvg-logo="______" group-title="SPORT SD-HD", BEIN SPORT 8
 http://line.rs6ott.com:80/play/live.php?mac=00:1A:79:4A:B7:3B&stream=1330464&extension=ts&play_token=zGsoRt2yi4
-
-#EXTINF:-1 tvg-logo="______" group-title="BEIN SPORT", BEIN SPORT 9
+#EXTINF:-1 tvg-logo="______" group-title="SPORT SD-HD", BEIN SPORT 9
 http://line.rs6ott.com:80/play/live.php?mac=00:1A:79:4A:B7:3B&stream=1330465&extension=ts&play_token=zGsoRt2yi4
-
-#EXTINF:-1 tvg-logo="______" group-title="BEIN SPORT", BEIN SPORT EXTRA 1
+#EXTINF:-1 tvg-logo="______" group-title="SPORT SD-HD", BEIN SPORT EXTRA 1
 http://line.rs6ott.com:80/play/live.php?mac=00:1A:79:4A:B7:3B&stream=1330466&extension=ts&play_token=MojFVziq8K
-#EXTINF:-1 tvg-logo="______" group-title="BEIN SPORT", BEIN SPORT EXTRA 2
+#EXTINF:-1 tvg-logo="______" group-title="SPORT SD-HD", BEIN SPORT EXTRA 2
 http://line.rs6ott.com:80/play/live.php?mac=00:1A:79:4A:B7:3B&stream=1330467&extension=ts&play_token=8RJhe4fOsw
-
-#EXTINF:-1 tvg-logo="______" group-title="BEIN SPORT", BEIN SPORT ENGLISH 1
+#EXTINF:-1 tvg-logo="______" group-title="SPORT SD-HD", BEIN SPORT ENGLISH 1
 http://line.rs6ott.com:80/play/live.php?mac=00:1A:79:4A:B7:3B&stream=1330469&extension=ts&play_token=f1cKNz9PXo
-
-#EXTINF:-1 tvg-logo="______" group-title="BEIN SPORT", BEIN SPORT ENGLISH 2
+#EXTINF:-1 tvg-logo="______" group-title="SPORT SD-HD", BEIN SPORT ENGLISH 2
 http://line.rs6ott.com:80/play/live.php?mac=00:1A:79:4A:B7:3B&stream=1330470&extension=ts&play_token=Q6Ru8IXFsx
 
-
-
-#EXTINF:-1 tvg-logo="______" group-title="EUROPORT", EUROSPORT 1
+#EXTINF:-1 tvg-logo="______" group-title="SPORT SD-HD", EUROSPORT 1
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:69:5A:40&stream=2122_&extension=ts
-#EXTINF:-1 tvg-logo="______" group-title="EUROPORT", EUROSPORT 2
+#EXTINF:-1 tvg-logo="______" group-title="SPORT SD-HD", EUROSPORT 2
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:69:5A:40&stream=2121_&extension=ts
 
-#EXTINF:-1 tvg-logo="______" group-title="SKY SPORT", SKY SPORT NEWS
+#EXTINF:-1 tvg-logo="______" group-title="SPORT SD-HD", SKY SPORT NEWS
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:69:5A:40&stream=1887_&extension=ts
 
-#EXTINF:-1 tvg-logo="______" group-title="SKY SPORT", SKY SPORT PREMIER LEAGUE
+#EXTINF:-1 tvg-logo="______" group-title="SPORT SD-HD", SKY SPORT PREMIER LEAGUE
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:69:5A:40&stream=1888_&extension=ts
 
-#EXTINF:-1 tvg-logo="______" group-title="SKY SPORT", SKY SPORT RACING
+#EXTINF:-1 tvg-logo="______" group-title="SPORT SD-HD", SKY SPORT RACING
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:69:5A:40&stream=1879_&extension=ts
 
-#EXTINF:-1 tvg-logo="______" group-title="SKY SPORT", SKY SPORT GOLF
+#EXTINF:-1 tvg-logo="______" group-title="SPORT SD-HD", SKY SPORT GOLF
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:69:5A:40&stream=1885_&extension=ts
 
-#EXTINF:-1 tvg-logo="______" group-title="SKY SPORT", SKY SPORT CRICKET
+#EXTINF:-1 tvg-logo="______" group-title="SPORT SD-HD", SKY SPORT CRICKET
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:69:5A:40&stream=1882_&extension=ts
 
-#EXTINF:-1 tvg-logo="______" group-title="SKY SPORT", SKY SPORT ACTION
+#EXTINF:-1 tvg-logo="______" group-title="SPORT SD-HD", SKY SPORT ACTION
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:69:5A:40&stream=1880_&extension=ts
 
 
-#EXTINF:-1 tvg-logo="______" group-title="TNT SPORT", TNT BT SPORT 1 
+#EXTINF:-1 tvg-logo="______" group-title="SPORT SD-HD", TNT BT SPORT 1 
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:69:5A:40&stream=1924_&extension=ts
 
-#EXTINF:-1 tvg-logo="______" group-title="TNT SPORT", TNT BT SPORT 2
+#EXTINF:-1 tvg-logo="______" group-title="SPORT SD-HD", TNT BT SPORT 2
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:69:5A:40&stream=1925_&extension=ts
 
-#EXTINF:-1 tvg-logo="______" group-title="TNT SPORT", TNT BT SPORT 3
+#EXTINF:-1 tvg-logo="______" group-title="SPORT SD-HD", TNT BT SPORT 3
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:69:5A:40&stream=1926_&extension=ts
 
-#EXTINF:-1 tvg-logo="______" group-title="TNT SPORT", TNT BT SPORT 4
+#EXTINF:-1 tvg-logo="______" group-title="SPORT SD-HD", TNT BT SPORT 4
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:69:5A:40&stream=1923_&extension=ts
-
-
-
 
 
 
