@@ -844,17 +844,10 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch396)/index.m3u
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch397)/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/ANTV.png" group-title="FIRSTMEDIA", ANTV HD
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch390)/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/BTV.png" group-title="FIRSTMEDIA", BTV
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch360)/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/BERITASATU.png" group-title="FIRSTMEDIA", BERITASATU WORLD
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch19)/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/JAKARTAG.png" group-title="FIRSTMEDIA", JAKARTA GLOBE
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch2)/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/KOMPAS.png" group-title="FIRSTMEDIA", KOMPASTV HD
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch410)/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/METRO.png" group-title="FIRSTMEDIA", METROTV HD
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch394)/index.m3u8
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", RCTI
 http://kuchini.site:8080/resplice/BiD8iEiMv7js1OUL/157591
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", GTV
@@ -863,41 +856,23 @@ http://kuchini.site:8080/resplice/BiD8iEiMv7js1OUL/157578
 http://kuchini.site:8080/resplice/BiD8iEiMv7js1OUL/165054
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", SCTV
 http://kuchini.site:8080/resplice/BiD8iEiMv7js1OUL/162141
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", HBO
-http://kuchini.site:8080/resplice/BiD8iEiMv7js1OUL/197972
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", HBO FAMILY
-http://kuchini.site:8080/resplice/BiD8iEiMv7js1OUL/197055
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", HBO HITS
-http://kuchini.site:8080/resplice/BiD8iEiMv7js1OUL/196480
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", HBO SIGNATURE 
-http://kuchini.site:8080/resplice/BiD8iEiMv7js1OUL/221948
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", CINEMAX 
-http://kuchini.site:8080/resplice/BiD8iEiMv7js1OUL/197964
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/BTV.png" group-title="FIRSTMEDIA", BTV
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch360)/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/BERITASATU.png" group-title="FIRSTMEDIA", BERITASATU WORLD
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch19)/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/JAKARTAG.png" group-title="FIRSTMEDIA", JAKARTA GLOBE
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch2)/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/IDX.png" group-title="FIRSTMEDIA", IDX CHANNEL
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch389)/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/GARUDAtv.png" group-title="FIRSTMEDIA", GARUDATV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch45)/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/DAAI.png" group-title="FIRSTMEDIA", DAAITV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch128)/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/HOREE.png" group-title="FIRSTMEDIA", HOREE!
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch375)/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/JAKTV.png" group-title="FIRSTMEDIA", JAKTV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch392)/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/JTV.png" group-title="FIRSTMEDIA", JTV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch17)/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/TV9.png" group-title="FIRSTMEDIA", TV9 NUSANTARA
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch352)/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/WestJ.png" group-title="FIRSTMEDIA", WESTJAVA NETWORK
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch50)/index.m3u8
-#EXTINF:-1 tvg-logo="https://staging.firstmedia.com:8443/files/logos/channels/8-LOCAL/Balai%20Kota%20SD-FirstMedia-Chl-33.jpg" group-title="FIRSTMEDIA", BALAIKOTA CHANNEL
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch73)/index.m3u8
-#EXTINF:-1 tvg-logo="https://staging.firstmedia.com:8443/files/logos/channels/8-LOCAL/Balai%20Kota%20Bandung%20SD-FirstMedia-Chl-34.jpg" group-title="FIRSTMEDIA", BALAIKOTA BANDUNG
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch102)/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/2-E-SPORT/Frst%20Warriors%20HD-FirstMedia-Chl-999.jpg" group-title="FIRSTMEDIA", FIRST WARRIORS
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch999)/index.m3u8
-#EXTINF:-1 tvg-logo="https://staging.firstmedia.com:8443/files/logos/channels/7-LIFESTYLE/First%20Lifestyle%20HD-FirstMedia-Chl-303.jpg" group-title="FIRSTMEDIA", FIRST LIFESTYLE
+
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch3)/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/c5/Citra_Muslim_Scm.jpeg" group-title="FIRSTMEDIA", CITRA MUSLIM
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch334)/index.m3u8
@@ -913,6 +888,16 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch379)/index.m3u
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch399)/index.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3c8d63e4a3d5b6c065651caf9a8cde50.png" group-title="FIRSTMEDIA", AXN
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch332)/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", HBO
+http://kuchini.site:8080/resplice/BiD8iEiMv7js1OUL/197972
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", HBO FAMILY
+http://kuchini.site:8080/resplice/BiD8iEiMv7js1OUL/197055
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", HBO HITS
+http://kuchini.site:8080/resplice/BiD8iEiMv7js1OUL/196480
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", HBO SIGNATURE 
+http://kuchini.site:8080/resplice/BiD8iEiMv7js1OUL/221948
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", CINEMAX 
+http://kuchini.site:8080/resplice/BiD8iEiMv7js1OUL/197964
 #EXTINF:-1 http://s3.i3ns.net/portal/picon/2023-05/adfc2c1f1d74779905488ad1bc067153.png" group-title="FIRSTMEDIA", PARAMOUNT NETWORK
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch309)/index.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/72d376f51855e885d4d094d6f697324e.png" group-title="FIRSTMEDIA", ROCK ACTION
@@ -923,26 +908,54 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch335)/index.m3u
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch324)/index.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/ae782ad6176bbda366bbaf7e52bdff09.png" group-title="FIRSTMEDIA", HITS
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch326)/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/hi/8/86/Sony_Max_new_logo.png" group-title="FIRSTMEDIA", SONY MAX
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch174)/index.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/16d25160960bdf82fb24de6143ae7ae9.png" group-title="FIRSTMEDIA", KIX
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch336)/index.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/d8a152836e34ee6141b7efdf3d10da5b.png" group-title="FIRSTMEDIA", TVN
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch339)/index.m3u8
-#EXTINF:-1 tvg-logo="hhttps://res.heraldm.com/phpwas/restmb_jhidxmake.php?idx=5&simg=201701111724468376495_20170111172626_01.jpg" group-title="FIRSTMEDIA", TVN MOVIES
+#EXTINF:-1 tvg-logo="https://i.ibb.co/99hRDQH/TVNM.png" group-title="FIRSTMEDIA", TVN MOVIES
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch343)/index.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/564c06a526774b8025fde18160461e1f.png" group-title="FIRSTMEDIA", KBS WORLD
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch262)/index.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/c8bcdc3a1efe05b9889c9d515ec7fdbe.png" group-title="FIRSTMEDIA", SONY ONE
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch338)/index.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/5662c41e221b11f3cff14f60ac5b862e.png" group-title="FIRSTMEDIA", GEM
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch3400)/index.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4ffa668fdf208ec522418bd231225c7f.png" group-title="FIRSTMEDIA", ZEEBIOSKOP
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch161)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/hi/8/86/Sony_Max_new_logo.png" group-title="FIRSTMEDIA", SONY MAX
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch174)/index.m3u8
+#EXTINF:-1 tvg-logo="XXXXXXXXXXXXXXXX" group-title="FIRSTMEDIA", SONY ENTERTAIMENT
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch173)/index.m3u8
+#EXTINF:-1 tvg-logo="XXXXXXXXXXXXXXXX" group-title="FIRSTMEDIA", CHINASTART
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch206)/index.m3u8
+#EXTINF:-1 tvg-logo="XXXXXXXXXXXXXXXX" group-title="FIRSTMEDIA", CHINASTART 2
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch208)/index.m3u8
+#EXTINF:-1 tvg-logo="XXXXXXXXXXXXXXXX" group-title="FIRSTMEDIA", CHINASTART 3
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch216)/index.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/957f888d2a434d5f6a1526e178dcec47.png" group-title="FIRSTMEDIA", SPOTV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch329)/index.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/035c4b78f75c9bd0f7cfb4f61ebb3146.png" group-title="FIRSTMEDIA", SPOTV2
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch3300)/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=909310533193_image-header_pIt_1686238719000&quality=70" group-title="FIRSTMEDIA", EUROSPORT
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch21)/index.m3u8
+#EXTINF:-1 tvg-logo="XXXXXXXXXXXXXXXX" group-title="FIRSTMEDIA", PREMIER SPORT
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch320)/index.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ac69997f647a6e4b289ee8a647d0dfbd.png" group-title="FIRSTMEDIA", ANIMAX
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch52)/index.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/1d192d86ab16c1103668385201f76d94.png" group-title="FIRSTMEDIA", BOOMERANG
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch372)/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/HOREE.png" group-title="FIRSTMEDIA", HOREE!
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch375)/index.m3u8
+#EXTINF:-1 tvg-logo="tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT80C4ymGhiSixfnABmDMjsOiY7VVqLXz5c-A&usqp=CAU" group-title="FIRSTMEDIA", CARTOON NETWORK
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch103)/index.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/e1dd8b2c9477e9c047fc597e8835eebb.png" group-title="FIRSTMEDIA", NICKELODEON
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch105)/index.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c407878e19cad2a98a707210492d0f4c.png" group-title="FIRSTMEDIA", NICK JR
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch124)/index.m3u8
+#EXTINF:-1 tvg-logo="XXXXXXXXXXXXXXX" group-title="FIRSTMEDIA", CARTOONITO
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch372)/index.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/b83befd00501db18989297ee6b217e02.png" group-title="FIRSTMEDIA", DREAMWORK
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch374)/index.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/8bfe173c57ec17bf46e0f6ba975deb8a.png" group-title="FIRSTMEDIA", CGTN DOCUMENTARY
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch405)/index.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/e758a48ee4c9f4f226cf65764e549299.png" group-title="FIRSTMEDIA", DISCOVERY CHANNEL
@@ -953,14 +966,14 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch31)/index.m3u8
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch368)/index.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/dfc965449b772322e8cb39b5c5491d62.png" group-title="FIRSTMEDIA", HISTORY
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch131)/index.m3u8
+#EXTINF:-1 tvg-logo="XXXXXXXXXXXXX" group-title="FIRSTMEDIA", DIRTY JOBS
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch29)/index.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/99f1a318b5c6b2ea16112188fe3641eb.svg" group-title="FIRSTMEDIA", CRIMEINVESTIGATION
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch349)/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.techstorm.tv/wp-content/uploads/2021/09/BrilliantAmaranth-Black-Text-website.png" group-title="FIRSTMEDIA", TECHSTORM
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch333)/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/616632df4479e534656ecf49/2017e527-15ce-4a89-acb0-6ad018d314fb/Global-Trekker_logo_primary.png" group-title="FIRSTMEDIA", GLOBAL TREKKER
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch366)/index.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/b83befd00501db18989297ee6b217e02.png" group-title="FIRSTMEDIA", DREAMWORK
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch374)/index.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/7aabd389aa14698263ab6099a84ae153.png" group-title="FIRSTMEDIA", LIFETIME
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch155)/index.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/cbfaa9907820b6dbfc30fe48ae8bf3b8.png" group-title="FIRSTMEDIA", HGTV
@@ -973,30 +986,42 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch76)/index.m3u8
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch355)/index.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/1b93a982149c1ae794f98d2c80c5bf5d.png" group-title="FIRSTMEDIA", FASHIONTV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch168)/index.m3u8
+#EXTINF:-1 tvg-logo="XXXXXXXXXXXXX" group-title="FIRSTMEDIA", DMAX
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch347)/index.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/3e7d43bedbb508318fbef3d99aa56732.png" group-title="FIRSTMEDIA", DA VINCI
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch371)/index.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ac69997f647a6e4b289ee8a647d0dfbd.png" group-title="FIRSTMEDIA", ANIMAX
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch52)/index.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/1d192d86ab16c1103668385201f76d94.png" group-title="FIRSTMEDIA", BOOMERANG
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch372)/index.m3u8
-#EXTINF:-1 tvg-logo="tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT80C4ymGhiSixfnABmDMjsOiY7VVqLXz5c-A&usqp=CAU" group-title="FIRSTMEDIA", CARTOON NETWORK
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch103)/index.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/e1dd8b2c9477e9c047fc597e8835eebb.png" group-title="FIRSTMEDIA", NICKELODEON
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch105)/index.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c407878e19cad2a98a707210492d0f4c.png" group-title="FIRSTMEDIA", NICK JR
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch124)/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkALF-4BQMfDVyoqx0veoAHDWGziFel-Fhww&usqp=CAU" group-title="FIRSTMEDIA", MTV 90S
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch241)/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/TV9.png" group-title="FIRSTMEDIA", TV9 NUSANTARA
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch352)/index.m3u8
+#EXTINF:-1 tvg-logo="XXXXXXXXXXXXX" group-title="FIRSTMEDIA", TV8
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch215)/index.m3u8
+#EXTINF:-1 tvg-logo="XXXXXXXXXXXXX" group-title="FIRSTMEDIA", TV5 MONDE
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch260)/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/WestJ.png" group-title="FIRSTMEDIA", WESTJAVA NETWORK
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch50)/index.m3u8
+#EXTINF:-1 tvg-logo="https://staging.firstmedia.com:8443/files/logos/channels/8-LOCAL/Balai%20Kota%20SD-FirstMedia-Chl-33.jpg" group-title="FIRSTMEDIA", BALAIKOTA CHANNEL
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch73)/index.m3u8
+#EXTINF:-1 tvg-logo="https://staging.firstmedia.com:8443/files/logos/channels/8-LOCAL/Balai%20Kota%20Bandung%20SD-FirstMedia-Chl-34.jpg" group-title="FIRSTMEDIA", BALAIKOTA BANDUNG
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch102)/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/2-E-SPORT/Frst%20Warriors%20HD-FirstMedia-Chl-999.jpg" group-title="FIRSTMEDIA", FIRST WARRIORS
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch999)/index.m3u8
+#EXTINF:-1 tvg-logo="https://staging.firstmedia.com:8443/files/logos/channels/7-LIFESTYLE/First%20Lifestyle%20HD-FirstMedia-Chl-303.jpg" group-title="FIRSTMEDIA", FIRST LIFESTYLE
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmPQrZduEW42ln9mDwHQ7O_1STZ0_cOPkeuTd8ww9AJjhhYf-4w21hMBU9_SY105iC2yU&usqp=CAU" group-title="FIRSTMEDIA", MTV STAGE
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch242)/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbrqU06igSDhyxD7RMKa4iU9WHjGikEp-hXatQsML6B8X1k2sspPXJV9nw7GLLmIZ7hxo&usqp=CAU" group-title="FIRSTMEDIA", STINGRAY NATURESCAPE
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch367)/index.m3u8
 #EXTINF:-1 tvg-logo="https://djazz.stingray.com/static/site/djazz/site/MetaImage.png" group-title="FIRSTMEDIA", STINGRAY DJAZZ
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch3344)/index.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/5662c41e221b11f3cff14f60ac5b862e.png" group-title="FIRSTMEDIA", GEM
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch3400)/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/10-MUSIC/Praise%20SD-FirstMedia-Chl-89.jpg" group-title="FIRSTMEDIA", PRA-SE
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch3888)/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkALF-4BQMfDVyoqx0veoAHDWGziFel-Fhww&usqp=CAU" group-title="FIRSTMEDIA", MTV 90S
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch241)/index.m3u8
+#EXTINF:-1 tvg-logo="XXXXXXXXXXXXX" group-title="FIRSTMEDIA", LIGHT MUSIC
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch3922)/index.m3u8
+#EXTINF:-1 tvg-logo="XXXXXXXXXXXXX" group-title="FIRSTMEDIA", STINGRAY FESTIVAL
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch344)/index.m3u8
+#EXTINF:-1 tvg-logo="XXXXXXXXXXXXX" group-title="FIRSTMEDIA", STINGRAY NOW
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch345)/index.m3u8
+
 
 #######################
 DENS TV    ############
@@ -23666,170 +23691,6 @@ https://www.googleapis.com/drive/v3/files/16t2xz_rdw97_N62hdSaF-4XxzlCb452o?alt=
 https://www.googleapis.com/drive/v3/files/19I_L2dl3eOn0BAvIaT7mw7_QSScJxBY3?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lc1GobJAfYgFYD0YYbcXS73R3us.jpg" group-title="VOD CAMPUR 2", Kopi Pahit (2022)
-http://mykingtv.net:2082/movie/amad1234/amad1234/14249.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sNe8NIiCkUFaAnHvnolOocl6hlm.jpg" group-title="VOD CAMPUR 2", Makmum 2
-http://mykingtv.net:2082/movie/amad1234/amad1234/14418.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bCoq0Lvk1Mq7bxyLnEodLkjp2XH.jpg" group-title="VOD CAMPUR 2", Makmum 1 (2019)
-http://mykingtv.net:2082/movie/amad1234/amad1234/14419.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tKVP3tAEhCvtJoHqsbXOaXYg3Ly.jpg" group-title="VOD CAMPUR 2", Balada Sepasang Kekasih Gila (2021)
-http://mykingtv.net:2082/movie/amad1234/amad1234/15241.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mcRZlhDgm9i3eMDOI455ZWNrdoC.jpg" group-title="VOD CAMPUR 2", Bangkitnya Mayit: The Dark Soul (2021)
-http://mykingtv.net:2082/movie/amad1234/amad1234/15248.mp4
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzUzMjZmZDItZjg5OC00YjM0LTg1NGUtYTg0ZDA3ZTg4NDcwXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_FMjpg_UX1000_.jpg" group-title="VOD CAMPUR 2", Ben&Jody
-http://mykingtv.net:2082/movie/amad1234/amad1234/15251.mp4
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTY0OTZjYjYtMTljMC00Yjk5LTg2MTQtNGRjODY4ZDYxZmNjXkEyXkFqcGdeQXVyOTU1MTA2NzQ@._V1_.jpg" group-title="VOD CAMPUR 2", Dongeng Mistik
-http://mykingtv.net:2082/movie/amad1234/amad1234/15284.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/djxQ8XE5IU2MyzR8mV2HyVkQjM.jpg" group-title="VOD CAMPUR 2", Kukira Kau Rumah (2022)
-http://mykingtv.net:2082/movie/amad1234/amad1234/15384.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wvBIGpNrjO2xNJsMFSQkxoJIkQ1.jpg" group-title="VOD CAMPUR 2", Garis Waktu (2022)
-http://mykingtv.net:2082/movie/amad1234/amad1234/15854.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Vmq4KYIlMvgTE4RKIcsEc8U7N.jpg" group-title="VOD CAMPUR 2", Mengejar Surga (2022)
-http://mykingtv.net:2082/movie/amad1234/amad1234/15865.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhIcT3nNSIF5CzOGkFwkq2DEwh1.jpg" group-title="VOD CAMPUR 2", Gara-Gara Warisan (2022)
-http://mykingtv.net:2082/movie/amad1234/amad1234/16469.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yvVu4yjMQ0GIcblYUonT678bDQW.jpg" group-title="VOD CAMPUR 2", Cinta Subuh (2022)
-http://mykingtv.net:2082/movie/amad1234/amad1234/16686.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s0MJ12Lf412G3KD3VkNGplHtK48.jpg" group-title="VOD CAMPUR 2", Kuntilanak 3 (2022)
-http://mykingtv.net:2082/movie/amad1234/amad1234/16999.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yqknC9JCttVznuayCJaSvbApT1K.jpg" group-title="VOD CAMPUR 2", Satria Dewa: Gatotkaca (2022)
-http://mykingtv.net:2082/movie/amad1234/amad1234/17332.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wbWciYQjHIEUGsFmbunBSSdt2y3.jpg" group-title="VOD CAMPUR 2", 48 Jam Untuk Indah 2022
-http://mykingtv.net:2082/movie/amad1234/amad1234/17530.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dEk0kC7uq54g7cVheQBgiAcCuNH.jpg" group-title="VOD CAMPUR 2", Ivanna (2022)
-http://mykingtv.net:2082/movie/amad1234/amad1234/17610.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sSrXDjK3aLIMKXMuGDKVZuOQUdU.jpg" group-title="VOD CAMPUR 2", Bekas Rumah Sakit (2020)
-http://mykingtv.net:2082/movie/amad1234/amad1234/18203.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6dnYvtH0uPxuhxr9Sh5jLK4Ierw.jpg" group-title="VOD CAMPUR 2", Noktah Merah Perkhawinan
-http://mykingtv.net:2082/movie/amad1234/amad1234/18278.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A9iIzMGfTHSnKGRtFHzz6Zv0WCs.jpg" group-title="VOD CAMPUR 2", The Womb (2022)
-http://mykingtv.net:2082/movie/amad1234/amad1234/18555.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cLxylsx9Xj08733qVWzuZ1Ua7R8.jpg" group-title="VOD CAMPUR 2", Dear David (2023)
-http://mykingtv.net:2082/movie/amad1234/amad1234/18636.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hHyLErQiingTvJ2xwHGvpyH6bWb.jpg" group-title="VOD CAMPUR 2", Mendarat Darurat (2022)
-http://mykingtv.net:2082/movie/amad1234/amad1234/18702.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Om65au1m6g8pmpYcIICAQGI6h7.jpg" group-title="VOD CAMPUR 2", Berbalas Kejam (2023)
-http://mykingtv.net:2082/movie/amad1234/amad1234/18770.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c4b9DQ2mk5TkY16C16saXdEJNEu.jpg" group-title="VOD CAMPUR 2", Wewe (2015)
-http://mykingtv.net:2082/movie/amad1234/amad1234/18871.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u0SPU9ZwhqFvzB88dzdVoK12Ne5.jpg" group-title="VOD CAMPUR 2", Mumun (2022)
-http://mykingtv.net:2082/movie/amad1234/amad1234/18905.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rEmMqgcXvA5Nc5YufekDt57GHTJ.jpg" group-title="VOD CAMPUR 2", Sri Asih (2022)
-http://mykingtv.net:2082/movie/amad1234/amad1234/19135.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A8dWcUw0clsWARfUn6x8xzQbPKU.jpg" group-title="VOD CAMPUR 2", Keramat 2 (2022)
-http://mykingtv.net:2082/movie/amad1234/amad1234/19191.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/izKyEKtO6K9QqAbhSA9svcqeNgf.jpg" group-title="VOD CAMPUR 2", Jagat Arwah (2022)
-http://mykingtv.net:2082/movie/amad1234/amad1234/19199.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mmrvPiUCJNvd33N93VQNmBTC8Z9.jpg" group-title="VOD CAMPUR 2", Hitmen (2023)
-http://mykingtv.net:2082/movie/amad1234/amad1234/19341.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9looDRc5E3nR8pusInJEZoBYCYO.jpg" group-title="VOD CAMPUR 2", KKN di Desa Penari: Luwih Dowo, Luwih Medeni (2022)
-http://mykingtv.net:2082/movie/amad1234/amad1234/19360.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eNo30TXs07Nu2XaxA7iWf6axlcA.jpg" group-title="VOD CAMPUR 2", Puisi Cinta Yang Membunuh
-http://mykingtv.net:2082/movie/amad1234/amad1234/19361.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3TLE0vbdWgmL97OTiFPboQPupS6.jpg" group-title="VOD CAMPUR 2", Madu Murni (2022)
-http://mykingtv.net:2082/movie/amad1234/amad1234/19362.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/blJJXLMgmBm73PcSuGczaHv3NNX.jpg" group-title="VOD CAMPUR 2", Bayi Ajaib (2023)
-http://mykingtv.net:2082/movie/amad1234/amad1234/19424.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kBCQl5hEhrisfvS9YobDKAVVmpN.jpg" group-title="VOD CAMPUR 2", The Tarix Jabrix 2 (2009)
-http://mykingtv.net:2082/movie/amad1234/amad1234/19490.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lBR9ESBuyUJGDi4Sn6sasODI4I2.jpg" group-title="VOD CAMPUR 2", The Tarix Jabrix 3 (2011)
-http://mykingtv.net:2082/movie/amad1234/amad1234/19491.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bhCMalYgJgyljNGCCNpvxQ7QuBd.jpg" group-title="VOD CAMPUR 2", A Long Way to Come Home (2023)
-http://mykingtv.net:2082/movie/amad1234/amad1234/19514.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kNZqzDmY3mr4JqicNJsjLGVWbDj.jpg" group-title="VOD CAMPUR 2", Buyut (2022)
-http://mykingtv.net:2082/movie/amad1234/amad1234/19525.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xcrssH6rL4BebUBxJfC8gGgRkEg.jpg" group-title="VOD CAMPUR 2", Kembang Api (2023) 720p WEB-DL EngSub
-http://mykingtv.net:2082/movie/amad1234/amad1234/19636.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tLkviJkau1cRMCoAa06R1gkH2Hn.jpg" group-title="VOD CAMPUR 2", Waktu Maghrib (2023)
-http://mykingtv.net:2082/movie/amad1234/amad1234/19749.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gukSJNCDL2Xx8XB9PE5bL5qBOBQ.jpg" group-title="VOD CAMPUR 2", Hidayah (2023)
-http://mykingtv.net:2082/movie/amad1234/amad1234/19750.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d3baYARR6ZARpBA0s2ln55vCBef.jpg" group-title="VOD CAMPUR 2", Kun Ana Wa Anta (2023)
-http://mykingtv.net:2082/movie/amad1234/amad1234/19811.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rc3ay29xPyp11psxUIHTebs3l8i.jpg" group-title="VOD CAMPUR 2", Tainted Soul (2022)
-http://mykingtv.net:2082/movie/amad1234/amad1234/19964.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rc3ay29xPyp11psxUIHTebs3l8i.jpg" group-title="VOD CAMPUR 2", Tainted Soul (2022) Backup
-http://mykingtv.net:2082/movie/amad1234/amad1234/19979.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3X8PkI1cXpnqSlx6uJY3A0XypWt.jpg" group-title="VOD CAMPUR 2", I Know When You Are Going to Die (2020)
-http://mykingtv.net:2082/movie/amad1234/amad1234/20054.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9dyXheU12Dv2GrhnjPQ3iIZG3ne.jpg" group-title="VOD CAMPUR 2", Motel Melati (2023) INDO
-http://mykingtv.net:2082/movie/amad1234/amad1234/20129.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wz7EnJmAwrt2cF5PpXwbwi54auI.jpg" group-title="VOD CAMPUR 2", Bilik Tepi (2023)
-http://mykingtv.net:2082/movie/amad1234/amad1234/20170.mp4
-
-#EXTINF:-1 tvg-logo="https://bacaterus.com/wp-content/uploads/2023/03/Perjanjian-Gaib_.webp" group-title="VOD CAMPUR 2", Perjanjian Raib
-http://mykingtv.net:2082/movie/amad1234/amad1234/20181.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sWFmBGpjdft904Gg0j5JZUi0wkM.jpg" group-title="VOD CAMPUR 2", Tulah 6/13 (2023)
-http://mykingtv.net:2082/movie/amad1234/amad1234/20182.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nJ7WbBu6oSxbXls06zWLRdfrYyW.jpg" group-title="VOD CAMPUR 2", Alena: Anak Ratu Iblis (2023)
-http://mykingtv.net:2082/movie/amad1234/amad1234/20191.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wL1mzY7FUrYO1fPORVEUnM45uh9.jpg" group-title="VOD CAMPUR 2", Tumbal Kanjeng Iblis (2022)
-http://mykingtv.net:2082/movie/amad1234/amad1234/20195.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f2zXfXUKu9Muls4T0BBKSED1pkn.jpg" group-title="VOD CAMPUR 2", Yang Patah Tumbuh, Yang Hilang Berganti (2023)
-http://mykingtv.net:2082/movie/amad1234/amad1234/20197.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4m1Au3YkjqsxF8iwQy0fPYSxE0h.jpg" group-title="VOD CAMPUR 2", Meg 2: The Trench FHD (2023)
-http://mykingtv.net:2082/movie/amad1234/amad1234/20376.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jsD9Xno9bCaDtGm6Av9yr4T5SUq.jpg" group-title="VOD CAMPUR 2", Khanzab (2023)
-http://mykingtv.net:2082/movie/amad1234/amad1234/20384.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o6iqoCtPelyut9OhKHJPSIL63Ja.jpg" group-title="VOD CAMPUR 2", Today We'll Talk About That Day (2023)
-http://mykingtv.net:2082/movie/amad1234/amad1234/20549.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aKWQJAWnDelj9N5tGcoIGtKaS5y.jpg" group-title="VOD CAMPUR 2", Hello Ghost (2023)
-http://mykingtv.net:2082/movie/amad1234/amad1234/20620.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4hnp6iPngoLiJhSkQaSdGB1pgQI.jpg" group-title="VOD CAMPUR 2", Bismillah Kunikahi Suamimu (2023)
-http://mykingtv.net:2082/movie/amad1234/amad1234/20629.mp4
 
 
 
