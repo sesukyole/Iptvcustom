@@ -836,6 +836,31 @@ No video files are stored here.
 
 ```````` FILM and SERIES ````````
 
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/42d29b03357fec1753cf970323f02e04.png" group-title="MOVIES", CINEMAX XT
+http://xtv.ooo:8080/owais1/12345/350922
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png" group-title="MOVIES", HBO XT
+http://xtv.ooo:8080/owais1/12345/350922
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/43c918deb93b6cb276bc97bc3316d66a.png" group-title="MOVIES", HBO FAMILY XT
+http://xtv.ooo:8080/owais1/12345/350922
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/00e312e6e408859a759d2cb679bf2f28.png" group-title="MOVIES", HBO HITS XT
+http://xtv.ooo:8080/owais1/12345/350922
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/b918a4f6087d1550bed78481f3fd878e.png" group-title="MOVIES", HBO SIGNATURE XT
+http://xtv.ooo:8080/owais1/12345/350922
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="MOVIES", Etv Bioskop
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/298526
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="MOVIES", Etv Bioskop 02
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/298527
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="MOVIES", Etv Bioskop 03
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/298528
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="MOVIES", Etv Bioskop 04
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/298529
+
 #EXTINF:-1 group-logo="https://i.ibb.co/MV7zCJq/cat-movies.png",
 
 #EXTINF:-1 tvg-id="AXN - [Channel 154].id" tvg-name="AXN" tvg-logo="https://i.ibb.co/5cbR3BV/AXN.png" group-title="MOVIES", AXN
