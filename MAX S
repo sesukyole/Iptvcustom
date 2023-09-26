@@ -55,6 +55,8 @@ https://liveaneviadev.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
 #EXTINF:-1 tvg-id="Indosiar - [Channel 78].id" tvg-name="Indosiar" tvg-logo="https://i.ibb.co/TrzzTfg/INDOSIAR.png" group-title="NASIONAL", INDOSIAR
 http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/index.m3u8
+#EXTINF:-1 tvg-id="Indosiar - [Channel 78].id" tvg-name="Indosiar" tvg-logo="https://i.ibb.co/TrzzTfg/INDOSIAR.png" group-title="NASIONAL", INDOSIAR HD
+https://apex.biz.id/play/0ilmhZodH2Kc6NwNilEOdR9KjWJvMcLFidDw1qDk3VQ/m3u8
 
 #EXTINF:-1 tvg-id="iNews HD - [Channel 433].id" tvg-name="iNews" tvg-logo="https://i.ibb.co/sJsThk3/INEWS.png" group-title="NASIONAL", INEWS
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -852,6 +854,20 @@ http://xtv.ooo:8080/owais1/12345/350922
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/b918a4f6087d1550bed78481f3fd878e.png" group-title="MOVIES", HBO SIGNATURE XT
 http://xtv.ooo:8080/owais1/12345/350922
 
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/42d29b03357fec1753cf970323f02e04.png" group-title="MOVIES", CINEMAX
+https://apex.biz.id/play/0ilmhZodH2Kc6NwNilEOdQ0u_zgFHh4gEUjCIaj61y0/m3u8
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png" group-title="MOVIES", HBO
+https://apex.biz.id/play/0ilmhZodH2Kc6NwNilEOdRwK04X3ql9VUPjX8wm2kZs/m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/43c918deb93b6cb276bc97bc3316d66a.png" group-title="MOVIES", HBO FAMILY
+https://apex.biz.id/play/0ilmhZodH2Kc6NwNilEOdXLX-BwGbc4c7HYijpU161E/m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/00e312e6e408859a759d2cb679bf2f28.png" group-title="MOVIES", HBO HITS
+https://apex.biz.id/play/0ilmhZodH2Kc6NwNilEOdQpy-wKycRFxHzZKYf95PK8/m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/b918a4f6087d1550bed78481f3fd878e.png" group-title="MOVIES", HBO SIGNATURE
+https://apex.biz.id/play/0ilmhZodH2Kc6NwNilEOdZSjbuVloKMDpblWmiG6FZA/m3u8
+
+
+
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="MOVIES", Etv Bioskop
 http://sysadminhost.net:8080/24eacfe8/c52fb4d1/298526
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="MOVIES", Etv Bioskop 02
@@ -860,6 +876,9 @@ http://sysadminhost.net:8080/24eacfe8/c52fb4d1/298527
 http://sysadminhost.net:8080/24eacfe8/c52fb4d1/298528
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="MOVIES", Etv Bioskop 04
 http://sysadminhost.net:8080/24eacfe8/c52fb4d1/298529
+
+
+
 
 #EXTINF:-1 group-logo="https://i.ibb.co/MV7zCJq/cat-movies.png",
 
