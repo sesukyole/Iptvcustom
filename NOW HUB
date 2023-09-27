@@ -13156,21 +13156,10 @@ https://github.com/inaldie/inaldie/raw/main/LOGO.ts
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=880280&extension=ts&play_token=EbtHXiHBKX
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/SK_Fight_HR_logo.png" group-title="FIGHT SPORT", COMBATE
 http://vivo.10initiatived.uk:8880/287994003284/287994003284/16703
-#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/SK_Fight_HR_logo.png" group-title="FIGHT SPORT", UFC FIGHT PASS
-http://faucontv.live:8080/vaya/2kTxdjWYfn/21243
-
 #EXTINF:-1 tvg-logo="______" group-title="FIGHT SPORT", EDGE SPORT
 http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=1014266&extension=ts&play_token=4CrIQYgTPx
-#EXTINF:-1 tvg-logo="______" group-title="FIGHT SPORT", UFC NETWORK
-http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=91017&extension=ts&play_token=YsiFEBs2ja
-#EXTINF:-1 tvg-logo="-------" group-title="FIGHT SPORT", XTREAM SPORT
-http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=38423_&extension=ts
-#EXTINF:-1 tvg-logo="-------" group-title="FIGHT SPORT", COMBAT SPORT
-http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=63307_&extension=ts
 #EXTINF:-1 tvg-logo="-------" group-title="FIGHT SPORT", WWE CHANEL
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=18127_&extension=ts
-#EXTINF:-1 tvg-logo="-------" group-title="FIGHT SPORT", UFC CHANEL
-http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=108218_&extension=ts
 #EXTINF:-1 tvg-logo="______" group-title="FIGHT SPORT", FIGHT WORLD
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=110726&extension=ts&play_token=uMRmFltpZ0
 #EXTINF:-1 tvg-logo="______" group-title="FIGHT SPORT", ARENA FIGHT
@@ -13189,18 +13178,30 @@ http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=300846&ex
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=127257&extension=ts&play_token=STK29jNcrs
 #EXTINF:-1 tvg-logo="______" group-title="FIGHT SPORT", PRIMIER FIGHT
 http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1121749&extension=ts&play_token=zIhRRcBhiR
-#EXTINF:-1 tvg-logo="______" group-title="FIGHT SPORT", COMBAT
-http://31.42.184.159:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/130974
-#EXTINF:-1 tvg-logo="______" group-title="FIGHT SPORT", COMBAT BK
+#EXTINF:-1 tvg-logo="______" group-title="FIGHT SPORT", COMBAT 
 http://325481063776333118.of529.xyz:80/play/jean81/jean09092022/333118.ts
-#EXTINF:-1 tvg-logo="______" group-title="FIGHT SPORT", UFC FIGHT PASS
-http://31.42.184.159:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/224073
-#EXTINF:-1 tvg-logo="______" group-title="FIGHT SPORT", FIGHT NETWORK 1
-http://31.42.184.159:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/224009
-#EXTINF:-1 tvg-logo="______" group-title="FIGHT SPORT", FIGHT NETWORK 2
-http://10142525.xyz:8080/UmTCskNnN/AXwGAgNCCpcT/95664
+#EXTINF:-1 tvg-logo="______" group-title="FIGHT SPORT", COMBAT BR 
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:19:76&stream=59281&extension=ts&play_token=lmbH14bwKp
+#EXTINF:-1 tvg-logo="______" group-title="FIGHT SPORT", POLSAT FIGHT 
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:19:76&stream=880329&extension=ts&play_token=PIeqXYzE2Z
+#EXTINF:-1 tvg-logo="______" group-title="FIGHT SPORT", FIGHTCLUB
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:19:76&stream=880280&extension=ts&play_token=d8mPwQ6Hsb
 #EXTINF:-1 tvg-logo="______" group-title="FIGHT SPORT", FIGHT BOX
-http://31.42.184.159:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/31054
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:19:76&stream=116238&extension=ts&play_token=9ie5WnwKOm
+#EXTINF:-1 tvg-logo="______" group-title="FIGHT SPORT", FIGHT SPORT
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:19:76&stream=683135&extension=ts&play_token=M4230CNRaw
+#EXTINF:-1 tvg-logo="______" group-title="FIGHT SPORT", ARENA FIGHT
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:19:76&stream=1107630&extension=ts&play_token=KrSCIEsOlS
+#EXTINF:-1 tvg-logo="______" group-title="FIGHT SPORT", WWE
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:19:76&stream=45462&extension=ts&play_token=nHT8miN9cX
+#EXTINF:-1 tvg-logo="______" group-title="FIGHT SPORT", WWE CHANEL
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:19:76&stream=833302&extension=ts&play_token=2kI8A7w1gM
+#EXTINF:-1 tvg-logo="______" group-title="FIGHT SPORT", UFC TV US
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:19:76&stream=91949&extension=ts&play_token=IV0yk7bGfo
+#EXTINF:-1 tvg-logo="______" group-title="FIGHT SPORT", UFC TV UK
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:19:76&stream=825538&extension=ts&play_token=thO2rtmyko
+#EXTINF:-1 tvg-logo="______" group-title="FIGHT SPORT", FLOW SPORT CRB
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:19:76&stream=1106879&extension=ts&play_token=J0oftHSGTe
 
 
 #######################
