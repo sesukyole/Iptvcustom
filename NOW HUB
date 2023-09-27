@@ -7957,23 +7957,6 @@ https://ytm2.yuanhsing.cf/TheKPOP2.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", THE K-Pop 24/7
 https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", STINGRAY KARAOKE
-http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=568767_&extension=ts
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", STINGRAY POP
-http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=568769_&extension=ts
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", STINGRAY ALTERNATIV ROCK
-http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=568772_&extension=ts
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", STINGRAY LATIN
-http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=568773_&extension=ts
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", STINGRAY URBAN BEATS
-http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=568774_&extension=ts
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", STINGRAY CLASSIC ROCK 
-http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=479326_&extension=ts
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", STINGRAY LIVE MUSIC 
-http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=331504_&extension=ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", STINGRAY GREAT HITS 
-http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=568761_&extension=ts
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", MTV 
 http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=66789_&extension=ts
