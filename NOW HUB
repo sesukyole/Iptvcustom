@@ -13212,120 +13212,192 @@ http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=533657&ex
 
 
 
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/espn2.png" group-title="ESPN SPORT", 2MB | Espn 2 LQ
+http://magi-stv.net:8080/UzielLCH/UzielLCH/2095415
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/espnmx.png" group-title="ESPN SPORT", 2MB | ESPN MX
+http://magi-stv.net:8080/UzielLCH/UzielLCH/2092626
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/espndeportes.png" group-title="ESPN SPORT", 2MB| Espn Deportes
+http://magi-stv.net:8080/UzielLCH/UzielLCH/2123475
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/espnextra.png" group-title="ESPN SPORT", 2MB| Espn Extra
+http://magi-stv.net:8080/UzielLCH/UzielLCH/2123476
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/espn2arg.png" group-title="ESPN SPORT", D| Espn 2 | ARG
+http://magi-stv.net:8080/UzielLCH/UzielLCH/181346
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/espn2arg.png" group-title="ESPN SPORT", D| Espn 2 | ARG HD
+http://magi-stv.net:8080/UzielLCH/UzielLCH/181332
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/espn2col.png" group-title="ESPN SPORT", D| Espn 2 | COL
+http://magi-stv.net:8080/UzielLCH/UzielLCH/181350
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/espn2col.png" group-title="ESPN SPORT", D| Espn 2 | COL HD
+http://magi-stv.net:8080/UzielLCH/UzielLCH/202084
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/espn2col.png" group-title="ESPN SPORT", D| Espn 2 | COL FHD
+http://magi-stv.net:8080/UzielLCH/UzielLCH/181351
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/espn2mx.png" group-title="ESPN SPORT", D| Espn 2 | MX
+http://magi-stv.net:8080/UzielLCH/UzielLCH/10939
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/espn2mx.png" group-title="ESPN SPORT", D| Espn 2 | MX HD
+http://magi-stv.net:8080/UzielLCH/UzielLCH/155473
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/espn2mx.png" group-title="ESPN SPORT", D| Espn 2 | MX FHD
+http://magi-stv.net:8080/UzielLCH/UzielLCH/10962
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/espn3arg.png" group-title="ESPN SPORT", D| Espn 3 | ARG
+http://magi-stv.net:8080/UzielLCH/UzielLCH/181348
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/espn3arg.png" group-title="ESPN SPORT", D| Espn 3 | ARG FHD
+http://magi-stv.net:8080/UzielLCH/UzielLCH/181349
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/espn3col.png" group-title="ESPN SPORT", D| Espn 3 | COL
+http://magi-stv.net:8080/UzielLCH/UzielLCH/181352
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/espn3col.png" group-title="ESPN SPORT", D| Espn 3 | COL HD
+http://magi-stv.net:8080/UzielLCH/UzielLCH/202088
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/espn3mx.png" group-title="ESPN SPORT", D| Espn 3 | MX
+http://magi-stv.net:8080/UzielLCH/UzielLCH/10941
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/espn3mx.png" group-title="ESPN SPORT", D| Espn 3 | MX HD
+http://magi-stv.net:8080/UzielLCH/UzielLCH/155474
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/espn3mx.png" group-title="ESPN SPORT", D| Espn 3 | MX FHD
+http://magi-stv.net:8080/UzielLCH/UzielLCH/155475
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/espn4arg.png" group-title="ESPN SPORT", D| ESPN 4 ARG
+http://magi-stv.net:8080/UzielLCH/UzielLCH/2121660
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/espn4cl.png" group-title="ESPN SPORT", D| ESPN 4 CL
+http://magi-stv.net:8080/UzielLCH/UzielLCH/2121680
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/espndeportes.png" group-title="ESPN SPORT", D| Espn Deportes
+http://magi-stv.net:8080/UzielLCH/UzielLCH/202473
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/espndeportes.png" group-title="ESPN SPORT", D| Espn Deportes | HD
+http://magi-stv.net:8080/UzielLCH/UzielLCH/158472
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/espnextra.png" group-title="ESPN SPORT", D| Espn EXTRA
+http://magi-stv.net:8080/UzielLCH/UzielLCH/181370
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/espnextra.png" group-title="ESPN SPORT", D| Espn EXTRA FHD
+http://magi-stv.net:8080/UzielLCH/UzielLCH/181378
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/espnpluscol.png" group-title="ESPN SPORT", D| Espn Plus Sur CO
+http://magi-stv.net:8080/UzielLCH/UzielLCH/2121734
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/espnplusmxpng.png" group-title="ESPN SPORT", D| Espn Plus | MX HD
+http://magi-stv.net:8080/UzielLCH/UzielLCH/10942
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/espnplusmxpng.png" group-title="ESPN SPORT", D| Espn Plus | MX FHD
+http://magi-stv.net:8080/UzielLCH/UzielLCH/10964
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/espnpremiumarg.png" group-title="ESPN SPORT", D| ESPN Premium ARG
+http://magi-stv.net:8080/UzielLCH/UzielLCH/2121662
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/espnarg1.png" group-title="ESPN SPORT", D| Espn | ARG
+http://magi-stv.net:8080/UzielLCH/UzielLCH/181047
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/espnarg1.png" group-title="ESPN SPORT", D| Espn | ARG FHD
+http://magi-stv.net:8080/UzielLCH/UzielLCH/202064
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/espncol.png" group-title="ESPN SPORT", D| Espn | COL
+http://magi-stv.net:8080/UzielLCH/UzielLCH/181016
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/espncol.png" group-title="ESPN SPORT", D| Espn | COL HD
+http://magi-stv.net:8080/UzielLCH/UzielLCH/181347
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/espnmx.png" group-title="ESPN SPORT", D| Espn | MX
+http://magi-stv.net:8080/UzielLCH/UzielLCH/10940
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/espnmx.png" group-title="ESPN SPORT", D| Espn | MX HD
+http://magi-stv.net:8080/UzielLCH/UzielLCH/155472
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/espnmx.png" group-title="ESPN SPORT", D| Espn | MX FHD
+http://magi-stv.net:8080/UzielLCH/UzielLCH/10963
+#EXTINF:-1 tvg-logo="http://sdmx.us:25461/images/466a3684c260e323dea01a8022d55eed.png" group-title="ESPN SPORT", SE| Espn ARG
+http://magi-stv.net:8080/UzielLCH/UzielLCH/219130
+#EXTINF:-1 tvg-logo="http://sdmx.us:25461/images/466a3684c260e323dea01a8022d55eed.png" group-title="ESPN SPORT", SE| ESPN MX
+http://magi-stv.net:8080/UzielLCH/UzielLCH/219099
+#EXTINF:-1 tvg-logo="http://sdmx.us:25461/images/466a3684c260e323dea01a8022d55eed.png" group-title="ESPN SPORT", S| ESPN
+http://magi-stv.net:8080/UzielLCH/UzielLCH/10651
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/espn2.png" group-title="ESPN SPORT", S| ESPN 2 HD
+http://magi-stv.net:8080/UzielLCH/UzielLCH/10652
+#EXTINF:-1 tvg-logo="http://sdmx.us:25461/images/466a3684c260e323dea01a8022d55eed.png" group-title="ESPN SPORT", S| ESPN HD
+http://magi-stv.net:8080/UzielLCH/UzielLCH/10653
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/espnu.png" group-title="ESPN SPORT", S| Espn U
+http://magi-stv.net:8080/UzielLCH/UzielLCH/10946
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/espnu.png" group-title="ESPN SPORT", S| Espn U | HD
+http://magi-stv.net:8080/UzielLCH/UzielLCH/10947
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/1280px-ESPNews.svg.png" ggroup-title="ESPN SPORT", USA | ESPNews
+http://magi-stv.net:8080/UzielLCH/UzielLCH/2113598
+#EXTINF:-1 tvg-logo="http://ceoapp.org/logos/espnnetworks.png" group-title="ESPN SPORT", S| Espn Network
+http://magi-stv.net:8080/UzielLCH/UzielLCH/2121885
+#EXTINF:-1 tvg-logo="http://sdmx.us:25461/images/466a3684c260e323dea01a8022d55eed.png" group-title="ESPN SPORT", S| ESPN
+http://magi-stv.net:8080/UzielLCH/UzielLCH/2121886
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/espn2.png" group-title="ESPN SPORT", S| ESPN 2
+http://magi-stv.net:8080/UzielLCH/UzielLCH/2121887
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/espnu.png" group-title="ESPN SPORT", S| ESPN U FHD
+http://magi-stv.net:8080/UzielLCH/UzielLCH/2121888
+#EXTINF:-1 tvg-logo="http://mastvplus.ddns.net:80/images/4362a60a6393d774132d83ea6ae905c7.png" group-title="ESPN SPORT", D| Espn | BR HD
+http://magi-stv.net:8080/UzielLCH/UzielLCH/2167442
+#EXTINF:-1 tvg-logo="http://mastvplus.ddns.net:80/images/4362a60a6393d774132d83ea6ae905c7.png" group-title="ESPN SPORT", D| Espn 2 | BR HD
+http://magi-stv.net:8080/UzielLCH/UzielLCH/2167443
+#EXTINF:-1 tvg-logo="http://mastvplus.ddns.net:80/images/4362a60a6393d774132d83ea6ae905c7.png" group-title="ESPN SPORT", D| Espn 3 | BR HD
+http://magi-stv.net:8080/UzielLCH/UzielLCH/2167444
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/espn2.png" group-title="ESPN SPORT", BR | ESPN 2
+http://magi-stv.net:8080/UzielLCH/UzielLCH/2171083
+#EXTINF:-1 tvg-logo="http://mastvplus.ddns.net:80/images/4362a60a6393d774132d83ea6ae905c7.png" group-title="ESPN SPORT", BR | ESPN 3
+http://magi-stv.net:8080/UzielLCH/UzielLCH/2171084
+#EXTINF:-1 tvg-logo="http://mastvplus.ddns.net:80/images/4362a60a6393d774132d83ea6ae905c7.png" group-title="ESPN SPORT", BR | ESPN
+http://magi-stv.net:8080/UzielLCH/UzielLCH/2171085
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/espndeportes.png" group-title="ESPN SPORT", 2MB| Espn Deportes
+http://magi-stv.net:8080/UzielLCH/UzielLCH/2123475
 #EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/chimg/7335668086.png" group-title="ESPN SPORT", MX: ESPN 1 HD
 http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/96029.ts
-
 #EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/chimg/8684143903.png" group-title="ESPN SPORT", SP: ESPN + HD MX
 http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/95978.ts
-
 #EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/chimg/6258949273.png" group-title="ESPN SPORT", SP: ESPN Deportes FHD
 http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/95969.ts
-
 #EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/chimg/5549068923.png" group-title="ESPN SPORT", US ESPN NEWS HD
 http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/95516.ts
-
 #EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/chimg/7936053982.png" group-title="ESPN SPORT", US: ESPN 1 HD
 http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/115825.ts
-
 #EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/chimg/1185809629.png" group-title="ESPN SPORT", US: ESPN 2 HD
 http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/134263.ts
-
 #EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/chimg/6526566841.png" group-title="ESPN SPORT", US: ESPN U HD
 http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/95519.ts
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1200px-ESPN_Premium_logo.svg.png" group-title="ESPN SPORT", ARG: ESPN Premium HD
 http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/548193.ts
-
 #EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/channels_icon/95537313091.png" group-title="ESPN SPORT", BR: ESPN Brasil HD
 http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/10321.ts
-
 #EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/channels_icon/53074266441.png" group-title="ESPN SPORT", BR: ESPN 2 HD
 http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/10320.ts
-
 #EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/channels_icon_api/1a0f0e3d18e12fa0abe583c00a5c6ccf.png" group-title="ESPN SPORT", BR: ESPN Extra HD
 http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/10265.ts
-
 #EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/chimg/7672097577.jpg" group-title="ESPN SPORT", CAR ESPN Caribbean FHD
 http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/545668.ts
-
 #EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/channels_icon/87804862671.png" group-title="ESPN SPORT", LA: ESPN 2 HD
 http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/319914.ts
-
 #EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/channels_icon/89185694671.png" group-title="ESPN SPORT", LA: ESPN 3 HD
 http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/581839.ts
-
 #EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/channels_icon/55231963051.png" group-title="ESPN SPORT", LA: ESPN HD
 http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/581838.ts
-
 #EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/channels_icon/98242502121.png" group-title="ESPN SPORT", MX: ESPN 1 HD
 http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/546149.ts
-
 #EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/channels_icon/23175896971.png" group-title="ESPN SPORT", MX: ESPN 2 HD
 http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/546150.ts
-
 #EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/channels_icon/63218809081.png" group-title="ESPN SPORT", MX: ESPN 3 HD
 http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/546151.ts
-
 #EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/channels_icon/69749206811.png" group-title="ESPN SPORT", MX: ESPN HD
 http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/546152.ts
-
 #EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/channels_icon/44589158161.png" group-title="ESPN SPORT", NL: ESPN 1 FHD
 http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/466103.ts
-
 #EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/channels_icon/64141026451.png" group-title="ESPN SPORT", NL: ESPN 2 HD
 http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/283548.ts
-
 #EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/channels_icon/25939289171.png" group-title="ESPN SPORT", NL: ESPN 3 FHD
 http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/466104.ts
-
 #EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/channels_icon/80000141211.png" group-title="ESPN SPORT", NL: ESPN 4 HD
 http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/283549.ts
-
 #EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/channels_icon/55299849971.png" group-title="ESPN SPORT", ES: ESPN HD
 http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/522170.ts
-
 #EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/channels_icon/61820382721.png" group-title="ESPN SPORT", US: ESPN 1 HD
 http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/28930.ts
-
 #EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/channels_icon/82850456801.png" group-title="ESPN SPORT", US: ESPN 2 HD
 http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/117065.ts
-
 #EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/channels_icon/99002194971.png" group-title="ESPN SPORT", US: ESPN 2 HD
 http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/28931.ts
-
 #EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/channels_icon/12445064631.png" group-title="ESPN SPORT", US: ESPN 3 HD
 http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/117064.ts
-
 #EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/channels_icon/66935572581.png" group-title="ESPN SPORT", US: ESPN Deportes HD
 http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/79761.ts
-
 #EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/channels_icon/38611878171.png" group-title="ESPN SPORT", US: ESPN Longhorn Network HD
 http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/28932.ts
-
 #EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/channels_icon/18588902761.png" group-title="ESPN SPORT", US: ESPN NEWS HD
 http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/484520.ts
-
 #EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/channels_icon/87862872741.png" group-title="ESPN SPORT", US: ESPN NEWS US HD
 http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/117414.ts
-
 #EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/channels_icon/85940898281.png" group-title="ESPN SPORT", US: ESPN PLUS HD
 http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/134564.ts
-
 #EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/channels_icon/74177104461.png" group-title="ESPN SPORT", US: ESPN SEC Network HD
 http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/28934.ts
-
 #EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/channels_icon/39361506141.png" group-title="ESPN SPORT", US: ESPN U HD
 http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/79760.ts
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ESPN SPORT", US: ESPN+
 http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/715860.ts
-
 #EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/channels_icon/60982247841.png" group-title="ESPN SPORT", UK: BT Sport ESPN FHD
 http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/117573.ts
-
 #EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/chimg/6258949273.png" group-title="ESPN SPORT", SP: ESPN Deportes FHD
 http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/95969.ts
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ESPN SPORT", UK: BT Sport ESPN SD
 http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/688321.ts
 
@@ -13439,6 +13511,90 @@ http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=646965&ex
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=533668&extension=ts&play_token=33OqsgppFx
 #EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FSOval_wBackground_1040x585.gif" group-title="FOX SPORT", FOX SPORT RACING CRB
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=533669&extension=ts&play_token=33OqsgppFx
+
+
+
+
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/foxsportsmx1.png" group-title="FOX SPORT", 2MB | Fox Sports
+http://magi-stv.net:8080/UzielLCH/UzielLCH/2092587
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/foxsports2mx.png" group-title="FOX SPORT", 2 MB| Fox Sports 3 LQ
+http://magi-stv.net:8080/UzielLCH/UzielLCH/2123478
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/foxsports2mx.png" group-title="FOX SPORT", 2MB | FOX SPORTS 2 LQ
+http://magi-stv.net:8080/UzielLCH/UzielLCH/2092588
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/foxsportsarg1.png" group-title="FOX SPORT", D| Fox Sports | ARG
+http://magi-stv.net:8080/UzielLCH/UzielLCH/2090080
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/foxsportsarg1.png" group-title="FOX SPORT", D| Fox Sports | ARG HD
+http://magi-stv.net:8080/UzielLCH/UzielLCH/14651
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/foxsportsarg1.png" group-title="FOX SPORT", D| Fox Sports | ARG FHD
+http://magi-stv.net:8080/UzielLCH/UzielLCH/10959
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/foxsports2arg.png" group-title="FOX SPORT", D| Fox Sports 2 | ARG
+http://magi-stv.net:8080/UzielLCH/UzielLCH/183215
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/foxsports2arg.png" group-title="FOX SPORT", D| Fox Sports 2 | ARG HD
+http://magi-stv.net:8080/UzielLCH/UzielLCH/10957
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/foxsports3arg1.png" group-title="FOX SPORT", D| Fox Sports 3 | ARG
+http://magi-stv.net:8080/UzielLCH/UzielLCH/10958
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/foxsports2cl.png" group-title="FOX SPORT", D| Fox Sports 2 | CL HD
+http://magi-stv.net:8080/UzielLCH/UzielLCH/183332
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/foxsports2cl.png" group-title="FOX SPORT", D| Fox Sports 2 | CL FHD
+http://magi-stv.net:8080/UzielLCH/UzielLCH/183333
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/foxsports3cl2.png" group-title="FOX SPORT", D| Fox Sports 3 | CL
+http://magi-stv.net:8080/UzielLCH/UzielLCH/183334
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/foxsportscl1.png" group-title="FOX SPORT", D| Fox Sports | COL
+http://magi-stv.net:8080/UzielLCH/UzielLCH/183212
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/foxsports2col.png" group-title="FOX SPORT", D| Fox Sports 2 | COL FHD
+http://magi-stv.net:8080/UzielLCH/UzielLCH/183213
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/foxsports2col.png" group-title="FOX SPORT", D| Fox Sports 2 | COL HD
+http://magi-stv.net:8080/UzielLCH/UzielLCH/202097
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/foxsports3col2.png" group-title="FOX SPORT", D| Fox Sports 3 | COL HD
+http://magi-stv.net:8080/UzielLCH/UzielLCH/202100
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/foxsports3col2.png" group-title="FOX SPORT", D| Fox Sports 3 | COL FHD
+http://magi-stv.net:8080/UzielLCH/UzielLCH/183214
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/foxsportsmx1.png" group-title="FOX SPORT", D| Fox Sports | MX
+http://magi-stv.net:8080/UzielLCH/UzielLCH/10950
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/foxsportsmx1.png" group-title="FOX SPORT", D| Fox Sports | MX HD
+http://magi-stv.net:8080/UzielLCH/UzielLCH/155648
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/foxsportsmx1.png" group-title="FOX SPORT", D| Fox Sports | MX FHD
+http://magi-stv.net:8080/UzielLCH/UzielLCH/10953
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/foxsports2mx.png" group-title="FOX SPORT", D| Fox Sports 2 | MX
+http://magi-stv.net:8080/UzielLCH/UzielLCH/10949
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/foxsports2mx.png" group-title="FOX SPORT", D| Fox Sports 2 | MX HD
+http://magi-stv.net:8080/UzielLCH/UzielLCH/10952
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/foxsports2mx.png" group-title="FOX SPORT", D| Fox Sports 2 | MX FHD
+http://magi-stv.net:8080/UzielLCH/UzielLCH/155649
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/foxsports3mx3.png" group-title="FOX SPORT", D| Fox Sports 3 | MX
+http://magi-stv.net:8080/UzielLCH/UzielLCH/10945
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/foxsports3mx3.png" group-title="FOX SPORT", D| Fox Sports 3 | MX HD
+http://magi-stv.net:8080/UzielLCH/UzielLCH/10951
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/foxsports3mx3.png" group-title="FOX SPORT", D| Fox Sports 3 | MX FHD
+http://magi-stv.net:8080/UzielLCH/UzielLCH/155650
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/foxsportspremium.png" group-title="FOX SPORT", D | Fox Sports Premium | MX
+http://magi-stv.net:8080/UzielLCH/UzielLCH/2106730
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/foxsportspremium.png" group-title="FOX SPORT", D| FOX Sports Premium Arg
+http://magi-stv.net:8080/UzielLCH/UzielLCH/195839
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/foxsportspremium.png" group-title="FOX SPORT", D| FOX Sports Premium Arg FHD
+http://magi-stv.net:8080/UzielLCH/UzielLCH/195840
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/foxsportspremium.png" group-title="FOX SPORT", D| FOX Sports Premium Arg HD
+http://magi-stv.net:8080/UzielLCH/UzielLCH/10915
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/foxsportscl1.png" group-title="FOX SPORT", D| Fox Sports | CL
+http://magi-stv.net:8080/UzielLCH/UzielLCH/183331
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/foxsportscl1.png" group-title="FOX SPORT", D| Fox Sports | CL FHD
+http://magi-stv.net:8080/UzielLCH/UzielLCH/183329
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/foxsportscl1.png" group-title="FOX SPORT", D| Fox Sports | CL HD
+http://magi-stv.net:8080/UzielLCH/UzielLCH/183330
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/foxsportsperu.png" group-title="FOX SPORT", PE| Fox Sports Peru HD
+http://magi-stv.net:8080/UzielLCH/UzielLCH/12426
+#EXTINF:-1 tvg-logo="http://l3d.us:25461/images/97840105422e501d38bff03f59954245.png" group-title="FOX SPORT", S| FOX Sports 1
+http://magi-stv.net:8080/UzielLCH/UzielLCH/10648
+#EXTINF:-1 tvg-logo="http://l3d.us:25461/images/97840105422e501d38bff03f59954245.png" group-title="FOX SPORT", S| FOX Sports 1 HD
+http://magi-stv.net:8080/UzielLCH/UzielLCH/10664
+#EXTINF:-1 tvg-logo="http://l3d.us:25461/images/6fde45e1c85c95521e5a91e414122a25.png" group-title="FOX SPORT", S| Fox Sports 2
+http://magi-stv.net:8080/UzielLCH/UzielLCH/10663
+#EXTINF:-1 tvg-logo="http://l3d.us:25461/images/97840105422e501d38bff03f59954245.png" group-title="FOX SPORT", S| Fox Sports Detroit
+http://magi-stv.net:8080/UzielLCH/UzielLCH/155997
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/foxsports2br.png" group-title="FOX SPORT", BR | FOX SPORTS 2
+http://magi-stv.net:8080/UzielLCH/UzielLCH/2171090
+
+
 
 #EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/chimg/3157925022.png" group-title="FOX SPORT", AU: FOX Sports NEWS HD
 http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/95989.ts
@@ -14298,15 +14454,6 @@ http://yesimes.oknirvana.club:8880/D12m1640/693788036/30065
 #EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/" group-title="SPORT WORLD", US126:AT&T SportsNet Pittsburgh Alternate
 http://yesimes.oknirvana.club:8880/D12m1640/693788036/30064
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US132Stadium3.png" group-title="SPORT WORLD", US132:Stadium Sports 1
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/30058
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US133Stadium2.png" group-title="SPORT WORLD", US133:Stadium Sports 2
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/30057
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US134Stadium1.png" group-title="SPORT WORLD", US134:Stadium Sports 3
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/30056
-
 #EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US135Stadium.png" group-title="SPORT WORLD", US135:SportsNet New York
 http://yesimes.oknirvana.club:8880/D12m1640/693788036/30055
 
@@ -14872,25 +15019,9 @@ http://yesimes.oknirvana.club:8880/D12m1640/693788036/28131
 #EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/" group-title="SPORT WORLD", FR173:RMC SPORT 5
 http://yesimes.oknirvana.club:8880/D12m1640/693788036/28130
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR180" group-title="SPORT WORLD", FR174:RMC SPORT 6
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/28129
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR181FRANCE24.png" group-title="SPORT WORLD", FR175:RMC SPORT 7
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/28128
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR182ALACARTE1.png" group-title="SPORT WORLD", FR176:RMC SPORT 8
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/28127
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR183ALACARTE2.png" group-title="SPORT WORLD", FR177:RMC SPORT 9
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/28126
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR184ALACARTE3.png" group-title="SPORT WORLD", FR178:RMC SPORT 10
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/28125
-
 #EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR225CanalPlay1.png" group-title="SPORT WORLD", FR213:FOOT+ 24/24 HD
 http://yesimes.oknirvana.club:8880/D12m1640/693788036/28084
  
-
 #EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/NL/NL001ZiggoSportSelectFHD1080.png" group-title="SPORT WORLD", NL001:Ziggo Sport Select FHD
 http://yesimes.oknirvana.club:8880/D12m1640/693788036/31530
 
@@ -14908,36 +15039,6 @@ http://yesimes.oknirvana.club:8880/D12m1640/693788036/31522
 
 #EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/NL/" group-title="SPORT WORLD", NL010:VIAPLAY XTRA 2 Full HD
 http://yesimes.oknirvana.club:8880/D12m1640/693788036/31521
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/NL/" group-title="SPORT WORLD", NL011:VIAPLAY XTRA 3 Full HD
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/31520
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/NL/" group-title="SPORT WORLD", NL012:VIAPLAY XTRA 4 Full HD
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/31519
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/NL/NL091ExtremeSportsChannel.png" group-title="SPORT WORLD", NL091:VIAPLAY XTRA 9 Full HD
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/31440
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/NL/" group-title="SPORT WORLD", NL099:VIAPLAY XTRA 12 Full HD
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/31432
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/NL/" group-title="SPORT WORLD", NL100:VIAPLAY XTRA 13 Full HD
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/31431
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/NL/" group-title="SPORT WORLD", NL101:VIAPLAY XTRA 14 Full HD
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/31430
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/NL/" group-title="SPORT WORLD", NL102:VIAPLAY XTRA 15 Full HD
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/31429
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/NL/" group-title="SPORT WORLD", NL103:VIAPLAY XTRA 16 Full HD
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/31428
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/NL/" group-title="SPORT WORLD", NL104:VIAPLAY XTRA 17 Full HD
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/31427
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/NL/" group-title="SPORT WORLD", NL105:VIAPLAY XTRA 18 Full HD
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/31426
 
 #EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/NL/NL014Eurosport1FHD1080.png" group-title="SPORT WORLD", NL014:Eurosport 1 HD
 http://yesimes.oknirvana.club:8880/D12m1640/693788036/31517
@@ -15045,12 +15146,6 @@ http://yesimes.oknirvana.club:8880/D12m1640/693788036/29292
 #EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES101TAQUILLA3.png" group-title="SPORT WORLD", ES101:M+ DEPORTES 5
 http://yesimes.oknirvana.club:8880/D12m1640/693788036/29291
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES102TAQUILLA4.png" group-title="SPORT WORLD", ES102:M+ DEPORTES 6
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/29290
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES103TAQUILLA5.png" group-title="SPORT WORLD", ES103:M+ DEPORTES 7
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/29289
-
 #EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/" group-title="SPORT WORLD", ES108:M+ GOLF
 http://yesimes.oknirvana.club:8880/D12m1640/693788036/29284
 
@@ -15068,21 +15163,6 @@ http://yesimes.oknirvana.club:8880/D12m1640/693788036/29280
 
 #EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES113Alquiler4.png" group-title="SPORT WORLD", ES113:M+ LALIGA 5
 http://yesimes.oknirvana.club:8880/D12m1640/693788036/29279
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES114Alquiler5.png" group-title="SPORT WORLD", ES114:M+ LALIGA 6
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/29278
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES115Alquiler6.png" group-title="SPORT WORLD", ES115:M+ LALIGA 7
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/29277
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES116Alquiler7.png" group-title="SPORT WORLD", ES116:M+ LALIGA 8
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/29276
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES117Alquiler9.png" group-title="SPORT WORLD", ES117:M+ LALIGA 9
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/29275
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES118AndaluciaTV.png" group-title="SPORT WORLD", ES118:M+ LALIGA 10
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/29274
 
 #EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES119ARAGONTV.png" group-title="SPORT WORLD", ES119:M+ LALIGA 123 TV
 http://yesimes.oknirvana.club:8880/D12m1640/693788036/29273
@@ -15119,21 +15199,6 @@ http://yesimes.oknirvana.club:8880/D12m1640/693788036/29263
 
 #EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES130MovistarAlquiler1.png" group-title="SPORT WORLD", ES130:M+ LIGA DE CAMPEONES 5
 http://yesimes.oknirvana.club:8880/D12m1640/693788036/29262
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES131MLaliga8.png" group-title="SPORT WORLD", ES131:M+ LIGA DE CAMPEONES 6
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/29261
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES132VamosFHD.png" group-title="SPORT WORLD", ES132:M+ LIGA DE CAMPEONES 7
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/29260
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES133M. DEPORTES 1.png" group-title="SPORT WORLD", ES133:M+ LIGA DE CAMPEONES 8
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/29259
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES134M. DEPORTES 2.png" group-title="SPORT WORLD", ES134:M+ LIGA DE CAMPEONES 9
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/29258
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES135M. DEPORTES 3.png" group-title="SPORT WORLD", ES135:M+ LIGA DE CAMPEONES 10
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/29257
 
 #EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES136MLaLiga1.png" group-title="SPORT WORLD", ES136:M+ LIGA DE CAMPEONES B2
 http://yesimes.oknirvana.club:8880/D12m1640/693788036/29256
@@ -15199,77 +15264,8 @@ http://yesimes.oknirvana.club:8880/D12m1640/693788036/2618
 #EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE066SkySportAustria.png" group-title="SPORT WORLD", DE066:MAGENTA SPORT 5
 http://yesimes.oknirvana.club:8880/D12m1640/693788036/2617
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE067SkySportNews.png" group-title="SPORT WORLD", DE067:MAGENTA SPORT 6
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/2616
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE068UniversalDE.png" group-title="SPORT WORLD", DE068:MAGENTA SPORT 7
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/2615
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE069Sport1.png" group-title="SPORT WORLD", DE069:MAGENTA SPORT 8
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/2614
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE070SportDigital.png" group-title="SPORT WORLD", DE070:MAGENTA SPORT 9
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/2613
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE071SuperRTL.png" group-title="SPORT WORLD", DE071:MAGENTA SPORT 10
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/2612
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE072SyfyDE.png" group-title="SPORT WORLD", DE072:MAGENTA SPORT 11
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/2611
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE073TNTComedy.png" group-title="SPORT WORLD", DE073:MAGENTA SPORT 12
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/2610
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE074TNTFilm.png" group-title="SPORT WORLD", DE074:MAGENTA SPORT 13
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/2609
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE075TNTSeries.png" group-title="SPORT WORLD", DE075:MAGENTA SPORT 14
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/2608
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE076VOX.png" group-title="SPORT WORLD", DE076:MAGENTA SPORT 15
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/2607
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE077WDR.png" group-title="SPORT WORLD", DE077:MAGENTA SPORT 16
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/2606
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE078ZDF.png" group-title="SPORT WORLD", DE078:MAGENTA SPORT 17
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/2605
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE079SkySport9HD(DuringGamesonly).png" group-title="SPORT WORLD", DE079:MAGENTA SPORT 18
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/29205
-
 #EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE109Classica.png" group-title="SPORT WORLD", DE109:ORF SPORT+
 http://yesimes.oknirvana.club:8880/D12m1640/693788036/29175
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE182HRFernsehenHD.png" group-title="SPORT WORLD", DE182:SKY SPORT 1 (MATCH TIME)
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/29100
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE183TelekomSport2.png" group-title="SPORT WORLD", DE183:SKY SPORT 2 (MATCH TIME)
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/29099
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE184JukeboxHD.png" group-title="SPORT WORLD", DE184:SKY SPORT 3 (MATCH TIME)
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/29098
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE185JuniorHD.png" group-title="SPORT WORLD", DE185:SKY SPORT 4 (MATCH TIME)
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/29097
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE186DresdenTV.png" group-title="SPORT WORLD", DE186:SKY SPORT 5 (MATCH TIME)
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/29096
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE187Tele5.png" group-title="SPORT WORLD", DE187:SKY SPORT 6 (MATCH TIME)
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/29095
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE188" group-title="SPORT WORLD", DE188:SKY SPORT 7 (MATCH TIME)
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/29094
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE189WeltDerWunder.png" group-title="SPORT WORLD", DE189:SKY SPORT 8 (MATCH TIME)
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/29093
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE190MDRHD.png" group-title="SPORT WORLD", DE190:SKY SPORT 9 (MATCH TIME)
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/29092
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/" group-title="SPORT WORLD", DE191:SKY SPORT 10 (MATCH TIME)
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/29091
 
 #EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE192N24NewsHD.png" group-title="SPORT WORLD", DE192:SKY SPORT AUSTRIA 1 (MATCH TIME)
 http://yesimes.oknirvana.club:8880/D12m1640/693788036/29090
@@ -15577,20 +15573,6 @@ http://yesimes.oknirvana.club:8880/D12m1640/693788036/32970
 #EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR100KANAL7HD(1080P).png" group-title="SPORT WORLD", TR100:EXXEN SPORTS 3
 http://yesimes.oknirvana.club:8880/D12m1640/693788036/32969
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR101KANALDHD(1080P).png" group-title="SPORT WORLD", TR101:EXXEN SPORTS 4
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/32968
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR102NR1HD(1080P).png" group-title="SPORT WORLD", TR102:EXXEN SPORTS 5
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/32967
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR103NTVHD(1080P).png" group-title="SPORT WORLD", TR103:EXXEN SPORTS 6
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/32966
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR104DMAXHD.png" group-title="SPORT WORLD", TR104:EXXEN SPORTS 7
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/32965
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR105POWERHD(1080P).png" group-title="SPORT WORLD", TR105:EXXEN SPORTS 8
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/32964
 
 #EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR184beINSports2HD.png" group-title="SPORT WORLD", TR184:S SPORT
 http://yesimes.oknirvana.club:8880/D12m1640/693788036/32885
@@ -15788,30 +15770,6 @@ http://yesimes.oknirvana.club:8880/D12m1640/693788036/30461
 #EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL174FilmGold4HD.png" group-title="SPORT WORLD", AL174:TRING SPORT NEWS
 http://yesimes.oknirvana.club:8880/D12m1640/693788036/30460
 
-#EXTINF:-1 tvg-logo="http://mu03.wanicelife.com:8880/images/xVfSGAbOK4FucTwkYrXJjeBFqv4_small.jpg" group-title="SPORT WORLD", AL:Bloodsport 2
-http://yesimes.oknirvana.club:8880/movie/D12m1640/693788036/42607.mp4
-
-#EXTINF:-1 tvg-logo="http://mu03.wanicelife.com:8880/images/k4YPOpK9L9jHzKFN5Aa9uJuhvCn_small.jpg" group-title="SPORT WORLD", AL:Born To Fight
-http://yesimes.oknirvana.club:8880/movie/D12m1640/693788036/42611.mp4
-
-#EXTINF:-1 tvg-logo="http://mu03.wanicelife.com:8880/images/vGiJ8wj3GS4hUuR7mrzZAGZrdg8_small.jpg" group-title="SPORT WORLD", AL:Die Fighting
-http://yesimes.oknirvana.club:8880/movie/D12m1640/693788036/42652.mp4
-
-#EXTINF:-1 tvg-logo="http://mu03.wanicelife.com:8880/images/7Z9FLztqcQINl6wDvul0YTF2tCZ_small.jpg" group-title="SPORT WORLD", AL:Fight To The Finish
-http://yesimes.oknirvana.club:8880/movie/D12m1640/693788036/42684.mp4
-
-#EXTINF:-1 tvg-logo="http://mu03.wanicelife.com:8880/images/nQHG3CiqjLsu9JahA66FI6WcUBQ_small.jpg" group-title="SPORT WORLD", AL:Fighter In The Wind
-http://yesimes.oknirvana.club:8880/movie/D12m1640/693788036/42685.mp4
-
-#EXTINF:-1 tvg-logo="http://mu03.wanicelife.com:8880/images/hMyFo7nFcAQHCJf5s52poqeAMRe_small.jpg" group-title="SPORT WORLD", AL:Ip Man The Final Fight
-http://yesimes.oknirvana.club:8880/movie/D12m1640/693788036/42741.mp4
-
-#EXTINF:-1 tvg-logo="http://mu03.wanicelife.com:8880/images/ilkGBI44wgvLmYfdDFusHoReb2s_small.jpg" group-title="SPORT WORLD", AL:Street Fighter Assassins Fist
-http://yesimes.oknirvana.club:8880/movie/D12m1640/693788036/42962.mp4
-
-#EXTINF:-1 tvg-logo="http://mu03.wanicelife.com:8880/images/8FJ8A4R48mqM6zoGB9uOlPisZmr_small.jpg" group-title="SPORT WORLD", AL:Street Fighter The Legend Of Chun-li
-http://yesimes.oknirvana.club:8880/movie/D12m1640/693788036/42963.mp4
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD", YU004:Arena Sport 1 HD
 http://yesimes.oknirvana.club:8880/D12m1640/693788036/49322
 
@@ -15974,23 +15932,6 @@ http://yesimes.oknirvana.club:8880/D12m1640/693788036/30875
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD", CHE015:MYSPORTS 3
 http://yesimes.oknirvana.club:8880/D12m1640/693788036/30874
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD", CHE016:MYSPORTS 4
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/30867
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD", CHE017:MYSPORTS 5
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/30866
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD", CHE018:MYSPORTS 6
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/30861
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD", CHE019:MYSPORTS 6
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/30859
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD", CHE020:MYSPORTS 7
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/30858
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD", CHE021:MYSPORTS 8
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/30855
 
 #EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/DK/DK046.png" group-title="SPORT WORLD", DK046:TV2 SPORT
 http://yesimes.oknirvana.club:8880/D12m1640/693788036/31085
@@ -16019,53 +15960,15 @@ http://yesimes.oknirvana.club:8880/D12m1640/693788036/31222
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD", GR016:COSMOTE SPORT 3
 http://yesimes.oknirvana.club:8880/D12m1640/693788036/31221
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD", GR017:COSMOTE SPORT 4
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/31220
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD", GR018:COSMOTE SPORT 5
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/31219
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD", GR023:EGNATIA
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/31214
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD", GR024:EPIRUS TV 1
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/31213
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD", GR025:Mezzo Live (OTE)
 http://yesimes.oknirvana.club:8880/D12m1640/693788036/31212
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD", GR026:ERT 1
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/31211
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD", GR027:ERT 2
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/31210
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD", GR028:ERT 3
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/31209
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD", GR029:ERT NEWS
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/31208
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD", GR030:ERT SPORTS
 http://yesimes.oknirvana.club:8880/D12m1640/693788036/31207
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD", GR033:EUROSPORT 2
 http://yesimes.oknirvana.club:8880/D12m1640/693788036/31204
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD", GR077:NOVA SPORT 1
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/31160
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD", GR078:NOVA SPORT 2
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/31159
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD", GR079:NOVA SPORT 3
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/31158
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD", GR080:NOVA SPORT 4
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/31157
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD", GR082:NOVA SPORT 6
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/31155
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD", GR083:Nova Sports Prime (ONLY LIVE)
 http://yesimes.oknirvana.club:8880/D12m1640/693788036/31154
@@ -16404,8 +16307,6 @@ http://yesimes.oknirvana.club:8880/D12m1640/693788036/51284
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD", PE011:Movistar Deportes
 http://yesimes.oknirvana.club:8880/D12m1640/693788036/51340
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD", MX003:A3 Series HD
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/51455
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD", MX004:Adrenalina Sports Network
 http://yesimes.oknirvana.club:8880/D12m1640/693788036/51454
@@ -16427,9 +16328,6 @@ http://yesimes.oknirvana.club:8880/D12m1640/693788036/51392
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD", MX067:ESPN EXTRA
 http://yesimes.oknirvana.club:8880/D12m1640/693788036/51391
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD", MX071:NICK 2
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/51387
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD", MX075:Star Channel
 http://yesimes.oknirvana.club:8880/D12m1640/693788036/51383
