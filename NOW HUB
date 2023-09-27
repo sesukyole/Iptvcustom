@@ -8768,28 +8768,6 @@ http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=30506&extens
 http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=949137&extension=ts&play_token=qZD8xDrFA8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Sky_Sport_Action.svg/2560px-Sky_Sport_Action.svg.png" group-title="SKY GRUP", SKY SPORT ACTION UK
-http://premium-ks.ddns.net:88/Megaiptv/YlMNx6nZAA/57845
-#EXTINF:-1 tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2020/09/Sky-Sports-Arena-2020-logo-250.png" group-title="SKY GRUP", SKY SPORT ARENA UK
-http://premium-ks.ddns.net:88/Megaiptv/YlMNx6nZAA/57846
-#EXTINF:-1 tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2020/09/Sky-Sports-Cricket-2020-logo-250.png" group-title="SKY GRUP", SKY SPORT CRICKET UK
-http://premium-ks.ddns.net:88/Megaiptv/YlMNx6nZAA/57848
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7lsZpsfC27_SyLsXz1FeGUQW7g38yAScRrLuL_W6wbyazmmvqowvcjixYtX2X4neMQL8&usqp=CAU" group-title="SKY GRUP", SKY SPORT F1 UK
-http://premium-ks.ddns.net:88/Megaiptv/YlMNx6nZAA/57849
-#EXTINF:-1 tvg-logo="https://ia600609.us.archive.org/8/items/SkySportsFootball_201708/sky%20sports%20football.png" group-title="SKY GRUP", SKY SPORT FOOTBALL UK
-http://premium-ks.ddns.net:88/Megaiptv/YlMNx6nZAA/57850
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Sky_Sport_Golf_-_Logo_2018.svg/1280px-Sky_Sport_Golf_-_Logo_2018.svg.png" group-title="SKY GRUP", SKY SPORT GOLF UK
-http://premium-ks.ddns.net:88/Megaiptv/YlMNx6nZAA/57851
-#EXTINF:-1 tvg-logo="https://songslover.in/wp-content/uploads/Sky-Sports-Main-Event.png" group-title="SKY GRUP", SKY SPORT MAIN EVENT UK
-http://premium-ks.ddns.net:88/Megaiptv/YlMNx6nZAA/57852
-#EXTINF:-1 tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2020/09/Sky-Sports-Mix-2020-logo-250.png" group-title="SKY GRUP", SKY SPORT MIX UK
-http://premium-ks.ddns.net:88/Megaiptv/YlMNx6nZAA/57853
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNi2Iptg_QIQ3FXA61R2oy32SMgM6b6Wj4a8nepdwdfUhwkhJWRiY1H6evFuTWbiHLegE&usqp=CAU" group-title="SKY GRUP", SKY SPORT PREMIER LEAGUE UK
-http://premium-ks.ddns.net:88/Megaiptv/YlMNx6nZAA/57855
-
-
-
-
 
 
 #######################
@@ -8798,254 +8776,145 @@ MOVISTAR GRUP   #######
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="MOVISTAR GRUP", ###MOVISTAR GRUP###
 https://github.com/inaldie/inaldie/raw/main/LOGO.ts
 
-#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/7ccc72037477a18bc857a423caa99782.png" group-title="MOVISTAR GRUP", MOVIESTAR SPORT LALIGA
-http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=16510_&extension=ts
-#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/7ccc72037477a18bc857a423caa99782.png" group-title="MOVISTAR GRUP", MOVIESTAR SPORT LALIGA 1
-http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=61974_&extension=ts
-#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/3bc7bd0c0d7c674814b95854fe822497.png" group-title="MOVISTAR GRUP", MOVIESTAR F1
-http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=61977_&extension=ts
-#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/6d6ca5aab7ca4523edf5dad3584b99b8.png" group-title="MOVISTAR GRUP", MOVIESTAR GOLF
-http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=16509_&extension=ts
-#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/23bff39caa6c38314464ef754ca4a5e2.png" group-title="MOVISTAR GRUP", MOVIESTAR LIGA DE CAMPEONES 1
-http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=560_&extension=ts
-#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/23bff39caa6c38314464ef754ca4a5e2.png" group-title="MOVISTAR GRUP", MOVIESTAR LIGA DE CAMPEONES 2
-http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=16512_&extension=ts
-
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0QMbF488/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png" group-title="MOVISTAR GRUP", MD• M+ LIGA DE CAMPEONES (HD) »1«
-http://ultrapremium.cloud:8080/live/56998400979wspzero/060222zero/25780.m3u8
+http://ultrapremium.ch:8080/6093778/8062022/25780
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0QMbF488/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png" group-title="MOVISTAR GRUP", MD• M+ LIGA DE CAMPEONES (HD) »2«
-http://ultrapremium.cloud:8080/live/56998400979wspzero/060222zero/25781.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fnkd6p2/CPACCI.png" group-title="MOVISTAR GRUP", ES:M+ ACCION HD
-http://ultrapremium.cloud:8080/live/56998400979wspzero/060222zero/25783.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TtfXKdY/CPCOLE.png" group-title="MOVISTAR GRUP", ES:M+ DRAMA HD
-http://ultrapremium.cloud:8080/live/56998400979wspzero/060222zero/25784.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/b1m08wJ/MV2.png" group-title="MOVISTAR GRUP", ES:M+ SERIES HD
-http://ultrapremium.cloud:8080/live/56998400979wspzero/060222zero/25785.m3u8
+http://ultrapremium.ch:8080/6093778/8062022/25781
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0QMbF488/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png" group-title="MOVISTAR GRUP", MD• M+ LIGA DE CAMPEONES (HD) »3«
-http://ultrapremium.cloud:8080/live/56998400979wspzero/060222zero/25786.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mCKw8WJ/MSUSP.png" group-title="MOVISTAR GRUP", ES:M+ SUSPENSE
-http://ultrapremium.cloud:8080/live/56998400979wspzero/060222zero/25787.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TtfXKdY/CPCOLE.png" group-title="MOVISTAR GRUP", ES:M+ DRAMA HD HEVC
-http://ultrapremium.cloud:8080/live/56998400979wspzero/060222zero/25790.m3u8
+http://ultrapremium.ch:8080/6093778/8062022/25786
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0QMbF488/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png" group-title="MOVISTAR GRUP", MD• M+ LIGA DE CAMPEONES (HD) »4«
-http://ultrapremium.cloud:8080/live/56998400979wspzero/060222zero/25791.m3u8
+http://ultrapremium.ch:8080/6093778/8062022/25791
+
 #EXTINF:-1 tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="MOVISTAR GRUP", MD• M+ DEPORTES (HD) »1«
-http://ultrapremium.cloud:8080/live/56998400979wspzero/060222zero/25795.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SQgb6wN/CPCOME.png" group-title="MOVISTAR GRUP", ES:M+ COMEDIA HD
-http://ultrapremium.cloud:8080/live/56998400979wspzero/060222zero/25796.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CV1PPKB/MCLAS.png" group-title="MOVISTAR GRUP", ES:M+ CLASICOS HD
-http://ultrapremium.cloud:8080/live/56998400979wspzero/060222zero/25797.m3u8
+http://ultrapremium.ch:8080/6093778/8062022/25795
+
 #EXTINF:-1 tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="MOVISTAR GRUP", MD• M+ DEPORTES (HD) »2«
-http://ultrapremium.cloud:8080/live/56998400979wspzero/060222zero/25800.m3u8
+http://ultrapremium.ch:8080/6093778/8062022/25800
+
 #EXTINF:-1 tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="MOVISTAR GRUP", MD• M+ DEPORTES (HD) »3«
-http://ultrapremium.cloud:8080/live/56998400979wspzero/060222zero/25801.m3u8
+http://ultrapremium.ch:8080/6093778/8062022/25801
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rQfb7mP/GOLF.png" group-title="MOVISTAR GRUP", MD• M+ GOLF (HD)
-http://ultrapremium.cloud:8080/live/56998400979wspzero/060222zero/25802.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/R3B8J0Z/DCESP.png" group-title="MOVISTAR GRUP", ES:M+ CINE ESPAÑOL
-http://ultrapremium.cloud:8080/live/56998400979wspzero/060222zero/25804.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tCR9cqq/MORIG.png" group-title="MOVISTAR GRUP", ES:M+ ORIGINALES
-http://ultrapremium.cloud:8080/live/56998400979wspzero/060222zero/25805.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fnkd6p2/CPACCI.png" group-title="MOVISTAR GRUP", ES:M+ ACCION HD
-http://ultrapremium.cloud:8080/live/56998400979wspzero/060222zero/25806.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SQgb6wN/CPCOME.png" group-title="MOVISTAR GRUP", ES:M+ COMEDIA HD HEVC
-http://ultrapremium.cloud:8080/live/56998400979wspzero/060222zero/25808.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xGbqNq0/ARTHUR.png" group-title="MOVISTAR GRUP", ES:MOVISTAR DEPORTE 2 HD
-http://ultrapremium.cloud:8080/live/56998400979wspzero/060222zero/12302.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/c3tqLGh/USOP2.png" group-title="MOVISTAR GRUP", ES:MOVISTAR DEPORTE 3 HD
-http://ultrapremium.cloud:8080/live/56998400979wspzero/060222zero/12303.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/sgGVk99/MLIGA.png" group-title="MOVISTAR GRUP", ES:MOVISTAR LA LIGA HD
-http://ultrapremium.cloud:8080/live/56998400979wspzero/060222zero/12306.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/f4PrgJ8/CPDEP.png" group-title="MOVISTAR GRUP", ES:MOVISTAR DEPORTES HD
-http://ultrapremium.cloud:8080/live/56998400979wspzero/060222zero/12307.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fnkd6p2/CPACCI.png" group-title="MOVISTAR GRUP", ES:MOVISTAR ACCION HD
-http://ultrapremium.cloud:8080/live/56998400979wspzero/060222zero/12308.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TtfXKdY/CPCOLE.png" group-title="MOVISTAR GRUP", ES:MOVISTAR DRAMA HD
-http://ultrapremium.cloud:8080/live/56998400979wspzero/060222zero/12309.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/R3B8J0Z/DCESP.png" group-title="MOVISTAR GRUP", ES: MOVISTAR CINE ESPAÑOL
-http://ultrapremium.cloud:8080/live/56998400979wspzero/060222zero/12313.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/b1m08wJ/MV2.png" group-title="MOVISTAR GRUP", ES:MOVISTAR SERIES HD
-http://ultrapremium.cloud:8080/live/56998400979wspzero/060222zero/12339.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/f4PrgJ8/CPDEP.png" group-title="MOVISTAR GRUP", ES:MOVISTAR DEPORTES FHD
-http://ultrapremium.cloud:8080/live/56998400979wspzero/060222zero/12345.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mCKw8WJ/MSUSP.png" group-title="MOVISTAR GRUP", ES:MOVISTAR SUSPENSE
-http://ultrapremium.cloud:8080/live/56998400979wspzero/060222zero/12347.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/sgGVk99/MLIGA.png" group-title="MOVISTAR GRUP", ES:Movistar LaLiga HD
-http://ultrapremium.cloud:8080/live/56998400979wspzero/060222zero/12350.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TtfXKdY/CPCOLE.png" group-title="MOVISTAR GRUP", ES:MOVISTAR DRAMA HD HEVC
-http://ultrapremium.cloud:8080/live/56998400979wspzero/060222zero/12352.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/f4PrgJ8/CPDEP.png" group-title="MOVISTAR GRUP", ES:MOVISTAR DEPORTESHD HEVC
-http://ultrapremium.cloud:8080/live/56998400979wspzero/060222zero/12353.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tCR9cqq/MORIG.png" group-title="MOVISTAR GRUP", ES:MOVISTAR ORIGINALES HD
-http://ultrapremium.cloud:8080/live/56998400979wspzero/060222zero/12367.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/sgGVk99/MLIGA.png" group-title="MOVISTAR GRUP", ES:MOVISTAR LALIGA HD
-http://ultrapremium.cloud:8080/live/56998400979wspzero/060222zero/12370.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rQfb7mP/GOLF.png" group-title="MOVISTAR GRUP", ES:MOVISTAR GOLF HD
-http://ultrapremium.cloud:8080/live/56998400979wspzero/060222zero/12372.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/sgGVk99/MLIGA.png" group-title="MOVISTAR GRUP", ES:Movistar LaLiga
-http://ultrapremium.cloud:8080/live/56998400979wspzero/060222zero/12380.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xGbqNq0/ARTHUR.png" group-title="MOVISTAR GRUP", ES:MOVISTAR DEPORTES 2 HD
-http://ultrapremium.cloud:8080/live/56998400979wspzero/060222zero/12382.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SQgb6wN/CPCOME.png" group-title="MOVISTAR GRUP", ES:MOVISTAR COMEDIA HD
-http://ultrapremium.cloud:8080/live/56998400979wspzero/060222zero/12383.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/b1m08wJ/MV2.png" group-title="MOVISTAR GRUP", ES:MOVISTAR SERIE HD
-http://ultrapremium.cloud:8080/live/56998400979wspzero/060222zero/12384.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rQfb7mP/GOLF.png" group-title="MOVISTAR GRUP", ES:MOVISTAR GOLF FHD
-http://ultrapremium.cloud:8080/live/56998400979wspzero/060222zero/12398.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/f4PrgJ8/CPDEP.png" group-title="MOVISTAR GRUP", ES:Movistar Deportes HD
-http://ultrapremium.cloud:8080/live/56998400979wspzero/060222zero/12399.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/chT748n/CHAPIO.png" group-title="MOVISTAR GRUP", ES:Movistar Liga de Campeones HD
-http://ultrapremium.cloud:8080/live/56998400979wspzero/060222zero/12404.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KhJwh0J/MV1.png" group-title="MOVISTAR GRUP", ES:MOVISTAR CINE HD
-http://ultrapremium.cloud:8080/live/56998400979wspzero/060222zero/12447.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/R3B8J0Z/DCESP.png" group-title="MOVISTAR GRUP", ES:MOVISTAR CINE ESPAÑOL HD
-http://ultrapremium.cloud:8080/live/56998400979wspzero/060222zero/12448.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fnkd6p2/CPACCI.png" group-title="MOVISTAR GRUP", ES:MOVISTAR ACCION HD
-http://ultrapremium.cloud:8080/live/56998400979wspzero/060222zero/12450.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SQgb6wN/CPCOME.png" group-title="MOVISTAR GRUP", ES:MOVISTAR COMEDIA HD HEVC
-http://ultrapremium.cloud:8080/live/56998400979wspzero/060222zero/12457.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SvhnzBP/CHAP1.png" group-title="MOVISTAR GRUP", ES:MOVISTAR LIGA CAMPEONES 2 [LIVE-EVENT]
-http://ultrapremium.cloud:8080/live/56998400979wspzero/060222zero/12458.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/chT748n/CHAPIO.png" group-title="MOVISTAR GRUP", ES:MOVISTAR LIGA CAMPEONES HEVC
-http://ultrapremium.cloud:8080/live/56998400979wspzero/060222zero/12459.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/sgGVk99/MLIGA.png" group-title="MOVISTAR GRUP", ES:Movistar LaLiga
-http://ultrapremium.cloud:8080/live/56998400979wspzero/060222zero/12465.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/chT748n/CHAPIO.png" group-title="MOVISTAR GRUP", ES:Movistar Liga de Campeones
-http://ultrapremium.cloud:8080/live/56998400979wspzero/060222zero/12468.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/f4PrgJ8/CPDEP.png" group-title="MOVISTAR GRUP", ES:Movistar Deportes
-http://ultrapremium.cloud:8080/live/56998400979wspzero/060222zero/12470.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/g6zPmcQ/MPLUS.png" group-title="MOVISTAR GRUP", M+  FHD
-http://ultrapremium.cloud:8080/live/56998400979wspzero/060222zero/60144.m3u8
+http://ultrapremium.ch:8080/6093778/8062022/25802
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="MOVISTAR GRUP", M+ CHAMPIONS TOUR HD
-http://ultrapremium.cloud:8080/live/56998400979wspzero/060222zero/60247.m3u8
+http://ultrapremium.ch:8080/6093778/8062022/60247
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="MOVISTAR GRUP", M+  CHAMPIONS TOUR FHD
-http://ultrapremium.cloud:8080/live/56998400979wspzero/060222zero/60248.m3u8
+http://ultrapremium.ch:8080/6093778/8062022/60248
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/c6ZBdvS/VAMOSD.png" group-title="MOVISTAR GRUP", M+ VAMOS FHD
-http://ultrapremium.cloud:8080/live/56998400979wspzero/060222zero/60323.m3u8
+http://ultrapremium.ch:8080/6093778/8062022/60323
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/c6ZBdvS/VAMOSD.png" group-title="MOVISTAR GRUP", M+ VAMOS FHD (FIBRA)
-http://ultrapremium.cloud:8080/live/56998400979wspzero/060222zero/60324.m3u8
+http://ultrapremium.ch:8080/6093778/8062022/60324
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/c6ZBdvS/VAMOSD.png" group-title="MOVISTAR GRUP", M+ VAMOS FHD (OP B)
-http://ultrapremium.cloud:8080/live/56998400979wspzero/060222zero/60325.m3u8
+http://ultrapremium.ch:8080/6093778/8062022/60325
 
 #EXTINF:-1 tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="MOVISTAR GRUP", M+ DEPORTES SD
-http://ultrapremium.cloud:8080/live/56998400979wspzero/060222zero/60326.m3u8
+http://ultrapremium.ch:8080/6093778/8062022/60326
 
 #EXTINF:-1 tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="MOVISTAR GRUP", M+ DEPORTES HD
-http://ultrapremium.cloud:8080/live/56998400979wspzero/060222zero/60327.m3u8
+http://ultrapremium.ch:8080/6093778/8062022/60327
 
 #EXTINF:-1 tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="MOVISTAR GRUP", M+ DEPORTES FHD
-http://ultrapremium.cloud:8080/live/56998400979wspzero/060222zero/60328.m3u8
+http://ultrapremium.ch:8080/6093778/8062022/60328
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Movistar_Deportes_1.svg/1024px-Movistar_Deportes_1.svg.png" group-title="MOVISTAR GRUP", M+  DEPORTES 1 SD
-http://ultrapremium.cloud:8080/live/56998400979wspzero/060222zero/60329.m3u8
+http://ultrapremium.ch:8080/6093778/8062022/60329
 
 #EXTINF:-1 tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="MOVISTAR GRUP", M+ DEPORTES 1 FHD
-http://ultrapremium.cloud:8080/live/56998400979wspzero/060222zero/60330.m3u8
+http://ultrapremium.ch:8080/6093778/8062022/60330
 
 #EXTINF:-1 tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="MOVISTAR GRUP", M+ DEPORTES 2 HD
-http://ultrapremium.cloud:8080/live/56998400979wspzero/060222zero/60331.m3u8
+http://ultrapremium.ch:8080/6093778/8062022/60331
 
 #EXTINF:-1 tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="MOVISTAR GRUP", M+ DEPORTES 2 FHD
-http://ultrapremium.cloud:8080/live/56998400979wspzero/060222zero/60332.m3u8
+http://ultrapremium.ch:8080/6093778/8062022/60332
 
 #EXTINF:-1 tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="MOVISTAR GRUP", M+ DEPORTES 3 HD
-http://ultrapremium.cloud:8080/live/56998400979wspzero/060222zero/60333.m3u8
+http://ultrapremium.ch:8080/6093778/8062022/60333
 
 #EXTINF:-1 tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="MOVISTAR GRUP", M+ DEPORTES 3 FHD
-http://ultrapremium.cloud:8080/live/56998400979wspzero/060222zero/60334.m3u8
+http://ultrapremium.ch:8080/6093778/8062022/60334
 
 #EXTINF:-1 tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="MOVISTAR GRUP", M+ DEPORTES 4 HD
-http://ultrapremium.cloud:8080/live/56998400979wspzero/060222zero/60335.m3u8
+http://ultrapremium.ch:8080/6093778/8062022/60335
 
 #EXTINF:-1 tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="MOVISTAR GRUP", M+ DEPORTES 4 FHD
-http://ultrapremium.cloud:8080/live/56998400979wspzero/060222zero/60336.m3u8
+http://ultrapremium.ch:8080/6093778/8062022/60336
 
 #EXTINF:-1 tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="MOVISTAR GRUP", M+ DEPORTES  5 HD
-http://ultrapremium.cloud:8080/live/56998400979wspzero/060222zero/60337.m3u8
+http://ultrapremium.ch:8080/6093778/8062022/60337
 
 #EXTINF:-1 tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="MOVISTAR GRUP", M+ DEPORTES 5 FHD
-http://ultrapremium.cloud:8080/live/56998400979wspzero/060222zero/60338.m3u8
+http://ultrapremium.ch:8080/6093778/8062022/60338
 
 #EXTINF:-1 tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="MOVISTAR GRUP", M+ DEPORTES 6 HD
-http://ultrapremium.cloud:8080/live/56998400979wspzero/060222zero/60339.m3u8
+http://ultrapremium.ch:8080/6093778/8062022/60339
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rQfb7mP/GOLF.png" group-title="MOVISTAR GRUP", M+ GOLF SD
-http://ultrapremium.cloud:8080/live/56998400979wspzero/060222zero/60343.m3u8
+http://ultrapremium.ch:8080/6093778/8062022/60343
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rQfb7mP/GOLF.png" group-title="MOVISTAR GRUP", M+ GOLF HD
-http://ultrapremium.cloud:8080/live/56998400979wspzero/060222zero/60344.m3u8
+http://ultrapremium.ch:8080/6093778/8062022/60344
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rQfb7mP/GOLF.png" group-title="MOVISTAR GRUP", M+ GOLF FHD
-http://ultrapremium.cloud:8080/live/56998400979wspzero/060222zero/60345.m3u8
+http://ultrapremium.ch:8080/6093778/8062022/60345
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOLF2.png" group-title="MOVISTAR GRUP", M+  GOLF 2 SD
-http://ultrapremium.cloud:8080/live/56998400979wspzero/060222zero/60346.m3u8
+http://ultrapremium.ch:8080/6093778/8062022/60346
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOLF2.png" group-title="MOVISTAR GRUP", M+ GOLF 2 HD
-http://ultrapremium.cloud:8080/live/56998400979wspzero/060222zero/60347.m3u8
+http://ultrapremium.ch:8080/6093778/8062022/60347
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOLF2.png" group-title="MOVISTAR GRUP", M+ GOLF 2 FHD
-http://ultrapremium.cloud:8080/live/56998400979wspzero/060222zero/60348.m3u8
+http://ultrapremium.ch:8080/6093778/8062022/60348
 
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" group-title="MOVISTAR GRUP", DAZN MOVISTAR 1 SD
-http://ultrapremium.cloud:8080/live/56998400979wspzero/060222zero/60354.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" group-title="MOVISTAR GRUP", DAZN MOVISTAR 1 HD
-http://ultrapremium.cloud:8080/live/56998400979wspzero/060222zero/60355.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" group-title="MOVISTAR GRUP", DAZN MOVISTAR FHD (PV)
-http://ultrapremium.cloud:8080/live/56998400979wspzero/060222zero/60356.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fnkd6p2/CPACCI.png" group-title="MOVISTAR GRUP", ES:M+ ACCION HD
+http://ultrapremium.ch:8080/6093778/8062022/25783
 
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-es-2511.png" group-title="MOVISTAR GRUP", DAZN MOVISTAR 2 SD
-http://ultrapremium.cloud:8080/live/56998400979wspzero/060222zero/60357.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TtfXKdY/CPCOLE.png" group-title="MOVISTAR GRUP", ES:M+ DRAMA HD
+http://ultrapremium.ch:8080/6093778/8062022/25784
 
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-es-2511.png" group-title="MOVISTAR GRUP", DAZN MOVISTAR 2 HD
-http://ultrapremium.cloud:8080/live/56998400979wspzero/060222zero/60358.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/b1m08wJ/MV2.png" group-title="MOVISTAR GRUP", ES:M+ SERIES HD
+http://ultrapremium.ch:8080/6093778/8062022/25785
 
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-es-2511.png" group-title="MOVISTAR GRUP", DAZN MOVISTAR 2 FHD
-http://ultrapremium.cloud:8080/live/56998400979wspzero/060222zero/60359.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mCKw8WJ/MSUSP.png" group-title="MOVISTAR GRUP", ES:M+ SUSPENSE
+http://ultrapremium.ch:8080/6093778/8062022/25787
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVISTAR GRUP", DAZN MOVISTAR 2 FHD
-http://ultrapremium.cloud:8080/live/56998400979wspzero/060222zero/60360.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TtfXKdY/CPCOLE.png" group-title="MOVISTAR GRUP", ES:M+ DRAMA HD HEVC
+http://ultrapremium.ch:8080/6093778/8062022/25790
 
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-3-es-2524.png" group-title="MOVISTAR GRUP", DAZN MOVISTAR 3 HD
-http://ultrapremium.cloud:8080/live/56998400979wspzero/060222zero/60361.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SQgb6wN/CPCOME.png" group-title="MOVISTAR GRUP", ES:M+ COMEDIA HD
+http://ultrapremium.ch:8080/6093778/8062022/25796
 
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-3-es-2524.png" group-title="MOVISTAR GRUP", DAZN MOVISTAR 3 FHD
-http://ultrapremium.cloud:8080/live/56998400979wspzero/060222zero/60362.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CV1PPKB/MCLAS.png" group-title="MOVISTAR GRUP", ES:M+ CLASICOS HD
+http://ultrapremium.ch:8080/6093778/8062022/25797
 
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a2525.png" group-title="MOVISTAR GRUP", DAZN MOVISTAR 4 HD
-http://ultrapremium.cloud:8080/live/56998400979wspzero/060222zero/60363.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/R3B8J0Z/DCESP.png" group-title="MOVISTAR GRUP", ES:M+ CINE ESPAÑOL
+http://ultrapremium.ch:8080/6093778/8062022/25804
 
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a2525.png" group-title="MOVISTAR GRUP", DAZN MOVISTAR 4 FHD
-http://ultrapremium.cloud:8080/live/56998400979wspzero/060222zero/60364.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tCR9cqq/MORIG.png" group-title="MOVISTAR GRUP", ES:M+ ORIGINALES
+http://ultrapremium.ch:8080/6093778/8062022/25805
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/g6zPmcQ/MPLUS.png" group-title="MOVISTAR GRUP", M+ (FIBRA)
-http://ultrapremium.cloud:8080/live/56998400979wspzero/060222zero/61014.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fnkd6p2/CPACCI.png" group-title="MOVISTAR GRUP", ES:M+ ACCION HD
+http://ultrapremium.ch:8080/6093778/8062022/25806
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SQgb6wN/CPCOME.png" group-title="MOVISTAR GRUP", ES:M+ COMEDIA HD HEVC
+http://ultrapremium.ch:8080/6093778/8062022/25808
+
+
+
+
 
 
 
