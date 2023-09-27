@@ -8690,16 +8690,12 @@ http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=14184546_&extens
 http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=331469_&extension=ts
 #EXTINF:-1 tvg-logo="https://truthinadvertising.org/wp-content/uploads/2018/10/Screen-Shot-2018-10-29-at-4.29.06-PM.png" group-title="BEIN GRUP", BEIN SPORT CONECT N AU
 http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=23399_&extension=ts
-
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_ENGLISH_Digital_Mono.png" group-title="BEIN GRUP", BEIN SPORT 1 ENGLISH
 http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=94452_&extension=ts
-
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/wprkho1631279247.png" group-title="BEIN GRUP", BEIN SPORT 2 ENGLISH
 http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=94448_&extension=ts
-
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/836319515679993856/o21RFHuA_400x400.jpg" group-title="BEIN GRUP", BEIN SPORT N
 http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=39504_&extension=ts
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/BeIN_SPORTS_USA_logo_2017.jpg" group-title="BEIN GRUP", BEIN SPORT US CANADA
 http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=39506_&extension=ts
 
@@ -8764,30 +8760,28 @@ http://pro.xviptv.com:25443/live/6532287675/4648388393/48027.ts
 #EXTINF:-1 tvg-logo="http://one-iptv.com/imageslogo/beINSeries2.qa.png" group-title="BEIN GRUP", AR.| SERIES 2 HD
 http://pro.xviptv.com:25443/live/6532287675/4648388393/48025.ts
 
-
+#EXTINF:-1 tvg-logo="http://myserveriptv.com:2082/images/2fa86f2a5babb597834554c03a0860e1.png" group-title="BEIN GRUP", TR: beIN Movies Premier 1
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:19:76&stream=1141583&extension=ts&play_token=qNoWnPrBn5
+#EXTINF:-1 tvg-logo="http://myserveriptv.com:2082/images/2fa86f2a5babb597834554c03a0860e1.png" group-title="BEIN GRUP", TR: beIN Movies Premier 2
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:19:76&stream=913327&extension=ts&play_token=H9yzjVGOCF
+#EXTINF:-1 tvg-logo="http://myserveriptv.com:2082/images/ba2b1abc4df0f24ec4624342dcaf19e3.png" group-title="BEIN GRUP", TR: beIN Movies Action 2
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:19:76&stream=1141582&extension=ts&play_token=lTy95WvyCa
+#EXTINF:-1 tvg-logo="http://myserveriptv.com:2082/images/ba2b1abc4df0f24ec4624342dcaf19e3.png" group-title="BEIN GRUP", TR: beIN Movies Drama 3
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:19:76&stream=1141581&extension=ts&play_token=XqpF5pgqWW
+#EXTINF:-1 tvg-logo="http://myserveriptv.com:2082/images/d6f6094f9be5308137b62e9ce633d4b9.png" group-title="BEIN GRUP", TR: beIN Movies Family 4
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:19:76&stream=1141580&extension=ts&play_token=ls8DWviiCT
+#EXTINF:-1 tvg-logo="http://myserveriptv.com:2082/images/c49ddd4e9867820542e3032033ccc84c.png" group-title="BEIN GRUP", TR: beIN Movies Stars
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:19:76&stream=913331&extension=ts&play_token=f3LYqCh7tQ
+#EXTINF:-1 tvg-logo="http://myserveriptv.com:2082/images/80e0593a98643f551372665f61d7df2f.png" group-title="BEIN GRUP", TR: beIN Movies Turk
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:19:76&stream=913333&extension=ts&play_token=AG3EqDZEJE
+#EXTINF:-1 tvg-logo="http://myserveriptv.com:2082/images/7a77bc177557656c0bd8e21f4c37a784.png" group-title="BEIN GRUP", TR: beIN Series 1
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:19:76&stream=1141579&extension=ts&play_token=EaTWuWOl6J
+#EXTINF:-1 tvg-logo="http://myserveriptv.com:2082/images/06caa8cf1237174d03e61498252b9527.png" group-title="BEIN GRUP", TR: beIN Series 2
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:19:76&stream=1141578&extension=ts&play_token=dfIxF8rFhH
 #EXTINF:-1 tvg-logo="http://myserveriptv.com:2082/images/808fc32d630bbb702a81e320385fe9a5.png" group-title="BEIN GRUP", TR: beIN Gurme
-http://31.42.184.159:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/39110
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:19:76&stream=913165&extension=ts&play_token=bZXLmsu2RI
 #EXTINF:-1 tvg-logo="http://myserveriptv.com:2082/images/a7f6f5c42cc96bae07620ebc5a90e284.png" group-title="BEIN GRUP", TR: beIN IZ
 http://31.42.184.159:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/77302
-#EXTINF:-1 tvg-logo="http://myserveriptv.com:2082/images/ba2b1abc4df0f24ec4624342dcaf19e3.png" group-title="BEIN GRUP", TR: beIN Movies Action
-http://31.42.184.159:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/77284
-#EXTINF:-1 tvg-logo="http://myserveriptv.com:2082/images/ba2b1abc4df0f24ec4624342dcaf19e3.png" group-title="BEIN GRUP", TR: beIN Movies Action 2
-http://31.42.184.159:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/77469
-#EXTINF:-1 tvg-logo="http://myserveriptv.com:2082/images/d6f6094f9be5308137b62e9ce633d4b9.png" group-title="BEIN GRUP", TR: beIN Movies Family
-http://31.42.184.159:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/77285
-#EXTINF:-1 tvg-logo="http://myserveriptv.com:2082/images/2fa86f2a5babb597834554c03a0860e1.png" group-title="BEIN GRUP", TR: beIN Movies Premier
-http://31.42.184.159:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/77281
-#EXTINF:-1 tvg-logo="http://myserveriptv.com:2082/images/2fa86f2a5babb597834554c03a0860e1.png" group-title="BEIN GRUP", TR: beIN Movies Premier 2
-http://31.42.184.159:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/77282
-#EXTINF:-1 tvg-logo="http://myserveriptv.com:2082/images/c49ddd4e9867820542e3032033ccc84c.png" group-title="BEIN GRUP", TR: beIN Movies Stars
-http://31.42.184.159:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/77283
-#EXTINF:-1 tvg-logo="http://myserveriptv.com:2082/images/80e0593a98643f551372665f61d7df2f.png" group-title="BEIN GRUP", TR: beIN Movies Turk
-http://31.42.184.159:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/77286
-#EXTINF:-1 tvg-logo="http://myserveriptv.com:2082/images/7a77bc177557656c0bd8e21f4c37a784.png" group-title="BEIN GRUP", TR: beIN Series 1
-http://31.42.184.159:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/144690
-#EXTINF:-1 tvg-logo="http://myserveriptv.com:2082/images/06caa8cf1237174d03e61498252b9527.png" group-title="BEIN GRUP", TR: beIN Series 2
-http://31.42.184.159:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/144691
-
 
 
 #######################
