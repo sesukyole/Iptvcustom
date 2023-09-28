@@ -13043,7 +13043,7 @@ http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=1032481&exte
 #######################
 MLS FOOTBALL #########
 ################################################################################################################################################################################# CLUB FOOTBALL
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="MLS SPORT", ###MLS SPORT###
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="MLS FOOTBALL", ###MLS SPORT###
 https://github.com/inaldie/inaldie/raw/main/LOGO.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbSE4nq8mB3cnzkzGAgTnSkrTzr7CMC6Dzdg&usqp=CAU" group-title="MLS FOOTBALL",  MLS 1
