@@ -13488,7 +13488,7 @@ http://magi-stv.net:8080/UzielLCH/UzielLCH/10653
 http://magi-stv.net:8080/UzielLCH/UzielLCH/10946
 #EXTINF:-1 tvg-logo="http://ceoapps.org/logos/espnu.png" group-title="ESPN SPORT", S| Espn U | HD
 http://magi-stv.net:8080/UzielLCH/UzielLCH/10947
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/1280px-ESPNews.svg.png" ggroup-title="ESPN SPORT", USA | ESPNews
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/1280px-ESPNews.svg.png" group-title="ESPN SPORT", USA | ESPNews
 http://magi-stv.net:8080/UzielLCH/UzielLCH/2113598
 #EXTINF:-1 tvg-logo="http://ceoapp.org/logos/espnnetworks.png" group-title="ESPN SPORT", S| Espn Network
 http://magi-stv.net:8080/UzielLCH/UzielLCH/2121885
