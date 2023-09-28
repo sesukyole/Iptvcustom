@@ -8861,139 +8861,194 @@ https://github.com/inaldie/inaldie/raw/main/LOGO.ts
 
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0QMbF488/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png" group-title="MOVISTAR GRUP", MD• M+ LIGA DE CAMPEONES (HD) »1«
-http://ultrapremium.ch:8080/6093778/8062022/25780
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0QMbF488/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png" group-title="MOVISTAR GRUP", MD• M+ LIGA DE CAMPEONES (HD) »2«
-http://ultrapremium.ch:8080/6093778/8062022/25781
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0QMbF488/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png" group-title="MOVISTAR GRUP", MD• M+ LIGA DE CAMPEONES (HD) »3«
-http://ultrapremium.ch:8080/6093778/8062022/25786
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0QMbF488/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png" group-title="MOVISTAR GRUP", MD• M+ LIGA DE CAMPEONES (HD) »4«
-http://ultrapremium.ch:8080/6093778/8062022/25791
-
-#EXTINF:-1 tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="MOVISTAR GRUP", MD• M+ DEPORTES (HD) »1«
-http://ultrapremium.ch:8080/6093778/8062022/25795
-
-#EXTINF:-1 tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="MOVISTAR GRUP", MD• M+ DEPORTES (HD) »2«
-http://ultrapremium.ch:8080/6093778/8062022/25800
-
-#EXTINF:-1 tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="MOVISTAR GRUP", MD• M+ DEPORTES (HD) »3«
-http://ultrapremium.ch:8080/6093778/8062022/25801
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rQfb7mP/GOLF.png" group-title="MOVISTAR GRUP", MD• M+ GOLF (HD)
-http://ultrapremium.ch:8080/6093778/8062022/25802
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="MOVISTAR GRUP", M+ CHAMPIONS TOUR HD
-http://ultrapremium.ch:8080/6093778/8062022/60247
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="MOVISTAR GRUP", M+  CHAMPIONS TOUR FHD
-http://ultrapremium.ch:8080/6093778/8062022/60248
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/c6ZBdvS/VAMOSD.png" group-title="MOVISTAR GRUP", M+ VAMOS FHD
-http://ultrapremium.ch:8080/6093778/8062022/60323
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/c6ZBdvS/VAMOSD.png" group-title="MOVISTAR GRUP", M+ VAMOS FHD (FIBRA)
-http://ultrapremium.ch:8080/6093778/8062022/60324
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/c6ZBdvS/VAMOSD.png" group-title="MOVISTAR GRUP", M+ VAMOS FHD (OP B)
-http://ultrapremium.ch:8080/6093778/8062022/60325
-
-#EXTINF:-1 tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="MOVISTAR GRUP", M+ DEPORTES SD
-http://ultrapremium.ch:8080/6093778/8062022/60326
-
-#EXTINF:-1 tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="MOVISTAR GRUP", M+ DEPORTES HD
-http://ultrapremium.ch:8080/6093778/8062022/60327
-
-#EXTINF:-1 tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="MOVISTAR GRUP", M+ DEPORTES FHD
-http://ultrapremium.ch:8080/6093778/8062022/60328
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Movistar_Deportes_1.svg/1024px-Movistar_Deportes_1.svg.png" group-title="MOVISTAR GRUP", M+  DEPORTES 1 SD
-http://ultrapremium.ch:8080/6093778/8062022/60329
-
-#EXTINF:-1 tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="MOVISTAR GRUP", M+ DEPORTES 1 FHD
-http://ultrapremium.ch:8080/6093778/8062022/60330
-
-#EXTINF:-1 tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="MOVISTAR GRUP", M+ DEPORTES 2 HD
-http://ultrapremium.ch:8080/6093778/8062022/60331
-
-#EXTINF:-1 tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="MOVISTAR GRUP", M+ DEPORTES 2 FHD
-http://ultrapremium.ch:8080/6093778/8062022/60332
-
-#EXTINF:-1 tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="MOVISTAR GRUP", M+ DEPORTES 3 HD
-http://ultrapremium.ch:8080/6093778/8062022/60333
-
-#EXTINF:-1 tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="MOVISTAR GRUP", M+ DEPORTES 3 FHD
-http://ultrapremium.ch:8080/6093778/8062022/60334
-
-#EXTINF:-1 tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="MOVISTAR GRUP", M+ DEPORTES 4 HD
-http://ultrapremium.ch:8080/6093778/8062022/60335
-
-#EXTINF:-1 tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="MOVISTAR GRUP", M+ DEPORTES 4 FHD
-http://ultrapremium.ch:8080/6093778/8062022/60336
-
-#EXTINF:-1 tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="MOVISTAR GRUP", M+ DEPORTES  5 HD
-http://ultrapremium.ch:8080/6093778/8062022/60337
-
-#EXTINF:-1 tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="MOVISTAR GRUP", M+ DEPORTES 5 FHD
-http://ultrapremium.ch:8080/6093778/8062022/60338
-
-#EXTINF:-1 tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="MOVISTAR GRUP", M+ DEPORTES 6 HD
-http://ultrapremium.ch:8080/6093778/8062022/60339
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rQfb7mP/GOLF.png" group-title="MOVISTAR GRUP", M+ GOLF SD
-http://ultrapremium.ch:8080/6093778/8062022/60343
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rQfb7mP/GOLF.png" group-title="MOVISTAR GRUP", M+ GOLF HD
-http://ultrapremium.ch:8080/6093778/8062022/60344
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rQfb7mP/GOLF.png" group-title="MOVISTAR GRUP", M+ GOLF FHD
-http://ultrapremium.ch:8080/6093778/8062022/60345
-
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOLF2.png" group-title="MOVISTAR GRUP", M+  GOLF 2 SD
-http://ultrapremium.ch:8080/6093778/8062022/60346
-
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOLF2.png" group-title="MOVISTAR GRUP", M+ GOLF 2 HD
-http://ultrapremium.ch:8080/6093778/8062022/60347
-
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOLF2.png" group-title="MOVISTAR GRUP", M+ GOLF 2 FHD
-http://ultrapremium.ch:8080/6093778/8062022/60348
 
 
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/movistarf1.png" group-title="TV | Deportes", D| Movistar F1
+http://magi-stv.net:8080/UzielLCH/UzielLCH/158473
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fnkd6p2/CPACCI.png" group-title="MOVISTAR GRUP", ES:M+ ACCION HD
-http://ultrapremium.ch:8080/6093778/8062022/25783
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/movistarf1.png" group-title="TV | Deportes", D| Movistar F1 HD
+http://magi-stv.net:8080/UzielLCH/UzielLCH/170225
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TtfXKdY/CPCOLE.png" group-title="MOVISTAR GRUP", ES:M+ DRAMA HD
-http://ultrapremium.ch:8080/6093778/8062022/25784
+#EXTINF:-1 tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.png" group-title="MOVISTAR GRUP", D| Movistar La Liga
+http://magi-stv.net:8080/UzielLCH/UzielLCH/157373
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/b1m08wJ/MV2.png" group-title="MOVISTAR GRUP", ES:M+ SERIES HD
-http://ultrapremium.ch:8080/6093778/8062022/25785
+#EXTINF:-1 tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.png" group-title="MOVISTAR GRUP", D| Movistar La Liga FHD
+http://magi-stv.net:8080/UzielLCH/UzielLCH/10918
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mCKw8WJ/MSUSP.png" group-title="MOVISTAR GRUP", ES:M+ SUSPENSE
-http://ultrapremium.ch:8080/6093778/8062022/25787
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/mgolf.png" group-title="TV | Deportes", D | MOVISTAR GOLF
+http://magi-stv.net:8080/UzielLCH/UzielLCH/2100018
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TtfXKdY/CPCOLE.png" group-title="MOVISTAR GRUP", ES:M+ DRAMA HD HEVC
-http://ultrapremium.ch:8080/6093778/8062022/25790
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/movistarmotogp.png" group-title="TV | Deportes", D | MOVISTAR MOTO GP
+http://magi-stv.net:8080/UzielLCH/UzielLCH/2091493
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SQgb6wN/CPCOME.png" group-title="MOVISTAR GRUP", ES:M+ COMEDIA HD
-http://ultrapremium.ch:8080/6093778/8062022/25796
+#EXTINF:-1 tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.png" group-title="MOVISTAR GRUP", LALIGA | MOVISTAR LALIGA 1
+http://magi-stv.net:8080/UzielLCH/UzielLCH/223953
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CV1PPKB/MCLAS.png" group-title="MOVISTAR GRUP", ES:M+ CLASICOS HD
-http://ultrapremium.ch:8080/6093778/8062022/25797
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/movistardeportespe.png" group-title="TV | Peru", PE| Movistar Deportes
+http://magi-stv.net:8080/UzielLCH/UzielLCH/11438
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/R3B8J0Z/DCESP.png" group-title="MOVISTAR GRUP", ES:M+ CINE ESPAÑOL
-http://ultrapremium.ch:8080/6093778/8062022/25804
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/movistardeportespe.png" group-title="TV | Peru", PE| Movistar Deportes HQ
+http://magi-stv.net:8080/UzielLCH/UzielLCH/10643
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tCR9cqq/MORIG.png" group-title="MOVISTAR GRUP", ES:M+ ORIGINALES
-http://ultrapremium.ch:8080/6093778/8062022/25805
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/movistarplus.png" group-title="TV | Peru", PE| Movistar Plus
+http://magi-stv.net:8080/UzielLCH/UzielLCH/192424
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fnkd6p2/CPACCI.png" group-title="MOVISTAR GRUP", ES:M+ ACCION HD
-http://ultrapremium.ch:8080/6093778/8062022/25806
+#EXTINF:-1 tvg-logo="http://l3d.us:8080/images/975a9b01bff1dc14ee1325846b25918f.png" group-title="TV | Soccer Europa", SE| Movistar La Liga
+http://magi-stv.net:8080/UzielLCH/UzielLCH/223873
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SQgb6wN/CPCOME.png" group-title="MOVISTAR GRUP", ES:M+ COMEDIA HD HEVC
-http://ultrapremium.ch:8080/6093778/8062022/25808
+#EXTINF:-1 tvg-logo="http://l3d.us:25461/images/99be91125e2ef4b3c546ae82106adcc1.png" group-title="TV | Soccer Europa", SE| Movistar Liga de Campeones
+http://magi-stv.net:8080/UzielLCH/UzielLCH/219098
+
+#EXTINF:-1 tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.png" group-title="MOVISTAR GRUP", SP: La Liga: #Vamos HD
+http://magi-stv.net:8080/UzielLCH/UzielLCH/2133229
+
+#EXTINF:-1 tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.png" group-title="MOVISTAR GRUP", SP: La Liga: Barça TV
+http://magi-stv.net:8080/UzielLCH/UzielLCH/2133230
+
+#EXTINF:-1 tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.png" group-title="MOVISTAR GRUP", SP: La Liga: Dazn 2 HD
+http://magi-stv.net:8080/UzielLCH/UzielLCH/2133202
+
+#EXTINF:-1 tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.png" group-title="MOVISTAR GRUP", SP: La Liga: Dazn 2 HD
+http://magi-stv.net:8080/UzielLCH/UzielLCH/2133203
+
+#EXTINF:-1 tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.png" group-title="MOVISTAR GRUP", SP: La Liga: Dazn 3 HD
+http://magi-stv.net:8080/UzielLCH/UzielLCH/2133204
+
+#EXTINF:-1 tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.png" group-title="MOVISTAR GRUP", SP: La Liga: Dazn 4 HD
+http://magi-stv.net:8080/UzielLCH/UzielLCH/2133205
+
+#EXTINF:-1 tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.png" group-title="MOVISTAR GRUP", SP: La Liga: Dazn Formula 1 HD
+http://magi-stv.net:8080/UzielLCH/UzielLCH/2133206
+
+#EXTINF:-1 tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.png" group-title="MOVISTAR GRUP", SP: La Liga: Dazn Formula 1 HD
+http://magi-stv.net:8080/UzielLCH/UzielLCH/2133234
+
+#EXTINF:-1 tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.png" group-title="MOVISTAR GRUP", SP: La Liga: GOL SD
+http://magi-stv.net:8080/UzielLCH/UzielLCH/2133233
+
+#EXTINF:-1 tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.png" group-title="MOVISTAR GRUP", SP: La Liga: M. Golf FHD
+http://magi-stv.net:8080/UzielLCH/UzielLCH/2133235
+
+#EXTINF:-1 tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.png" group-title="MOVISTAR GRUP", SP: La Liga: M. LaLiga 3 FHD
+http://magi-stv.net:8080/UzielLCH/UzielLCH/2133213
+
+#EXTINF:-1 tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.png" group-title="MOVISTAR GRUP", SP: La Liga: M. LaLiga 4
+http://magi-stv.net:8080/UzielLCH/UzielLCH/2133214
+
+#EXTINF:-1 tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.png" group-title="MOVISTAR GRUP", SP: La Liga: M. LaLiga 5
+http://magi-stv.net:8080/UzielLCH/UzielLCH/2133215
+
+#EXTINF:-1 tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.png" group-title="MOVISTAR GRUP", SP: La Liga: M. LaLiga 6
+http://magi-stv.net:8080/UzielLCH/UzielLCH/2133216
+
+#EXTINF:-1 tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.png" group-title="MOVISTAR GRUP", SP: La Liga: M. LaLiga 7
+http://magi-stv.net:8080/UzielLCH/UzielLCH/2133217
+
+#EXTINF:-1 tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.png" group-title="MOVISTAR GRUP", SP: La Liga: M. LaLiga 8
+http://magi-stv.net:8080/UzielLCH/UzielLCH/2133218
+
+#EXTINF:-1 tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.png" group-title="MOVISTAR GRUP", SP: La Liga: M. LaLiga 9
+http://magi-stv.net:8080/UzielLCH/UzielLCH/2133219
+
+#EXTINF:-1 tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.png" group-title="MOVISTAR GRUP", SP: La Liga: M. Liga de Campeones 1 SD
+http://magi-stv.net:8080/UzielLCH/UzielLCH/2133221
+
+#EXTINF:-1 tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.png" group-title="MOVISTAR GRUP", SP: La Liga: M. Liga de Campeones 2
+http://magi-stv.net:8080/UzielLCH/UzielLCH/2133222
+
+#EXTINF:-1 tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.png" group-title="MOVISTAR GRUP", SP: La Liga: M. Liga de Campeones 3
+http://magi-stv.net:8080/UzielLCH/UzielLCH/2133223
+
+#EXTINF:-1 tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.png" group-title="MOVISTAR GRUP", SP: La Liga: M. Liga de Campeones 4
+http://magi-stv.net:8080/UzielLCH/UzielLCH/2133224
+
+#EXTINF:-1 tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.png" group-title="MOVISTAR GRUP", SP: La Liga: M. Liga de Campeones 5
+http://magi-stv.net:8080/UzielLCH/UzielLCH/2133225
+
+#EXTINF:-1 tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.png" group-title="MOVISTAR GRUP", SP: La Liga: M. Liga de Campeones 6
+http://magi-stv.net:8080/UzielLCH/UzielLCH/2133226
+
+#EXTINF:-1 tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.png" group-title="MOVISTAR GRUP", SP: La Liga: M. Liga de Campeones 7
+http://magi-stv.net:8080/UzielLCH/UzielLCH/2133227
+
+#EXTINF:-1 tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.png" group-title="MOVISTAR GRUP", SP: La Liga: M. Liga de Campeones 8
+http://magi-stv.net:8080/UzielLCH/UzielLCH/2133228
+
+#EXTINF:-1 tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.png" group-title="MOVISTAR GRUP", SP: La Liga: M. Liga de Campeones HD
+http://magi-stv.net:8080/UzielLCH/UzielLCH/2133220
+
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/uefa.png" group-title="TV | UEFA Champions League", UEFA | MOVISTAR LIGA DE CAMPEONES
+http://magi-stv.net:8080/UzielLCH/UzielLCH/219402
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVISTAR GRUP", ES MOVISTAR SERIESMANIA
+http://magi-stv.net:8080/UzielLCH/UzielLCH/2169945
+
+
+#EXTINF:-1 tvg-logo="http://51.81.47.69:8080/videosmiarea/logotransparente.png" group-title="MOVISTAR GRUP", PPVV| MOVISTAR FUTBOL HD
+http://miarea.vip:8080/PicoteDemo/vccjAc89v2/72163
+
+#EXTINF:-1 tvg-logo="http://51.81.47.69:8080/videosmiarea/logotransparente.png" group-title="MOVISTAR GRUP", PPVV| MOVISTAR LA LIGA FHD
+http://miarea.vip:8080/PicoteDemo/vccjAc89v2/46940
+
+#EXTINF:-1 tvg-logo="http://miarea.vip:8080/images/10fcb53beacf562ddca9db7242ca83a1.png" group-title="group-title="MOVISTAR GRUP", DEPORTES| MOVISTAR LA LIGA FHD
+http://miarea.vip:8080/PicoteDemo/vccjAc89v2/31132
+
+#EXTINF:-1 tvg-logo="http://miarea.vip:8080/images/10fcb53beacf562ddca9db7242ca83a1.png" group-title="MOVISTAR GRUP", LAT| MOVISTAR LA LIGA FHD** ENC
+http://miarea.vip:8080/PicoteDemo/vccjAc89v2/31136
+
+#EXTINF:-1 tvg-logo="http://miarea.vip:8080/images/f6aba6fff30a9d28c83ea33605a7451c.png" group-title="MOVISTAR GRUP", ESP| MOVISTAR ACCION HD
+http://miarea.vip:8080/PicoteDemo/vccjAc89v2/505
+
+#EXTINF:-1 tvg-logo="http://miarea.vip:8080/images/0698dbfffc70f6c274d3fd23b60f272e.png" group-title="MOVISTAR GRUP", ESP| MOVISTAR D CINE HD
+http://miarea.vip:8080/PicoteDemo/vccjAc89v2/506
+
+#EXTINF:-1 tvg-logo="http://miarea.vip:8080/images/b9e4361e24f3b0cf263bbf5d755e29a5.png" group-title="MOVISTAR GRUP", ESP| MOVISTAR CINE HD
+http://miarea.vip:8080/PicoteDemo/vccjAc89v2/405
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Movistar_Seriesman%C3%ADa.svg/1571px-Movistar_Seriesman%C3%ADa.svg.png" group-title="MOVISTAR GRUP", ESP| MOVISTAR SERIEMANIA HD
+http://miarea.vip:8080/PicoteDemo/vccjAc89v2/397
+
+#EXTINF:-1 tvg-logo="http://miarea.vip:8080/images/10fcb53beacf562ddca9db7242ca83a1.png" group-title="group-title="MOVISTAR GRUP", DEPORTES| MOVISTAR LA LIGA FHD
+http://miarea.vip:8080/PicoteDemo/vccjAc89v2/31132
+
+#EXTINF:-1 tvg-logo="http://miarea.vip:8080/images/10fcb53beacf562ddca9db7242ca83a1.png" group-title="MOVISTAR GRUP", ESP| MOVISTAR LIGA HD
+http://miarea.vip:8080/PicoteDemo/vccjAc89v2/400
+
+#EXTINF:-1 tvg-logo="http://miarea.vip:8080/images/10fcb53beacf562ddca9db7242ca83a1.png" group-title="MOVISTAR GRUP", ESP| MOVISTAR LA LIGA HD 1
+http://miarea.vip:8080/PicoteDemo/vccjAc89v2/401
+
+#EXTINF:-1 tvg-logo="http://miarea.vip:8080/images/94ce181bfb499954ec5c3b7238f6610f.png" group-title="MOVISTAR GRUP", ESP| MOVISTA LIGA DE CAMPEONES HD
+http://miarea.vip:8080/PicoteDemo/vccjAc89v2/406
+
+#EXTINF:-1 tvg-logo="http://miarea.vip:8080/images/94ce181bfb499954ec5c3b7238f6610f.png" group-title="MOVISTAR GRUP", ESP| MOVISTAR LIGA CAMPEONES 2 HD
+http://miarea.vip:8080/PicoteDemo/vccjAc89v2/31757
+
+#EXTINF:-1 tvg-logo="http://miarea.vip:8080/images/94ce181bfb499954ec5c3b7238f6610f.png" group-title="MOVISTAR GRUP", ESP| MOVISTAR LIGA CAMPEONES 3 HD
+http://miarea.vip:8080/PicoteDemo/vccjAc89v2/31758
+
+#EXTINF:-1 tvg-logo="http://miarea.vip:8080/images/94ce181bfb499954ec5c3b7238f6610f.png" group-title="MOVISTAR GRUP", ESP| MOVISTAR LIGA CAMPEONES 4 HD
+http://miarea.vip:8080/PicoteDemo/vccjAc89v2/31759
+
+#EXTINF:-1 tvg-logo="http://miarea.vip:8080/images/94ce181bfb499954ec5c3b7238f6610f.png" group-title="MOVISTAR GRUP", ESP| MOVISTAR LIGA CAMPEONES 5 HD
+http://miarea.vip:8080/PicoteDemo/vccjAc89v2/31762
+
+#EXTINF:-1 tvg-logo="http://miarea.vip:8080/images/94ce181bfb499954ec5c3b7238f6610f.png" group-title="MOVISTAR GRUP", ESP| MOVISTAR LIGA CAMPEONES 6 HD
+http://miarea.vip:8080/PicoteDemo/vccjAc89v2/31760
+
+#EXTINF:-1 tvg-logo="http://miarea.vip:8080/images/94ce181bfb499954ec5c3b7238f6610f.png" group-title="MOVISTAR GRUP", ESP| MOVISTAR LIGA CAMPEONES 7 HD
+http://miarea.vip:8080/PicoteDemo/vccjAc89v2/31761
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVISTAR GRUP", ESP| MOVISTAR DEPORTES HD
+http://miarea.vip:8080/PicoteDemo/vccjAc89v2/134797
+
+#EXTINF:-1 tvg-logo="http://miarea.vip:8080/images/a232e24019d3f103615a3c94aaf9a162.png" group-title="MOVISTAR GRUP", PERU| MOVISTAR DEPORTES HD
+http://miarea.vip:8080/PicoteDemo/vccjAc89v2/523
+
+#EXTINF:-1 tvg-logo="http://miarea.vip:8080/images/10fcb53beacf562ddca9db7242ca83a1.png" group-title="MOVISTAR GRUP", SPORTS| MOVISTAR LA LIGA FULL HD
+http://miarea.vip:8080/PicoteDemo/vccjAc89v2/430
+
+
+
 
 
 
