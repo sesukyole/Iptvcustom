@@ -7,28 +7,24 @@ https://github.com/inaldie/inaldie/raw/main/DONATE.ts
 
 
 
-
-
-
-#EXTM3U url-tvg="https://i.mjh.nz/SamsungTVPlus/all.xml,https://i.mjh.nz/au/all/epg.xml,https://www.tdtchannels.com/epg/TV.xml,https://www.bevy.be/bevyfiles/belgiumpremium.xml,https://www.bevy.be/bevyfiles/canadapremium.xml,https://www.bevy.be/bevyfiles/chile.xml,https://www.bevy.be/bevyfiles/france.xml,https://www.bevy.be/bevyfiles/indiapremium1.xml,https://www.bevy.be/bevyfiles/indiapremium2.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium2.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indonesiapremium4.xml,https://www.bevy.be/bevyfiles/italy.xml,https://www.bevy.be/bevyfiles/italypremium.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/romania.xml,https://www.bevy.be/bevyfiles/romaniapremium.xml,https://www.bevy.be/bevyfiles/russiapremium1.xml,https://www.bevy.be/bevyfiles/serbia.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml,https://www.bevy.be/bevyfiles/southafricapremium.xml,https://www.bevy.be/bevyfiles/sweden.xml,https://www.bevy.be/bevyfiles/spain.xml,https://www.bevy.be/bevyfiles/thailand.xml,https://www.bevy.be/bevyfiles/thailandpremium.xml,https://www.bevy.be/bevyfiles/unitedkingdom.xml,https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,https://www.bevy.be/bevyfiles/unitedstatespremium4.xml,https://www.bevy.be/bevyfiles/georgia.xml"
-
-
-
-```````` INFO ````````
-
-#EXTINF:-1 group-logo="https://i.ibb.co/9Tfg9Kb/therium-logo-transparent.png",
-
-#EXTINF:-1 tvg-id="therium`" tvg-name="therium`" tvg-logo="https://www.englishcafe.co.id/wp-content/uploads/2013/05/GratisFreigestellt.png" group-title="therium`", GRATIS
-https://ythls.onrender.com/channel/UCFmw5kSI-ltJZHRwelcIvvg.m3u8
-
-#EXTINF:-1 group-logo="https://www.englishcafe.co.id/wp-content/uploads/2013/05/GratisFreigestellt.png",
-
-#EXTINF:-1 tvg-id="GRATIS" tvg-name="GRATIS" tvg-logo="https://www.englishcafe.co.id/wp-content/uploads/2013/05/GratisFreigestellt.png" group-title="GRATIS", GRATIS
-https://ythls.onrender.com/channel/UCFmw5kSI-ltJZHRwelcIvvg.m3u8
-
-
-```````` INFO ````````
-
+#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml"
+#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml"
+#EXTINF:-1 tvg-url="https://i.mjh.nz/SamsungTVPlus/all.xml,https://i.mjh.nz/au/all/epg.xml"
+#EXTINF:-1 tvg-url="https://www.tdtchannels.com/epg/TV.xml,https://www.bevy.be/bevyfiles/belgiumpremium.xml"
+#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/canadapremium.xml,https://www.bevy.be/bevyfiles/chile.xml"
+#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/france.xml,https://www.bevy.be/bevyfiles/indiapremium1.xml"
+#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/indiapremium2.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml"
+#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium2.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml"
+#EXTINF:-1 tvg-url="://www.bevy.be/bevyfiles/indonesiapremium4.xml,https://www.bevy.be/bevyfiles/italy.xml"
+#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/italypremium.xml,https://www.bevy.be/bevyfiles/malaysia.xml"
+#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml"
+#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/romania.xml,https://www.bevy.be/bevyfiles/romaniapremium.xml"
+#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/russiapremium1.xml,https://www.bevy.be/bevyfiles/serbia.xml"
+#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml,https://www.bevy.be/bevyfiles/southafricapremium.xml"
+#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/sweden.xml,https://www.bevy.be/bevyfiles/spain.xml"
+#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/thailand.xml,https://www.bevy.be/bevyfiles/thailandpremium.xml"
+#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/unitedkingdom.xml,https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml"
+#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/unitedstatespremium4.xml,https://www.bevy.be/bevyfiles/georgia.xml"
 
 ```````` NASIONAL ````````
 
@@ -1264,7 +1260,6 @@ https://ythls.onrender.com/channel/UCUaZwCnn6Z-16BmkKngSs0g.m3u8
 
 ```````` WORLD TV ````````
 
-#EXTINF:-1 group-logo="https://i.ibb.co/M8RkjmQ/cat-worldtv.png",
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/9cYgfsV/RTBANEKABN.png" group-title="WORLD TV", RTB ANEKA
 https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
