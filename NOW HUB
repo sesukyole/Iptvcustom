@@ -12964,12 +12964,37 @@ http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=1032464&exte
 http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=1032463&extension=ts&play_token=Ozgrcn1Rr3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/OPTUS.png" group-title="VIP SPORT", OPTUS SPORT 10
 http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=1032462&extension=ts&play_token=Ozgrcn1Rr3
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/OPTUS.png" group-title="VIP SPORT", OPTUS SPORT 10
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/OPTUS.png" group-title="VIP SPORT", OPTUS SPORT 11
 http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=1032461&extension=ts&play_token=Ozgrcn1Rr3
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/OPTUS.png" group-title="VIP SPORT", OPTUS SPORT 10
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/OPTUS.png" group-title="VIP SPORT", OPTUS SPORT 12
 http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=1032460&extension=ts&play_token=Ozgrcn1Rr3
 
- 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/OPTUS.png" group-title="VIP SPORT", OPTUS SPORT 1 BK
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=1032471&extension=ts&play_token=E7q0DUYh6I
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/OPTUS.png" group-title="VIP SPORT", OPTUS SPORT 2 BK
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=1032470&extension=ts&play_token=XOzuBaXgmi
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/OPTUS.png" group-title="VIP SPORT", OPTUS SPORT 3 BK
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=1032469&extension=ts&play_token=E7q0DUYh6I
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/OPTUS.png" group-title="VIP SPORT", OPTUS SPORT 4 BK
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=1032468&extension=ts&play_token=E7q0DUYh6I
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/OPTUS.png" group-title="VIP SPORT", OPTUS SPORT 5 BK
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=1032467&extension=ts&play_token=E7q0DUYh6I
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/OPTUS.png" group-title="VIP SPORT", OPTUS SPORT 6 BK
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=1032466&extension=ts&play_token=E7q0DUYh6I
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/OPTUS.png" group-title="VIP SPORT", OPTUS SPORT 7 BK
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=1032465&extension=ts&play_token=E7q0DUYh6I
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/OPTUS.png" group-title="VIP SPORT", OPTUS SPORT 8 BK
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=1032464&extension=ts&play_token=E7q0DUYh6I
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/OPTUS.png" group-title="VIP SPORT", OPTUS SPORT 9 BK
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=1032463&extension=ts&play_token=E7q0DUYh6I
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/OPTUS.png" group-title="VIP SPORT", OPTUS SPORT 10 BK
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=1032462&extension=ts&play_token=E7q0DUYh6I
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/OPTUS.png" group-title="VIP SPORT", OPTUS SPORT 11 BK
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=1032461&extension=ts&play_token=E7q0DUYh6I
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/OPTUS.png" group-title="VIP SPORT", OPTUS SPORT 12 BK
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=1032460&extension=ts&play_token=E7q0DUYh6I
+
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbgGkVpn7N7-gH6Tlxen-xugwOnA4xdHm7gQ&usqp=CAU" group-title="VIP SPORT", NBC SPORT
 http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=1032458&extension=ts&play_token=Km5mJBAKNm
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGvRmqlfvB0oKJPpfBcz8xPB2fiSbaTWg-AA&usqp=CAU" group-title="VIP SPORT", PEACOCK PL
