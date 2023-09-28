@@ -8863,10 +8863,10 @@ https://github.com/inaldie/inaldie/raw/main/LOGO.ts
 
 
 
-#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/movistarf1.png" group-title="TV | Deportes", D| Movistar F1
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/movistarf1.png" group-title="MOVISTAR GRUP", D| Movistar F1
 http://magi-stv.net:8080/UzielLCH/UzielLCH/158473
 
-#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/movistarf1.png" group-title="TV | Deportes", D| Movistar F1 HD
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/movistarf1.png" group-title="MOVISTAR GRUP", D| Movistar F1 HD
 http://magi-stv.net:8080/UzielLCH/UzielLCH/170225
 
 #EXTINF:-1 tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.png" group-title="MOVISTAR GRUP", D| Movistar La Liga
@@ -8875,28 +8875,28 @@ http://magi-stv.net:8080/UzielLCH/UzielLCH/157373
 #EXTINF:-1 tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.png" group-title="MOVISTAR GRUP", D| Movistar La Liga FHD
 http://magi-stv.net:8080/UzielLCH/UzielLCH/10918
 
-#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/mgolf.png" group-title="TV | Deportes", D | MOVISTAR GOLF
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/mgolf.png" group-title="MOVISTAR GRUP", D | MOVISTAR GOLF
 http://magi-stv.net:8080/UzielLCH/UzielLCH/2100018
 
-#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/movistarmotogp.png" group-title="TV | Deportes", D | MOVISTAR MOTO GP
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/movistarmotogp.png" group-title="MOVISTAR GRUP", D | MOVISTAR MOTO GP
 http://magi-stv.net:8080/UzielLCH/UzielLCH/2091493
 
 #EXTINF:-1 tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.png" group-title="MOVISTAR GRUP", LALIGA | MOVISTAR LALIGA 1
 http://magi-stv.net:8080/UzielLCH/UzielLCH/223953
 
-#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/movistardeportespe.png" group-title="TV | Peru", PE| Movistar Deportes
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/movistardeportespe.png" group-title="MOVISTAR GRUP", PE| Movistar Deportes
 http://magi-stv.net:8080/UzielLCH/UzielLCH/11438
 
-#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/movistardeportespe.png" group-title="TV | Peru", PE| Movistar Deportes HQ
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/movistardeportespe.png" group-title="MOVISTAR GRUP", PE| Movistar Deportes HQ
 http://magi-stv.net:8080/UzielLCH/UzielLCH/10643
 
-#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/movistarplus.png" group-title="TV | Peru", PE| Movistar Plus
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/movistarplus.png" group-title="MOVISTAR GRUP", PE| Movistar Plus
 http://magi-stv.net:8080/UzielLCH/UzielLCH/192424
 
-#EXTINF:-1 tvg-logo="http://l3d.us:8080/images/975a9b01bff1dc14ee1325846b25918f.png" group-title="TV | Soccer Europa", SE| Movistar La Liga
+#EXTINF:-1 tvg-logo="http://l3d.us:8080/images/975a9b01bff1dc14ee1325846b25918f.png" group-title="MOVISTAR GRUP", SE| Movistar La Liga
 http://magi-stv.net:8080/UzielLCH/UzielLCH/223873
 
-#EXTINF:-1 tvg-logo="http://l3d.us:25461/images/99be91125e2ef4b3c546ae82106adcc1.png" group-title="TV | Soccer Europa", SE| Movistar Liga de Campeones
+#EXTINF:-1 tvg-logo="http://l3d.us:25461/images/99be91125e2ef4b3c546ae82106adcc1.png" group-title="MOVISTAR GRUP", SE| Movistar Liga de Campeones
 http://magi-stv.net:8080/UzielLCH/UzielLCH/219098
 
 #EXTINF:-1 tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.png" group-title="MOVISTAR GRUP", SP: La Liga: #Vamos HD
@@ -8977,7 +8977,7 @@ http://magi-stv.net:8080/UzielLCH/UzielLCH/2133228
 #EXTINF:-1 tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.png" group-title="MOVISTAR GRUP", SP: La Liga: M. Liga de Campeones HD
 http://magi-stv.net:8080/UzielLCH/UzielLCH/2133220
 
-#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/uefa.png" group-title="TV | UEFA Champions League", UEFA | MOVISTAR LIGA DE CAMPEONES
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/uefa.png" group-title="MOVISTAR GRUP", UEFA | MOVISTAR LIGA DE CAMPEONES
 http://magi-stv.net:8080/UzielLCH/UzielLCH/219402
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVISTAR GRUP", ES MOVISTAR SERIESMANIA
@@ -8990,7 +8990,7 @@ http://miarea.vip:8080/PicoteDemo/vccjAc89v2/72163
 #EXTINF:-1 tvg-logo="http://51.81.47.69:8080/videosmiarea/logotransparente.png" group-title="MOVISTAR GRUP", PPVV| MOVISTAR LA LIGA FHD
 http://miarea.vip:8080/PicoteDemo/vccjAc89v2/46940
 
-#EXTINF:-1 tvg-logo="http://miarea.vip:8080/images/10fcb53beacf562ddca9db7242ca83a1.png" group-title="group-title="MOVISTAR GRUP", DEPORTES| MOVISTAR LA LIGA FHD
+#EXTINF:-1 tvg-logo="http://miarea.vip:8080/images/10fcb53beacf562ddca9db7242ca83a1.png" group-title="MOVISTAR GRUP", DEPORTES| MOVISTAR LA LIGA FHD
 http://miarea.vip:8080/PicoteDemo/vccjAc89v2/31132
 
 #EXTINF:-1 tvg-logo="http://miarea.vip:8080/images/10fcb53beacf562ddca9db7242ca83a1.png" group-title="MOVISTAR GRUP", LAT| MOVISTAR LA LIGA FHD** ENC
