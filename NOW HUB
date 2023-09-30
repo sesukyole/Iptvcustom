@@ -19224,6 +19224,39 @@ http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=1095792&exte
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRm0GaetXF79nwzJk7cy-xqwoXzA9RVFJQiw&usqp=CAU" group-title="SKY GO", SKY PREMIER 8
 http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=1095791&extension=ts&play_token=uuRqY0Eke1
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrg0-vkudZVLrW60uEVS6egDjzF5hb1ju11g&usqp=CAU" group-title="SKY GO", SKY PRIMAFILA 1
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=692047&extension=ts&play_token=n8xOorYLw9
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrg0-vkudZVLrW60uEVS6egDjzF5hb1ju11g&usqp=CAU" group-title="SKY GO", SKY PRIMAFILA 2
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=692046&extension=ts&play_token=SMuwZFzLmm
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrg0-vkudZVLrW60uEVS6egDjzF5hb1ju11g&usqp=CAU" group-title="SKY GO", SKY PRIMAFILA 3
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=692045&extension=ts&play_token=ktlShZu2ca
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrg0-vkudZVLrW60uEVS6egDjzF5hb1ju11g&usqp=CAU" group-title="SKY GO", SKY PRIMAFILA 4
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=692044&extension=ts&play_token=ktlShZu2ca
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrg0-vkudZVLrW60uEVS6egDjzF5hb1ju11g&usqp=CAU" group-title="SKY GO", SKY PRIMAFILA 5
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=692043&extension=ts&play_token=ktlShZu2ca
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrg0-vkudZVLrW60uEVS6egDjzF5hb1ju11g&usqp=CAU" group-title="SKY GO", SKY PRIMAFILA 6
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=692042&extension=ts&play_token=ktlShZu2ca
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrg0-vkudZVLrW60uEVS6egDjzF5hb1ju11g&usqp=CAU" group-title="SKY GO", SKY PRIMAFILA 7
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=692041&extension=ts&play_token=ktlShZu2ca
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrg0-vkudZVLrW60uEVS6egDjzF5hb1ju11g&usqp=CAU" group-title="SKY GO", SKY PRIMAFILA 8
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=692040&extension=ts&play_token=ktlShZu2ca
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrg0-vkudZVLrW60uEVS6egDjzF5hb1ju11g&usqp=CAU" group-title="SKY GO", SKY PRIMAFILA 9
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=692039&extension=ts&play_token=ktlShZu2ca
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrg0-vkudZVLrW60uEVS6egDjzF5hb1ju11g&usqp=CAU" group-title="SKY GO", SKY PRIMAFILA 10
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=692038&extension=ts&play_token=ktlShZu2ca
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrg0-vkudZVLrW60uEVS6egDjzF5hb1ju11g&usqp=CAU" group-title="SKY GO", SKY PRIMAFILA 11
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=692037&extension=ts&play_token=ktlShZu2ca
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrg0-vkudZVLrW60uEVS6egDjzF5hb1ju11g&usqp=CAU" group-title="SKY GO", SKY PRIMAFILA 12
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=692036&extension=ts&play_token=ktlShZu2ca
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrg0-vkudZVLrW60uEVS6egDjzF5hb1ju11g&usqp=CAU" group-title="SKY GO", SKY PRIMAFILA 13
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=692034&extension=ts&play_token=ktlShZu2ca
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrg0-vkudZVLrW60uEVS6egDjzF5hb1ju11g&usqp=CAU" group-title="SKY GO", SKY PRIMAFILA 14
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=692032&extension=ts&play_token=ktlShZu2ca
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrg0-vkudZVLrW60uEVS6egDjzF5hb1ju11g&usqp=CAU" group-title="SKY GO", SKY PRIMAFILA 15
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=692031&extension=ts&play_token=ktlShZu2ca
+
+
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSfxqmC_Sp1HO5Jn8-n_7g4CQwa0RbUHlcQQ&usqp=CAU" group-title="AMAZON PRIME", AMAZON 1
 http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=1275543&extension=ts&play_token=gHH5j332YQ
