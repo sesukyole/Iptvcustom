@@ -36,7 +36,16 @@ https://cdn09jtedge.indihometv.com/joss/130/rtv/chunklist_w1723081075_b644100_sl
 https://cdn09jtedge.indihometv.com/joss/134/indikids/chunklist_w1844790024_b944100_sleng.m3u8?enc=MJntuSqNhfhAhzn9DjCfgg&uid=&exp=1696181952
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="NASIONAL TUBE", MAXTREAM
 https://cdn09jtedge.indihometv.com/joss/194/maxstream/chunklist_w264172745_b1544100_sleng.m3u8?enc=FVPl7Q7F4eOm37Ygrqb9jQ&uid=&exp=1696182036
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="NASIONAL TUBE", ATV TV
+https://cdn09jtedge.indihometv.com/joss/194/atv/chunklist_w1687016991_b1544100_sleng.m3u8?enc=oqiGE6gr5wuZ7DWjjESF_A&uid=&exp=1696182111
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="NASIONAL TUBE", JTV
+https://cdn09jtedge.indihometv.com/joss/134/jtv/chunklist_w1504233905_b1004100_sleng.m3u8?enc=gvUx81ipTmbsFiJD-daQWA&uid=&exp=1696182174
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="NASIONAL TUBE", USEE PRIME
+https://cdn09jtedge.indihometv.com/dash/useeprime_5/478377807.m4v
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="NASIONAL TUBE", JKT TV
+https://cdn09jtedge.indihometv.com/dash/jaktv_4/4263873704.m4v
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="NASIONAL TUBE", NUSANTARA TV
+https://cdn09jtedge.indihometv.com/joss/134/nusantaratv/chunklist_w1565728460_b944100_sleng.m3u8?enc=7Z650TAewE3ev8K6DKrJbQ&uid=&exp=1696182354
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="MUSIC TUBE", DANGDUT
