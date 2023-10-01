@@ -22,6 +22,12 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1696188516/ei/B
 https://cdn10jtedge.indihometv.com/joss/133/trans7/chunklist_w1987378835_b1544100_sleng.m3u8?enc=fyAe4BDkOB-InzjbEyvFqw&uid=&exp=1696180863
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="NASIONAL TUBE", SCTV
 https://etslive-2-vidio-com.akamaized.net/exp=1696182285~acl=/hls-p/ingest_204_*/*~hmac=0700135ad7f7477d6c12555e18d2df93482f44daf85258b8e1f7b2095cda5120/hls-p/ingest_204_720p/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="NASIONAL TUBE", TRANS TV
+https://cdn09jtedge.indihometv.com/joss/133/transtv1080/chunklist_w1533520726_b1544100_sleng.m3u8?enc=jX2J2_6cCh5Rg42OB1cCTQ&uid=&exp=1696181550
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="NASIONAL TUBE", ANTV
+https://cdn09jtedge.indihometv.com/joss/130/antv720/chunklist_w266326943_b944100_sleng.m3u8?enc=aN1IrdLQHhV_O9ckkyK5Ow&uid=&exp=1696181619
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="NASIONAL TUBE", INEWS
+https://cdn09jtedge.indihometv.com/dash/inews_3/1660775704.m4v
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="MUSIC TUBE", DANGDUT
