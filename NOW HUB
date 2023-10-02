@@ -8187,136 +8187,70 @@ https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", MTV 
-http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=66789_&extension=ts
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=1283069&extension=ts&play_token=nm6mnLNV6S
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", MTV LIVE 
-http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=35252_&extension=ts
-
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=1283067&extension=ts&play_token=fbP7rEZIDl
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", MTV HITS
-http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=35363_&extension=ts
-
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=1283065&extension=ts&play_token=MwDjR83EX9
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", MTV DANCE 
-http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=35362_&extension=ts
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=45265&extension=ts&play_token=iTI9VaeiSU
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", MTV CLUB 
-http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=657076_&extension=ts
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=110838&extension=ts&play_token=mmet7rm79l
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", MTV CLASIC 
-http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=158524_&extension=ts
-
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=45266&extension=ts&play_token=xoNPK3bvY6
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", MTV MUSIC 24 
-http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=85898_&extension=ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", MTV LIVE
-http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=45820_&extension=ts
-
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=1283261&extension=ts&play_token=dlSSLzDHYS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", MTV LIVE UK
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=45325&extension=ts&play_token=gDnieX5YOm
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", OSN MTV LIVE 
-http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=20150_&extension=ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", MTV BLOCK PARTY 
-http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=331506_&extension=ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", MTV BIGGEST POP
-http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=331507_&extension=ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", MTV SPANKIN NEW
-http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=331508_&extension=ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", MTV YOI
-http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=331510_&extension=ts
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", MTV 24/7
-http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=297728_&extension=ts
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", STINGRAY CONCERT
-http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=99147_&extension=ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", STINGRAY C MUSIC
-http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=99146_&extension=ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", MEZZO LIVE 
-http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=35709_&extension=ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", CLUBBING TV
-http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=297729_&extension=ts
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=925255&extension=ts&play_token=nernSKyaxt
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", MTV 80S
-http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=51598_&extension=ts
-
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=880208&extension=ts&play_token=riNnDwcZzM
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", MTV 90S
-http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=51597_&extension=ts
-
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=1283066&extension=ts&play_token=Gn3B6EPthn
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", MTV 00S
-http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=20419_&extension=ts
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=1121761&extension=ts&play_token=2IpflRvOiS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", MTV U
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=174761&extension=ts&play_token=O0yTVFl5MH
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", MTV HINDIA
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=156002&extension=ts&play_token=pPtGcSn4La
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", MTV LIVE
-http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=657036_&extension=ts
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", MTV CLASSIC
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=110839&extension=ts&play_token=5fp3BOBo0i
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", MTV HITS LT
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=926504&extension=ts&play_token=OBnsfWpS1O
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", MTV LIVE LT
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=90761&extension=ts&play_token=u4vIQiqvSI
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", MTV CLUB
-http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=657076_&extension=ts
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", STINGRAY CONCERT
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=1283062&extension=ts&play_token=xlWafOdjyl
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", STINGRAY HITS
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=886249&extension=ts&play_token=cBBIKLVwx4
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", MTV 80'S
-http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=100971_&extension=ts
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", STINGRAY HIP HOP
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=886250&extension=ts&play_token=fZACfzidfq
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", STINGRAY CELLO CONCERT
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=1045330&extension=ts&play_token=JB3CpA8eoi
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", STINGRAY ICONCERT
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=886226&extension=ts&play_token=BHudOLqL5a
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", STINGRAY LATIN
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=886231&extension=ts&play_token=299NrVCD9Q
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", STINGRAY DJ
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=830782&extension=ts&play_token=tYgIge8XAL
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", MUSIKA DJ
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=110844&extension=ts&play_token=HTyh5ZMWvD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", CLUBLAND TV
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=163793&extension=ts&play_token=dYF6FbPc9w
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", CLUBBING TV
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=1107805&extension=ts&play_token=e7xzY9z2Xa
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", MTV 90'S
-http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=19354_&extension=ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", MTV 00'S
-http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=38233_&extension=ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", MTV BASE
-http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=38236_&extension=ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", OSN MUSIC NOW
-http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=20238_&extension=ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", MTV MUSIC
-http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=102574_&extension=ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", RETRO MUSIC
-http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=17277_&extension=ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", CALTEX MUSIC
-http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=15545_&extension=ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", AFRO MUSIC
-http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=10912_&extension=ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", RUSSIAN MUSIC BOX
-http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=445685_&extension=ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", FIRST MUSIC
-http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=445724_&extension=ts
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", STINGRAY C MUSIC
-http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=445900_&extension=ts
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", NICK MUSIC
-http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=12102_&extension=ts
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", MTV MUSIC 24
-http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=12087_&extension=ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", DELUXE MUSIC
-http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=19515_&extension=ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", RETRO MUSIC
-http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=34907_&extension=ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", MTV LOVE MUSIC
-http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=298311_&extension=ts
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", HITS MUSIC
-http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=20862_&extension=ts
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", MTV MUSIC
-http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=85411_&extension=ts
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", MUSIC ROCK CHOICE
-http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=15035_&extension=ts
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", MUSIC REGGAE CHOICE
-http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=15029_&extension=ts
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", MUSIC RAP CHOICE
-http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=15036_&extension=ts
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", MUSIC R&B SOUL
-http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=15038_&extension=ts
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", MUSIC POP CHOICE
-http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=15039_&extension=ts
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", MUSIC TEN BEATS CHOICE
-http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=15031_&extension=ts
-
-
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", CLUBBING LIVE 1
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=309855&extension=ts&play_token=AS2IB6BldF
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", CLUBBING LIVE 2
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=314042&extension=ts&play_token=MFSyBMFcwG
 
 #EXTINF:-1 tvg-logo="http://ceoapps.org/logos/mcrock.png" group-title="MUSIC MTV", MS | Classic Rock
 http://magi-stv.net:8080/UzielLCH/UzielLCH/2111766
@@ -8700,25 +8634,36 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:E0:56&stream=59071&extension
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/BeIN_SPORTS_France_logo_2017.jpg" group-title="BEIN GRUP", BEIN SPORT 10 MAX
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:E0:56&stream=59065&extension=ts
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/BeIN_SPORTS_Australia_logo_2017.jpg" group-title="BEIN GRUP", BEIN SPORT 1 AF
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=806718&extension=ts&play_token=Q5za8z6UtU
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/BeIN_SPORTS_Australia_logo_2017.jpg" group-title="BEIN GRUP", BEIN SPORT 2 AF
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=806717&extension=ts&play_token=X9Bc2PJj1c
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/BeIN_SPORTS_Australia_logo_2017.jpg" group-title="BEIN GRUP", BEIN SPORT 3 AF
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=806716&extension=ts&play_token=9itKv75GEn
 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/BeIN_SPORTS_Global_logo_2017.jpg" group-title="BEIN GRUP", BEIN SPORT GLOBAL
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=1330456&extension=ts&play_token=SlkNmMJcpG
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/BeIN_SPORTS_Australia_logo_2017.jpg" group-title="BEIN GRUP", BEIN SPORT 1 AU
-http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=141846_&extension=ts
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=174561&extension=ts&play_token=WiaXB9S0hh
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/BeIN_SPORTS_Australia_logo_2017.jpg" group-title="BEIN GRUP", BEIN SPORT 2 AU
-http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=141856_&extension=ts
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=174555&extension=ts&play_token=P7WGeqVdVO
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/BeIN_SPORTS_Australia_logo_2017.jpg" group-title="BEIN GRUP", BEIN SPORT 3 AU
-http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=14184546_&extension=ts
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/XTRA_2.png/revision/latest/scale-to-width-down/250?cb=20201108180658" group-title="BEIN GRUP", BEIN SPORT EXTRA AU
-http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=331469_&extension=ts
-#EXTINF:-1 tvg-logo="https://truthinadvertising.org/wp-content/uploads/2018/10/Screen-Shot-2018-10-29-at-4.29.06-PM.png" group-title="BEIN GRUP", BEIN SPORT CONECT N AU
-http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=23399_&extension=ts
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=923430&extension=ts&play_token=qPrtHLaeDc
+#EXTINF:-1 tvg-logo="https://truthinadvertising.org/wp-content/uploads/2018/10/Screen-Shot-2018-10-29-at-4.29.06-PM.png" group-title="BEIN GRUP", BEIN SPORT CONECT N LT
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=75282&extension=ts&play_token=KV7Omfdsf4
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_ENGLISH_Digital_Mono.png" group-title="BEIN GRUP", BEIN SPORT 1 ENGLISH
-http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=94452_&extension=ts
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=1330469&extension=ts&play_token=FySnoyQw6D
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/wprkho1631279247.png" group-title="BEIN GRUP", BEIN SPORT 2 ENGLISH
-http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=94448_&extension=ts
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/836319515679993856/o21RFHuA_400x400.jpg" group-title="BEIN GRUP", BEIN SPORT N
-http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=39504_&extension=ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/BeIN_SPORTS_USA_logo_2017.jpg" group-title="BEIN GRUP", BEIN SPORT US CANADA
-http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=39506_&extension=ts
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=1330470&extension=ts&play_token=HrKAZRqqEG
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlN7f5ltz6sQxlAd60hePycZdxinfpNQOHCw&usqp=CAU" group-title="BEIN GRUP", BEIN SPORT EXTRA 1
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=1330466&extension=ts&play_token=R7EeBmGRM6
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlN7f5ltz6sQxlAd60hePycZdxinfpNQOHCw&usqp=CAU" group-title="BEIN GRUP", BEIN SPORT EXTRA 2
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=1330467&extension=ts&play_token=pxb8Kgbzkc
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlN7f5ltz6sQxlAd60hePycZdxinfpNQOHCw&usqp=CAU" group-title="BEIN GRUP", BEIN SPORT EXTRA 3
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=1330468&extension=ts&play_token=X8SWZxPeUV
+
+
 
 
 #EXTINF:-1 tvg-logo="-------" group-title="BEIN GRUP", BEIN MOVIE ACTION 1
