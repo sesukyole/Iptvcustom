@@ -8663,9 +8663,6 @@ http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=1330467&e
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlN7f5ltz6sQxlAd60hePycZdxinfpNQOHCw&usqp=CAU" group-title="BEIN GRUP", BEIN SPORT EXTRA 3
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=1330468&extension=ts&play_token=X8SWZxPeUV
 
-
-
-
 #EXTINF:-1 tvg-logo="-------" group-title="BEIN GRUP", BEIN MOVIE ACTION 1
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=31488_&extension=ts
 #EXTINF:-1 tvg-logo="-------" group-title="BEIN GRUP", BEIN MOVIE ACTION 2
@@ -8698,33 +8695,33 @@ http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=63102_&extens
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=31500_&extension=ts
 
 #EXTINF:-1 tvg-logo="http://one-iptv.com/imageslogo/beINMovies1.qa.png" group-title="BEIN GRUP", AR.| MOVIES HD 1 PREMIERE
-http://pro.xviptv.com:25443/live/6532287675/4648388393/48031.ts
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=1141583&extension=ts&play_token=MgyS4WVOeU
 #EXTINF:-1 tvg-logo="http://one-iptv.com/imageslogo/beINMovies2.qa.png" group-title="BEIN GRUP", AR.| MOVIES HD 2 ACTION
-http://pro.xviptv.com:25443/live/6532287675/4648388393/48030.ts
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=1141582&extension=ts&play_token=dYgqNacRQV
 #EXTINF:-1 tvg-logo="http://one-iptv.com/imageslogo/beINMovies3.qa.png" group-title="BEIN GRUP", AR.| MOVIES HD 3 DRAMA
-http://pro.xviptv.com:25443/live/6532287675/4648388393/48029.ts
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=1141581&extension=ts&play_token=8fxs2eyFZK
 #EXTINF:-1 tvg-logo="http://one-iptv.com/imageslogo/beINMovies4.qa.png" group-title="BEIN GRUP", AR.| MOVIES HD 4 FAMILY
-http://pro.xviptv.com:25443/live/6532287675/4648388393/48028.ts
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=1141580&extension=ts&play_token=nAmdAmhDE0
 #EXTINF:-1 tvg-logo="http://one-iptv.com/imageslogo/beINSeries1.qa.png" group-title="BEIN GRUP", AR.| SERIES 1 HD
-http://pro.xviptv.com:25443/live/6532287675/4648388393/48026.ts
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=1141579&extension=ts&play_token=EJvx2h1ADS
+#EXTINF:-1 tvg-logo="http://one-iptv.com/imageslogo/beINSeries1.qa.png" group-title="BEIN GRUP", AR.| SERIES 2 HD
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=1141578&extension=ts&play_token=IW135GfoZ4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Fox_Action_Movies_logo.svg/2560px-Fox_Action_Movies_logo.svg.png" group-title="BEIN GRUP", AR.| FOX MOVIES
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=1141571&extension=ts&play_token=e5qdZupde5
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Fox_Action_Movies_logo.svg/2560px-Fox_Action_Movies_logo.svg.png" group-title="BEIN GRUP", AR.| FOX ACTION MOVIES
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=1141570&extension=ts&play_token=973IEEUfHF
 #EXTINF:-1 tvg-logo="http://one-iptv.com/imageslogo/beINMovies3.qa.png" group-title="BEIN GRUP", AR.| ON DRAMA HD
-http://pro.xviptv.com:25443/live/6532287675/4648388393/48039.ts
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=1141577&extension=ts&play_token=CXcG9k1l6H
 #EXTINF:-1 tvg-logo="http://one-iptv.com/imageslogo/FoxLife.pt.png" group-title="BEIN GRUP", AR.| FOX LIFE HD
-http://pro.xviptv.com:25443/live/6532287675/4648388393/48036.ts
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=1141572&extension=ts&play_token=bU6G5u0437
 #EXTINF:-1 tvg-logo="http://one-iptv.com/imageslogo/Fatafeat.qa.png" group-title="BEIN GRUP", AR.| FATAFEAT HD
-http://pro.xviptv.com:25443/live/6532287675/4648388393/48011.ts
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=1141574&extension=ts&play_token=cHCUyYSC2c
 #EXTINF:-1 tvg-logo="http://one-iptv.com/imageslogo/Baraem.qa.png" group-title="BEIN GRUP", AR.| BARAEM HD
-http://pro.xviptv.com:25443/live/6532287675/4648388393/48041.ts
-#EXTINF:-1 tvg-logo="http://one-iptv.com/imageslogo/DisneyChannel.de.png" group-title="BEIN GRUP", AR.| DISNEY CHANNEL HD
-http://pro.xviptv.com:25443/live/6532287675/4648388393/48032.ts
-#EXTINF:-1 tvg-logo="http://one-iptv.com/imageslogo/DMAX.qa.png" group-title="BEIN GRUP", AR.| DMAX HD
-http://pro.xviptv.com:25443/live/6532287675/4648388393/48007.ts
-#EXTINF:-1 tvg-logo="http://one-iptv.com/imageslogo/OutdoorChannel.qa.png" group-title="BEIN GRUP", AR.| OUTDOOR
-http://pro.xviptv.com:25443/live/6532287675/4648388393/48006.ts
-#EXTINF:-1 tvg-logo="http://one-iptv.com/imageslogo/OutdoorChannel.qa.png" group-title="BEIN GRUP", AR.| OUTDOOR HD
-http://pro.xviptv.com:25443/live/6532287675/4648388393/48027.ts
-#EXTINF:-1 tvg-logo="http://one-iptv.com/imageslogo/beINSeries2.qa.png" group-title="BEIN GRUP", AR.| SERIES 2 HD
-http://pro.xviptv.com:25443/live/6532287675/4648388393/48025.ts
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=1141558&extension=ts&play_token=88yqQfPrHq
+#EXTINF:-1 tvg-logo="http://one-iptv.com/imageslogo/DisneyChannel.de.png" group-title="BEIN GRUP", AR.| JEEM KIDS HD
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=1141559&extension=ts&play_token=Um4HPCdo5Q
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl-mlFQVqM3VW0A3e8LxwnzuVLX2UzlxCBlw&usqp=CAU" group-title="BEIN GRUP", AR.| STARS MOVIES HD
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=1141568&extension=ts&play_token=apIDP5Rsdp
 
 #EXTINF:-1 tvg-logo="http://myserveriptv.com:2082/images/2fa86f2a5babb597834554c03a0860e1.png" group-title="BEIN GRUP", TR: beIN Movies Premier 1
 http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:19:76&stream=1141583&extension=ts&play_token=qNoWnPrBn5
