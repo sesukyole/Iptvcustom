@@ -9474,10 +9474,13 @@ https://ctrl.laotv.la/live/Bsport2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSifKAaGK0AD88SQnu6MsApMLGHPDwIkNmSDw&usqp=CAU" group-title="ASIA SPORT", ONE SPORT
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=926161&extension=ts&play_token=bo2m2wHalz
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/PremierSports-ph.png" group-title="ASIA SPORT", PREMIER SPORT 1
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:00:20:4B&stream=993130&extension=ts&play_token=mOIvrXZBLE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/PremierSports-ph.png" group-title="ASIA SPORT", PREMIER SPORT 2
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:00:20:4B&stream=993131&extension=ts&play_token=KfPnTBMTgg
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSifKAaGK0AD88SQnu6MsApMLGHPDwIkNmSDw&usqp=CAU" group-title="ASIA SPORT", ONE SPORT+
 http://nplay.is:2095/play/live.php?mac=10:27:be:15:df:31&stream=463644_&extension=ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/PremierSports-ph.png" group-title="ASIA SPORT", PREMIER SPORT PH
-http://nplay.is:2095/play/live.php?mac=10:27:be:15:df:31&stream=463651_&extension=ts
 #EXTINF:-1 tvg-logo="_____" group-title="ASIA SPORT", TAP SPORT PH
 http://nplay.is:2095/play/live.php?mac=10:27:be:15:df:31&stream=463661_&extension=ts
 
@@ -9496,8 +9499,7 @@ http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=156027&ex
 #EXTINF:-1 tvg-logo="______" group-title="ASIA SPORT", PTV SPORT PK
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=281089&extension=ts&play_token=Ef05JWjFXG
 #EXTINF:-1 tvg-logo="_____" group-title="ASIA SPORT", OUTDOOR
-http://nplay.is:2095/play/live.php?mac=10:27:be:15:df:31&stream=463644_&extension=ts
-
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:00:20:4B&stream=90964&extension=ts&play_token=BzeH1OJ0MO
 
 
 
@@ -9571,9 +9573,9 @@ http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=591567&ex
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=591564&extension=ts&play_token=jZqboDB8d4
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ARAB SPORT", ON TIME SPORT 1 HD
-http://zeintv.xyz:8080/ahlam1alsayegh2022/004528513460/115200
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:00:20:4B&stream=544254&extension=ts&play_token=u9WL1WtfhP
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ARAB SPORT", ON TIME SPORT 2 HD
-http://zeintv.xyz:8080/ahlam1alsayegh2022/004528513460/115202
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:00:20:4B&stream=544256&extension=ts&play_token=vLiEsZ0JfJ
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ARAB SPORT", ON TIME SPORT 3 HD
 http://zeintv.xyz:8080/ahlam1alsayegh2022/004528513460/115204
 
@@ -9641,18 +9643,20 @@ http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=13599_&extens
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=15181_&extension=ts
 
 #EXTINF:-1 tvg-logo="http://magott.net:80/images/d4c9a82eabcea9ef8c626da20887aa40.png" group-title="TURKY SPORT", BEIN SPORT 1 TR HD
-http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=401094_&extension=ts
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:00:20:4B&stream=913457&extension=ts&play_token=7EVBfQD5XO
 #EXTINF:-1 tvg-logo="http://magott.net:80/images/3fe05b7b5fa9e0c4f4e647e0dd514177.png" group-title="TURKY SPORT", BEIN SPORT 2 TR HD
-http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=401100_&extension=ts
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:00:20:4B&stream=913456&extension=ts&play_token=aGAvuaMKbP
 #EXTINF:-1 tvg-logo="http://magott.net:80/images/16e477b068241cc66b0034bbffa682e8.png" group-title="TURKY SPORT", BEIN SPORT 3 TR HD
-http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=401105_&extension=ts
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:00:20:4B&stream=913454&extension=ts&play_token=zYjPIM1NzU
 #EXTINF:-1 tvg-logo="http://magott.net:80/images/11a736e3ce515928d57c8eda23b5c1a1.png" group-title="TURKY SPORT", BEIN SPORT 4 TR HD
-http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=401108_&extension=ts
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:00:20:4B&stream=913453&extension=ts&play_token=1U4RyySge2
 #EXTINF:-1 tvg-logo="http://magott.net:80/images/11a736e3ce515928d57c8eda23b5c1a1.png" group-title="TURKY SPORT", BEIN SPORT 5 TR HD
-http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=109251_&extension=ts&play_token=W0JcMWGscf
-
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:00:20:4B&stream=1091502&extension=ts&play_token=vyDOk3my2U
 #EXTINF:-1 tvg-logo="http://magott.net:80/images/11a736e3ce515928d57c8eda23b5c1a1.png" group-title="TURKY SPORT", BEIN MAX 1 TR HD
-http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=401110_&extension=ts
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:00:20:4B&stream=913452&extension=ts&play_token=OeEO0w8Glt
+#EXTINF:-1 tvg-logo="http://magott.net:80/images/11a736e3ce515928d57c8eda23b5c1a1.png" group-title="TURKY SPORT", BEIN MAX 2 TR HD
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:00:20:4B&stream=913451&extension=ts&play_token=jo0bNrVVYG
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv64ZKhZ2nqmJvMaOoLH8gapX2x--OhcuvOw&usqp=CAU" group-title="TURKY SPORT", TIVIBU SPORT 1 HD
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=13469_&extension=ts
@@ -13053,11 +13057,8 @@ http://iptvtree.net:8080/joeBt/FBe7D5gDbFzmWdAx/147
 http://iptvtree.net:8080/joeBt/FBe7D5gDbFzmWdAx/297555
 #EXTINF:-1 tvg-logo="______" group-title="LAIN-LAIN SPORT", EQUIDIA
 http://iptvtree.net:8080/joeBt/FBe7D5gDbFzmWdAx/276130
-
-#EXTINF:-1 tvg-logo="________" group-title="LAIN-LAIN SPORT", WORLD POKER TOUR PLUTO DK
-http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=118343_&extension=ts
-#EXTINF:-1 tvg-logo="________" group-title="LAIN-LAIN SPORT", WORLD POKER TOUR DK
-http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=118344_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="LAIN-LAIN SPORT", STADIUM
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:00:20:4B&stream=91917&extension=ts&play_token=3frBDZwc2g
 
 #EXTINF:-1 tvg-logo="______" group-title="LAIN-LAIN SPORT", GOLF CHANEL FR
 http://iptvtree.net:8080/joeBt/FBe7D5gDbFzmWdAx/279613
@@ -13081,9 +13082,6 @@ http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=132527&ex
 http://premium-ks.ddns.net:88/Megaiptv/YlMNx6nZAA/65087
 #EXTINF:-1 tvg-logo="xxxxxxxx" group-title="LAIN-LAIN SPORT", SPORTSKA
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=110687&extension=ts&play_token=zbJ3kOYLbL
-
-#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="LAIN-LAIN SPORT", MOTORVISION TV
-http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=298068_&extension=ts
 
 #EXTINF:-1 tvg-logo="______" group-title="LAIN-LAIN SPORT", TRECE SPORT
 http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=508164&extension=ts&play_token=U6DIYVbv7g 
