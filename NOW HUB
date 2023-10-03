@@ -10913,6 +10913,8 @@ http://193.107.202.221:81/play/live.php?mac=00:1A:79:AB:62:70&stream=1116678_&ex
 http://193.107.202.221:81/play/live.php?mac=00:1A:79:AB:62:70&stream=1116671_&extension=ts
 
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EROPA SPORT 2", ONE SPORT  HD
+http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/7179.ts
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EROPA SPORT 2", YES SPORT 1 HD
 http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/2943.ts
@@ -10921,7 +10923,7 @@ http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/2943.ts
 http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/7194.ts
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EROPA SPORT 2", YES SPORT 3 HD
-http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/2944.ts
+http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/7331.ts
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EROPA SPORT 2", YES SPORT 4 HD
 http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/7216.ts
@@ -10950,26 +10952,26 @@ http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/7791.ts
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EROPA SPORT 2", YES SPORT 4 HQ
 http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/7332.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EROPA SPORT 2", YES SPORT 5 HD
-http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/7179.ts
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EROPA SPORT 2", YES SPORT 5 HQ
+http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/8026.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EROPA SPORT 2", YES SPORT 5 PLUS
+http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/6759.ts
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EROPA SPORT 2", YES SPORT 1 HD
 http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/7503.ts
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EROPA SPORT 2", YES SPORT 2 HD
+http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/2944.ts
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EROPA SPORT 2", YES SPORT 3 HD
 http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/6758.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EROPA SPORT 2", YES SPORT 5 HD
-http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/7226.ts
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EROPA SPORT 2", YES SPORT 4 HD
 http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/6705.ts
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EROPA SPORT 2", YES SPORT 5 HD
-http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/8026.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EROPA SPORT 2", YES SPORT 5 PLUS HD
-http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/6759.ts
+http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/7226.ts
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EROPA SPORT 2", YES SPORT 5 PLUS HQ
 http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/8829.ts
@@ -10986,17 +10988,8 @@ http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/9255.ts
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EROPA SPORT 2", YES SPORT 5 PLUS HD
 http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/9256.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EROPA SPORT 2", YES SPORT 5 FHD
-http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/8027.ts
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EROPA SPORT 2", YES SPORT 5 (4K)
 http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/8043.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EROPA SPORT 2", YES SPORT 3 HD
-http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/7331.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EROPA SPORT 2", EUROSPORT 1
-http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/7656.ts
 
 
 
