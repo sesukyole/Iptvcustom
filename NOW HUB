@@ -6,21 +6,21 @@ https://github.com/inaldie/inaldie/raw/main/LOGO.ts
 https://github.com/inaldie/inaldie/raw/main/DONATE.ts
 
 
-#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml",
-#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml",
-#EXTINF:-1 tvg-url="https://i.mjh.nz/SamsungTVPlus/all.xml",
-#EXTINF:-1 tvg-url="https://i.mjh.nz/au/all/epg.xml",
-#EXTINF:-1 tvg-url="https://www.tdtchannels.com/epg/TV.xml,https://www.bevy.be/bevyfiles/belgiumpremium.xml",
-#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/canadapremium.xml,https://www.bevy.be/bevyfiles/chile.xml",
-#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/france.xml,https://www.bevy.be/bevyfiles/indiapremium1.xml",
-#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/indiapremium2.xml,
-#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium1.xml",
-#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium2.xml,
-#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml",
-#EXTINF:-1 tvg-url="://www.bevy.be/bevyfiles/indonesiapremium4.xml,
-#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/italy.xml",
-#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/italypremium.xml,
-#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml",
+#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml"
+#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml"
+#EXTINF:-1 tvg-url="https://i.mjh.nz/SamsungTVPlus/all.xml"
+#EXTINF:-1 tvg-url="https://i.mjh.nz/au/all/epg.xml"
+#EXTINF:-1 tvg-url="https://www.tdtchannels.com/epg/TV.xml,https://www.bevy.be/bevyfiles/belgiumpremium.xml"
+#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/canadapremium.xml,https://www.bevy.be/bevyfiles/chile.xml"
+#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/france.xml,https://www.bevy.be/bevyfiles/indiapremium1.xml"
+#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/indiapremium2.xml"
+#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium1.xml"
+#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium2.xml"
+#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml"
+#EXTINF:-1 tvg-url="://www.bevy.be/bevyfiles/indonesiapremium4.xml
+#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/italy.xml"
+#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/italypremium.xml"
+#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml"
 #EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml"
 #EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/romania.xml,https://www.bevy.be/bevyfiles/romaniapremium.xml"
 #EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/russiapremium1.xml,https://www.bevy.be/bevyfiles/serbia.xml"
@@ -340,7 +340,7 @@ http://sysadminhost.net:8080/de77df6b/0f1f4102c5/298549
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ODg5MzMzNDItNmFiZS0zNDU3LWE3ZjUtMTBkZmY2OWViNWIw
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/ss4liga1.png", group-title="#🇮🇩EVENT LIGA 1🇮🇩#",  SPORTSTARS 4 LIVE 4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/ss4liga1.png" group-title="#🇮🇩EVENT LIGA 1🇮🇩#",  SPORTSTARS 4 LIVE 4
 https://nyanv-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS045siap5NyIF9bWfeYH5heAq-i7YaZ31_sg&usqp=CAU" group-title="#🇮🇩EVENT LIGA 1🇮🇩#", MOJI VOLY 1
@@ -493,50 +493,6 @@ http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=61977_&extens
 http://325481063776165257.of529.xyz:80/play/jean81/jean09092022/165257.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAy6M9roB5zzsqC9YF5ZMU0WUU5dDcI9r3Mg&usqp=CAU" group-title="#🇪🇸EVENT DAZN🇮🇹#", DAZN GP ES
 http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/482125.ts
-
-
-#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/dazn.png" group-title="#🇪🇸EVENT DAZN🇮🇹#", D| DAZN F1 FHD
-http://magi-stv.net:8080/CPlayplus_1/HsYqKZQrTZaxK/2144849
-
-#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/dazn.png" group-title="#🇪🇸EVENT DAZN🇮🇹#", D| DAZN 1 FHD
-http://magi-stv.net:8080/CPlayplus_1/HsYqKZQrTZaxK/2144852
-
-#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/dazn.png" group-title="#🇪🇸EVENT DAZN🇮🇹#", D| DAZN 2 FHD
-http://magi-stv.net:8080/CPlayplus_1/HsYqKZQrTZaxK/2144855
-
-#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/dazn.png" group-title="#🇪🇸EVENT DAZN🇮🇹#", D| DAZN 3 FHD
-http://magi-stv.net:8080/CPlayplus_1/HsYqKZQrTZaxK/2144858
-
-#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/dazn.png" group-title="#🇪🇸EVENT DAZN🇮🇹#", D| DAZN 4 FHD
-http://magi-stv.net:8080/CPlayplus_1/HsYqKZQrTZaxK/2144861
-
-#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/dazn.png" group-title="#🇪🇸EVENT DAZN🇮🇹#", D| DAZN  2 SD
-http://magi-stv.net:8080/CPlayplus_1/HsYqKZQrTZaxK/2144857
-
-#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/dazn.png" group-title="#🇪🇸EVENT DAZN🇮🇹#", D| DAZN 1 HD
-http://magi-stv.net:8080/CPlayplus_1/HsYqKZQrTZaxK/2144853
-
-#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/dazn.png" group-title="#🇪🇸EVENT DAZN🇮🇹#", D| DAZN 1 SD
-http://magi-stv.net:8080/CPlayplus_1/HsYqKZQrTZaxK/2144854
-
-#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/dazn.png" group-title="#🇪🇸EVENT DAZN🇮🇹#", D| DAZN 2 HD
-http://magi-stv.net:8080/CPlayplus_1/HsYqKZQrTZaxK/2144856
-
-#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/dazn.png" group-title="#🇪🇸EVENT DAZN🇮🇹#", D| DAZN 3 HD
-http://magi-stv.net:8080/CPlayplus_1/HsYqKZQrTZaxK/2144859
-
-#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/dazn.png" group-title="#🇪🇸EVENT DAZN🇮🇹#", D| DAZN 3 SD
-http://magi-stv.net:8080/CPlayplus_1/HsYqKZQrTZaxK/2144860
-
-#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/dazn.png" group-title="#🇪🇸EVENT DAZN🇮🇹#", D| DAZN 4 HD
-http://magi-stv.net:8080/CPlayplus_1/HsYqKZQrTZaxK/2144862
-
-#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/dazn.png" group-title="#🇪🇸EVENT DAZN🇮🇹#", D| DAZN F1 HD
-http://magi-stv.net:8080/CPlayplus_1/HsYqKZQrTZaxK/2144850
-
-#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/dazn.png" group-title="#🇪🇸EVENT DAZN🇮🇹#", D| DAZN 2 FHD
-http://magi-stv.net:8080/CPlayplus_1/HsYqKZQrTZaxK/2144855
-
 
 
 ###############################
@@ -1980,7 +1936,7 @@ http://kuchini.site:8080/multi6741/ab72059e/157550
 ##########################
 FIRSHMEDIA    ############
 ################################################################################################################################################################################# MOVIE ASIA
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png", group-title="FIRSTMEDIA", ###FIRSTMEDIA CHANNEL###
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="FIRSTMEDIA", ###FIRSTMEDIA CHANNEL###
 https://github.com/inaldie/inaldie/raw/main/LOGO.ts
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/MOJI.png" group-title="FIRSTMEDIA", MOJI HD
@@ -2045,7 +2001,7 @@ http://kuchini.site:8080/F30140/f3de2280/196480
 http://kuchini.site:8080/F30140/f3de2280/221948
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/42d29b03357fec1753cf970323f02e04.png" group-title="FIRSTMEDIA", CINEMAX 
 http://kuchini.site:8080/F30140/f3de2280/197964
-#EXTINF:-1 http://s3.i3ns.net/portal/picon/2023-05/adfc2c1f1d74779905488ad1bc067153.png" group-title="FIRSTMEDIA", PARAMOUNT NETWORK
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/adfc2c1f1d74779905488ad1bc067153.png" group-title="FIRSTMEDIA", PARAMOUNT NETWORK
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch309)/index.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/72d376f51855e885d4d094d6f697324e.png" group-title="FIRSTMEDIA", ROCK ACTION
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch330)/index.m3u8
@@ -2093,7 +2049,7 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch52)/index.m3u8
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch372)/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/HOREE.png" group-title="FIRSTMEDIA", HOREE!
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch375)/index.m3u8
-#EXTINF:-1 tvg-logo="tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT80C4ymGhiSixfnABmDMjsOiY7VVqLXz5c-A&usqp=CAU" group-title="FIRSTMEDIA", CARTOON NETWORK
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT80C4ymGhiSixfnABmDMjsOiY7VVqLXz5c-A&usqp=CAU" group-title="FIRSTMEDIA", CARTOON NETWORK
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch103)/index.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/e1dd8b2c9477e9c047fc597e8835eebb.png" group-title="FIRSTMEDIA", NICKELODEON
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch105)/index.m3u8
@@ -3049,7 +3005,7 @@ https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c68565fa79ce01665868040
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmupart4.apiv2x.workers.dev/
-#EXTINF:-1 tvg-id="CNNIndonesia.id" group-title="MNC GRUP" tvg-logo="https://3.bp.blogspot.com/-uofM2vEet-0/XE8wsXFAudI/AAAAAAAAGqU/zOlv9fcbBDsS-9PXZ4se5N-hRbIsgSd4QCK4BGAYYCw/s1600/CNN%2BIndonesia%2BLogo%2B%255Bwww.blogovector.com%255D.png" tvg-url="-----------------------l" tvg-id=”CNNIndonesia",CNN INDONESIA
+#EXTINF:-1 group-title="MNC GRUP" tvg-logo="https://3.bp.blogspot.com/-uofM2vEet-0/XE8wsXFAudI/AAAAAAAAGqU/zOlv9fcbBDsS-9PXZ4se5N-hRbIsgSd4QCK4BGAYYCw/s1600/CNN%2BIndonesia%2BLogo%2B%255Bwww.blogovector.com%255D.png" tvg-url="-----------------------l" tvg-id=”CNNIndonesia",CNN INDONESIA
 https://cdnjkt2.transvision.co.id:1001/live/master/5/4028c685651d7bcc01651f0e4ce10098/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -3204,7 +3160,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist.m3u8?id=1|Referer=https
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/8tv/
-#EXTINF:-1 tvg-id="8TV" group-title="MNC GRUP" tvg-url="-----------------------l" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/148.png",8TV
+#EXTINF:-1 group-title="MNC GRUP" tvg-url="-----------------------l" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/148.png",8TV
 https://aqfadtv.xyz/live/8tv/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -10346,7 +10302,7 @@ http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=1035201&e
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=1035199&extension=ts&play_token=fb6FyjAOr6
 #EXTINF:-1 tvg-logo="https://www.freeshot.live/upload/source/sport_4_israel_logo.png" group-title="EROPA SPORT", YES SPORT 4
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=1035197&extension=ts&play_token=9v4jik5FMi
-#EXTINF:-1 https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Sport5_Logo.png/800px-Sport5_Logo.png" group-title="EROPA SPORT", YES SPORT 5
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Sport5_Logo.png/800px-Sport5_Logo.png" group-title="EROPA SPORT", YES SPORT 5
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=1035196&extension=ts&play_token=Ypu8S5SThQ
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Sport5_Logo.png/800px-Sport5_Logo.png" group-title="EROPA SPORT", YES SPORT 5 PLUS
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=1035193&extension=ts&play_token=UOms3f1HPe
@@ -10958,89 +10914,90 @@ http://193.107.202.221:81/play/live.php?mac=00:1A:79:AB:62:70&stream=1116671_&ex
 
 
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EROPA SPORT 2", YES_Sport_1_HD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EROPA SPORT 2", YES SPORT 1 HD
 http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/2943.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EROPA SPORT 2", YES_Sport_2_HD
-http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/2944.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EROPA SPORT 2", YES_Sport_5_Plus_Live_HD
-http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/2946.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EROPA SPORT 2", YES_Sport_5_Stars
-http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/2945.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EROPA SPORT 2", SPORT  1 HD
-http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/7177.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EROPA SPORT 2", YES_SPORT_1_HQ
-http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/7193.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EROPA SPORT 2", SPORT 2 HD
-http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/7178.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EROPA SPORT 2", YES_SPORT_2_HQ
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EROPA SPORT 2", YES SPORT 2 HQ
 http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/7194.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EROPA SPORT 2", SPORT  3 HD
-http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/7331.ts
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EROPA SPORT 2", YES SPORT 3 HD
+http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/2944.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EROPA SPORT 2", YES_SPORT_3_HQ
-http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/7791.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EROPA SPORT 2", SPORT 4 HD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EROPA SPORT 2", YES SPORT 4 HD
 http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/7216.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EROPA SPORT 2", YES_SPORT_4_HQ
-http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/7332.ts
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EROPA SPORT 2", YES SPORT 5 PLUS LIVE HD
+http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/2946.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EROPA SPORT 2", Sport 5 Gold
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EROPA SPORT 2", YES SPORT 5 STARS
+http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/2945.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EROPA SPORT 2", YES SPORT 5 GOLD
 http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/80202.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EROPA SPORT 2", SPORT ONE 1080
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EROPA SPORT 2", YES SPORT 1 HD
+http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/7177.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EROPA SPORT 2", YES SPORT 1 HQ
+http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/7193.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EROPA SPORT 2", YES SPORT 2 HD
+http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/7178.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EROPA SPORT 2", YES SPORT 3 HQ
+http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/7791.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EROPA SPORT 2", YES SPORT 4 HQ
+http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/7332.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EROPA SPORT 2", YES SPORT 5 HD
 http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/7179.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EROPA SPORT 2", YES_SPORT_ONE_HQ
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EROPA SPORT 2", YES SPORT 1 HD
 http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/7503.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EROPA SPORT 2", SPORT 5 HD
-http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/7226.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EROPA SPORT 2", Yes_Sport_3_hd
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EROPA SPORT 2", YES SPORT 3 HD
 http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/6758.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EROPA SPORT 2", yes_sport_4_hd
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EROPA SPORT 2", YES SPORT 5 HD
+http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/7226.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EROPA SPORT 2", YES SPORT 4 HD
 http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/6705.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EROPA SPORT 2", Yes_sport_5_HD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EROPA SPORT 2", YES SPORT 5 HD
 http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/8026.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EROPA SPORT 2", Yes_Sport_5plus (1080)
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EROPA SPORT 2", YES SPORT 5 PLUS HD
 http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/6759.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EROPA SPORT 2", YES_SPORT_5_PLUS_HQ
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EROPA SPORT 2", YES SPORT 5 PLUS HQ
 http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/8829.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EROPA SPORT 2", SPORT 5 LIVE HD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EROPA SPORT 2", YES SPORT 5 LIVE HD
 http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/7180.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EROPA SPORT 2", SPORT 5 Stars
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EROPA SPORT 2", YES SPORT 5 STARS
 http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/7191.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EROPA SPORT 2", SPORT 5 720 HD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EROPA SPORT 2", YES SPORT 5 HD
 http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/9255.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EROPA SPORT 2", SPORT 5 P 720 HD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EROPA SPORT 2", YES SPORT 5 PLUS HD
 http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/9256.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EROPA SPORT 2", yes_Sport_5_HD_1080
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EROPA SPORT 2", YES SPORT 5 FHD
 http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/8027.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EROPA SPORT 2", Sport 5 (4K)
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EROPA SPORT 2", YES SPORT 5 (4K)
 http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/8043.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EROPA SPORT 2", Hot_eurosport_1
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EROPA SPORT 2", YES SPORT 3 HD
+http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/7331.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EROPA SPORT 2", EUROSPORT 1
 http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/7656.ts
+
 
 
 #######################
