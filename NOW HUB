@@ -15,7 +15,7 @@ https://github.com/inaldie/inaldie/raw/main/DONATE.ts
 #EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/france.xml,https://www.bevy.be/bevyfiles/indiapremium1.xml"
 #EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/indiapremium2.xml"
 #EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium1.xml"
-#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium2.xml"
+#EXTINF:-1 tvg-url="https://egp.it999.ru/epg.xml.gz"
 #EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml"
 #EXTINF:-1 tvg-url="://www.bevy.be/bevyfiles/indonesiapremium4.xml
 #EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/italy.xml"
@@ -326,17 +326,18 @@ https://mwmpos01.akamaized.net/out/v1/ee3d338d368f453a9c4181d119599e05/manifest.
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/liga1bri.png" group-title="#🇮🇩EVENT LIGA 1🇮🇩#", INDOSIAR LIVE 1 
 http://tvkuonline.my.id:25461/riyad/riyad/14
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/liga1bri.png" group-title="#🇮🇩EVENT LIGA 1🇮🇩#", INDOSIAR LIVE 2
-http://kuchini.site:8080/live/LeCyGodF/thYAg86ShLywX9FL/162138.m3u8
+http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/162138
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/liga1bri.png" group-title="#🇮🇩EVENT LIGA 1🇮🇩#", INDOSIAR LIVE 3
 http://xtv.ooo:8080/owais1/12345/350972
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/liga1bri.png" group-title="#🇮🇩EVENT LIGA 1🇮🇩#", INDOSIAR LIVE 4
-http://iptvtree.net:8080/live/joeBt/FBe7D5gDbFzmWdAx/162138.m3u8
+http://iptvaruba.com:8080/babar2020ex/sdDFGFtM8QnwbgWZ/162138.
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/ss3liga1.png" group-title="#🇮🇩EVENT LIGA 1🇮🇩#", SPORTSTARS 3 LIVE 1
 http://yesimes.oknirvana.club:8880/D12m1640/693788036/60411
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/ss3liga1.png" group-title="#🇮🇩EVENT LIGA 1🇮🇩#", SPORTSTARS 3 LIVE 2
-http://iptvtree.net:8080/live/joeBt/FBe7D5gDbFzmWdAx/298549.m3u8
+http://iptvaruba.com:8080/babar2020ex/sdDFGFtM8QnwbgWZ/298549
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/ss3liga1.png" group-title="#🇮🇩EVENT LIGA 1🇮🇩#", SPORTSTARS 3 LIVE 3
-http://sysadminhost.net:8080/de77df6b/0f1f4102c5/298549
+http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/298549
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ODg5MzMzNDItNmFiZS0zNDU3LWE3ZjUtMTBkZmY2OWViNWIw
@@ -346,66 +347,66 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS045siap5NyIF9bWfeYH5heAq-i7YaZ31_sg&usqp=CAU" group-title="#🇮🇩EVENT LIGA 1🇮🇩#", MOJI VOLY 1
 http://tvkuonline.my.id:25461/riyad/riyad/24
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS045siap5NyIF9bWfeYH5heAq-i7YaZ31_sg&usqp=CAU" group-title="#🇮🇩EVENT LIGA 1🇮🇩#", MOJI VOLY 2
-http://kuchini.site:8080/resplice/BiD8iEiMv7js1OUL/298550.m3u8
+http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/298550
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS045siap5NyIF9bWfeYH5heAq-i7YaZ31_sg&usqp=CAU" group-title="#🇮🇩EVENT LIGA 1🇮🇩#", MOJI VOLY 3
 http://kuchini.site:8080/F30140/f3de2280/298550
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS045siap5NyIF9bWfeYH5heAq-i7YaZ31_sg&usqp=CAU" group-title="#🇮🇩EVENT LIGA 1🇮🇩#", MOJI VOLY 4
-http://iptvtree.net:8080/live/joeBt/FBe7D5gDbFzmWdAx/298550.m3u8
+http://iptvaruba.com:8080/babar2020ex/sdDFGFtM8QnwbgWZ/298550
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5ZcozWJ6vBHdLtMA_MB8ZS5Yra8SAiYSUFA&usqp=CAU" group-title="#🇮🇩EVENT LIGA 1🇮🇩#", SCTV LIVE 1
 http://tvkuonline.my.id:25461/riyad/riyad/16
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5ZcozWJ6vBHdLtMA_MB8ZS5Yra8SAiYSUFA&usqp=CAU" group-title="#🇮🇩EVENT LIGA 1🇮🇩#", SCTV LIVE 2
-http://kuchini.site:8080/resplice/BiD8iEiMv7js1OUL/162141.m3u8
+http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/162141
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5ZcozWJ6vBHdLtMA_MB8ZS5Yra8SAiYSUFA&usqp=CAU" group-title="#🇮🇩EVENT LIGA 1🇮🇩#", SCTV LIVE 3
-http://sysadminhost.net:8080/de77df6b/0f1f4102c5/162141
+http://iptvaruba.com:8080/babar2020ex/sdDFGFtM8QnwbgWZ/162141
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5ZcozWJ6vBHdLtMA_MB8ZS5Yra8SAiYSUFA&usqp=CAU" group-title="#🇮🇩EVENT LIGA 1🇮🇩#", SCTV LIVE 4
 http://iptvtree.net:8080/live/joeBt/FBe7D5gDbFzmWdAx/162141.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTolVS008wKTHvfAZeFaefVzjf_BZgYL1mKVg&usqp=CAU" group-title="#🇮🇩EVENT LIGA 1🇮🇩#", RCTI LIVE 1
 http://tvkuonline.my.id:25461/riyad/riyad/8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTolVS008wKTHvfAZeFaefVzjf_BZgYL1mKVg&usqp=CAU" group-title="#🇮🇩EVENT LIGA 1🇮🇩#", RCTI LIVE 2
-http://kuchini.site:8080/resplice/BiD8iEiMv7js1OUL/157591
+http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/157591
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTolVS008wKTHvfAZeFaefVzjf_BZgYL1mKVg&usqp=CAU" group-title="#🇮🇩EVENT LIGA 1🇮🇩#", RCTI LIVE 3
-http://iptvtree.net:8080/live/joeBt/FBe7D5gDbFzmWdAx/157591.m3u8
+http://iptvaruba.com:8080/babar2020ex/sdDFGFtM8QnwbgWZ/157591
 
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmrehIz_x34NlxqfXsJfkpWGy08Jb_-E81Yw&usqp=CAU" group-title="#🇮🇩CHAMPION TV🇮🇩#", CHAMPIONS TV 1 LIVE 1
-http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298512
+http://iptvaruba.com:8080/babar2020ex/sdDFGFtM8QnwbgWZ/298512
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4lwt5imYSHerJCDxgceftlfOw9D0P6JbVXQ&usqp=CAU" group-title="#🇮🇩CHAMPION TV🇮🇩#", CHAMPIONS TV 2 LIVE 1
-http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298513
+http://iptvaruba.com:8080/babar2020ex/sdDFGFtM8QnwbgWZ/298513
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW64JrHFj29Wnv2pTK1AzKAtpotsas8QQ7Eg&usqp=CAU" group-title="#🇮🇩CHAMPION TV🇮🇩#", CHAMPIONS TV 3 LIVE 1
-http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298514
+http://iptvaruba.com:8080/babar2020ex/sdDFGFtM8QnwbgWZ/298514
 #EXTINF:-1 tvg-logo="https://www.teknisitv.com/wp-content/uploads/2023/02/FREKUENSI-CHAMPIONS-TV-5-DAN-CHAMPIONS-TV-6..jpg" group-title="#🇮🇩CHAMPION TV🇮🇩#", CHAMPIONS TV 5 LIVE 1
-http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298491
+http://iptvaruba.com:8080/babar2020ex/sdDFGFtM8QnwbgWZ/298491
 #EXTINF:-1 tvg-logo="https://www.teknisitv.com/wp-content/uploads/2023/02/FREKUENSI-CHAMPIONS-TV-5-DAN-CHAMPIONS-TV-6..jpg" group-title="#🇮🇩CHAMPION TV🇮🇩#", CHAMPIONS TV 6 LIVE 1
-http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298492
+http://iptvaruba.com:8080/babar2020ex/sdDFGFtM8QnwbgWZ/298492
 
 
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmrehIz_x34NlxqfXsJfkpWGy08Jb_-E81Yw&usqp=CAU" group-title="#🇮🇩CHAMPION TV🇮🇩#", CHAMPIONS TV 1 LIVE 2
-http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/298512
+http://kuchini.site:8080/kodicolegna/48e237edd2/298512
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4lwt5imYSHerJCDxgceftlfOw9D0P6JbVXQ&usqp=CAU" group-title="#🇮🇩CHAMPION TV🇮🇩#", CHAMPIONS TV 2 LIVE 2
-http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/298513
+http://kuchini.site:8080/kodicolegna/48e237edd2/298513
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW64JrHFj29Wnv2pTK1AzKAtpotsas8QQ7Eg&usqp=CAU" group-title="#🇮🇩CHAMPION TV🇮🇩#", CHAMPIONS TV 3 LIVE 2
-http://kuchini.site:8080/resplice/BiD8iEiMv7js1OUL/298514
+http://kuchini.site:8080/kodicolegna/48e237edd2/298514
 #EXTINF:-1 tvg-logo="https://www.teknisitv.com/wp-content/uploads/2023/02/FREKUENSI-CHAMPIONS-TV-5-DAN-CHAMPIONS-TV-6..jpg" group-title="#🇮🇩CHAMPION TV🇮🇩#", CHAMPIONS TV 5 LIVE 2
-http://kuchini.site:8080/resplice/BiD8iEiMv7js1OUL/298491
+http://kuchini.site:8080/kodicolegna/48e237edd2/298491
 #EXTINF:-1 tvg-logo="https://www.teknisitv.com/wp-content/uploads/2023/02/FREKUENSI-CHAMPIONS-TV-5-DAN-CHAMPIONS-TV-6..jpg" group-title="#🇮🇩CHAMPION TV🇮🇩#", CHAMPIONS TV 6 LIVE 2
-http://kuchini.site:8080/resplice/BiD8iEiMv7js1OUL/298492
+http://kuchini.site:8080/kodicolegna/48e237edd2/298492
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmrehIz_x34NlxqfXsJfkpWGy08Jb_-E81Yw&usqp=CAU" group-title="#🇮🇩CHAMPION TV🇮🇩#", CHAMPIONS TV 1 LIVE 3
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/298512.m3u8
+http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/298512
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4lwt5imYSHerJCDxgceftlfOw9D0P6JbVXQ&usqp=CAU" group-title="#🇮🇩CHAMPION TV🇮🇩#", CHAMPIONS TV 2 LIVE 3
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/298513.m3u8
+http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/298513
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW64JrHFj29Wnv2pTK1AzKAtpotsas8QQ7Eg&usqp=CAU" group-title="#🇮🇩CHAMPION TV🇮🇩#", CHAMPIONS TV 3 LIVE 3
-http://aanax.com:8080/live/2a41efbf/e9bc076c04/298514.m3u8
+http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/298514
 #EXTINF:-1 tvg-logo="https://www.teknisitv.com/wp-content/uploads/2023/02/FREKUENSI-CHAMPIONS-TV-5-DAN-CHAMPIONS-TV-6..jpg" group-title="#🇮🇩CHAMPION TV🇮🇩#", CHAMPIONS TV 5 LIVE 3
-http://sysadminhost.net:8080/de77df6b/0f1f4102c5/298491
+http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/298491
 #EXTINF:-1 tvg-logo="https://www.teknisitv.com/wp-content/uploads/2023/02/FREKUENSI-CHAMPIONS-TV-5-DAN-CHAMPIONS-TV-6..jpg" group-title="#🇮🇩CHAMPION TV🇮🇩#", CHAMPIONS TV 6 LIVE 3
-http://sysadminhost.net:8080/de77df6b/0f1f4102c5/298492
+http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/298492
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/logomotogp.png" group-title="#🏍️EVENT GP&F1🏎️#", GP 1
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:17:BE&stream=305274&extension=ts
@@ -420,7 +421,7 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:17:BE&stream=56602&extension
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/logof1.png" group-title="#🏍️EVENT GP&F1🏎️#", F1 1
-http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=508331&extension=ts&play_token=U71gOhaI4v
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=295373&extension=ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/logof1.png" group-title="#🏍️EVENT GP&F1🏎️#", F1 2
 http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=83453&extension=ts&play_token=U71gOhaI4v
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/logof1.png" group-title="#🏍️EVENT GP&F1🏎️#", F1 3
