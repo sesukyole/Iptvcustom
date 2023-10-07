@@ -43,7 +43,7 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=67208&extension
 #EXTINF:-1 tvg-logo="______" group-title="SPORT MOL", BEIN SPORT 1 FR
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=2817&extension=ts
 #EXTINF:-1 tvg-logo="______" group-title="SPORT MOL", BEIN SPORT 2 FR
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=2817&extension=ts
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=59063&extension=ts
 #EXTINF:-1 tvg-logo="______" group-title="SPORT MOL", BEIN SPORT 3 FR
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=2821&extension=ts
 #EXTINF:-1 tvg-logo="______" group-title="SPORT MOL", BEIN SPORT 4 MAX
@@ -300,8 +300,6 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=649227&extensio
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=649228&extension=ts
 #EXTINF:-1 tvg-logo="______" group-title="SPORT MOL", CYTAVISION SPORT 5 GR
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=649229&extension=ts
-
-
 
 #EXTINF:-1 tvg-logo="______" group-title="SPORT MOL", WWE UK
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=97108&extension=ts
