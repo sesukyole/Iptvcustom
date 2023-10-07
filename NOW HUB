@@ -9618,15 +9618,15 @@ http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=1209968&e
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=110764&extension=ts&play_token=AS9X0Z0mpP
 
 
-#EXTINF:-1 tvg-logo="-------" group-title="EROPA SPORT", MATCH ARENA
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="EROPA SPORT", MATCH ARENA
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=132559&extension=ts&play_token=HysfJeXAoU
-#EXTINF:-1 tvg-logo="-------" group-title="EROPA SPORT", MATCH FOOTBALL 1
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="EROPA SPORT", MATCH FOOTBALL 1
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=300836&extension=ts&play_token=mZm9j7nnnI
-#EXTINF:-1 tvg-logo="-------" group-title="EROPA SPORT", MATCH FOOTBALL 2
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="EROPA SPORT", MATCH FOOTBALL 2
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=132562&extension=ts&play_token=1a9wikaE9A
-#EXTINF:-1 tvg-logo="-------" group-title="EROPA SPORT", MATCH FOOTBALL 3
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="EROPA SPORT", MATCH FOOTBALL 3
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=132564&extension=ts&play_token=ShKDGyU8Ki
-#EXTINF:-1 tvg-logo="-------" group-title="EROPA SPORT", MATCH PREMIER
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="EROPA SPORT", MATCH PREMIER
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=459676&extension=ts&play_token=QhILPO01NV
 
 
@@ -9697,7 +9697,6 @@ http://mol-2.com:8080/FnB395KegENkUxB/mdp0fspYNCHqt7A/461184
 http://mol-2.com:8080/FnB395KegENkUxB/mdp0fspYNCHqt7A/56612
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSProcbvh2KwssGqfLZQBcdvEakAa5lELAaiw&usqp=CAU" group-title="EROPA SPORT", SKY NBA
 http://mol-2.com:8080/FnB395KegENkUxB/mdp0fspYNCHqt7A/56611
-
 
 #EXTINF:-1 tvg-logo="_____" group-title="EROPA SPORT", ORF SPORT AT
 http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=127405&extension=ts&play_token=ig1qtRO06T
@@ -9977,7 +9976,6 @@ http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=1014260&exte
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=2110_&extension=ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV6yflzHGlwgQXKL8Gnk2sRat-PXqZNqOntw&usqp=CAU" group-title="EROPA SPORT", PREMIER SPORT 2
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=2109_&extension=ts
-
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnYYALOTPEaxuje-aQ7Vf5_25rphoZxdBA6w&usqp=CAU" group-title="EROPA SPORT", VIAPLAY SPORT 1 BK
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=2112_&extension=ts
@@ -11090,414 +11088,6 @@ https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/28158.m3u8
 https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/28231.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", PPV• DIRECTV SPORTS FIGHT (HD)
-http://ultrapremium.ch:8080/6855928684/9845544366/20350
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", DEP• TNT SPORTS AR (HD) »1«
-http://ultrapremium.ch:8080/6855928684/9845544366/459
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", DEP• TNT SPORTS AR (HD) »2«
-http://ultrapremium.ch:8080/6855928684/9845544366/460
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", DEP• TNT SPORTS AR (HD) »3«
-http://ultrapremium.ch:8080/6855928684/9845544366/461
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", DEP• TYC SPORTS AR (HD) »1«
-http://ultrapremium.ch:8080/6855928684/9845544366/554
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", DEP• TYC SPORTS AR (HD) »2«
-http://ultrapremium.ch:8080/6855928684/9845544366/462
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", DEP• TYC SPORTS AR (HD) »3«
-http://ultrapremium.ch:8080/6855928684/9845544366/555
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", DEP• FOX SPORTS 1 CL (HD) »1«
-http://ultrapremium.ch:8080/6855928684/9845544366/456
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", DEP• FOX SPORTS 1 CL (HD) »2«
-http://ultrapremium.ch:8080/6855928684/9845544366/457
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", DEP• FOX SPORTS 1 CL (HD) »3«
-http://ultrapremium.ch:8080/6855928684/9845544366/458
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", DEP• FOX SPORTS 1 CL (HD) »4«
-http://ultrapremium.ch:8080/6855928684/9845544366/525
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", DEP• FOX SPORTS 1 AR (HD) »1«
-http://ultrapremium.ch:8080/6855928684/9845544366/526
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", DEP• FOX SPORTS 1 AR (HD) »2«
-http://ultrapremium.ch:8080/6855928684/9845544366/527
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", DEP• FOX SPORTS 1 AR (HD) »3«
-http://ultrapremium.ch:8080/6855928684/9845544366/528
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", DEP• FOX SPORTS 1 AR (HD) »4«
-http://ultrapremium.ch:8080/6855928684/9845544366/541
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", DEP• FOX SPORTS 1 LAT (HD) »1«
-http://ultrapremium.ch:8080/6855928684/9845544366/542
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", DEP• FOX SPORTS 1 LAT (HD) »2«
-http://ultrapremium.ch:8080/6855928684/9845544366/543
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", DEP• FOX SPORTS 1 LAT (HD) »3«
-http://ultrapremium.ch:8080/6855928684/9845544366/544
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", DEP• FOX SPORTS 1 LAT (HD) »4«
-http://ultrapremium.ch:8080/6855928684/9845544366/545
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", DEP• FOX SPORTS 1 LAT (HD) »5«
-http://ultrapremium.ch:8080/6855928684/9845544366/546
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", DEP• FOX SPORTS 1 LAT (HD) »6«
-http://ultrapremium.ch:8080/6855928684/9845544366/548
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", DEP• FOX SPORTS 1 MX (HD) »1«
-http://ultrapremium.ch:8080/6855928684/9845544366/540
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", DEP• FOX SPORTS 1 MX (HD) »2«
-http://ultrapremium.ch:8080/6855928684/9845544366/534
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", DEP• FOX SPORTS 2 CL (HD) »1«
-http://ultrapremium.ch:8080/6855928684/9845544366/453
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", DEP• FOX SPORTS 2 CL (HD) »2«
-http://ultrapremium.ch:8080/6855928684/9845544366/454
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", DEP• FOX SPORTS 2 AR (HD) »1«
-http://ultrapremium.ch:8080/6855928684/9845544366/530
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", DEP• FOX SPORTS 2 AR (HD) »2«
-http://ultrapremium.ch:8080/6855928684/9845544366/531
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", DEP• FOX SPORTS 2 LAT (HD) »1«
-http://ultrapremium.ch:8080/6855928684/9845544366/532
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", DEP• FOX SPORTS 2 LAT (HD) »2«
-http://ultrapremium.ch:8080/6855928684/9845544366/533
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", DEP• FOX SPORTS 2 LAT (HD) »3«
-http://ultrapremium.ch:8080/6855928684/9845544366/535
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", DEP• FOX SPORTS 2 MX (HD) »1«
-http://ultrapremium.ch:8080/6855928684/9845544366/529
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", DEP• FOX SPORTS 2 MX (HD) »2«
-http://ultrapremium.ch:8080/6855928684/9845544366/547
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", DEP• FOX SPORTS 3 CL (HD) »1«
-http://ultrapremium.ch:8080/6855928684/9845544366/455
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", DEP• FOX SPORTS 3 CL (HD) »2«
-http://ultrapremium.ch:8080/6855928684/9845544366/536
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", DEP• FOX SPORTS 3 AR (HD) »1«
-http://ultrapremium.ch:8080/6855928684/9845544366/537
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", DEP• FOX SPORTS 3 AR (HD) »2«
-http://ultrapremium.ch:8080/6855928684/9845544366/538
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", DEP• FOX SPORTS 3 LAT (HD)
-http://ultrapremium.ch:8080/6855928684/9845544366/539
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", DEP• DIRECTV SPORTS CL (HD) »1«
-http://ultrapremium.ch:8080/6855928684/9845544366/481
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", DEP• DIRECTV SPORTS CL (HD) »2«
-http://ultrapremium.ch:8080/6855928684/9845544366/465
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", DEP• DIRECTV SPORTS CL (HD) »3«
-http://ultrapremium.ch:8080/6855928684/9845544366/484
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", DEP• DIRECTV SPORTS AR (HD) »1«
-http://ultrapremium.ch:8080/6855928684/9845544366/480
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", DEP• DIRECTV SPORTS AR (HD) »2«
-http://ultrapremium.ch:8080/6855928684/9845544366/483
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", DEP• DIRECTV SPORTS CO (HD) »1«
-http://ultrapremium.ch:8080/6855928684/9845544366/482
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", DEP• DIRECTV SPORTS CO (HD) »2«
-http://ultrapremium.ch:8080/6855928684/9845544366/485
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", DEP• DIRECTV SPORTS PE (HD)
-http://ultrapremium.ch:8080/6855928684/9845544366/479
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", DEP• DIRECTV SPORTS 2 CL (HD) »1«
-http://ultrapremium.ch:8080/6855928684/9845544366/464
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", DEP• DIRECTV SPORTS 2 CL (HD) »2«
-http://ultrapremium.ch:8080/6855928684/9845544366/478
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", DEP• DIRECTV SPORTS 2 CL (HD) »3«
-http://ultrapremium.ch:8080/6855928684/9845544366/475
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", DEP• DIRECTV SPORTS 2 AR (HD) »1«
-http://ultrapremium.ch:8080/6855928684/9845544366/473
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", DEP• DIRECTV SPORTS 2 AR (HD) »2«
-http://ultrapremium.ch:8080/6855928684/9845544366/474
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", DEP• DIRECTV SPORTS 2 CO (HD)
-http://ultrapremium.ch:8080/6855928684/9845544366/476
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", DEP• DIRECTV SPORTS 2 PE (HD)
-http://ultrapremium.ch:8080/6855928684/9845544366/477
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", DEP• DIRECTV SPORTS+ CL (HD) »1«
-http://ultrapremium.ch:8080/6855928684/9845544366/472
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", DEP• DIRECTV SPORTS+ CL (HD) »2«
-http://ultrapremium.ch:8080/6855928684/9845544366/469
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", DEP• DIRECTV SPORTS+ AR (HD) »1«
-http://ultrapremium.ch:8080/6855928684/9845544366/467
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", DEP• DIRECTV SPORTS+ AR (HD) »2«
-http://ultrapremium.ch:8080/6855928684/9845544366/466
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", DEP• DIRECTV SPORTS+ AR (HD) »3«
-http://ultrapremium.ch:8080/6855928684/9845544366/468
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", DEP• DIRECTV SPORTS+ CO (HD)
-http://ultrapremium.ch:8080/6855928684/9845544366/470
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", DEP• DIRECTV SPORTS+ PE (HD)
-http://ultrapremium.ch:8080/6855928684/9845544366/471
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", DEP• ELEVEN SPORTS 1 PT (HD)
-http://ultrapremium.ch:8080/6855928684/9845544366/570
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", DEP• ELEVEN SPORTS 2 PT (HD)
-http://ultrapremium.ch:8080/6855928684/9845544366/571
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", DEP• SPORT TV 1 PT (HD)
-http://ultrapremium.ch:8080/6855928684/9845544366/573
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", DEP• SPORT TV 2 PT (HD)
-http://ultrapremium.ch:8080/6855928684/9845544366/574
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", DEP• SPORT TV 3 PT (HD)
-http://ultrapremium.ch:8080/6855928684/9845544366/575
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", DEP• SPORT TV 4 PT (HD)
-http://ultrapremium.ch:8080/6855928684/9845544366/576
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", DEP• SPORT TV+ PT (HD)
-http://ultrapremium.ch:8080/6855928684/9845544366/572
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", DEP• EUROSPORT 1 (HD)
-http://ultrapremium.ch:8080/6855928684/9845544366/577
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", DEP• EUROSPORT 2 (HD)
-http://ultrapremium.ch:8080/6855928684/9845544366/578
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", DEP• CLARO SPORTS CO (HD)
-http://ultrapremium.ch:8080/6855928684/9845544366/463
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", FCL• ESTADIO TNT SPORTS 1 (HD) »1«
-http://ultrapremium.ch:8080/6855928684/9845544366/86
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", FCL• ESTADIO TNT SPORTS 1 (HD) »2«
-http://ultrapremium.ch:8080/6855928684/9845544366/87
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", FCL• ESTADIO TNT SPORTS 1 (HD) »3«
-http://ultrapremium.ch:8080/6855928684/9845544366/88
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", FCL• ESTADIO TNT SPORTS 1 (HD) »4«
-http://ultrapremium.ch:8080/6855928684/9845544366/89
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", FCL• ESTADIO TNT SPORTS 2 (HD) »1«
-http://ultrapremium.ch:8080/6855928684/9845544366/61274
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", FCL• ESTADIO TNT SPORTS 2 (HD) »2«
-http://ultrapremium.ch:8080/6855928684/9845544366/61275
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", FCL• ESTADIO TNT SPORTS 2 (HD) »3«
-http://ultrapremium.ch:8080/6855928684/9845544366/61276
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", FCL• ESTADIO TNT SPORTS 2 (HD) »4«
-http://ultrapremium.ch:8080/6855928684/9845544366/61277
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", FCL• TNT SPORTS (HD) »1«
-http://ultrapremium.ch:8080/6855928684/9845544366/90
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", FCL• TNT SPORTS (HD) »2«
-http://ultrapremium.ch:8080/6855928684/9845544366/91
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", FCL• TNT SPORTS (HD) »3«
-http://ultrapremium.ch:8080/6855928684/9845544366/92
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", FCL• TNT SPORTS (HD) »4«
-http://ultrapremium.ch:8080/6855928684/9845544366/93
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", FCL• TNT SPORTS 2 (HD) »1«
-http://ultrapremium.ch:8080/6855928684/9845544366/94
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", FCL• TNT SPORTS 2 (HD) »2«
-http://ultrapremium.ch:8080/6855928684/9845544366/95
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", FCL• TNT SPORTS 2 (HD) »3«
-http://ultrapremium.ch:8080/6855928684/9845544366/96
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", FCL• TNT SPORTS 2 (HD) »4«
-http://ultrapremium.ch:8080/6855928684/9845544366/97
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", FCL• TNT SPORTS 3 (HD) »1«
-http://ultrapremium.ch:8080/6855928684/9845544366/98
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", FCL• TNT SPORTS 3 (HD) »2«
-http://ultrapremium.ch:8080/6855928684/9845544366/99
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", FCL• TNT SPORTS 3 (HD) »3«
-http://ultrapremium.ch:8080/6855928684/9845544366/56659
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", FCL• TNT SPORTS 3 (HD) »4«
-http://ultrapremium.ch:8080/6855928684/9845544366/56660
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", FCL• DIRECTV SPORTS (HD) »1«
-http://ultrapremium.ch:8080/6855928684/9845544366/58288
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", FCL• DIRECTV SPORTS (HD) »2«
-http://ultrapremium.ch:8080/6855928684/9845544366/58289
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", FCL• DIRECTV SPORTS (HD) »3«
-http://ultrapremium.ch:8080/6855928684/9845544366/58290
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", FCL• DIRECTV SPORTS (HD) »4«
-http://ultrapremium.ch:8080/6855928684/9845544366/58291
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", PE• BEST CABLE SPORTS (HD)
-http://ultrapremium.ch:8080/6855928684/9845544366/256
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", PE• DIRECTV SPORTS (HD) »1«
-http://ultrapremium.ch:8080/6855928684/9845544366/317
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", PE• DIRECTV SPORTS (HD) »2«
-http://ultrapremium.ch:8080/6855928684/9845544366/318
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", PE• DIRECTV SPORTS+ (HD)
-http://ultrapremium.ch:8080/6855928684/9845544366/315
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", PE• DIRECTV SPORTS 2 (HD)
-http://ultrapremium.ch:8080/6855928684/9845544366/316
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", COL• WIN SPORTS+ (HD) »1«
-http://ultrapremium.ch:8080/6855928684/9845544366/359
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", COL• WIN SPORTS+ (HD) »2«
-http://ultrapremium.ch:8080/6855928684/9845544366/360
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", COL• WIN SPORTS+ (HD) »3«
-http://ultrapremium.ch:8080/6855928684/9845544366/361
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", COL• WIN SPORTS (HD) »1«
-http://ultrapremium.ch:8080/6855928684/9845544366/362
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", COL• WIN SPORTS (HD) »2«
-http://ultrapremium.ch:8080/6855928684/9845544366/363
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", COL• WIN SPORTS (HD) »3«
-http://ultrapremium.ch:8080/6855928684/9845544366/364
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", COL• WIN SPORTS (HD) »4«
-http://ultrapremium.ch:8080/6855928684/9845544366/365
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", COL• WIN SPORTS (HD) »5«
-http://ultrapremium.ch:8080/6855928684/9845544366/366
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", COL• WIN SPORTS (HD) »6«
-http://ultrapremium.ch:8080/6855928684/9845544366/367
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", COL• WIN SPORTS (HD) »7«
-http://ultrapremium.ch:8080/6855928684/9845544366/368
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", COL• WIN SPORTS (HD) »8«
-http://ultrapremium.ch:8080/6855928684/9845544366/369
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", Argentina - Fox Sports Premium HQ.
-http://ultrapremium.ch:8080/6855928684/9845544366/16161
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", Bolivia - Tigo Sports 1 HD
-http://ultrapremium.ch:8080/6855928684/9845544366/17598
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", Bolivia - Tigo Sports 2 HD
-http://ultrapremium.ch:8080/6855928684/9845544366/17599
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", US: BALLY SPORTS: SUN
-http://ultrapremium.ch:8080/6855928684/9845544366/23806
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", US: Bally Sports (South West) HD
-http://ultrapremium.ch:8080/6855928684/9845544366/23807
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", US: Bally Sports (South East) HD
-http://ultrapremium.ch:8080/6855928684/9845544366/23808
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", US: Bally Sports (Ohio) HD
-http://ultrapremium.ch:8080/6855928684/9845544366/23809
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", US: STADIUM COLLAGE SPORTS CENTRAL
-http://ultrapremium.ch:8080/6855928684/9845544366/23810
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", US: STADIUM COLLAGE SPORTS ATLANTIC
-http://ultrapremium.ch:8080/6855928684/9845544366/23811
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", US: Bally Sports (Arizona) HD
-http://ultrapremium.ch:8080/6855928684/9845544366/23812
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", US: STADIUM COLLAGE SPORTS PACIFIC
-http://ultrapremium.ch:8080/6855928684/9845544366/23813
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", US: Sportsnet World
-http://ultrapremium.ch:8080/6855928684/9845544366/23871
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", US: Sportsnet Ontario
-http://ultrapremium.ch:8080/6855928684/9845544366/23872
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", US: Sportsnet One
-http://ultrapremium.ch:8080/6855928684/9845544366/23873
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", US: beIN Sports HD
-http://ultrapremium.ch:8080/6855928684/9845544366/23877
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", US: THE SPORTSMAN CHANNEL
-http://ultrapremium.ch:8080/6855928684/9845544366/23895
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", US: Sportsnet West HD
-http://ultrapremium.ch:8080/6855928684/9845544366/23969
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", US: Sportsnet East HD
-http://ultrapremium.ch:8080/6855928684/9845544366/23970
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", US: Sportsnet 360 HD
-http://ultrapremium.ch:8080/6855928684/9845544366/23971
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", US: Bally Sports Wisconsin HD
-http://ultrapremium.ch:8080/6855928684/9845544366/24012
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", US: Bally Sports San Diego HD
-http://ultrapremium.ch:8080/6855928684/9845544366/24013
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", US: Bally Sports (South) HD
-http://ultrapremium.ch:8080/6855928684/9845544366/24015
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", US: BALLY SPORTS: NORTH
-http://ultrapremium.ch:8080/6855928684/9845544366/24016
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", US: Bally Sports (Florida) HD
-http://ultrapremium.ch:8080/6855928684/9845544366/24018
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", US: BALLY SPORTS: DETROIT HD
-http://ultrapremium.ch:8080/6855928684/9845544366/24019
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", US: Bally Sports Cincinnati HD
-http://ultrapremium.ch:8080/6855928684/9845544366/24020
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", US: Bally Sports Carolina HD
-http://ultrapremium.ch:8080/6855928684/9845544366/24021
-
-
 #EXTINF:-1 tvg-logo="http://ceoapps.org/logos/bnsports.png" group-title="LATIN SPORT", D| beIN Sports Ñ Latino
 http://magi-stv.net:8080/CPlayplus_1/HsYqKZQrTZaxK/2123472
 
@@ -12286,422 +11876,6 @@ http://magi-stv.net:8080/CPlayplus_1/HsYqKZQrTZaxK/2186097
 
 
 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="LATIN SPORT", DEP• TNT SPORTS AR (HD) »1«
-http://ultrapremium.ch:8080/6093778/8062022/459
-
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="LATIN SPORT", DEP• TNT SPORTS AR (HD) »2«
-http://ultrapremium.ch:8080/6093778/8062022/460
-
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="LATIN SPORT", DEP• TNT SPORTS AR (HD) »3«
-http://ultrapremium.ch:8080/6093778/8062022/461
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/YSSq7fVJ/tycsports.png" group-title="LATIN SPORT", DEP• TYC SPORTS AR (HD) »1«
-http://ultrapremium.ch:8080/6093778/8062022/554
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/YSSq7fVJ/tycsports.png" group-title="LATIN SPORT", DEP• TYC SPORTS AR (HD) »2«
-http://ultrapremium.ch:8080/6093778/8062022/462
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/YSSq7fVJ/tycsports.png" group-title="LATIN SPORT", DEP• TYC SPORTS AR (HD) »3«
-http://ultrapremium.ch:8080/6093778/8062022/555
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/CDO_Premium.png" group-title="LATIN SPORT", DEP• CDO PREMIUM CL (HD) »1«
-http://ultrapremium.ch:8080/6093778/8062022/26000
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/CDO_Premium.png" group-title="LATIN SPORT", DEP• CDO PREMIUM CL (HD) »2«
-http://ultrapremium.ch:8080/6093778/8062022/25999
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/KvFR3FLr/espn.png" group-title="LATIN SPORT", DEP• ESPN CL (HD) »1«
-http://ultrapremium.ch:8080/6093778/8062022/501
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/KvFR3FLr/espn.png" group-title="LATIN SPORT", DEP• ESPN CL (HD) »2«
-http://ultrapremium.ch:8080/6093778/8062022/502
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/KvFR3FLr/espn.png" group-title="LATIN SPORT", DEP• ESPN AR (HD) »1«
-http://ultrapremium.ch:8080/6093778/8062022/518
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/KvFR3FLr/espn.png" group-title="LATIN SPORT", DEP• ESPN AR (HD) »2«
-http://ultrapremium.ch:8080/6093778/8062022/520
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/KvFR3FLr/espn.png" group-title="LATIN SPORT", DEP• ESPN LAT (HD) »1«
-http://ultrapremium.ch:8080/6093778/8062022/522
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/KvFR3FLr/espn.png" group-title="LATIN SPORT", DEP• ESPN LAT (HD) »2«
-http://ultrapremium.ch:8080/6093778/8062022/524
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/KvFR3FLr/espn.png" group-title="LATIN SPORT", DEP• ESPN MX (HD) »1«
-http://ultrapremium.ch:8080/6093778/8062022/519
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/KvFR3FLr/espn.png" group-title="LATIN SPORT", DEP• ESPN MX (HD) »2«
-http://ultrapremium.ch:8080/6093778/8062022/521
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/KvFR3FLr/espn.png" group-title="LATIN SPORT", DEP• ESPN MX (HD) »3«
-http://ultrapremium.ch:8080/6093778/8062022/523
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8PSdw28t/espnextra.png" group-title="LATIN SPORT", DEP• ESPN EXTRA LAT (HD)
-http://ultrapremium.ch:8080/6093778/8062022/517
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8PSdw28t/espnextra.png" group-title="LATIN SPORT", DEP• ESPN EXTRA MX (HD) »1«
-http://ultrapremium.ch:8080/6093778/8062022/515
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8PSdw28t/espnextra.png" group-title="LATIN SPORT", DEP• ESPN EXTRA MX (HD) »2«
-http://ultrapremium.ch:8080/6093778/8062022/516
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/v82q167s/ESPN2.png" group-title="LATIN SPORT", DEP• ESPN 2 CL (HD) »1«
-http://ultrapremium.ch:8080/6093778/8062022/452
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/v82q167s/ESPN2.png" group-title="LATIN SPORT", DEP• ESPN 2 CL (HD) »2«
-http://ultrapremium.ch:8080/6093778/8062022/503
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/v82q167s/ESPN2.png" group-title="LATIN SPORT", DEP• ESPN 2 CL (HD) »3«
-http://ultrapremium.ch:8080/6093778/8062022/504
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/v82q167s/ESPN2.png" group-title="LATIN SPORT", DEP• ESPN 2 AR (HD) »1«
-http://ultrapremium.ch:8080/6093778/8062022/506
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/v82q167s/ESPN2.png" group-title="LATIN SPORT", DEP• ESPN 2 AR (HD) »2«
-http://ultrapremium.ch:8080/6093778/8062022/507
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/v82q167s/ESPN2.png" group-title="LATIN SPORT", DEP• ESPN 2 LAT (HD) »1«
-http://ultrapremium.ch:8080/6093778/8062022/508
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/v82q167s/ESPN2.png" group-title="LATIN SPORT", DEP• ESPN 2 LAT (HD) »2«
-http://ultrapremium.ch:8080/6093778/8062022/510
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/v82q167s/ESPN2.png" group-title="LATIN SPORT", DEP• ESPN 2 MX (HD) »1«
-http://ultrapremium.ch:8080/6093778/8062022/505
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/v82q167s/ESPN2.png" group-title="LATIN SPORT", DEP• ESPN 2 MX (HD) »2«
-http://ultrapremium.ch:8080/6093778/8062022/509
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/y8DMj3Cm/espn3.png" group-title="LATIN SPORT", DEP• ESPN 3 CL (HD)
-http://ultrapremium.ch:8080/6093778/8062022/512
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/y8DMj3Cm/espn3.png" group-title="LATIN SPORT", DEP• ESPN 3 AR (HD)
-http://ultrapremium.ch:8080/6093778/8062022/513
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/y8DMj3Cm/espn3.png" group-title="LATIN SPORT", DEP• ESPN 3 LAT (HD)
-http://ultrapremium.ch:8080/6093778/8062022/514
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/y8DMj3Cm/espn3.png" group-title="LATIN SPORT", DEP• ESPN 3 MX (HD)
-http://ultrapremium.ch:8080/6093778/8062022/511
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/W1hpgyH4/fox1.png" group-title="LATIN SPORT", DEP• FOX SPORTS 1 CL (HD) »1«
-http://ultrapremium.ch:8080/6093778/8062022/456
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/W1hpgyH4/fox1.png" group-title="LATIN SPORT", DEP• FOX SPORTS 1 CL (HD) »2«
-http://ultrapremium.ch:8080/6093778/8062022/457
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/W1hpgyH4/fox1.png" group-title="LATIN SPORT", DEP• FOX SPORTS 1 CL (HD) »3«
-http://ultrapremium.ch:8080/6093778/8062022/458
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/W1hpgyH4/fox1.png" group-title="LATIN SPORT", DEP• FOX SPORTS 1 CL (HD) »4«
-http://ultrapremium.ch:8080/6093778/8062022/525
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/W1hpgyH4/fox1.png" group-title="LATIN SPORT", DEP• FOX SPORTS 1 AR (HD) »1«
-http://ultrapremium.ch:8080/6093778/8062022/526
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/W1hpgyH4/fox1.png" group-title="LATIN SPORT", DEP• FOX SPORTS 1 AR (HD) »2«
-http://ultrapremium.ch:8080/6093778/8062022/527
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/W1hpgyH4/fox1.png" group-title="LATIN SPORT", DEP• FOX SPORTS 1 AR (HD) »3«
-http://ultrapremium.ch:8080/6093778/8062022/528
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/W1hpgyH4/fox1.png" group-title="LATIN SPORT", DEP• FOX SPORTS 1 AR (HD) »4«
-http://ultrapremium.ch:8080/6093778/8062022/541
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/W1hpgyH4/fox1.png" group-title="LATIN SPORT", DEP• FOX SPORTS 1 LAT (HD) »1«
-http://ultrapremium.ch:8080/6093778/8062022/542
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/W1hpgyH4/fox1.png" group-title="LATIN SPORT", DEP• FOX SPORTS 1 LAT (HD) »2«
-http://ultrapremium.ch:8080/6093778/8062022/543
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/W1hpgyH4/fox1.png" group-title="LATIN SPORT", DEP• FOX SPORTS 1 LAT (HD) »3«
-http://ultrapremium.ch:8080/6093778/8062022/544
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/W1hpgyH4/fox1.png" group-title="LATIN SPORT", DEP• FOX SPORTS 1 LAT (HD) »4«
-http://ultrapremium.ch:8080/6093778/8062022/545
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/W1hpgyH4/fox1.png" group-title="LATIN SPORT", DEP• FOX SPORTS 1 LAT (HD) »5«
-http://ultrapremium.ch:8080/6093778/8062022/546
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/W1hpgyH4/fox1.png" group-title="LATIN SPORT", DEP• FOX SPORTS 1 LAT (HD) »6«
-http://ultrapremium.ch:8080/6093778/8062022/548
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/W1hpgyH4/fox1.png" group-title="LATIN SPORT", DEP• FOX SPORTS 1 MX (HD) »1«
-http://ultrapremium.ch:8080/6093778/8062022/540
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d01285jt/fox2.png" group-title="LATIN SPORT", DEP• FOX SPORTS 1 MX (HD) »2«
-http://ultrapremium.ch:8080/6093778/8062022/534
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d01285jt/fox2.png" group-title="LATIN SPORT", DEP• FOX SPORTS 2 CL (HD) »1«
-http://ultrapremium.ch:8080/6093778/8062022/453
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d01285jt/fox2.png" group-title="LATIN SPORT", DEP• FOX SPORTS 2 CL (HD) »2«
-http://ultrapremium.ch:8080/6093778/8062022/454
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d01285jt/fox2.png" group-title="LATIN SPORT", DEP• FOX SPORTS 2 AR (HD) »1«
-http://ultrapremium.ch:8080/6093778/8062022/530
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d01285jt/fox2.png" group-title="LATIN SPORT", DEP• FOX SPORTS 2 AR (HD) »2«
-http://ultrapremium.ch:8080/6093778/8062022/531
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d01285jt/fox2.png" group-title="LATIN SPORT", DEP• FOX SPORTS 2 LAT (HD) »1«
-http://ultrapremium.ch:8080/6093778/8062022/532
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d01285jt/fox2.png" group-title="LATIN SPORT", DEP• FOX SPORTS 2 LAT (HD) »2«
-http://ultrapremium.ch:8080/6093778/8062022/533
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d01285jt/fox2.png" group-title="LATIN SPORT", DEP• FOX SPORTS 2 LAT (HD) »3«
-http://ultrapremium.ch:8080/6093778/8062022/535
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d01285jt/fox2.png" group-title="LATIN SPORT", DEP• FOX SPORTS 2 MX (HD) »1«
-http://ultrapremium.ch:8080/6093778/8062022/529
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d01285jt/fox2.png" group-title="LATIN SPORT", DEP• FOX SPORTS 2 MX (HD) »2«
-http://ultrapremium.ch:8080/6093778/8062022/547
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/bv5qJvvN/fox3.png" group-title="LATIN SPORT", DEP• FOX SPORTS 3 CL (HD) »1«
-http://ultrapremium.ch:8080/6093778/8062022/455
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/bv5qJvvN/fox3.png" group-title="LATIN SPORT", DEP• FOX SPORTS 3 CL (HD) »2«
-http://ultrapremium.ch:8080/6093778/8062022/536
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/bv5qJvvN/fox3.png" group-title="LATIN SPORT", DEP• FOX SPORTS 3 AR (HD) »1«
-http://ultrapremium.ch:8080/6093778/8062022/537
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/bv5qJvvN/fox3.png" group-title="LATIN SPORT", DEP• FOX SPORTS 3 AR (HD) »2«
-http://ultrapremium.ch:8080/6093778/8062022/538
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/bv5qJvvN/fox3.png" group-title="LATIN SPORT", DEP• FOX SPORTS 3 LAT (HD)
-http://ultrapremium.ch:8080/6093778/8062022/539
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="LATIN SPORT", DEP• DIRECTV SPORTS CL (HD) »1«
-http://ultrapremium.ch:8080/6093778/8062022/481
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="LATIN SPORT", DEP• DIRECTV SPORTS CL (HD) »2«
-http://ultrapremium.ch:8080/6093778/8062022/465
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="LATIN SPORT", DEP• DIRECTV SPORTS CL (HD) »3«
-http://ultrapremium.ch:8080/6093778/8062022/484
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="LATIN SPORT", DEP• DIRECTV SPORTS AR (HD) »1«
-http://ultrapremium.ch:8080/6093778/8062022/480
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="LATIN SPORT", DEP• DIRECTV SPORTS AR (HD) »2«
-http://ultrapremium.ch:8080/6093778/8062022/483
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="LATIN SPORT", DEP• DIRECTV SPORTS CO (HD) »1«
-http://ultrapremium.ch:8080/6093778/8062022/482
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="LATIN SPORT", DEP• DIRECTV SPORTS CO (HD) »2«
-http://ultrapremium.ch:8080/6093778/8062022/485
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="LATIN SPORT", DEP• DIRECTV SPORTS PE (HD)
-http://ultrapremium.ch:8080/6093778/8062022/479
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png" group-title="LATIN SPORT", DEP• DIRECTV SPORTS 2 CL (HD) »1«
-http://ultrapremium.ch:8080/6093778/8062022/464
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png" group-title="LATIN SPORT", DEP• DIRECTV SPORTS 2 CL (HD) »2«
-http://ultrapremium.ch:8080/6093778/8062022/478
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png" group-title="LATIN SPORT", DEP• DIRECTV SPORTS 2 CL (HD) »3«
-http://ultrapremium.ch:8080/6093778/8062022/475
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png" group-title="LATIN SPORT", DEP• DIRECTV SPORTS 2 AR (HD) »1«
-http://ultrapremium.ch:8080/6093778/8062022/473
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png" group-title="LATIN SPORT", DEP• DIRECTV SPORTS 2 AR (HD) »2«
-http://ultrapremium.ch:8080/6093778/8062022/474
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png" group-title="LATIN SPORT", DEP• DIRECTV SPORTS 2 CO (HD)
-http://ultrapremium.ch:8080/6093778/8062022/476
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png" group-title="LATIN SPORT", DEP• DIRECTV SPORTS 2 PE (HD)
-http://ultrapremium.ch:8080/6093778/8062022/477
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7Lb92ddX/directvsports.png" group-title="LATIN SPORT", DEP• DIRECTV SPORTS+ CL (HD) »1«
-http://ultrapremium.ch:8080/6093778/8062022/472
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7Lb92ddX/directvsports.png" group-title="LATIN SPORT", DEP• DIRECTV SPORTS+ CL (HD) »2«
-http://ultrapremium.ch:8080/6093778/8062022/469
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7Lb92ddX/directvsports.png" group-title="LATIN SPORT", DEP• DIRECTV SPORTS+ AR (HD) »1«
-http://ultrapremium.ch:8080/6093778/8062022/467
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7Lb92ddX/directvsports.png" group-title="LATIN SPORT", DEP• DIRECTV SPORTS+ AR (HD) »2«
-http://ultrapremium.ch:8080/6093778/8062022/466
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7Lb92ddX/directvsports.png" group-title="LATIN SPORT", DEP• DIRECTV SPORTS+ AR (HD) »3«
-http://ultrapremium.ch:8080/6093778/8062022/468
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7Lb92ddX/directvsports.png" group-title="LATIN SPORT", DEP• DIRECTV SPORTS+ CO (HD)
-http://ultrapremium.ch:8080/6093778/8062022/470
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7Lb92ddX/directvsports.png" group-title="LATIN SPORT", DEP• DIRECTV SPORTS+ PE (HD)
-http://ultrapremium.ch:8080/6093778/8062022/471
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="LATIN SPORT", DEP• PREMIERE CLUBES BR (HD) »1«
-http://ultrapremium.ch:8080/6093778/8062022/568
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="LATIN SPORT", DEP• PREMIERE CLUBES BR (HD) »2«
-http://ultrapremium.ch:8080/6093778/8062022/569
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="LATIN SPORT", DEP• PREMIERE 1 BR (HD)
-http://ultrapremium.ch:8080/6093778/8062022/561
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="LATIN SPORT", DEP• PREMIERE 2 BR (HD)
-http://ultrapremium.ch:8080/6093778/8062022/562
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="LATIN SPORT", DEP• PREMIERE 3 BR (HD)
-http://ultrapremium.ch:8080/6093778/8062022/563
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="LATIN SPORT", DEP• PREMIERE 4 BR (HD)
-http://ultrapremium.ch:8080/6093778/8062022/564
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="LATIN SPORT", DEP• PREMIERE 5 BR (HD)
-http://ultrapremium.ch:8080/6093778/8062022/565
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="LATIN SPORT", DEP• PREMIERE 6 BR (HD)
-http://ultrapremium.ch:8080/6093778/8062022/566
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="LATIN SPORT", DEP• PREMIERE 7 BR (HD)
-http://ultrapremium.ch:8080/6093778/8062022/567
-
-#EXTINF:-1 tvg-logo="https://www.xtrim.tv/images/xtr-vod-item-logo-ecdf.png" group-title="LATIN SPORT", DEP• ECDF EC (HD)
-http://ultrapremium.ch:8080/6093778/8062022/585
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/zBpJHd9j/800px-GOLTV.png" group-title="LATIN SPORT", DEP• GOL TV EC (HD) »1«
-http://ultrapremium.ch:8080/6093778/8062022/486
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/zBpJHd9j/800px-GOLTV.png" group-title="LATIN SPORT", DEP• GOL TV EC (HD) »2«
-http://ultrapremium.ch:8080/6093778/8062022/489
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/zBpJHd9j/800px-GOLTV.png" group-title="LATIN SPORT", DEP• GOL TV EC (HD) »3«
-http://ultrapremium.ch:8080/6093778/8062022/488
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/zBpJHd9j/800px-GOLTV.png" group-title="LATIN SPORT", DEP• GOL TV EC (HD) »4«
-http://ultrapremium.ch:8080/6093778/8062022/487
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Logo_VTV_nuevo.png/1200px-Logo_VTV_nuevo.png" group-title="LATIN SPORT", DEP• VTV UR (HD) »1«
-http://ultrapremium.ch:8080/6093778/8062022/558
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Logo_VTV_nuevo.png/1200px-Logo_VTV_nuevo.png" group-title="LATIN SPORT", DEP• VTV UR (HD) »2«
-http://ultrapremium.ch:8080/6093778/8062022/557
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Logo_VTV_nuevo.png/1200px-Logo_VTV_nuevo.png" group-title="LATIN SPORT", DEP• VTV UR (HD) »3«
-http://ultrapremium.ch:8080/6093778/8062022/556
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_VTV_Plus_nuevo.png" group-title="LATIN SPORT", DEP• VTV+ UR (HD) »1«
-http://ultrapremium.ch:8080/6093778/8062022/560
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_VTV_Plus_nuevo.png" group-title="LATIN SPORT", DEP• VTV+ UR (HD) »2«
-http://ultrapremium.ch:8080/6093778/8062022/559
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/hPTwt2NQ/Deportes-por-Movistar-Plus-2022-logo-svg.png" group-title="LATIN SPORT", DEP• M. DEPORTES ES (HD)
-http://ultrapremium.ch:8080/6093778/8062022/550
-
-#EXTINF:-1 tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F837%2Flaliga-tv-hd-1.png" group-title="LATIN SPORT", DEP• LA LIGA TV ES (HD)
-http://ultrapremium.ch:8080/6093778/8062022/490
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3RCNhs2r/pngwing-com-3.png" group-title="LATIN SPORT", DEP• REAL MADRID TV ES (HD)
-http://ultrapremium.ch:8080/6093778/8062022/587
-
-#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F572%2Flaliga-tv-bar-2.png" group-title="LATIN SPORT", DEP• LA LIGA TV BAR ES (HD)
-http://ultrapremium.ch:8080/6093778/8062022/491
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="LATIN SPORT", DEP• M. LA LIGA ES (HD) »1«
-http://ultrapremium.ch:8080/6093778/8062022/497
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="LATIN SPORT", DEP• M. LA LIGA ES (HD) »2«
-http://ultrapremium.ch:8080/6093778/8062022/496
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="LATIN SPORT", DEP• M. LA LIGA ES (HD) »3«
-http://ultrapremium.ch:8080/6093778/8062022/495
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="LATIN SPORT", DEP• M. LA LIGA ES (HD) »4«
-http://ultrapremium.ch:8080/6093778/8062022/492
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="LATIN SPORT", DEP• M. LA LIGA 2 ES (HD)
-http://ultrapremium.ch:8080/6093778/8062022/493
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="LATIN SPORT", DEP• M. LA LIGA 3 ES (HD)
-http://ultrapremium.ch:8080/6093778/8062022/494
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1460px-Movistar_Liga_de_Campeones.svg.png" group-title="LATIN SPORT", DEP• M. LA LIGA DE CAMPEONES ES (HD) »1«
-http://ultrapremium.ch:8080/6093778/8062022/500
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1460px-Movistar_Liga_de_Campeones.svg.png" group-title="LATIN SPORT", DEP• M. LA LIGA DE CAMPEONES ES (HD) »2«
-http://ultrapremium.ch:8080/6093778/8062022/499
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1460px-Movistar_Liga_de_Campeones.svg.png" group-title="LATIN SPORT", DEP• M. LA LIGA DE CAMPEONES ES (HD) »3«
-http://ultrapremium.ch:8080/6093778/8062022/498
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/ELEVEN_SPORTS.png" group-title="LATIN SPORT", DEP• ELEVEN SPORTS 1 PT (HD)
-http://ultrapremium.ch:8080/6093778/8062022/570
-
-#EXTINF:-1 tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/eleven-sports-2.png" group-title="LATIN SPORT", DEP• ELEVEN SPORTS 2 PT (HD)
-http://ultrapremium.ch:8080/6093778/8062022/571
-
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/sqxxtw1470409111.png" group-title="LATIN SPORT", DEP• SPORT TV 1 PT (HD)
-http://ultrapremium.ch:8080/6093778/8062022/573
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dd/Sport.TV2.png" group-title="LATIN SPORT", DEP• SPORT TV 2 PT (HD)
-http://ultrapremium.ch:8080/6093778/8062022/574
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nLnBDGTL/sport-tv3.png" group-title="LATIN SPORT", DEP• SPORT TV 3 PT (HD)
-http://ultrapremium.ch:8080/6093778/8062022/575
-
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/vuytwx1470409983.png" group-title="LATIN SPORT", DEP• SPORT TV 4 PT (HD)
-http://ultrapremium.ch:8080/6093778/8062022/576
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1zWBRdPS/sport-tv-plus.png" group-title="LATIN SPORT", DEP• SPORT TV+ PT (HD)
-http://ultrapremium.ch:8080/6093778/8062022/572
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/2560px-Eurosport_1_Logo_2015.svg.png" group-title="LATIN SPORT", DEP• EUROSPORT 1 (HD)
-http://ultrapremium.ch:8080/6093778/8062022/577
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/2560px-Eurosport_2_Logo_2015.svg.png" group-title="LATIN SPORT", DEP• EUROSPORT 2 (HD)
-http://ultrapremium.ch:8080/6093778/8062022/578
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" group-title="LATIN SPORT", DEP• TUDN MX (HD) »1«
-http://ultrapremium.ch:8080/6093778/8062022/553
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" group-title="LATIN SPORT", DEP• TUDN MX (HD) »2«
-http://ultrapremium.ch:8080/6093778/8062022/552
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Afizzionados_Logo.svg/2560px-Afizzionados_Logo.svg.png" group-title="LATIN SPORT", DEP• AFIZZIONADOS MX (HD)
-http://ultrapremium.ch:8080/6093778/8062022/579
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/NBC_Golf_flat_logo.png" group-title="LATIN SPORT", DEP• GOLF CHANNEL MX (HD)
-http://ultrapremium.ch:8080/6093778/8062022/549
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y0HQbqq7/Claro-Sports-logo-svg.png" group-title="LATIN SPORT", DEP• CLARO SPORTS CO (HD)
-http://ultrapremium.ch:8080/6093778/8062022/463
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/UFC_Logo.svg/2560px-UFC_Logo.svg.png" group-title="LATIN SPORT", DEP• UFC (HD) »1«
-http://ultrapremium.ch:8080/6093778/8062022/580
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/UFC_Logo.svg/2560px-UFC_Logo.svg.png" group-title="LATIN SPORT", DEP• UFC (HD) »2«
-http://ultrapremium.ch:8080/6093778/8062022/586
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/UFC_Fight_Pass_Logo.svg/1200px-UFC_Fight_Pass_Logo.svg.png" group-title="LATIN SPORT", DEP• UFC FIGHT PASS (HD)
-http://ultrapremium.ch:8080/6093778/8062022/581
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TwZDh2Wm/WWE-Network-logo.png" group-title="LATIN SPORT", DEP• WWE NETWORK (HD)
-http://ultrapremium.ch:8080/6093778/8062022/583
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/1200px-Tennis_Channel_logo.svg.png" group-title="LATIN SPORT", DEP• TENNIS CHANNEL (HD)
-http://ultrapremium.ch:8080/6093778/8062022/551
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Canal-combate-logo.png" group-title="LATIN SPORT", DEP• COMBATE BR (HD)
-http://ultrapremium.ch:8080/6093778/8062022/582
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BnB141sf/pngegg-1.png" group-title="LATIN SPORT", DEP• RED BULL TV (HD)
-http://ultrapremium.ch:8080/6093778/8062022/584
-
-
-
 #######################
 LAIN-LAIN SPORT  ######
 ################################################################################################################################################################################# LAIN-LAIN SPORT
@@ -12921,40 +12095,28 @@ http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=679121&ex
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKGv3E2nMlcTpSfJH7HPFB9cEX_op60Pdxtg&usqp=CAU" group-title="MLS FOOTBALL", MLS League Pass 01
 http://miarea.vip:8080/PicoteDemo/vccjAc89v2/281471
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKGv3E2nMlcTpSfJH7HPFB9cEX_op60Pdxtg&usqp=CAU" group-title="MLS FOOTBALL", MLS League Pass 02
 http://miarea.vip:8080/PicoteDemo/vccjAc89v2/281472
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKGv3E2nMlcTpSfJH7HPFB9cEX_op60Pdxtg&usqp=CAU" group-title="MLS FOOTBALL", MLS League Pass 03
 http://miarea.vip:8080/PicoteDemo/vccjAc89v2/281473
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKGv3E2nMlcTpSfJH7HPFB9cEX_op60Pdxtg&usqp=CAU" group-title="MLS FOOTBALL", MLS League Pass 04
 http://miarea.vip:8080/PicoteDemo/vccjAc89v2/281474
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKGv3E2nMlcTpSfJH7HPFB9cEX_op60Pdxtg&usqp=CAU" group-title="MLS FOOTBALL", MLS League Pass 05
 http://miarea.vip:8080/PicoteDemo/vccjAc89v2/281475
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKGv3E2nMlcTpSfJH7HPFB9cEX_op60Pdxtg&usqp=CAU" group-title="MLS FOOTBALL", MLS League Pass 06
 http://miarea.vip:8080/PicoteDemo/vccjAc89v2/281476
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKGv3E2nMlcTpSfJH7HPFB9cEX_op60Pdxtg&usqp=CAU" group-title="MLS FOOTBALL", MLS League Pass 07
 http://miarea.vip:8080/PicoteDemo/vccjAc89v2/281477
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKGv3E2nMlcTpSfJH7HPFB9cEX_op60Pdxtg&usqp=CAU" group-title="MLS FOOTBALL", MLS League Pass 08
 http://miarea.vip:8080/PicoteDemo/vccjAc89v2/281478
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKGv3E2nMlcTpSfJH7HPFB9cEX_op60Pdxtg&usqp=CAU" group-title="MLS FOOTBALL", MLS League Pass 09
 http://miarea.vip:8080/PicoteDemo/vccjAc89v2/281479
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKGv3E2nMlcTpSfJH7HPFB9cEX_op60Pdxtg&usqp=CAU" group-title="MLS FOOTBALL", MLS League Pass 10
 http://miarea.vip:8080/PicoteDemo/vccjAc89v2/281480
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKGv3E2nMlcTpSfJH7HPFB9cEX_op60Pdxtg&usqp=CAU" group-title="MLS FOOTBALL", MLS League Pass 11
 http://miarea.vip:8080/PicoteDemo/vccjAc89v2/281481
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKGv3E2nMlcTpSfJH7HPFB9cEX_op60Pdxtg&usqp=CAU" group-title="MLS FOOTBALL", MLS League Pass 12
 http://miarea.vip:8080/PicoteDemo/vccjAc89v2/281482
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKGv3E2nMlcTpSfJH7HPFB9cEX_op60Pdxtg&usqp=CAU" group-title="MLS FOOTBALL", MLS League Pass 13
 http://miarea.vip:8080/PicoteDemo/vccjAc89v2/281484
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKGv3E2nMlcTpSfJH7HPFB9cEX_op60Pdxtg&usqp=CAU" group-title="MLS FOOTBALL", TUDN CHAMPEONES CUP
@@ -13045,7 +12207,7 @@ http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=880280&ex
 http://vivo.10initiatived.uk:8880/287994003284/287994003284/16703
 #EXTINF:-1 tvg-logo="______" group-title="FIGHT SPORT", EDGE SPORT
 http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=1014266&extension=ts&play_token=4CrIQYgTPx
-#EXTINF:-1 tvg-logo="-------" group-title="FIGHT SPORT", WWE CHANEL
+#EXTINF:-1 tvg-logo="______" group-title="FIGHT SPORT", WWE CHANEL
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=18127_&extension=ts
 #EXTINF:-1 tvg-logo="______" group-title="FIGHT SPORT", FIGHT WORLD
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=110726&extension=ts&play_token=uMRmFltpZ0
@@ -13171,8 +12333,6 @@ http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=550746&ex
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCFdwEgf7Ef_A8t5mQHi28esDglHspqLd7sQ&usqp=CAU" group-title="ESPN SPORT", ESPN 2 CRB
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=533657&extension=ts&play_token=zax2w7kKRv
 
-
-
 #EXTINF:-1 tvg-logo="http://ceoapps.org/logos/espn2.png" group-title="ESPN SPORT", 2MB | Espn 2 LQ
 http://magi-stv.net:8080/UzielLCH/UzielLCH/2095415
 #EXTINF:-1 tvg-logo="http://ceoapps.org/logos/espnmx.png" group-title="ESPN SPORT", 2MB | ESPN MX
@@ -13283,85 +12443,6 @@ http://magi-stv.net:8080/UzielLCH/UzielLCH/2171084
 http://magi-stv.net:8080/UzielLCH/UzielLCH/2171085
 #EXTINF:-1 tvg-logo="http://ceoapps.org/logos/espndeportes.png" group-title="ESPN SPORT", 2MB| Espn Deportes
 http://magi-stv.net:8080/UzielLCH/UzielLCH/2123475
-#EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/chimg/7335668086.png" group-title="ESPN SPORT", MX: ESPN 1 HD
-http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/96029.ts
-#EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/chimg/8684143903.png" group-title="ESPN SPORT", SP: ESPN + HD MX
-http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/95978.ts
-#EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/chimg/6258949273.png" group-title="ESPN SPORT", SP: ESPN Deportes FHD
-http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/95969.ts
-#EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/chimg/5549068923.png" group-title="ESPN SPORT", US ESPN NEWS HD
-http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/95516.ts
-#EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/chimg/7936053982.png" group-title="ESPN SPORT", US: ESPN 1 HD
-http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/115825.ts
-#EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/chimg/1185809629.png" group-title="ESPN SPORT", US: ESPN 2 HD
-http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/134263.ts
-#EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/chimg/6526566841.png" group-title="ESPN SPORT", US: ESPN U HD
-http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/95519.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1200px-ESPN_Premium_logo.svg.png" group-title="ESPN SPORT", ARG: ESPN Premium HD
-http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/548193.ts
-#EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/channels_icon/95537313091.png" group-title="ESPN SPORT", BR: ESPN Brasil HD
-http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/10321.ts
-#EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/channels_icon/53074266441.png" group-title="ESPN SPORT", BR: ESPN 2 HD
-http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/10320.ts
-#EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/channels_icon_api/1a0f0e3d18e12fa0abe583c00a5c6ccf.png" group-title="ESPN SPORT", BR: ESPN Extra HD
-http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/10265.ts
-#EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/chimg/7672097577.jpg" group-title="ESPN SPORT", CAR ESPN Caribbean FHD
-http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/545668.ts
-#EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/channels_icon/87804862671.png" group-title="ESPN SPORT", LA: ESPN 2 HD
-http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/319914.ts
-#EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/channels_icon/89185694671.png" group-title="ESPN SPORT", LA: ESPN 3 HD
-http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/581839.ts
-#EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/channels_icon/55231963051.png" group-title="ESPN SPORT", LA: ESPN HD
-http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/581838.ts
-#EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/channels_icon/98242502121.png" group-title="ESPN SPORT", MX: ESPN 1 HD
-http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/546149.ts
-#EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/channels_icon/23175896971.png" group-title="ESPN SPORT", MX: ESPN 2 HD
-http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/546150.ts
-#EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/channels_icon/63218809081.png" group-title="ESPN SPORT", MX: ESPN 3 HD
-http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/546151.ts
-#EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/channels_icon/69749206811.png" group-title="ESPN SPORT", MX: ESPN HD
-http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/546152.ts
-#EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/channels_icon/44589158161.png" group-title="ESPN SPORT", NL: ESPN 1 FHD
-http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/466103.ts
-#EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/channels_icon/64141026451.png" group-title="ESPN SPORT", NL: ESPN 2 HD
-http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/283548.ts
-#EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/channels_icon/25939289171.png" group-title="ESPN SPORT", NL: ESPN 3 FHD
-http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/466104.ts
-#EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/channels_icon/80000141211.png" group-title="ESPN SPORT", NL: ESPN 4 HD
-http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/283549.ts
-#EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/channels_icon/55299849971.png" group-title="ESPN SPORT", ES: ESPN HD
-http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/522170.ts
-#EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/channels_icon/61820382721.png" group-title="ESPN SPORT", US: ESPN 1 HD
-http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/28930.ts
-#EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/channels_icon/82850456801.png" group-title="ESPN SPORT", US: ESPN 2 HD
-http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/117065.ts
-#EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/channels_icon/99002194971.png" group-title="ESPN SPORT", US: ESPN 2 HD
-http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/28931.ts
-#EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/channels_icon/12445064631.png" group-title="ESPN SPORT", US: ESPN 3 HD
-http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/117064.ts
-#EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/channels_icon/66935572581.png" group-title="ESPN SPORT", US: ESPN Deportes HD
-http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/79761.ts
-#EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/channels_icon/38611878171.png" group-title="ESPN SPORT", US: ESPN Longhorn Network HD
-http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/28932.ts
-#EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/channels_icon/18588902761.png" group-title="ESPN SPORT", US: ESPN NEWS HD
-http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/484520.ts
-#EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/channels_icon/87862872741.png" group-title="ESPN SPORT", US: ESPN NEWS US HD
-http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/117414.ts
-#EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/channels_icon/85940898281.png" group-title="ESPN SPORT", US: ESPN PLUS HD
-http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/134564.ts
-#EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/channels_icon/74177104461.png" group-title="ESPN SPORT", US: ESPN SEC Network HD
-http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/28934.ts
-#EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/channels_icon/39361506141.png" group-title="ESPN SPORT", US: ESPN U HD
-http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/79760.ts
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ESPN SPORT", US: ESPN+
-http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/715860.ts
-#EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/channels_icon/60982247841.png" group-title="ESPN SPORT", UK: BT Sport ESPN FHD
-http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/117573.ts
-#EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/chimg/6258949273.png" group-title="ESPN SPORT", SP: ESPN Deportes FHD
-http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/95969.ts
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ESPN SPORT", UK: BT Sport ESPN SD
-http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/688321.ts
-
 
 
 #######################
@@ -13555,105 +12636,6 @@ http://magi-stv.net:8080/UzielLCH/UzielLCH/155997
 #EXTINF:-1 tvg-logo="http://ceoapps.org/logos/foxsports2br.png" group-title="FOX SPORT", BR | FOX SPORTS 2
 http://magi-stv.net:8080/UzielLCH/UzielLCH/2171090
 
-
-
-#EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/chimg/3157925022.png" group-title="FOX SPORT", AU: FOX Sports NEWS HD
-http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/95989.ts
-#EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/chimg/9620865901.png" group-title="FOX SPORT", FOX Sport 501 HD
-http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/115812.ts
-#EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/chimg/7602740368.png" group-title="FOX SPORT", FOX Sport 502 HD
-http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/115813.ts
-#EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/chimg/3297578773.png" group-title="FOX SPORT", FOX Sport 506 HD
-http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/115817.ts
-#EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/chimg/7324000611.png" group-title="FOX SPORT", FOX Sports 2 HD
-http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/115869.ts
-#EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/chimg/1779395772.png" group-title="FOX SPORT", LSP: FOX Sports South HD
-http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/95568.ts
-#EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/chimg/1632473264.png" group-title="FOX SPORT", MX: FOX Sports 2 HD
-http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/96031.ts
-#EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/chimg/9106714719.png" group-title="FOX SPORT", SP: FOX Sports 1 HD NL
-http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/134269.ts
-#EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/chimg/1161525562.png" group-title="FOX SPORT", SP: FOX Sports 2 HD NL
-http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/134270.ts
-#EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/chimg/7225288462.png" group-title="FOX SPORT", UK: FOX Sports Racing  HD
-http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/95976.ts
-#EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/channels_icon/79941526291.png" group-title="FOX SPORT", BR: FOX Sports 1 HD
-http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/108517.ts
-#EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/channels_icon/37444895591.png" group-title="FOX SPORT", BR: FOX Sports 2 HD
-http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/10329.ts
-#EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/channels_icon/88092080961.png" group-title="FOX SPORT", CA: FOX Sports Racing HD
-http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/108648.ts
-#EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/channels_icon/62426467171.png" group-title="FOX SPORT", CL: FOX Sports 1 HD
-http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/319890.ts
-#EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/channels_icon/79102027351.png" group-title="FOX SPORT", CO: FOX Sports 3 FHD
-http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/319924.ts
-#EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/channels_icon/91590891411.png" group-title="FOX SPORT", MX: FOX Sport 1 HD
-http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/546141.ts
-#EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/channels_icon/65367357021.png" group-title="FOX SPORT", MX: FOX Sport 2 HD
-http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/546142.ts
-#EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/channels_icon/96259819121.png" group-title="FOX SPORT", MX: FOX Sports 3 HD
-http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/546143.ts
-#EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/channels_icon/67152649641.png" group-title="FOX SPORT", NL: FOX Sports 1 HD
-http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/10763.ts
-#EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/channels_icon/16987398891.png" group-title="FOX SPORT", NL: FOX Sports 1 4K+ HD
-http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/113635.ts
-#EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/channels_icon/85892546761.png" group-title="FOX SPORT", NL: FOX Sports 2 HD
-http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/10764.ts
-#EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/chimg/1341332342.png" group-title="FOX SPORT", NL: FOX Sports 2 4K+ HD
-http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/113636.ts
-#EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/channels_icon/73234886321.png" group-title="FOX SPORT", NL: FOX Sports 3 HD
-http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/10765.ts
-#EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/chimg/1578674257.png" group-title="FOX SPORT", NL: FOX Sports 3 4K+ HD
-http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/113637.ts
-#EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/channels_icon/89423278211.png" group-title="FOX SPORT", NL: FOX Sports 4 HD
-http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/10766.ts
-#EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/channels_icon/14255323761.png" group-title="FOX SPORT", NL: FOX Sports 4 4K+ HD
-http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/113638.ts
-#EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/chimg/7772896042.jpg" group-title="FOX SPORT", NL: FOX Sports 5 HD
-http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/10767.ts
-#EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/channels_icon/41343695081.png" group-title="FOX SPORT", NL: FOX Sports 5 4K+ HD
-http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/113639.ts
-#EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/chimg/3085773639.jpg" group-title="FOX SPORT", NL: FOX Sports 6 HD
-http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/10768.ts
-#EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/channels_icon/33011413371.png" group-title="FOX SPORT", NL: FOX Sports 6 4K+ HD
-http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/113640.ts
-#EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/channels_icon/25565522211.png" group-title="FOX SPORT", ES: FOX Sports 2 HD
-http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/522172.ts
-#EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/channels_icon/66956853311.png" group-title="FOX SPORT", ES: FOX Sports 3 HD
-http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/522173.ts
-#EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/channels_icon/20114988111.png" group-title="FOX SPORT", US: FOX Sports 1 HD
-http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/28943.ts
-#EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/channels_icon/95850710401.png" group-title="FOX SPORT", US: FOX Sports 2 HD
-http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/28944.ts
-#EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/channels_icon/96752614751.png" group-title="FOX SPORT", US: FOX Sports Prime Ticket HD
-http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/117255.ts
-#EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/channels_icon/16097053381.png" group-title="FOX SPORT", US: FOX Sports WEST HD
-http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/134699.ts
-#EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/channels_icon/56816858311.png" group-title="FOX SPORT", US: FOX Sports 1 HD
-http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/117251.ts
-#EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/channels_icon/97481325531.png" group-title="FOX SPORT", US: FOX Sports Arizona HD
-http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/134674.ts
-#EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/channels_icon/91748566111.png" group-title="FOX SPORT", US: FOX Sports Detroit HD
-http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/390114.ts
-#EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/channels_icon/93405214591.png" group-title="FOX SPORT", US: FOX Sports Detroit HD
-http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/117252.ts
-#EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/channels_icon/66038224381.png" group-title="FOX SPORT", US: FOX Sports Florida HD
-http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/117072.ts
-#EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/channels_icon/49418050521.png" group-title="FOX SPORT", US: FOX Sports Midwest HD
-http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/117253.ts
-#EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/channels_icon/66740408761.png" group-title="FOX SPORT", US: FOX Sports OHIO HD
-http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/134606.ts
-#EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/channels_icon/37680862761.png" group-title="FOX SPORT", US: FOX Sports Oklahoma HD
-http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/117254.ts
-#EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/channels_icon/23717493251.png" group-title="FOX SPORT", US: FOX Sports South Carolina HD
-http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/117258.ts
-#EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/channels_icon/91132652391.png" group-title="FOX SPORT", US: FOX Sports Southwest HD
-http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/134677.ts
-#EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/channels_icon/68404150891.png" group-title="FOX SPORT", US: FOX Sports Tennessee HD
-http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/117259.ts
-#EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/chimg/7602740368.png" group-title="FOX SPORT", FOX Sport 502 HD
-http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/115813.ts
-
 #######################
 SPORT SD-HD  ##########
 #################################################################################################################################################################################
@@ -13717,35 +12699,24 @@ http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=1330470&e
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:69:5A:40&stream=2122_&extension=ts
 #EXTINF:-1 tvg-logo="______" group-title="SPORT SD-HD", EUROSPORT 2
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:69:5A:40&stream=2121_&extension=ts
-
 #EXTINF:-1 tvg-logo="______" group-title="SPORT SD-HD", SKY SPORT NEWS
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:69:5A:40&stream=1887_&extension=ts
-
 #EXTINF:-1 tvg-logo="______" group-title="SPORT SD-HD", SKY SPORT PREMIER LEAGUE
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:69:5A:40&stream=1888_&extension=ts
-
 #EXTINF:-1 tvg-logo="______" group-title="SPORT SD-HD", SKY SPORT RACING
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:69:5A:40&stream=1879_&extension=ts
-
 #EXTINF:-1 tvg-logo="______" group-title="SPORT SD-HD", SKY SPORT GOLF
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:69:5A:40&stream=1885_&extension=ts
-
 #EXTINF:-1 tvg-logo="______" group-title="SPORT SD-HD", SKY SPORT CRICKET
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:69:5A:40&stream=1882_&extension=ts
-
 #EXTINF:-1 tvg-logo="______" group-title="SPORT SD-HD", SKY SPORT ACTION
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:69:5A:40&stream=1880_&extension=ts
-
-
 #EXTINF:-1 tvg-logo="______" group-title="SPORT SD-HD", TNT BT SPORT 1 
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:69:5A:40&stream=1924_&extension=ts
-
 #EXTINF:-1 tvg-logo="______" group-title="SPORT SD-HD", TNT BT SPORT 2
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:69:5A:40&stream=1925_&extension=ts
-
 #EXTINF:-1 tvg-logo="______" group-title="SPORT SD-HD", TNT BT SPORT 3
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:69:5A:40&stream=1926_&extension=ts
-
 #EXTINF:-1 tvg-logo="______" group-title="SPORT SD-HD", TNT BT SPORT 4
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:69:5A:40&stream=1923_&extension=ts
 
@@ -13753,370 +12724,102 @@ http://new.ivue.co:25461/play/live.php?mac=00:1A:79:69:5A:40&stream=1923_&extens
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", BE| VOO SPORT WORLD 1 SD
 http://mol-2.com:8080/FnB395KegENkUxB/mdp0fspYNCHqt7A/390413
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", BE| VOO SPORT WORLD 2 SD
 http://mol-2.com:8080/FnB395KegENkUxB/mdp0fspYNCHqt7A/390411
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", BE| VOO SPORT WORLD 3 SD
 http://mol-2.com:8080/FnB395KegENkUxB/mdp0fspYNCHqt7A/390409
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", FR| CANAL+ SPORT SD
 http://mol-2.com:8080/FnB395KegENkUxB/mdp0fspYNCHqt7A/58967
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", FR| RMC SPORT 1 SD
 http://mol-2.com:8080/FnB395KegENkUxB/mdp0fspYNCHqt7A/59057
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", FR| RMC SPORT 2 SD
 http://mol-2.com:8080/FnB395KegENkUxB/mdp0fspYNCHqt7A/59058
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", FR| BEIN SPORT 1 SD
 http://mol-2.com:8080/FnB395KegENkUxB/mdp0fspYNCHqt7A/59062
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", FR| BEIN SPORT 2 SD
 http://mol-2.com:8080/FnB395KegENkUxB/mdp0fspYNCHqt7A/59063
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", FR| BEIN SPORT 3 SD
 http://mol-2.com:8080/FnB395KegENkUxB/mdp0fspYNCHqt7A/59064
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", FR| BEIN SPORTS MAX 4 SD
 http://mol-2.com:8080/FnB395KegENkUxB/mdp0fspYNCHqt7A/59066
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", FR| BEIN SPORTS MAX 5 SD
 http://mol-2.com:8080/FnB395KegENkUxB/mdp0fspYNCHqt7A/59067
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", FR| BEIN SPORTS MAX 6 SD
 http://mol-2.com:8080/FnB395KegENkUxB/mdp0fspYNCHqt7A/59068
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", FR| BEIN SPORTS MAX 7 SD
 http://mol-2.com:8080/FnB395KegENkUxB/mdp0fspYNCHqt7A/59069
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", FR| BEIN SPORTS MAX 8 SD
 http://mol-2.com:8080/FnB395KegENkUxB/mdp0fspYNCHqt7A/59070
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", FR| BEIN SPORTS MAX 9 SD
 http://mol-2.com:8080/FnB395KegENkUxB/mdp0fspYNCHqt7A/59071
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", FR| BEIN SPORTS MAX 10 SD
 http://mol-2.com:8080/FnB395KegENkUxB/mdp0fspYNCHqt7A/59065
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", FR| EUROSPORT 1 SD
 http://mol-2.com:8080/FnB395KegENkUxB/mdp0fspYNCHqt7A/59072
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", FR| EUROSPORT 2 SD
 http://mol-2.com:8080/FnB395KegENkUxB/mdp0fspYNCHqt7A/59073
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", FR| MOTOR SPORT VISION SD
 http://mol-2.com:8080/FnB395KegENkUxB/mdp0fspYNCHqt7A/148222
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", IT| SKY SPORT 24 SD
 http://mol-2.com:8080/FnB395KegENkUxB/mdp0fspYNCHqt7A/56594
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", IT| SKY SPORT UNO SD
 http://mol-2.com:8080/FnB395KegENkUxB/mdp0fspYNCHqt7A/56600
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", IT| SPORT ACTION SD
 http://mol-2.com:8080/FnB395KegENkUxB/mdp0fspYNCHqt7A/337100
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", IT| SKY SPORT MOTOGP SD
 http://mol-2.com:8080/FnB395KegENkUxB/mdp0fspYNCHqt7A/56603
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", IT| SKY SPORT F1 SD
 http://mol-2.com:8080/FnB395KegENkUxB/mdp0fspYNCHqt7A/56606
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", IT| SKY SPORT GOLF SD
 http://mol-2.com:8080/FnB395KegENkUxB/mdp0fspYNCHqt7A/56609
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", IT| SKY SPORT NBA SD
 http://mol-2.com:8080/FnB395KegENkUxB/mdp0fspYNCHqt7A/56612
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", IT| SKY SPORT FOOTBALL SD
 http://mol-2.com:8080/FnB395KegENkUxB/mdp0fspYNCHqt7A/56617
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", IT| SKY SPORT ARENA SD
 http://mol-2.com:8080/FnB395KegENkUxB/mdp0fspYNCHqt7A/56620
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", IT| SKY SPORT CALCIO SD
 http://mol-2.com:8080/FnB395KegENkUxB/mdp0fspYNCHqt7A/56623
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", IT| SKY SPORT BAR PRIMEVIDEO SD (Only Event)
 http://mol-2.com:8080/FnB395KegENkUxB/mdp0fspYNCHqt7A/365297
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", IT| SKY SPORT BAR UNO SD (Only Event)
 http://mol-2.com:8080/FnB395KegENkUxB/mdp0fspYNCHqt7A/365291
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", IT| SKY SPORT BAR DUE SD (Only Event)
 http://mol-2.com:8080/FnB395KegENkUxB/mdp0fspYNCHqt7A/365294
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", IT| SKY DAZN BAR SD
 http://mol-2.com:8080/FnB395KegENkUxB/mdp0fspYNCHqt7A/56671
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", IT| DAZN CHANNEL SD (Only Event)
 http://mol-2.com:8080/FnB395KegENkUxB/mdp0fspYNCHqt7A/365408
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", ES| DAZN 1 SD
 http://mol-2.com:8080/FnB395KegENkUxB/mdp0fspYNCHqt7A/55483
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", ES| EUROSPORT 1 SD
 http://mol-2.com:8080/FnB395KegENkUxB/mdp0fspYNCHqt7A/55534
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", ES| EUROSPORT 2 SD
 http://mol-2.com:8080/FnB395KegENkUxB/mdp0fspYNCHqt7A/55535
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", ES| DAZN LA LIGA 1 SD
 http://mol-2.com:8080/FnB395KegENkUxB/mdp0fspYNCHqt7A/472008
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", ES| DAZN LA LIGA 2 SD
 http://mol-2.com:8080/FnB395KegENkUxB/mdp0fspYNCHqt7A/472010
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", ES| DAZN F1 SD
 http://mol-2.com:8080/FnB395KegENkUxB/mdp0fspYNCHqt7A/55560
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", ES| DAZN 2 SD
 http://mol-2.com:8080/FnB395KegENkUxB/mdp0fspYNCHqt7A/55557
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", ES| DAZN 4 SD
 http://mol-2.com:8080/FnB395KegENkUxB/mdp0fspYNCHqt7A/55562
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", AR| beIN SPORTS 1 SD
 http://mol-2.com:8080/FnB395KegENkUxB/mdp0fspYNCHqt7A/192754
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", AR| beIN SPORTS 2 SD
 http://mol-2.com:8080/FnB395KegENkUxB/mdp0fspYNCHqt7A/192753
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", AR| beIN SPORTS 3 SD
 http://mol-2.com:8080/FnB395KegENkUxB/mdp0fspYNCHqt7A/192752
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", AR| beIN SPORTS 4 SD
 http://mol-2.com:8080/FnB395KegENkUxB/mdp0fspYNCHqt7A/192751
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", AR| beIN SPORTS 5 SD
 http://mol-2.com:8080/FnB395KegENkUxB/mdp0fspYNCHqt7A/192750
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", AR| beIN SPORTS 6 SD
 http://mol-2.com:8080/FnB395KegENkUxB/mdp0fspYNCHqt7A/192749
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", AR| beIN SPORTS 7 SD
 http://mol-2.com:8080/FnB395KegENkUxB/mdp0fspYNCHqt7A/192748
-
-
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", MBC 1 SD
-http://forevertv.me:8080/263117997354/213574458699/20920
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", MBC 2 SD
-http://forevertv.me:8080/263117997354/213574458699/20919
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", MBC 3 SD
-http://forevertv.me:8080/263117997354/213574458699/20918
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", MBC 4 SD
-http://forevertv.me:8080/263117997354/213574458699/20917
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", MBC 5 SD
-http://forevertv.me:8080/263117997354/213574458699/66545
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", MBC Action SD
-http://forevertv.me:8080/263117997354/213574458699/20925
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", MBC Bollywood SD
-http://forevertv.me:8080/263117997354/213574458699/20924
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", MBC CN SD
-http://forevertv.me:8080/263117997354/213574458699/140935
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", MBC Drama SD
-http://forevertv.me:8080/263117997354/213574458699/20923
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", MBC Drama+ SD
-http://forevertv.me:8080/263117997354/213574458699/140932
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", MBC Iraq SD
-http://forevertv.me:8080/263117997354/213574458699/20922
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", MBC LBCI SD
-http://forevertv.me:8080/263117997354/213574458699/140936
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", MBC Masr 1 SD
-http://forevertv.me:8080/263117997354/213574458699/2186
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", MBC Masr 2 SD
-http://forevertv.me:8080/263117997354/213574458699/141080
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", MBC Max SD
-http://forevertv.me:8080/263117997354/213574458699/20921
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", MBC Persia SD
-http://forevertv.me:8080/263117997354/213574458699/140933
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", MBC SPACETOON SD
-http://forevertv.me:8080/263117997354/213574458699/140934
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", MBC WANASAH SD
-http://forevertv.me:8080/263117997354/213574458699/140937
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", BeIN AFC SD
-http://forevertv.me:8080/263117997354/213574458699/385286
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", beIN Sports News SD
-http://forevertv.me:8080/263117997354/213574458699/142751
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", beIN SPORTS 1 SD
-http://forevertv.me:8080/263117997354/213574458699/142755
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", beIN SPORTS 2 SD
-http://forevertv.me:8080/263117997354/213574458699/142756
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", beIN SPORTS 3 SD
-http://forevertv.me:8080/263117997354/213574458699/142757
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", beIN SPORTS 4 SD
-http://forevertv.me:8080/263117997354/213574458699/142758
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", beIN SPORTS 5 SD
-http://forevertv.me:8080/263117997354/213574458699/142759
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", beIN SPORTS 6 SD
-http://forevertv.me:8080/263117997354/213574458699/142760
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", beIN SPORTS 7 SD
-http://forevertv.me:8080/263117997354/213574458699/142761
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", beIN SPORTS 8 SD
-http://forevertv.me:8080/263117997354/213574458699/142752
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", beIN SPORTS 9 SD
-http://forevertv.me:8080/263117997354/213574458699/142753
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", beIN SPORTS NBA SD
-http://forevertv.me:8080/263117997354/213574458699/142764
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", beIN Sport EXTRA 1 SD
-http://forevertv.me:8080/263117997354/213574458699/421895
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", beIN Sport EXTRA 2 SD
-http://forevertv.me:8080/263117997354/213574458699/421896
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", beIN Sport EXTRA 3 SD
-http://forevertv.me:8080/263117997354/213574458699/142754
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", beIN SPORTS 1 English SD
-http://forevertv.me:8080/263117997354/213574458699/142762
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", BeIN SPORTS 2 English SD
-http://forevertv.me:8080/263117997354/213574458699/142763
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", BeIN SPORTS 1 French SD
-http://forevertv.me:8080/263117997354/213574458699/142765
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", beIN SPORTS 2 French SD
-http://forevertv.me:8080/263117997354/213574458699/142766
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", beIN SPORTS 3 French SD
-http://forevertv.me:8080/263117997354/213574458699/142767
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", beIN SPORT 01 SD -B
-http://forevertv.me:8080/263117997354/213574458699/384107
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", beIN SPORT 02 SD -B
-http://forevertv.me:8080/263117997354/213574458699/384106
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", beIN SPORT 03 SD -B
-http://forevertv.me:8080/263117997354/213574458699/384104
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", beIN SPORT 04 SD -B
-http://forevertv.me:8080/263117997354/213574458699/384103
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", beIN SPORT 05 SD -B
-http://forevertv.me:8080/263117997354/213574458699/384102
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", beIN SPORT 06 SD -B
-http://forevertv.me:8080/263117997354/213574458699/384101
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", beIN SPORT 07 SD -B
-http://forevertv.me:8080/263117997354/213574458699/384100
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", beIN SPORT 08 SD -B
-http://forevertv.me:8080/263117997354/213574458699/384099
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", beIN SPORT 09 SD -B
-http://forevertv.me:8080/263117997354/213574458699/384098
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", beIN SPORTS 3 EXTRA 03 SD -B
-http://forevertv.me:8080/263117997354/213574458699/384105
-
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", SPORT- Shariqa Sport TV SD
-http://forevertv.me:8080/263117997354/213574458699/96743
-
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", IQ- AL Iraqia SD
-http://forevertv.me:8080/263117997354/213574458699/33811
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", SA- SSC-EXTRA 1  sd
-http://forevertv.me:8080/263117997354/213574458699/312498
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", SA- SSC-EXTRA 2 sd
-http://forevertv.me:8080/263117997354/213574458699/312499
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", SA- SSC-EXTRA 3 sd
-http://forevertv.me:8080/263117997354/213574458699/312500
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", UAE- Abu Dhabi SD
-http://forevertv.me:8080/263117997354/213574458699/21489
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", US-MOTORTREND SD
-http://forevertv.me:8080/263117997354/213574458699/88475
-
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", CA- Bein Sports SD
-http://forevertv.me:8080/263117997354/213574458699/39926
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", DE: SKY SPORT 1 SD
-http://forevertv.me:8080/263117997354/213574458699/240414
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", DE: SKY SPORT 2 SD
-http://forevertv.me:8080/263117997354/213574458699/240419
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", FR: Cartoon Network SD
-http://forevertv.me:8080/263117997354/213574458699/85371
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", FR: CStar SD
-http://forevertv.me:8080/263117997354/213574458699/85347
-
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", FR: Disney Channel SD
-http://forevertv.me:8080/263117997354/213574458699/85369
-
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", |FR| Canal+ Family SD
-http://forevertv.me:8080/263117997354/213574458699/85365
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", |FR| ACTION SD
-http://forevertv.me:8080/263117997354/213574458699/85362
-
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", BR: Premiere 1 SD
-http://forevertv.me:8080/263117997354/213574458699/32956
-
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", BR: NATGEO WILD SD
-http://forevertv.me:8080/263117997354/213574458699/88759
-
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", PT: ELEVEN SPORTS 2 SD
-http://forevertv.me:8080/263117997354/213574458699/84609
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", PT: SPORT TV1 SD
-http://forevertv.me:8080/263117997354/213574458699/84597
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", PT: SPORT TV3 SD
-http://forevertv.me:8080/263117997354/213574458699/84601
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", PT: SPORT TV4 SD
-http://forevertv.me:8080/263117997354/213574458699/84603
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", Dn- Sky Sport 2 SD
-http://forevertv.me:8080/263117997354/213574458699/29229
 
 #EXTINF:-1 tvg-logo="______" group-title="SPORT SD-HD", TNT BT SPORT 1 
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=97146_&extension=ts
@@ -14322,7 +13025,6 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=97130_&extensio
 #EXTINF:-1 tvg-logo="______" group-title="SPORT SD-HD", SKY SPORT MIX UK
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=97128_&extension=ts
 
-
 #EXTINF:-1 tvg-logo="______" group-title="SPORT SD-HD", DAZN SPORT 1 IT
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=56671_&extension=ts
 
@@ -14344,6 +13046,216 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=97267_&extensio
 #EXTINF:-1 tvg-logo="______" group-title="SPORT SD-HD", TVP SPORT PL
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=97263_&extension=ts
 
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", MBC 1 SD
+http://forevertv.me:8080/263117997354/213574458699/20920
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", MBC 2 SD
+http://forevertv.me:8080/263117997354/213574458699/20919
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", MBC 3 SD
+http://forevertv.me:8080/263117997354/213574458699/20918
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", MBC 4 SD
+http://forevertv.me:8080/263117997354/213574458699/20917
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", MBC 5 SD
+http://forevertv.me:8080/263117997354/213574458699/66545
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", MBC Action SD
+http://forevertv.me:8080/263117997354/213574458699/20925
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", MBC Bollywood SD
+http://forevertv.me:8080/263117997354/213574458699/20924
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", MBC CN SD
+http://forevertv.me:8080/263117997354/213574458699/140935
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", MBC Drama SD
+http://forevertv.me:8080/263117997354/213574458699/20923
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", MBC Drama+ SD
+http://forevertv.me:8080/263117997354/213574458699/140932
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", MBC Iraq SD
+http://forevertv.me:8080/263117997354/213574458699/20922
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", MBC LBCI SD
+http://forevertv.me:8080/263117997354/213574458699/140936
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", MBC Masr 1 SD
+http://forevertv.me:8080/263117997354/213574458699/2186
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", MBC Masr 2 SD
+http://forevertv.me:8080/263117997354/213574458699/141080
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", MBC Max SD
+http://forevertv.me:8080/263117997354/213574458699/20921
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", MBC Persia SD
+http://forevertv.me:8080/263117997354/213574458699/140933
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", MBC SPACETOON SD
+http://forevertv.me:8080/263117997354/213574458699/140934
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", MBC WANASAH SD
+http://forevertv.me:8080/263117997354/213574458699/140937
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", BeIN AFC SD
+http://forevertv.me:8080/263117997354/213574458699/385286
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", beIN Sports News SD
+http://forevertv.me:8080/263117997354/213574458699/142751
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", beIN SPORTS 1 SD
+http://forevertv.me:8080/263117997354/213574458699/142755
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", beIN SPORTS 2 SD
+http://forevertv.me:8080/263117997354/213574458699/142756
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", beIN SPORTS 3 SD
+http://forevertv.me:8080/263117997354/213574458699/142757
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", beIN SPORTS 4 SD
+http://forevertv.me:8080/263117997354/213574458699/142758
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", beIN SPORTS 5 SD
+http://forevertv.me:8080/263117997354/213574458699/142759
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", beIN SPORTS 6 SD
+http://forevertv.me:8080/263117997354/213574458699/142760
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", beIN SPORTS 7 SD
+http://forevertv.me:8080/263117997354/213574458699/142761
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", beIN SPORTS 8 SD
+http://forevertv.me:8080/263117997354/213574458699/142752
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", beIN SPORTS 9 SD
+http://forevertv.me:8080/263117997354/213574458699/142753
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", beIN SPORTS NBA SD
+http://forevertv.me:8080/263117997354/213574458699/142764
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", beIN Sport EXTRA 1 SD
+http://forevertv.me:8080/263117997354/213574458699/421895
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", beIN Sport EXTRA 2 SD
+http://forevertv.me:8080/263117997354/213574458699/421896
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", beIN Sport EXTRA 3 SD
+http://forevertv.me:8080/263117997354/213574458699/142754
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", beIN SPORTS 1 English SD
+http://forevertv.me:8080/263117997354/213574458699/142762
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", BeIN SPORTS 2 English SD
+http://forevertv.me:8080/263117997354/213574458699/142763
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", BeIN SPORTS 1 French SD
+http://forevertv.me:8080/263117997354/213574458699/142765
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", beIN SPORTS 2 French SD
+http://forevertv.me:8080/263117997354/213574458699/142766
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", beIN SPORTS 3 French SD
+http://forevertv.me:8080/263117997354/213574458699/142767
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", beIN SPORT 01 SD -B
+http://forevertv.me:8080/263117997354/213574458699/384107
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", beIN SPORT 02 SD -B
+http://forevertv.me:8080/263117997354/213574458699/384106
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", beIN SPORT 03 SD -B
+http://forevertv.me:8080/263117997354/213574458699/384104
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", beIN SPORT 04 SD -B
+http://forevertv.me:8080/263117997354/213574458699/384103
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", beIN SPORT 05 SD -B
+http://forevertv.me:8080/263117997354/213574458699/384102
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", beIN SPORT 06 SD -B
+http://forevertv.me:8080/263117997354/213574458699/384101
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", beIN SPORT 07 SD -B
+http://forevertv.me:8080/263117997354/213574458699/384100
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", beIN SPORT 08 SD -B
+http://forevertv.me:8080/263117997354/213574458699/384099
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", beIN SPORT 09 SD -B
+http://forevertv.me:8080/263117997354/213574458699/384098
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", beIN SPORTS 3 EXTRA 03 SD -B
+http://forevertv.me:8080/263117997354/213574458699/384105
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", SPORT- Shariqa Sport TV SD
+http://forevertv.me:8080/263117997354/213574458699/96743
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", IQ- AL Iraqia SD
+http://forevertv.me:8080/263117997354/213574458699/33811
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", SA- SSC-EXTRA 1  sd
+http://forevertv.me:8080/263117997354/213574458699/312498
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", SA- SSC-EXTRA 2 sd
+http://forevertv.me:8080/263117997354/213574458699/312499
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", SA- SSC-EXTRA 3 sd
+http://forevertv.me:8080/263117997354/213574458699/312500
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", UAE- Abu Dhabi SD
+http://forevertv.me:8080/263117997354/213574458699/21489
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", US-MOTORTREND SD
+http://forevertv.me:8080/263117997354/213574458699/88475
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", CA- Bein Sports SD
+http://forevertv.me:8080/263117997354/213574458699/39926
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", DE: SKY SPORT 1 SD
+http://forevertv.me:8080/263117997354/213574458699/240414
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", DE: SKY SPORT 2 SD
+http://forevertv.me:8080/263117997354/213574458699/240419
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", FR: Cartoon Network SD
+http://forevertv.me:8080/263117997354/213574458699/85371
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", FR: CStar SD
+http://forevertv.me:8080/263117997354/213574458699/85347
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", FR: Disney Channel SD
+http://forevertv.me:8080/263117997354/213574458699/85369
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", |FR| Canal+ Family SD
+http://forevertv.me:8080/263117997354/213574458699/85365
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", |FR| ACTION SD
+http://forevertv.me:8080/263117997354/213574458699/85362
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", BR: Premiere 1 SD
+http://forevertv.me:8080/263117997354/213574458699/32956
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", BR: NATGEO WILD SD
+http://forevertv.me:8080/263117997354/213574458699/88759
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", PT: ELEVEN SPORTS 2 SD
+http://forevertv.me:8080/263117997354/213574458699/84609
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", PT: SPORT TV1 SD
+http://forevertv.me:8080/263117997354/213574458699/84597
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", PT: SPORT TV3 SD
+http://forevertv.me:8080/263117997354/213574458699/84601
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", PT: SPORT TV4 SD
+http://forevertv.me:8080/263117997354/213574458699/84603
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", Dn- Sky Sport 2 SD
+http://forevertv.me:8080/263117997354/213574458699/29229
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 1", 4K-Sport PREMIUM 1
 http://magicoiptv.org:8080/026.Aboulfath.bouzekri/vsQvuKdD2yE3/73125
@@ -15144,45 +14056,6 @@ http://magicoiptv.org:8080/026.Aboulfath.bouzekri/vsQvuKdD2yE3/125841
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 1", DE: Sky Sport 2 FHD
 http://magicoiptv.org:8080/026.Aboulfath.bouzekri/vsQvuKdD2yE3/125843
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 1", DE: Sky Sport Bundesliga 6 FHD [Live Events Only]
-http://magicoiptv.org:8080/026.Aboulfath.bouzekri/vsQvuKdD2yE3/125848
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 1", DE: Sky Sport Bundesliga 6 HD [Live Events Only]
-http://magicoiptv.org:8080/026.Aboulfath.bouzekri/vsQvuKdD2yE3/125849
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 1", DE: Sky Sport Bundesliga 7 FHD [Live Events Only]
-http://magicoiptv.org:8080/026.Aboulfath.bouzekri/vsQvuKdD2yE3/125850
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 1", DE: Sky Sport Bundesliga 8 FHD [Live Events Only]
-http://magicoiptv.org:8080/026.Aboulfath.bouzekri/vsQvuKdD2yE3/125851
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 1", DE: Sky Sport Bundesliga 9 FHD [Live Events Only]
-http://magicoiptv.org:8080/026.Aboulfath.bouzekri/vsQvuKdD2yE3/125852
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 1", DE: Sky Sport Bundesliga 10 FHD [Live Events Only]
-http://magicoiptv.org:8080/026.Aboulfath.bouzekri/vsQvuKdD2yE3/125853
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 1", DE: Sky Sport 4 FHD [Live Events Only]
-http://magicoiptv.org:8080/026.Aboulfath.bouzekri/vsQvuKdD2yE3/125855
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 1", DE: Sky Sport 5 FHD [Live Events Only]
-http://magicoiptv.org:8080/026.Aboulfath.bouzekri/vsQvuKdD2yE3/125857
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 1", DE: Sky Sport 6 FHD [Live Events Only]
-http://magicoiptv.org:8080/026.Aboulfath.bouzekri/vsQvuKdD2yE3/125859
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 1", DE: Sky Sport 6 HD [Live Events Only]
-http://magicoiptv.org:8080/026.Aboulfath.bouzekri/vsQvuKdD2yE3/125860
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 1", DE: Sky Sport 7 HD [Live Events Only]
-http://magicoiptv.org:8080/026.Aboulfath.bouzekri/vsQvuKdD2yE3/125862
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 1", DE: Sky Sport 8 FHD [Live Events Only]
-http://magicoiptv.org:8080/026.Aboulfath.bouzekri/vsQvuKdD2yE3/125863
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 1", DE: Sky Sport 8 HD [Live Events Only]
-http://magicoiptv.org:8080/026.Aboulfath.bouzekri/vsQvuKdD2yE3/125864
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 1", DE: Sport1 FHD
 http://magicoiptv.org:8080/026.Aboulfath.bouzekri/vsQvuKdD2yE3/125868
 
@@ -15224,18 +14097,6 @@ http://magicoiptv.org:8080/026.Aboulfath.bouzekri/vsQvuKdD2yE3/125923
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 1", SKY SPORT 5 DE
 http://magicoiptv.org:8080/026.Aboulfath.bouzekri/vsQvuKdD2yE3/125924
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 1", SKY SPORT 8 HD DE
-http://magicoiptv.org:8080/026.Aboulfath.bouzekri/vsQvuKdD2yE3/125925
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 1", SKY SPORT BUNDESLIGA 3 HD DE
-http://magicoiptv.org:8080/026.Aboulfath.bouzekri/vsQvuKdD2yE3/125926
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 1", SKY SPORT BUNDESLIGA 9 HD DE
-http://magicoiptv.org:8080/026.Aboulfath.bouzekri/vsQvuKdD2yE3/125927
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 1", SKY SPORT BUNDESLIGA 9 DE
-http://magicoiptv.org:8080/026.Aboulfath.bouzekri/vsQvuKdD2yE3/125928
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 1", |NL| Ziggo Sport Select 4K -HEVC-
 http://magicoiptv.org:8080/026.Aboulfath.bouzekri/vsQvuKdD2yE3/126251
@@ -15665,15 +14526,6 @@ http://magicoiptv.org:8080/026.Aboulfath.bouzekri/vsQvuKdD2yE3/418682
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 1", |AF| SuperSport 7 HD
 http://magicoiptv.org:8080/026.Aboulfath.bouzekri/vsQvuKdD2yE3/418683
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 1", |AF| SuperSport 8 HD
-http://magicoiptv.org:8080/026.Aboulfath.bouzekri/vsQvuKdD2yE3/418684
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 1", |AF| SuperSport 9 HD
-http://magicoiptv.org:8080/026.Aboulfath.bouzekri/vsQvuKdD2yE3/418685
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 1", |AF| SuperSport 10 HD
-http://magicoiptv.org:8080/026.Aboulfath.bouzekri/vsQvuKdD2yE3/418686
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 1", |MUSIC| TRACE SPORTS STARTS
 http://magicoiptv.org:8080/026.Aboulfath.bouzekri/vsQvuKdD2yE3/418715
@@ -17240,7 +16092,6 @@ http://f77823c8.russtv.net/iptv/44YT3BWK6RZZ9V/20076/index.m3u8
 http://f77823c8.russtv.net/iptv/44YT3BWK6RZZ9V/20078/index.m3u8
 
 
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", beIN SPORTS FEED YAYIN mac saati aktif
 http://kzice.ddnsfree.com:8080/hamzakeskin1/13dstfdeyy/12
 
@@ -17318,9 +16169,6 @@ http://kzice.ddnsfree.com:8080/hamzakeskin1/13dstfdeyy/22
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", beIN SPORTS HABER HD
 http://kzice.ddnsfree.com:8080/hamzakeskin1/13dstfdeyy/22358
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", ₪₪₪₪₪ [ TURKEY SPORT ] ₪₪₪₪₪
-http://kzice.ddnsfree.com:8080/hamzakeskin1/13dstfdeyy/13
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", S SPORT FHD
 http://kzice.ddnsfree.com:8080/hamzakeskin1/13dstfdeyy/24
@@ -17450,8 +16298,6 @@ http://kzice.ddnsfree.com:8080/hamzakeskin1/13dstfdeyy/59924
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", TR: S SPORT2 RAW
 http://kzice.ddnsfree.com:8080/hamzakeskin1/13dstfdeyy/59925
-
-
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", SKY SPORT 1 HD
 http://kzice.ddnsfree.com:8080/hamzakeskin1/13dstfdeyy/4854
@@ -17600,30 +16446,6 @@ http://kzice.ddnsfree.com:8080/hamzakeskin1/13dstfdeyy/70413
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", DAZN Event 9
 http://kzice.ddnsfree.com:8080/hamzakeskin1/13dstfdeyy/70414
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", DAZN Event 10
-http://kzice.ddnsfree.com:8080/hamzakeskin1/13dstfdeyy/70415
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", DAZN Event 11
-http://kzice.ddnsfree.com:8080/hamzakeskin1/13dstfdeyy/70416
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", DAZN Event 12
-http://kzice.ddnsfree.com:8080/hamzakeskin1/13dstfdeyy/70417
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", DAZN Event 13
-http://kzice.ddnsfree.com:8080/hamzakeskin1/13dstfdeyy/70418
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", DAZN Event 14
-http://kzice.ddnsfree.com:8080/hamzakeskin1/13dstfdeyy/70419
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", DAZN Event 15
-http://kzice.ddnsfree.com:8080/hamzakeskin1/13dstfdeyy/70420
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", DAZN Event 16
-http://kzice.ddnsfree.com:8080/hamzakeskin1/13dstfdeyy/70421
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", DAZN Event 17
-http://kzice.ddnsfree.com:8080/hamzakeskin1/13dstfdeyy/70422
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", EUROSPORT 1 DE
 http://kzice.ddnsfree.com:8080/hamzakeskin1/13dstfdeyy/4883
 
@@ -17647,8 +16469,6 @@ http://kzice.ddnsfree.com:8080/hamzakeskin1/13dstfdeyy/4890
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", MOTORVISION TV
 http://kzice.ddnsfree.com:8080/hamzakeskin1/13dstfdeyy/4891
-
-
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", AT | ORF Sport+ HD
 http://kzice.ddnsfree.com:8080/hamzakeskin1/13dstfdeyy/20793
@@ -17728,9 +16548,6 @@ http://kzice.ddnsfree.com:8080/hamzakeskin1/13dstfdeyy/73722
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", DK: V Sport Golf
 http://kzice.ddnsfree.com:8080/hamzakeskin1/13dstfdeyy/73748
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", ##### DK SPORTS #####
-http://kzice.ddnsfree.com:8080/hamzakeskin1/13dstfdeyy/73765
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", DK: TV3 Sport
 http://kzice.ddnsfree.com:8080/hamzakeskin1/13dstfdeyy/73766
 
@@ -17764,20 +16581,9 @@ http://kzice.ddnsfree.com:8080/hamzakeskin1/13dstfdeyy/72572
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", Swiss: MySport 5 HD
 http://kzice.ddnsfree.com:8080/hamzakeskin1/13dstfdeyy/72573
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", Swiss: MySport 6 HD
-http://kzice.ddnsfree.com:8080/hamzakeskin1/13dstfdeyy/72574
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", Swiss: MySport 7 HD
-http://kzice.ddnsfree.com:8080/hamzakeskin1/13dstfdeyy/72575
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", Swiss: MySport 8 HD
-http://kzice.ddnsfree.com:8080/hamzakeskin1/13dstfdeyy/72576
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", AZ: CBC SPORT HD
 http://kzice.ddnsfree.com:8080/hamzakeskin1/13dstfdeyy/898
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", ##### WORLD SPORT #####
-http://kzice.ddnsfree.com:8080/hamzakeskin1/13dstfdeyy/72185
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", VIP SPORT: SKY SPORT NEWS (UK)
 http://kzice.ddnsfree.com:8080/hamzakeskin1/13dstfdeyy/72186
@@ -18028,9 +16834,6 @@ http://kzice.ddnsfree.com:8080/hamzakeskin1/13dstfdeyy/72267
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", VIP SPORT: WWE Network (US)
 http://kzice.ddnsfree.com:8080/hamzakeskin1/13dstfdeyy/72268
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", ###### FR Sports ######
-http://kzice.ddnsfree.com:8080/hamzakeskin1/13dstfdeyy/71388
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", FR: RMC SPORT 1
 http://kzice.ddnsfree.com:8080/hamzakeskin1/13dstfdeyy/71398
 
@@ -18105,9 +16908,6 @@ http://kzice.ddnsfree.com:8080/hamzakeskin1/13dstfdeyy/72394
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", NL: Ziggo Sport Select HD RAW
 http://kzice.ddnsfree.com:8080/hamzakeskin1/13dstfdeyy/72395
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", ##### SPAIN SPORT ######
-http://kzice.ddnsfree.com:8080/hamzakeskin1/13dstfdeyy/72467
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", ES: EUROSPORT 1 HD
 http://kzice.ddnsfree.com:8080/hamzakeskin1/13dstfdeyy/72470
@@ -18394,9 +17194,6 @@ http://kzice.ddnsfree.com:8080/hamzakeskin1/13dstfdeyy/73246
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", BG: MAX SPORT 4
 http://kzice.ddnsfree.com:8080/hamzakeskin1/13dstfdeyy/73274
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", ##### AR: SPORT #####
-http://kzice.ddnsfree.com:8080/hamzakeskin1/13dstfdeyy/71696
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", AR: Iraqia Sport
 http://kzice.ddnsfree.com:8080/hamzakeskin1/13dstfdeyy/71812
 
@@ -18471,9 +17268,6 @@ http://kzice.ddnsfree.com:8080/hamzakeskin1/13dstfdeyy/72979
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", BE: VOO SPORT WORLD 3 HD+
 http://kzice.ddnsfree.com:8080/hamzakeskin1/13dstfdeyy/72980
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", ##### EX-YU SPORT #####
-http://kzice.ddnsfree.com:8080/hamzakeskin1/13dstfdeyy/74574
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", EX-YU: Arena Sport 1 HD (HR)
 http://kzice.ddnsfree.com:8080/hamzakeskin1/13dstfdeyy/74575
@@ -18565,9 +17359,6 @@ http://kzice.ddnsfree.com:8080/hamzakeskin1/13dstfdeyy/74606
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", EX-YU: Fight Channel HD (HR)
 http://kzice.ddnsfree.com:8080/hamzakeskin1/13dstfdeyy/74607
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", ##### PORTUGAL SPORT #####
-http://kzice.ddnsfree.com:8080/hamzakeskin1/13dstfdeyy/73348
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", PT: Eleven Sports 1 HD
 http://kzice.ddnsfree.com:8080/hamzakeskin1/13dstfdeyy/73349
 
@@ -18649,8 +17440,6 @@ http://kzice.ddnsfree.com:8080/hamzakeskin1/13dstfdeyy/73378
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", PT: SPORTING TV
 http://kzice.ddnsfree.com:8080/hamzakeskin1/13dstfdeyy/73379
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", ##### SW SPORTS #####
-http://kzice.ddnsfree.com:8080/hamzakeskin1/13dstfdeyy/73827
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", SW: V Sportus
 http://kzice.ddnsfree.com:8080/hamzakeskin1/13dstfdeyy/73828
@@ -18751,15 +17540,6 @@ http://kzice.ddnsfree.com:8080/hamzakeskin1/13dstfdeyy/72543
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", GR: Nova Sports 3 HD.
 http://kzice.ddnsfree.com:8080/hamzakeskin1/13dstfdeyy/72544
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", GR: Nova Sports 4 HD.
-http://kzice.ddnsfree.com:8080/hamzakeskin1/13dstfdeyy/72545
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", GR: Nova Sports 5 HD.
-http://kzice.ddnsfree.com:8080/hamzakeskin1/13dstfdeyy/72546
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", GR: Nova Sports 6 HD.
-http://kzice.ddnsfree.com:8080/hamzakeskin1/13dstfdeyy/72547
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", GR: OTESports Highlights HD.
 http://kzice.ddnsfree.com:8080/hamzakeskin1/13dstfdeyy/72548
 
@@ -18778,18 +17558,6 @@ http://kzice.ddnsfree.com:8080/hamzakeskin1/13dstfdeyy/72552
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", GR: COSMOTE Sport 5 HD.
 http://kzice.ddnsfree.com:8080/hamzakeskin1/13dstfdeyy/72553
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", GR: COSMOTE Sport 6 HD.
-http://kzice.ddnsfree.com:8080/hamzakeskin1/13dstfdeyy/72554
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", GR: COSMOTE Sport 7 HD.
-http://kzice.ddnsfree.com:8080/hamzakeskin1/13dstfdeyy/72555
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", GR: COSMOTE Sport 8 HD.
-http://kzice.ddnsfree.com:8080/hamzakeskin1/13dstfdeyy/72556
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", GR: COSMOTE Sport 9 HD.
-http://kzice.ddnsfree.com:8080/hamzakeskin1/13dstfdeyy/72557
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", CZ: Sport 1 HD
 http://kzice.ddnsfree.com:8080/hamzakeskin1/13dstfdeyy/74726
 
@@ -18804,8 +17572,6 @@ http://kzice.ddnsfree.com:8080/hamzakeskin1/13dstfdeyy/74729
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", CZ: CT sport HD
 http://kzice.ddnsfree.com:8080/hamzakeskin1/13dstfdeyy/74739
-
-
 
 
 
@@ -18835,9 +17601,6 @@ http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095500&e
 #EXTINF:-1 tvg-logo="https://www.peacocktv.com/dam/commerce/assets/partners/logo-peacock-social-1200x628.jpg" group-title="PEACOCK OD", PEACOCK SERIES 12
 http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095499&extension=ts&play_token=mQ5MP5caD7
 
-
-
-INDONESIA__________________________________________________________________________________________________________________________________
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRekDOlPpNggbR5ZOFueBCFuBgT-4AGqMufGg&usqp=CAU" group-title="BEIN OD", BEIN OD MOVIE 1
 http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=1010765&extension=ts&play_token=9t1VGqgnHU
@@ -18937,9 +17700,6 @@ http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=1095784&e
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi41HfxZ8Estf7fOLj8cXGSRF0ZKyrFBQYrg&usqp=CAU" group-title="SKY GO", SKY PREMIER 15
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=1095783&extension=ts&play_token=3udW5TQ5jV
 
-
-
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrg0-vkudZVLrW60uEVS6egDjzF5hb1ju11g&usqp=CAU" group-title="SKY GO", SKY PRIMAFILA 1
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=692047&extension=ts&play_token=n8xOorYLw9
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrg0-vkudZVLrW60uEVS6egDjzF5hb1ju11g&usqp=CAU" group-title="SKY GO", SKY PRIMAFILA 2
@@ -18970,7 +17730,6 @@ http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=692034&ex
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=692032&extension=ts&play_token=ktlShZu2ca
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrg0-vkudZVLrW60uEVS6egDjzF5hb1ju11g&usqp=CAU" group-title="SKY GO", SKY PRIMAFILA 15
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=692031&extension=ts&play_token=ktlShZu2ca
-
 
 
 
@@ -20550,8 +19309,6 @@ http://cloud.cdn-proxy.win:2052/PREFRECYVISIONkdfskfksklf/t5GVqyDL7bUckjdksjdk/2
 #EXTINF:-1 tvg-logo="http://exaott.xyz/lagi/FR_FRANCE_SPORTS_FHD_HD/CANAL+_FORMULA_1.png" group-title="YACINE TV", FR | HD CANAL + FORMULA 1
 http://cloud.cdn-proxy.win:2052/PREFRECYVISIONkdfskfksklf/t5GVqyDL7bUckjdksjdk/171010
 
-
-
 #EXTINF:-1 tvg-logo="http://exaott.xyz/lagi/FR_FRANCE_SPORTS_FHD_HD/BEIN_SPORTS_1_HD.png" group-title="YACINE TV", FR | HD BEIN SPORTS 1
 http://cloud.cdn-proxy.win:2052/PREFRECYVISIONkdfskfksklf/t5GVqyDL7bUckjdksjdk/96731
 
@@ -20588,7 +19345,6 @@ http://cloud.cdn-proxy.win:2052/PREFRECYVISIONkdfskfksklf/t5GVqyDL7bUckjdksjdk/9
 #EXTINF:-1 tvg-logo="http://exaott.xyz/lagi/FR_FRANCE_SPORTS_FHD_HD/BEIN_SPORTS_MAX_9_HD.png" group-title="YACINE TV", FR | HD BEIN SPORTS MAX 9 (EVENT ONLY)
 http://cloud.cdn-proxy.win:2052/PREFRECYVISIONkdfskfksklf/t5GVqyDL7bUckjdksjdk/96744
 
-
 #EXTINF:-1 tvg-logo="http://fireott.quest:2052/images/b07d88e5efa3947c2a187fabe4a34861.png" group-title="YACINE TV", DE : HD  DAZN 1 BAR
 http://cloud.cdn-proxy.win:2052/PREFRECYVISIONkdfskfksklf/t5GVqyDL7bUckjdksjdk/248843
 
@@ -20621,7 +19377,6 @@ http://cloud.cdn-proxy.win:2052/PREFRECYVISIONkdfskfksklf/t5GVqyDL7bUckjdksjdk/9
 
 #EXTINF:-1 tvg-logo="http://wixa.fire33.xyz:2052/images/64cf6b025ed8c92f05bf9bcffb9cd99f.png" group-title="YACINE TV", NL |  ZIGGO SPORT TENNIS
 http://cloud.cdn-proxy.win:2052/PREFRECYVISIONkdfskfksklf/t5GVqyDL7bUckjdksjdk/96096
-
 
 #EXTINF:-1 tvg-logo="http://176.119.25.16:5890/images/b533ed0f31c3b08e89d67dee7eba2c7c.png" group-title="ARAB SPORT", AR| KSA SPORTS 1HD
 http://amazontv.me:8519/4670115788/5623525065/291
