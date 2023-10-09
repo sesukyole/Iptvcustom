@@ -326,6 +326,128 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=97154&extension
 #EXTINF:-1 tvg-logo="______" group-title="SPORT MOL", TNT SPORT EXTRA 8 UK
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=97155&extension=ts
 
+#EXTINF:-1 tvg-logo="______" group-title="SPORT MOL", MLS LEAGUE 1
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=642943&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT MOL", MLS LEAGUE 2
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=642944&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT MOL", MLS LEAGUE 3
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=642945&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT MOL", MLS LEAGUE 4
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=642946&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT MOL", MLS LEAGUE 5
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=642947&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT MOL", MLS LEAGUE 6
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=642948&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT MOL", MLS LEAGUE 7
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=642949&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT MOL", MLS LEAGUE 8
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=642950&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT MOL", MLS LEAGUE 9
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=642951&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT MOL", MLS LEAGUE 10
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=642952&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT MOL", MLS LEAGUE 11
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=642953&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT MOL", MLS LEAGUE 12
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=642954&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT MOL", MLS LEAGUE 13
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=642955&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT MOL", MLS LEAGUE 14
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=642956&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORT MOL", BEIN SPORT 1 AR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=59306&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT MOL", BEIN SPORT 2 AR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=59307&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT MOL", BEIN SPORT 3 AR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=59308&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT MOL", BEIN SPORT 4 AR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=59309&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT MOL", BEIN SPORT 5 AR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=59310&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT MOL", BEIN SPORT 6 AR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=59311&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT MOL", BEIN SPORT 7 AR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=59312&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT MOL", BEIN SPORT 8 AR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=192760&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORT MOL", BEIN SPORT 1 AR HD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=192767&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT MOL", BEIN SPORT PREMIUM 1 AR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=192758&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT MOL", BEIN SPORT PREMIUM 2 AR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=192757&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT MOL", BEIN SPORT PREMIUM 3 AR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=192756&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORT MOL", SSC SPORT 1 AR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=469895&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT MOL", SSC SPORT 2 AR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=469896&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT MOL", SSC SPORT 3 AR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=469897&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT MOL", SSC SPORT 4 AR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=469898&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT MOL", SSC SPORT 5 AR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=469899&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORT MOL", ABU DHABI SPORT PREMIUM 1 AR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=446090&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT MOL", ABU DHABI SPORT PREMIUM 2 AR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=446091&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT MOL", ABU DHABI SPORT 1 AR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=282649&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT MOL", ABU DHABI SPORT 2 AR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=282651&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT MOL", AL KASS ONE AR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=59318&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT MOL", AL KASS TWO AR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=59319&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT MOL", KSA SPORT 1 AR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=59297&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT MOL", KSA SPORT 2 AR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=59298&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT MOL", KUWAIT SPORT 1 AR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=59297&extension=ts
+
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORT MOL", BEIN SPORT HABER TR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=57793&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT MOL", BEIN SPORT 1 TR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=57794&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT MOL", BEIN SPORT 2 TR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=57800&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT MOL", BEIN SPORT 3 TR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=57803&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT MOL", BEIN SPORT 4 TR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=57806&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT MOL", BEIN SPORT MAX 1 TR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=57733&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT MOL", BEIN SPORT MAX 2 TR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=57734&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT MOL", TIVIBU SPORT 1 TR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=57727&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT MOL", TIVIBU SPORT 2 TR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=57724&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT MOL", TIVIBU SPORT 3 TR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=57726&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT MOL", TIVIBU SPORT 3 TR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=57726&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT MOL", TRT SPORT TR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=57717&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT MOL", a SPORT TR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=57718&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT MOL", S SPORT TR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=57721&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT MOL", SMART SPORT 1 TR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=57809&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT MOL", SMART SPORT 2 TR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=57810&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT MOL", GALATASARAY TV
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=57715&extension=ts
+
+
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="TR➾ SPOR", beIN SPORTS FEED YAYIN mac saati aktif
 http://kzice.ddnsfree.com:8080/fikrettosun/6042593465/12
 
