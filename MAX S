@@ -140,7 +140,7 @@ https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/yyQRjZt/ASIANGAMES2022.png" group-title="SPORTS", LIVE 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"4z9qvRVP8UppbvHBp6C0lg","kid":"utm7n0xVOtu5BGBD3E9Kfg"}]
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"4z9qvRVP8UppbvHBp6C0lg","kid":"utm7n0xVOtu5BGBD3E9Kfg"}]}
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(92c7b96a-33fc-4899-a032-50ae0fbc9257)/manifest.mpd
 
 
@@ -920,7 +920,7 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(5cd2bf10-1ac0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bad9bb9f4c553adbb9046043dc4f4a7e:e33f6abd154ff14a696ef1c1a7a0b496
-#EXTINF:-1 group-title="MOVIES" tvg-id="HBO Family HD" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="______", FTV 1
+#EXTINF:-1 group-title="MOVIES" tvg-id="HBO Family HD" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="______", HBO MAX1
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(92c7b96a-33fc-4899-a032-50ae0fbc9257)/manifest.mpd
 
 #EXTINF:-1 group-logo="https://i.ibb.co/MV7zCJq/cat-movies.png",
