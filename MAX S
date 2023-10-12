@@ -1460,7 +1460,6 @@ https://webudit.webdicdn.lol/lb/premium352/index.m3u8
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 https://webudit.webdicdn.lol/lb/premium353/index.m3u8
 
-
 #EXTINF:-1 tvg-logo="______" group-title="SPORT MOL", VOO WORLD SPORT 1 BE
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=390413&extension=ts
 #EXTINF:-1 tvg-logo="______" group-title="SPORT MOL", VOO WORLD SPORT 2 BE
@@ -2086,6 +2085,9 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=222558&extensio
 #EXTINF:-1 tvg-logo="______" group-title="SPORT MOL", TRING SPORT 4 AL
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=222556&extension=ts
 
+#EXTINF:-1 tvg-logo="______" group-title="SPORT MOL", YES SPORT 1 IL
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=213392&extension=ts
+
 #EXTINF:-1 tvg-logo="______" group-title="SPORT MOL", SPORTV 1 BR
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=166798&extension=ts
 #EXTINF:-1 tvg-logo="______" group-title="SPORT MOL", SPORTV 2 BR
@@ -2098,6 +2100,12 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=166801&extensio
 #EXTINF:-1 tvg-logo="______" group-title="SPORT MOL", PREMIERE 2 BR
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=166802&extension=ts
 
+#EXTINF:-1 tvg-logo="______" group-title="SPORT MOL", ESPN SPORT BR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=166794&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT MOL", ESPN SPORT 1 CL
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=175312&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT MOL", ESPN SPORT 2 CL
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=175311&extension=ts
 #EXTINF:-1 tvg-logo="______" group-title="SPORT MOL", FOX SPORT 1 BR
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=166797&extension=ts
 #EXTINF:-1 tvg-logo="______" group-title="SPORT MOL", FOX SPORT 2 BR
@@ -2106,9 +2114,41 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=166796&extensio
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=166813&extension=ts
 #EXTINF:-1 tvg-logo="______" group-title="SPORT MOL", COMBATE SPORT BR
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=166788&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT MOL", WIN SPORT CO
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=318298&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT MOL", TNT SPORT EC
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=366642&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT MOL", TNT SPORT EC
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=318298&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT MOL", ESPN SPORT MX
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=174875&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT MOL", ESPN SPORT AR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=174524&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT MOL", ESPN SPORT 2 AR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=174526&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT MOL", ESPN SPORT 3 AR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=174525&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT MOL", ESPN SPORT EXTRA AR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=174527&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT MOL", FOX SPORT 2 MX
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=174902&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT MOL", FOX SPORT 3 MX
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=174903&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT MOL", TVC DEPORTES MX
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=175013&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT MOL", TYC SPORT AR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=174609&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT MOL", TNT SPORT AR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=174603&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT MOL", DEPOTRES TV AR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=174512&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT MOL", DIRECTTV SPORT 2 AR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=174513&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT MOL", GOL PERU PE
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=174464&extension=ts
+
 #EXTINF:-1 tvg-logo="______" group-title="SPORT MOL", COMBATE PT
 http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=62600_&extension=ts
-
 #EXTINF:-1 tvg-logo="______" group-title="SPORT MOL", MOTORSPORT PT
 http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=62599_&extension=ts
 #EXTINF:-1 tvg-logo="______" group-title="SPORT MOL", MOTORVISION PT
@@ -2275,6 +2315,31 @@ http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=303060_&exten
 http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=303061_&extension=ts
 #EXTINF:-1 tvg-logo="______" group-title="SKY SPORT NZ", SKY SPORT SELECT NZ
 http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=303062_&extension=ts
+
+
+
+#EXTINF:-1 tvg-logo="______" group-title="MBC AR", MBC 1 AR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=97959&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="MBC AR", MBC 2 AR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=97960&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="MBC AR", MBC 3 AR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=97961&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="MBC AR", MBC 4 AR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=97962&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="MBC AR", MBC DRAMA AR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=97963&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="MBC AR", MBC DRAMA+ AR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=97964&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="MBC AR", MBC MAX AR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=97965&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="MBC AR", MBC ACTION AR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=97966&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="MBC AR", MBC MRS AR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=97967&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="MBC AR", MBC MRS 2 AR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=97968&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="MBC AR", MBC BOLLYWOOD AR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=97969&extension=ts
 
 
 #EXTINF:-1 group-title="VOD DRAKOR", The Host (2006)
