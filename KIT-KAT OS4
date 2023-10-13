@@ -287,11 +287,6 @@ http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=28096_&extension
 https://github.com/inaldie/inaldie/raw/main/LOGO.ts
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/yyQRjZt/ASIANGAMES2022.png" group-title="#🇲🇨🇲🇾EVENT ASIAN GAMES🇲🇨🇲🇾#", ASIAN GAMES LIVE 6
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"ry3Gocl1Tsew/wN32ochUw","k":"evZgykKHYN++meEAR+Di5A"}]}
-https://mwmpos01.akamaized.net/out/v1/ee3d338d368f453a9c4181d119599e05/manifest.mpd
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/liga1bri.png" group-title="#🇮🇩EVENT LIGA 1🇮🇩#", INDOSIAR LIVE 1 
 http://tvkuonline.my.id:25461/riyad/riyad/14
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/liga1bri.png" group-title="#🇮🇩EVENT LIGA 1🇮🇩#", INDOSIAR LIVE 2
