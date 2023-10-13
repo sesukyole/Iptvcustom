@@ -2041,7 +2041,7 @@ https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
 http://210.210.155.37/qwr9ew/s/s03/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/10.jpg" group-title="DENS TV", INDOSIAR
 http://210.210.155.37/qwr9ew/s/s04/index.m3u8
-EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqjRjYQzeZXe4kOyrHIaWlcGMLzdHQcFjg6w&usqp=CAU" group-title="DENS TV", TRANS 7 1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqjRjYQzeZXe4kOyrHIaWlcGMLzdHQcFjg6w&usqp=CAU" group-title="DENS TV", TRANS 7 1
 http://kuchini.site:8080/resplice/BiD8iEiMv7js1OUL/165072/162502
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1LAR1UUsYqpBTkO5W4bnL-bWT3V5bReOiIA&usqp=CAU" group-title="DENS TV", TRANS TV
 http://kuchini.site:8080/resplice/BiD8iEiMv7js1OUL/165072/162503
@@ -4513,7 +4513,7 @@ http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=571214&ex
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=1116477&extension=ts&play_token=ya2hljX9sD
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxgmuTfsVZJx912ZZ2aSySqIV2LQCQPuxIDLVJV2pkJIM0IDLsOBQzKG29ErsRw_dany4&usqp=CAU" group-title="MOVIE ASIA", &Flix
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=282632&extension=ts&play_token=ya2hljX9sD
-#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_856,h_482,c_scale,f_webp,q_auto:eco/resources/0-9-priv%C3%A9hd/list/1170x658withlogo375086496.jpg" group-title="MOVIE ASIA", &Prive
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHdleNTZv1ZZ5Dr9X_39Pu_T4qGO2E9Hb_14uWmn4bTk2ZYnmTFejT7-Z3N87_nHbi2Sg&usqp=CAU" group-title="MOVIE ASIA", &Prive
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=155746&extension=ts&play_token=lp3ZP7WKNd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png" group-title="MOVIE ASIA", STAR MOVIE
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=1116488&extension=ts&play_token=1PvUcweHaG
@@ -5043,18 +5043,6 @@ http://magi-stv.net:8080/UzielLCH/UzielLCH/2098823
 
 #EXTINF:-1 tvg-logo="http://ceoapps.org/logos/mtvlive.png" group-title="MUSIC MTV", MS | MTV LIVE
 http://magi-stv.net:8080/UzielLCH/UzielLCH/2098822
-
-#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/clasicproject.png" group-title="MUSIC MTV", MS | Music: Classic Project 10 (Soundtrack)
-http://magi-stv.net:8080/UzielLCH/UzielLCH/2098869
-
-#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/clasicproject.png" group-title="MUSIC MTV", MS | Music: Classic Project 11 (Rock latino)
-http://magi-stv.net:8080/UzielLCH/UzielLCH/2098873
-
-#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/clasicproject.png" group-title="MUSIC MTV", MS | Music: Classic Project 12 (Onda disco)
-http://magi-stv.net:8080/UzielLCH/UzielLCH/2098870
-
-#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/clasicproject.png" group-title="MUSIC MTV", MS | Music: Classic Project 13 (Exitos en español)
-http://magi-stv.net:8080/UzielLCH/UzielLCH/2098871
 
 #EXTINF:-1 tvg-logo="http://ceoapps.org/logos/countrypop.png" group-title="MUSIC MTV", MS | Pop & Country HD
 http://magi-stv.net:8080/UzielLCH/UzielLCH/2098860
@@ -5687,15 +5675,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccercha
 #EXTINF:-1 tvg-id="FightSports" tvg-url="___________" tvg-logo="https://www.mncvision.id/userfiles/image/channel/150x150fightsport.jpg" group-title="ASIA SPORT",Fight Sports
 https://nyanv-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 
-
-#EXTINF:-1 tvg-id="USAJ3504705A" tvg-name="" group-title="ASIA SPORT" tvg-logo="https://image.roku.com/developer_channels/prod/c850859a0ec0928a82c0e1af8ff0f2f9198dce733c38f329057da40bfbbab926.png",Stadium
-https://dai2.xumo.com/amagi_hls_data_xumo1234A-stadiumsports/CDN/master.m3u8
-
-XTINF:-1 tvg-id="" tvg-logo="https://www.sportstribal.tv/home/wp-content/uploads/2021/07/billiard-logo-sml.png" group-title="ASIA SPORT",Billiard TV
-https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
-
-#EXTINF:-1 tvg-id="INBA4900017K8" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tennis_channel.png" group-title="ASIA SPORT",Tennis Channel 2
-https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="4011" tvg-name="unifi Sports 1" group-title="ASIA SPORT"  tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200219/20200219034140282its.png",unifi Sports 1 HD
 https://unifi-live08.secureswiftcontent.com/UnifiHD/live11.mpd
@@ -6960,7 +6939,7 @@ http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=63649_&e
 
 #EXTINF:-1 tvg-logo="________" group-title="EROPA SPORT 2", CANAL+ SPORT FR
 http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=157_&extension=ts&play_token=W0JcMWGscf
-EXTINF:-1 tvg-logo="________" group-title="EROPA SPORT 2", CANAL+ PREMIER LEAGUE FR
+#EXTINF:-1 tvg-logo="________" group-title="EROPA SPORT 2", CANAL+ PREMIER LEAGUE FR
 http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=143161_&extension=ts&play_token=W0JcMWGscf
 #EXTINF:-1 tvg-logo="________" group-title="EROPA SPORT 2", CANAL+ FORMULA 1
 http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=143160_&extension=ts&play_token=W0JcMWGscf
