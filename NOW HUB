@@ -15349,27 +15349,46 @@ http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095500&e
 http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095499&extension=ts&play_token=mQ5MP5caD7
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRekDOlPpNggbR5ZOFueBCFuBgT-4AGqMufGg&usqp=CAU" group-title="BEIN OD", BEIN OD MOVIE 1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRekDOlPpNggbR5ZOFueBCFuBgT-4AGqMufGg&usqp=CAU" group-title="BEIN & STARZ OD", BEIN OD MOVIE 1
 http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=1010765&extension=ts&play_token=9t1VGqgnHU
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRekDOlPpNggbR5ZOFueBCFuBgT-4AGqMufGg&usqp=CAU" group-title="BEIN OD", BEIN OD MOVIE 2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRekDOlPpNggbR5ZOFueBCFuBgT-4AGqMufGg&usqp=CAU" group-title="BEIN & STARZ OD", BEIN OD MOVIE 2
 http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=1010764&extension=ts&play_token=IGchCGC0kf
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRekDOlPpNggbR5ZOFueBCFuBgT-4AGqMufGg&usqp=CAU" group-title="BEIN OD", BEIN OD MOVIE 3
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRekDOlPpNggbR5ZOFueBCFuBgT-4AGqMufGg&usqp=CAU" group-title="BEIN & STARZ OD", BEIN OD MOVIE 3
 http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=1010763&extension=ts&play_token=tSjCZ4Zxce
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRekDOlPpNggbR5ZOFueBCFuBgT-4AGqMufGg&usqp=CAU" group-title="BEIN OD", BEIN OD MOVIE 4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRekDOlPpNggbR5ZOFueBCFuBgT-4AGqMufGg&usqp=CAU" group-title="BEIN & STARZ OD", BEIN OD MOVIE 4
 http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=1010762&extension=ts&play_token=5lqUG5WEo9
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRekDOlPpNggbR5ZOFueBCFuBgT-4AGqMufGg&usqp=CAU" group-title="BEIN OD", BEIN OD MOVIE 5
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRekDOlPpNggbR5ZOFueBCFuBgT-4AGqMufGg&usqp=CAU" group-title="BEIN & STARZ OD", BEIN OD MOVIE 5
 http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=671288&extension=ts&play_token=jCEvGAnDZw
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRekDOlPpNggbR5ZOFueBCFuBgT-4AGqMufGg&usqp=CAU" group-title="BEIN OD", BEIN OD KIDS 1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRekDOlPpNggbR5ZOFueBCFuBgT-4AGqMufGg&usqp=CAU" group-title="BEIN & STARZ OD", BEIN OD KIDS 1
 http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=671284&extension=ts&play_token=7ckKI48UmL
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRekDOlPpNggbR5ZOFueBCFuBgT-4AGqMufGg&usqp=CAU" group-title="BEIN OD", BEIN OD KIDS 2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRekDOlPpNggbR5ZOFueBCFuBgT-4AGqMufGg&usqp=CAU" group-title="BEIN & STARZ OD", BEIN OD KIDS 2
 http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=671283&extension=ts&play_token=Wt385WF31g
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRekDOlPpNggbR5ZOFueBCFuBgT-4AGqMufGg&usqp=CAU" group-title="BEIN OD", BEIN OD KIDS 3
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRekDOlPpNggbR5ZOFueBCFuBgT-4AGqMufGg&usqp=CAU" group-title="BEIN & STARZ OD", BEIN OD KIDS 3
 http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=671282&extension=ts&play_token=Ub4dYPpBCA
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRekDOlPpNggbR5ZOFueBCFuBgT-4AGqMufGg&usqp=CAU" group-title="BEIN OD", BEIN BOX OFFICE 1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRekDOlPpNggbR5ZOFueBCFuBgT-4AGqMufGg&usqp=CAU" group-title="BEIN & STARZ OD", BEIN BOX OFFICE 1
 http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=671275&extension=ts&play_token=Gu49lWloYy
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRekDOlPpNggbR5ZOFueBCFuBgT-4AGqMufGg&usqp=CAU" group-title="BEIN OD", BEIN BOX OFFICE 2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRekDOlPpNggbR5ZOFueBCFuBgT-4AGqMufGg&usqp=CAU" group-title="BEIN & STARZ OD", BEIN BOX OFFICE 2
 http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=671272&extension=ts&play_token=550LE8wj0Q
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR38ZlDD5UDfjBMm_FzasEZAOtzEgwnPtF1tA&usqp=CAU" group-title="BEIN & STARZ OD", STARZ FILM 1
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:00:11:FD&stream=1095724&extension=ts&play_token=mmb2aFmWNT
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR38ZlDD5UDfjBMm_FzasEZAOtzEgwnPtF1tA&usqp=CAU" group-title="BEIN & STARZ OD", STARZ FILM 2
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:00:11:FD&stream=1095723&extension=ts&play_token=mmb2aFmWNT
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR38ZlDD5UDfjBMm_FzasEZAOtzEgwnPtF1tA&usqp=CAU" group-title="BEIN & STARZ OD", STARZ FILM 3
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:00:11:FD&stream=1095722&extension=ts&play_token=mmb2aFmWNT
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR38ZlDD5UDfjBMm_FzasEZAOtzEgwnPtF1tA&usqp=CAU" group-title="BEIN & STARZ OD", STARZ FILM 4
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:00:11:FD&stream=1095721&extension=ts&play_token=mmb2aFmWNT
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR38ZlDD5UDfjBMm_FzasEZAOtzEgwnPtF1tA&usqp=CAU" group-title="BEIN & STARZ OD", STARZ FILM 5
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:00:11:FD&stream=1095720&extension=ts&play_token=mmb2aFmWNT
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR38ZlDD5UDfjBMm_FzasEZAOtzEgwnPtF1tA&usqp=CAU" group-title="BEIN & STARZ OD", STARZ FILM 6
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:00:11:FD&stream=1095719&extension=ts&play_token=mmb2aFmWNT
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR38ZlDD5UDfjBMm_FzasEZAOtzEgwnPtF1tA&usqp=CAU" group-title="BEIN & STARZ OD", STARZ FILM 7
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:00:11:FD&stream=1095718&extension=ts&play_token=mmb2aFmWNT
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR38ZlDD5UDfjBMm_FzasEZAOtzEgwnPtF1tA&usqp=CAU" group-title="BEIN & STARZ OD", STARZ FILM 8
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:00:11:FD&stream=1095717&extension=ts&play_token=mmb2aFmWNT
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR38ZlDD5UDfjBMm_FzasEZAOtzEgwnPtF1tA&usqp=CAU" group-title="BEIN & STARZ OD", STARZ FILM 9
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:00:11:FD&stream=1095716&extension=ts&play_token=mmb2aFmWNT
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR38ZlDD5UDfjBMm_FzasEZAOtzEgwnPtF1tA&usqp=CAU" group-title="BEIN & STARZ OD", STARZ FILM 10
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:00:11:FD&stream=1095715&extension=ts&play_token=mmb2aFmWNT
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRm0GaetXF79nwzJk7cy-xqwoXzA9RVFJQiw&usqp=CAU" group-title="SKY GO", SKY GO DETECTIVE CONAN 1
