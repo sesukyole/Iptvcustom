@@ -2608,7 +2608,7 @@ http://edge.linknetott.swiftserve.com/channelgroup1/cg010production/ch30/02.m3u8
 #https://github.com/kusnadipepenk/ntn/raw/master/discien.m3u8
 
 #EXTINF:-1 tvg-id="AnimalPlanet" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_203.png" group-title="MNC GRUP",Animal Planet 
-http://edge.linknetott.swiftserve.com/channelgroup2/cg206production/ch31/02.m3u8
+https://kusnadipepenk.github.io/ntn/animal.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ODg5MzMzNDItNmFiZS0zNDU3LWE3ZjUtMTBkZmY2OWViNWIw
