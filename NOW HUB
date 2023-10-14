@@ -5510,11 +5510,6 @@ http://nplay.is:2095/play/live.php?mac=10:27:be:15:df:31&stream=463660_&extensio
 
 
 
-
-
-
-
-
 ##########################
 MOVIE MANCANAGARA  #######
 ################################################################################################################################################################################## MOVIE MANCANEGARA
@@ -6692,6 +6687,12 @@ http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=571253&ex
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=1036490&extension=ts&play_token=ZMTcGzcfre
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png" group-title="ASIA SPORT", ASTRO ARENA
+http://servi-teevee.net:80/play/OtwSvzebcZSpHfatJPpr4wUEZYbEbHD6qigpLkv8wGT624YKwNXkIUokZcuCJXGN
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png" group-title="ASIA SPORT", ASTRO ARENA 2
+http://servi-teevee.net:80/play/OtwSvzebcZSpHfatJPpr4wUEZYbEbHD6qigpLkv8wGSU7uUP6BheZuNornMpNYyv
+
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/486_144.png" group-title="ASIA SPORT", ARENA BOLA 1
 http://mykingtv.net:2082/amad1234/amad1234/18863
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/486_144.png" group-title="ASIA SPORT", ARENA BOLA 2
@@ -6726,7 +6727,8 @@ http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=941571&ex
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/HUB%20Premier.png" group-title="ASIA SPORT", HUB SPORT PREMIER 1
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:4b:61:87&stream=1350557_&extension=ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/HUB%20Premier.png" group-title="ASIA SPORT", HUB SPORT PREMIER 1 SV2
-http://193.107.202.221:81/play/live.php?mac=00:1A:79:AB:62:70&stream=1594676_&extension=ts
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=304191_&extension=ts
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/NOW%201.png" group-title="ASIA SPORT", NOW SPORT 1 PREMIER LEAGUE
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=554953&extension=ts&play_token=7O6qNoxnHS 
@@ -6745,8 +6747,10 @@ http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=1110620&e
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/NOW%207.png" group-title="ASIA SPORT", NOW SPORT 7
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=1110621&extension=ts&play_token=SdlT0aFgWy
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/NOW%207.png" group-title="ASIA SPORT", NOW SPORT PRIME
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=319385_&extension=ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/NOW%207.png" group-title="ASIA SPORT", NOW SPORT 1 PREMIER 4K 616
-http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=1032489&extension=ts&play_token=ro9g113loO
+http://servi-teevee.net:80/play/OtwSvzebcZSpHfatJPpr4ylfOWkTwksri44YfDJV2pExLqdtNsEQPMNLacPQgqcr
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/NOW%207.png" group-title="ASIA SPORT", NOW SPORT 1 PREMIER 4K 617
 http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=1032488&extension=ts&play_token=KuWxK9MZCf
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/NOW%207.png" group-title="ASIA SPORT", NOW SPORT 1 PREMIER LEAGUE
@@ -9742,6 +9746,10 @@ http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=317027&ex
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/OPTUS.png" group-title="VIP SPORT", OPTUS SPORT 8 BK
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=317028&extension=ts&play_token=ImSo0aZpTa
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbgGkVpn7N7-gH6Tlxen-xugwOnA4xdHm7gQ&usqp=CAU" group-title="VIP SPORT", NBC SPORT BK
+http://servi-teevee.net:80/play/OtwSvzebcZSpHfatJPpr461YdO-z5VXmb2qWX3OpoeqgFg0bhSMTdQ2HcnHjFkb7
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGvRmqlfvB0oKJPpfBcz8xPB2fiSbaTWg-AA&usqp=CAU" group-title="VIP SPORT", PEACOCK PL BK
+http://servi-teevee.net:80/play/OtwSvzebcZSpHfatJPpr461YdO-z5VXmb2qWX3Opoer8wrnqNk0Vxl2iAge8Ip0U
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbgGkVpn7N7-gH6Tlxen-xugwOnA4xdHm7gQ&usqp=CAU" group-title="VIP SPORT", NBC SPORT
 http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=1032458&extension=ts&play_token=Km5mJBAKNm
