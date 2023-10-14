@@ -2346,8 +2346,6 @@ http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=303061_&exten
 #EXTINF:-1 tvg-logo="______" group-title="SKY SPORT NZ", SKY SPORT SELECT NZ
 http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=303062_&extension=ts
 
-
-
 #EXTINF:-1 tvg-logo="______" group-title="MBC AR", MBC 1 AR
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=97959&extension=ts
 #EXTINF:-1 tvg-logo="______" group-title="MBC AR", MBC 2 AR
