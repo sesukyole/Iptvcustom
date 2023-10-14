@@ -1857,6 +1857,8 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch128)/index.m3u
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch392)/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/JTV.png" group-title="FIRSTMEDIA", JTV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch17)/index.m3u8
+#EXTINF:-1 tvg-logo="https://garuda.tv/wp-content/uploads/2023/05/Logo-Final-GarudaTV-Retina-2023.png" group-title="FIRSTMEDIA", GARUDA TV
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch45)/index.m3u8
 #EXTINF:-1 tvg-logo="https://staging.firstmedia.com:8443/files/logos/channels/7-LIFESTYLE/First%20Lifestyle%20HD-FirstMedia-Chl-303.jpg" group-title="FIRSTMEDIA", LIFE STYLE FM
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch3)/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/c5/Citra_Muslim_Scm.jpeg" group-title="FIRSTMEDIA", CITRA MUSLIM
@@ -1998,15 +2000,34 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch367)/index.m3u
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch3344)/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/10-MUSIC/Praise%20SD-FirstMedia-Chl-89.jpg" group-title="FIRSTMEDIA", PRA-SE
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch3888)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/1200px-MTV_Live_2021_logo.svg.png" group-title="FIRSTMEDIA", MTV LIVE
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch242)/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkALF-4BQMfDVyoqx0veoAHDWGziFel-Fhww&usqp=CAU" group-title="FIRSTMEDIA", MTV 90S
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch241)/index.m3u8
+#EXTINF:-1 tvg-logo="______________" group-title="FIRSTMEDIA", NHK WORLD
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch223)/index.m3u8
+#EXTINF:-1 tvg-logo="______________" group-title="FIRSTMEDIA", CNA
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch232)/index.m3u8
+#EXTINF:-1 tvg-logo="______________" group-title="FIRSTMEDIA", CNN INTERNASIONAL
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch236)/index.m3u8
+#EXTINF:-1 tvg-logo="______________" group-title="FIRSTMEDIA", DW
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch255)/index.m3u8
+#EXTINF:-1 tvg-logo="______________" group-title="FIRSTMEDIA", FRANCE24
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch261)/index.m3u8
+#EXTINF:-1 tvg-logo="______________" group-title="FIRSTMEDIA", CGTN
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch273)/index.m3u8
+#EXTINF:-1 tvg-logo="______________" group-title="FIRSTMEDIA", EURONEWS
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch341)/index.m3u8
+#EXTINF:-1 tvg-logo="______________" group-title="FIRSTMEDIA", REFORMED 21
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch365)/index.m3u8
+#EXTINF:-1 tvg-logo="______________" group-title="FIRSTMEDIA", SHINE
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch3900)/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV1QHF47XNnMVlQ6H7d5uxeBE5QU0x971LkCw3FduK1n79HxS1RKRjOH0ku3xLYA7P_gs&usqp=CAU" group-title="FIRSTMEDIA", LIGHT MUSIC
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch3922)/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.salt.ch/sites/default/files/tvchannels/Stingray_FestivalHD_RGB.png" group-title="FIRSTMEDIA", STINGRAY FESTIVAL
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch344)/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Stingray_Now_4K.png" group-title="FIRSTMEDIA", STINGRAY NOW
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch345)/index.m3u8
-
 
 #######################
 DENS TV    ############
