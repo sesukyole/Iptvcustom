@@ -445,7 +445,7 @@ http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=83453&extens
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/logof1.png" group-title="#🏍️EVENT GP&F1🏎️#", F1 3
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=83453&extension=ts&play_token=TP5qtHk8iF
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/logof1.png" group-title="#🏍️EVENT GP&F1🏎️#", F1 4
-http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=61977_&extension=ts
+http://51.75.71.80:31321/DAZN_F1/hls/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/logof1.png" group-title="#🏍️EVENT GP&F1🏎️#", F1 5
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=79479&extension=ts&play_token=7ftpv9VAE5
 
@@ -5461,6 +5461,14 @@ http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=1116477&e
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=282632&extension=ts&play_token=ya2hljX9sD
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHdleNTZv1ZZ5Dr9X_39Pu_T4qGO2E9Hb_14uWmn4bTk2ZYnmTFejT7-Z3N87_nHbi2Sg&usqp=CAU" group-title="MOVIE ASIA", &Prive
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=155746&extension=ts&play_token=lp3ZP7WKNd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxgmuTfsVZJx912ZZ2aSySqIV2LQCQPuxIDLVJV2pkJIM0IDLsOBQzKG29ErsRw_dany4&usqp=CAU" group-title="MOVIE ASIA", &Flix hls
+http://89.187.177.137:8081/&FLIX/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHdleNTZv1ZZ5Dr9X_39Pu_T4qGO2E9Hb_14uWmn4bTk2ZYnmTFejT7-Z3N87_nHbi2Sg&usqp=CAU" group-title="MOVIE ASIA", &Prive hls
+http://89.187.177.137:8081/&PRIVE/index.m3u8
+#EXTINF:-1 tvg-logo="_______" group-title="MOVIE ASIA", &TV
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtvhd/default/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png" group-title="MOVIE ASIA", STAR MOVIE
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=1116488&extension=ts&play_token=1PvUcweHaG
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-movies-select-hd-logo-300x300.jpg" group-title="MOVIE ASIA", STAR MOVIE SELECT
@@ -6831,13 +6839,16 @@ http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=282676&ex
 http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=7892_&extension=ts&play_token=W0JcMWGscf
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ51qv6jcXrkmPJuK-IolWWogc8Qf65hfvGdw&usqp=CAU" group-title="ASIA SPORT", STAR SPORT 2 BK
 http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=7893_&extension=ts&play_token=W0JcMWGscf
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw7oODkwDTvMMXEEJU7wXcsI8h1ZJARNJ2Hw&usqp=CAU" group-title="ASIA SPORT", STAR SPORT 1 hls
+http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Sony_Sports_Ten_1.png/revision/latest/scale-to-width-down/460?cb=20221025083646" group-title="ASIA SPORT", SONY TEN SPORT 1
 http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=14795_&extension=ts&play_token=W0JcMWGscf
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/Sony_Sports_Ten_2.png/revision/latest/scale-to-width-down/460?cb=20221025084500" group-title="ASIA SPORT", SONY TEN SPORT 2
 http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=14794_&extension=ts&play_token=W0JcMWGscf
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Sony_Sports_Ten_3.png/revision/latest/scale-to-width-down/460?cb=20221025085433" group-title="ASIA SPORT", SONY TEN SPORT 3
 http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=14798_&extension=ts&play_token=W0JcMWGscf
-
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/Sony_Sports_Ten_5.png/revision/latest/scale-to-width-down/460?cb=20221025091902" group-title="ASIA SPORT", SONY TEN SPORT 5
+http://198.16.100.90:8278/sonysix_raj/playlist.m3u8?tid=MABA2998721529987215&ct=19249&tsum=e7be46c378a0bf0da5866469982f7970
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_original.png" group-title="ASIA SPORT", TRUE SPORT PREMIER 1 MAC
 http://nplay.is:2095/play/live.php?mac=10:27:be:15:df:31&stream=115758_&extension=ts
@@ -8475,6 +8486,10 @@ http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/9256.ts
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EROPA SPORT 2", YES SPORT 5 (4K)
 http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/8043.ts
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EROPA SPORT 2", VIAPLAY EXTRA
+https://d3j7ofexbkp7q4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/master.m3u8
+#https://d3j7ofexbkp7q4.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/117c0fa1-06db-43ca-b8e4-4c16bbe0b418/0.m3u8
+
 
 #EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", ESPN 1 NL
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=308126&extension=ts
@@ -8499,6 +8514,18 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=308119&extensio
 #EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", ZIGGO SPORT EXTRA 1 NL
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=308118&extension=ts
 
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", NOVA SPORT 1
+http://185.188.188.235/live/novasport1/playlist.m3u8
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", NOVA SPORT 2
+http://185.188.188.235/live/novasport2/playlist.m3u8
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", NOVA SPORT 3
+http://185.188.188.235/live/novasport3/playlist.m3u8
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", NOVA SPORT 4
+http://185.188.188.235/live/novasport4/playlist.m3u8
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", SPORT 1 UR
+http://185.188.188.235/live/novasport4/playlist.m3u8
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", SPORT 2 UR
+http://185.188.188.235/live/sport2/playlist.m3u8
 
 #######################
 AFRICA SPORT
