@@ -5773,7 +5773,8 @@ KIDS DISNEY  ##########
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="KIDS DISNEY", ###KIDS DISNEY###
 https://github.com/inaldie/inaldie/raw/main/LOGO.ts
 
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Astro_Ceria.png" group-title="KIDS DISNEY", ASTRO CERIA
+http://mykingtv.net:2082/amad1234/amad1234/5274
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/us/BabyFirstTV.us.png" group-title="KIDS DISNEY", US | Baby First
 http://magi-stv.net:8080/UzielLCH/UzielLCH/2107686
