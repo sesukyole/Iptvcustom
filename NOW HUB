@@ -429,7 +429,7 @@ http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/298492
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/logomotogp.png" group-title="#🏍️EVENT GP&F1🏎️#", GP 1
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:17:BE&stream=305274&extension=ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/logomotogp.png" group-title="#🏍️EVENT GP&F1🏎️#", GP 2
-http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=692422&extension=ts&play_token=Nc9qifjsYN
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch330)/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/logomotogp.png" group-title="#🏍️EVENT GP&F1🏎️#", GP 3
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=692421&extension=ts&play_token=DNtPXPsBWp
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/logomotogp.png" group-title="#🏍️EVENT GP&F1🏎️#", GP 4
@@ -1922,7 +1922,7 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch216)/index.m3u
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/957f888d2a434d5f6a1526e178dcec47.png" group-title="FIRSTMEDIA", SPOTV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch329)/index.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/035c4b78f75c9bd0f7cfb4f61ebb3146.png" group-title="FIRSTMEDIA", SPOTV2
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch3300)/index.m3u8
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch330)/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=909310533193_image-header_pIt_1686238719000&quality=70" group-title="FIRSTMEDIA", EUROSPORT
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch21)/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png" group-title="FIRSTMEDIA", PREMIER SPORT
@@ -18135,6 +18135,194 @@ http://premium-ks.ddns.net:88/movie/Metiiptv/kDdXP4CGrZk9/38593.mkv
 http://premium-ks.ddns.net:88/movie/Metiiptv/kDdXP4CGrZk9/34217.mkv
 #EXTINF: -1 tvg-logo="_____" group-title="ALBANIA", Army of One (2020)
 http://premium-ks.ddns.net:88/movie/Metiiptv/kDdXP4CGrZk9/34123.mkv
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="___________" group-title="LATIN TV", AE Mundo
+http://190.61.43.117:45000/play/a05q
+#EXTINF:-1 tvg-logo="___________" group-title="LATIN TV", America TV HD
+http://190.108.85.20:9999/play/a00q
+#EXTINF:-1 tvg-logo="___________" group-title="LATIN TV", Animal Planet
+http://190.61.43.117:45000/play/a05r
+#EXTINF:-1 tvg-logo="___________" group-title="LATIN TV", AXN
+http://190.61.43.117:45000/play/a05g
+#EXTINF:-1 tvg-logo="___________" group-title="LATIN TV", Baby TV
+http://190.61.43.117:45000/play/a03r
+#EXTINF:-1 tvg-logo="___________" group-title="LATIN TV", CANAL CHD ANALOGA
+http://190.90.251.18:8000/play/a00b
+#EXTINF:-1 tvg-logo="___________" group-title="LATIN TV", CANAL CHD DIGITAL
+http://190.90.251.18:8000/play/a00q
+#EXTINF:-1 tvg-logo="___________" group-title="LATIN TV", Canal del Congreso
+http://190.61.43.117:45000/play/a03a
+#EXTINF:-1 tvg-logo="___________" group-title="LATIN TV", Canal Estrellas
+http://190.61.43.117:45000/play/a06h
+#EXTINF:-1 tvg-logo="___________" group-title="LATIN TV", Canal Institucional
+http://190.61.43.117:45000/play/a039
+#EXTINF:-1 tvg-logo="___________" group-title="LATIN TV", Canal Uno
+http://190.61.43.117:45000/play/a036
+#EXTINF:-1 tvg-logo="___________" group-title="LATIN TV",  Capital
+http://190.61.43.117:45000/play/a03g
+#EXTINF:-1 tvg-logo="___________" group-title="LATIN TV", Caracol HD
+http://190.61.43.117:45000/play/a02v
+#EXTINF:-1 tvg-logo="___________" group-title="LATIN TV", CARACOL HD
+http://190.90.251.18:8000/play/a008
+#EXTINF:-1 tvg-logo="___________" group-title="LATIN TV", Caracol HD
+http://190.61.43.117:45000/play/a02v
+#EXTINF:-1 tvg-logo="___________" group-title="LATIN TV", Cartoon Network HD
+http://190.61.43.117:45000/play/a01y
+#EXTINF:-1 tvg-logo="___________" group-title="LATIN TV", Cinemax
+http://190.61.43.117:45000/play/a05i
+#EXTINF:-1 tvg-logo="___________" group-title="LATIN TV", City TV
+http://190.61.43.117:45000/play/a03f
+#EXTINF:-1 tvg-logo="___________" group-title="LATIN TV", CLASSIC
+http://190.90.251.18:8000/play/a00f
+#EXTINF:-1 tvg-logo="___________" group-title="LATIN TV", CLOVER
+http://190.90.251.18:8000/play/a00h
+#EXTINF:-1 tvg-logo="___________" group-title="LATIN TV", CNN Espanol
+http://190.61.43.117:45000/play/a044
+#EXTINF:-1 tvg-logo="___________" group-title="LATIN TV", DHE HD
+http://190.108.85.20:9999/play/a00u
+#EXTINF:-1 tvg-logo="___________" group-title="LATIN TV", DISCOVERY CHANNEL
+http://190.90.251.18:8000/play/a016
+#EXTINF:-1 tvg-logo="___________" group-title="LATIN TV", Discovery HD
+http://190.61.43.117:45000/play/a02y
+#EXTINF:-1 tvg-logo="___________" group-title="LATIN TV", Discovery ID
+http://190.61.43.117:45000/play/a06e
+#EXTINF:-1 tvg-logo="___________" group-title="LATIN TV", Discovery Kids HD
+http://190.61.43.117:45000/play/a019
+#EXTINF:-1 tvg-logo="___________" group-title="LATIN TV", Discovery Turbo
+http://190.61.43.117:45000/play/a040
+#EXTINF:-1 tvg-logo="___________" group-title="LATIN TV", Disney Channel
+http://190.61.43.117:45000/play/a06b
+#EXTINF:-1 tvg-logo="___________" group-title="LATIN TV", Disney HD
+http://190.108.85.20:9999/play/a00d
+#EXTINF:-1 tvg-logo="___________" group-title="LATIN TV", Disney Jr
+http://190.61.43.117:45000/play/a045
+#EXTINF:-1 tvg-logo="___________" group-title="LATIN TV", DW ESPAÑOL
+http://190.90.251.18:8000/play/a00i
+#EXTINF:-1 tvg-logo="___________" group-title="LATIN TV", El Gourmet HD
+http://190.108.85.20:9999/play/a00h
+#EXTINF:-1 tvg-logo="___________" group-title="LATIN TV", ESPN 2 HD
+http://190.90.251.18:8000/play/a003
+#EXTINF:-1 tvg-logo="___________" group-title="LATIN TV", ESPN 2 HD
+http://190.61.43.117:45000/play/a053
+#EXTINF:-1 tvg-logo="___________" group-title="LATIN TV", ESPN 3 HD
+http://190.90.251.18:8000/play/a004
+#EXTINF:-1 tvg-logo="___________" group-title="LATIN TV", ESPN 3 HD
+http://190.108.85.20:9999/play/a00f
+#EXTINF:-1 tvg-logo="___________" group-title="LATIN TV", ESPN 4
+http://190.61.43.117:45000/play/a06w
+#EXTINF:-1 tvg-logo="___________" group-title="LATIN TV", ESPN 4 HD
+http://190.108.85.20:9999/play/a00m
+#EXTINF:-1 tvg-logo="___________" group-title="LATIN TV", ESPN EXTRA HD
+http://190.61.43.117:45000/play/a01v
+#EXTINF:-1 tvg-logo="___________" group-title="LATIN TV", ESPN HD
+http://190.61.43.117:45000/play/a01l
+#EXTINF:-1 tvg-logo="___________" group-title="LATIN TV", ESPN HD
+http://190.90.251.18:8000/play/a009
+#EXTINF:-1 tvg-logo="___________" group-title="LATIN TV", Fox Sports 1 HD
+http://190.108.85.20:9999/play/a011
+#EXTINF:-1 tvg-logo="___________" group-title="LATIN TV", FOX Sports 2 HD
+http://190.61.43.117:45000/play/a01g
+#EXTINF:-1 tvg-logo="___________" group-title="LATIN TV", FOX Sports 2 HD
+http://190.108.85.20:9999/play/a00n
+#EXTINF:-1 tvg-logo="___________" group-title="LATIN TV", Fox Sports 3
+http://190.61.43.117:45000/play/a060
+#EXTINF:-1 tvg-logo="___________" group-title="LATIN TV", Fox Sports 3 HD
+http://190.108.85.20:9999/play/a00g
+#EXTINF:-1 tvg-logo="___________" group-title="LATIN TV", FX HD
+http://190.61.43.117:45000/play/a01k
+#EXTINF:-1 tvg-logo="___________" group-title="LATIN TV", Golden HD
+http://190.61.43.117:45000/play/a029
+#EXTINF:-1 tvg-logo="___________" group-title="LATIN TV", GOLPERU 
+http://190.108.85.20:9999/play/a00r
+#EXTINF:-1 tvg-logo="___________" group-title="LATIN TV", GolTV HD
+http://190.108.85.20:9999/play/a00o
+#EXTINF:-1 tvg-logo="___________" group-title="LATIN TV", HBO 2 HD
+http://190.61.43.117:45000/play/a023
+#EXTINF:-1 tvg-logo="___________" group-title="LATIN TV", HBO Family
+http://190.61.43.117:45000/play/a05y
+#EXTINF:-1 tvg-logo="___________" group-title="LATIN TV", HBO Family HD
+http://190.108.85.20:9999/play/a01h
+#EXTINF:-1 tvg-logo="___________" group-title="LATIN TV", HBO HD
+http://190.61.43.117:45000/play/a01w
+#EXTINF:-1 tvg-logo="___________" group-title="LATIN TV", HBO POP HD
+http://190.108.85.20:9999/play/a01j
+#EXTINF:-1 tvg-logo="___________" group-title="LATIN TV", HBO XTREME HD
+http://190.108.85.20:9999/play/a01i
+#EXTINF:-1 tvg-logo="___________" group-title="LATIN TV", History Channel HD
+http://190.108.85.20:9999/play/a003
+#EXTINF:-1 tvg-logo="___________" group-title="LATIN TV", HomeandHealth
+http://190.61.43.117:45000/play/a06f
+#EXTINF:-1 tvg-logo="___________" group-title="LATIN TV", I-Sat
+http://190.61.43.117:45000/play/a03v
+#EXTINF:-1 tvg-logo="___________" group-title="LATIN TV", Movistar Deportes HD
+http://190.108.85.20:9999/play/a01k
+#EXTINF:-1 tvg-logo="___________" group-title="LATIN TV", MTV HD
+http://190.108.85.20:9999/play/a01m
+#EXTINF:-1 tvg-logo="___________" group-title="LATIN TV", Nat Geo
+http://190.61.43.117:45000/play/a06i
+#EXTINF:-1 tvg-logo="___________" group-title="LATIN TV", Nickelodeon
+http://190.61.43.117:45000/play/a03u
+#EXTINF:-1 tvg-logo="___________" group-title="LATIN TV", Pasiones HD
+http://190.108.85.20:9999/play/a00c
+#EXTINF:-1 tvg-logo="___________" group-title="LATIN TV", RCN HD
+http://190.90.251.18:8000/play/a005
+#EXTINF:-1 tvg-logo="___________" group-title="LATIN TV", RCN Novelas
+http://190.61.43.117:45000/play/a06d
+#EXTINF:-1 tvg-logo="___________" group-title="LATIN TV", Senal Colombia
+http://190.61.43.117:45000/play/a03b
+#EXTINF:-1 tvg-logo="___________" group-title="LATIN TV", Space
+http://190.61.43.117:45000/play/a06l
+#EXTINF:-1 tvg-logo="___________" group-title="LATIN TV", STAR CHANNEL
+http://190.61.43.117:45000/play/a05h
+#EXTINF:-1 tvg-logo="___________" group-title="LATIN TV", STAR TVE HD
+http://190.108.85.20:9999/play/a01l
+#EXTINF:-1 tvg-logo="___________" group-title="LATIN TV", Studio Universal HD
+http://190.61.43.117:45000/play/a020
+#EXTINF:-1 tvg-logo="___________" group-title="LATIN TV", TCM
+http://190.61.43.117:45000/play/a04a
+#EXTINF:-1 tvg-logo="___________" group-title="LATIN TV", Teleantioquia
+http://190.61.43.117:45000/play/a03i
+#EXTINF:-1 tvg-logo="___________" group-title="LATIN TV", Telecafe
+http://190.61.43.117:45000/play/a03l
+#EXTINF:-1 tvg-logo="___________" group-title="LATIN TV", Telecaribe
+http://190.61.43.117:45000/play/a03k
+#EXTINF:-1 tvg-logo="___________" group-title="LATIN TV", Telemundo
+http://190.90.251.18:8000/play/a00o
+#EXTINF:-1 tvg-logo="___________" group-title="LATIN TV", Telepacifico
+http://190.61.43.117:45000/play/a03j
+#EXTINF:-1 tvg-logo="___________" group-title="LATIN TV", TLC
+http://190.61.43.117:45000/play/a042
+#EXTINF:-1 tvg-logo="___________" group-title="LATIN TV", TNT HD
+http://190.61.43.117:45000/play/a050
+#EXTINF:-1 tvg-logo="___________" group-title="LATIN TV", TNT HD
+http://190.61.43.117:45000/play/a050
+#EXTINF:-1 tvg-logo="___________" group-title="LATIN TV", TNT Novelas HD
+http://190.61.43.117:45000/play/a06u
+#EXTINF:-1 tvg-logo="___________" group-title="LATIN TV", TNT Series HD
+http://190.61.43.117:45000/play/a01j
+#EXTINF:-1 tvg-logo="___________" group-title="LATIN TV", Tooncast
+http://190.61.43.117:45000/play/a03s
+#EXTINF:-1 tvg-logo="___________" group-title="LATIN TV", Trece
+http://190.61.43.117:45000/play/a03m
+#EXTINF:-1 tvg-logo="___________" group-title="LATIN TV", TRO
+http://190.61.43.117:45000/play/a03d
+#EXTINF:-1 tvg-logo="___________" group-title="LATIN TV", Universal Cinema SD
+http://190.61.43.117:45000/play/a05x
+#EXTINF:-1 tvg-logo="___________" group-title="LATIN TV", Universal Comedy SD
+http://190.61.43.117:45000/play/a06k
+#EXTINF:-1 tvg-logo="___________" group-title="LATIN TV", Universal Premiere SD
+http://190.61.43.117:45000/play/a05w
+#EXTINF:-1 tvg-logo="___________" group-title="LATIN TV", Warner
+http://190.61.43.117:45000/play/a05o
+#EXTINF:-1 tvg-logo="___________" group-title="LATIN TV", Win
+http://190.61.43.117:45000/play/a067
+#EXTINF:-1 tvg-logo="___________" group-title="LATIN TV", Win Sports+ HD
+http://190.61.43.117:45000/play/a024
+#EXTINF:-1 tvg-logo="___________" group-title="LATIN TV", Win Sports+ HD
+http://190.61.43.117:45000/play/a024
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA", NFL REDZONE (US)
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/15890
