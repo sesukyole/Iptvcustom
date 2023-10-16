@@ -6772,6 +6772,8 @@ http://nplay.is:2095/play/live.php?mac=10:27:be:15:df:31&stream=115614_&extensio
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQipmZeJaO5X50CB4A1hLmR3uZPXTZrNaihZg&usqp=CAU" group-title="ASIA SPORT", ASTRO GOLF
 http://nplay.is:2095/play/live.php?mac=10:27:be:15:df:31&stream=115703_&extension=ts
 
+
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/HUB%201.png" group-title="ASIA SPORT", HUB SPORT 1
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=941573&extension=ts&play_token=RP5LJytYQt
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/HUB%202.png" group-title="ASIA SPORT", HUB SPORT 2
@@ -6875,6 +6877,8 @@ http://nplay.is:2095/play/live.php?mac=10:27:be:15:df:31&stream=115533_&extensio
 http://nplay.is:2095/play/live.php?mac=10:27:be:15:df:31&stream=115541_&extension=ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSb_ivRHGOUhC1CqSJn_EXLn1aIwxobA1ezg&usqp=CAU" group-title="ASIA SPORT", TRUE SPORT 7 MAC
 http://nplay.is:2095/play/live.php?mac=10:27:be:15:df:31&stream=115798_&extension=ts
+
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdlqYZa73cC9fSWnXPa1CkMXvB7unGz04AHQ&usqp=CAU" group-title="ASIA SPORT", TRUE SPORT 1 LO
 https://edge1.laotv.la/live/TrueSport6/index.m3u8
