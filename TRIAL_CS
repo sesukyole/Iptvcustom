@@ -228,14 +228,6 @@ http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=571179&extensi
 http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=534440&extension=ts&play_token=GVZS088tcf
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="#♦WELCOME MY PLAYLIST INALDIE♦#", WELCOME MY PLAYLIST
-https://github.com/inaldie/inaldie/raw/main/WELCOM.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="#♦WELCOME MY PLAYLIST INALDIE♦#", JOINT TELEGRAM ♠️https://t.me/IPTVcostum♠️
-https://github.com/inaldie/inaldie/raw/main/LOGO.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="#♦WELCOME MY PLAYLIST INALDIE♦#", DONASI ♥️https://saweria.co/Inaldie22♥️
-https://github.com/inaldie/inaldie/raw/main/DONATE.ts
-
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="EMTEKK TV", INDOSIAR 1
 https://mantul.biz.id:443/ekos/748382/60
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="EMTEKK TV", INDOSIAR 2
