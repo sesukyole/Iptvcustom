@@ -3372,6 +3372,9 @@ https://h1.intechmedia.net/intech/ch24.m3u8
 #EXTINF:-1 tvg-logo="http://live.artvisi.or.id/logo/rodja.png" group-title="RELIGI", RODJA TV 1 (HD)
 https://rodjatv.com/rodjatv/live.m3u8
 
+#EXTINF:-1 tvg-name="" tvg-logo="https://brtv.co.id/wp-content/uploads/2022/12/LOGO-BRTV-ORIGINAL-300x93.png" group-title="RELIGI", BRTV 
+https://e1.siar.us/badartv/live/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://live.artvisi.or.id/logo/suaraaliman.png" group-title="RELIGI", Radio Al Iman
 https://radioislamindonesia.com/aliman.mp3?_=2
 
