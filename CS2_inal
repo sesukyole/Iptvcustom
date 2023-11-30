@@ -3781,7 +3781,20 @@ http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=584493&extension=
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT ARAB", ALKASS SPORT 6
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=631034&extension=ts&play_token=yK7Ppvy2jW
 
-	
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT ARAB", BEIN SPORTS 1
+http://main.xplus2-main.xyz:2082/xplus-2-p8Fh74QndE/QZGmsX9MEY/901
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT ARAB", BEIN SPORTS 2
+http://main.xplus2-main.xyz:2082/xplus-2-p8Fh74QndE/QZGmsX9MEY/902
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT ARAB", BEIN SPORTS 3
+http://main.xplus2-main.xyz:2082/xplus-2-p8Fh74QndE/QZGmsX9MEY/903
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT ARAB", BEIN SPORTS 4
+http://main.xplus2-main.xyz:2082/xplus-2-p8Fh74QndE/QZGmsX9MEY/904
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT ARAB", BEIN SPORTS 5
+http://main.xplus2-main.xyz:2082/xplus-2-p8Fh74QndE/QZGmsX9MEY/905
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT ARAB", BEIN SPORTS 6
+http://main.xplus2-main.xyz:2082/xplus-2-p8Fh74QndE/QZGmsX9MEY/906
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT ARAB", BEIN SPORTS 7
+http://main.xplus2-main.xyz:2082/xplus-2-p8Fh74QndE/QZGmsX9MEY/907
 
 
 ################################################################################
@@ -4694,28 +4707,6 @@ http://main.xplus2-main.xyz:2082/xplus-2-p8Fh74QndE/QZGmsX9MEY/120
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT LATIN1", BAND SPORTS HD
 http://main.xplus2-main.xyz:2082/xplus-2-p8Fh74QndE/QZGmsX9MEY/121
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT LATIN1", BEIN SPORTS 1
-http://main.xplus2-main.xyz:2082/xplus-2-p8Fh74QndE/QZGmsX9MEY/901
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT LATIN1", BEIN SPORTS 2
-http://main.xplus2-main.xyz:2082/xplus-2-p8Fh74QndE/QZGmsX9MEY/902
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT LATIN1", BEIN SPORTS 3
-http://main.xplus2-main.xyz:2082/xplus-2-p8Fh74QndE/QZGmsX9MEY/903
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT LATIN1", BEIN SPORTS 4
-http://main.xplus2-main.xyz:2082/xplus-2-p8Fh74QndE/QZGmsX9MEY/904
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT LATIN1", BEIN SPORTS 5
-http://main.xplus2-main.xyz:2082/xplus-2-p8Fh74QndE/QZGmsX9MEY/905
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT LATIN1", BEIN SPORTS 6
-http://main.xplus2-main.xyz:2082/xplus-2-p8Fh74QndE/QZGmsX9MEY/906
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT LATIN1", BEIN SPORTS 7
-http://main.xplus2-main.xyz:2082/xplus-2-p8Fh74QndE/QZGmsX9MEY/907
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT LATIN1", DAZN 1
 http://main.xplus2-main.xyz:2082/xplus-2-p8Fh74QndE/QZGmsX9MEY/206
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT LATIN1", DAZN 1 HD
