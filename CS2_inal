@@ -378,6 +378,8 @@ http://iptvmedia.live:8080/silversatcom/SKcm5tNBsrJ2HZE/197964
 http://premiumiptvmk.com:8080/shaboy85/B3hLKkFsT7QXRE4PVcUCrx/197964
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbCkSdgdd7ZaJ82Fhgt5qZ3Otnn9NtocomGg&usqp=CAU" group-title="HBO INDO", CINEMAX 9
 http://myteve.online:8080/Omni/kTxd7pe4MwVU8DJQ/197964
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbCkSdgdd7ZaJ82Fhgt5qZ3Otnn9NtocomGg&usqp=CAU" group-title="HBO INDO", CINEMAX 10
+http://myteve.online:8080/LeCyGodF2023/zAN6uWGxRmkqCcgep3wTHy/197964
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/800px-HBO_logo.svg.png" group-title="HBO INDO", HBO 1
@@ -398,6 +400,8 @@ http://iptvmedia.live:8080/silversatcom/SKcm5tNBsrJ2HZE/197972
 http://premiumiptvmk.com:8080/shaboy85/B3hLKkFsT7QXRE4PVcUCrx/197972
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/800px-HBO_logo.svg.png" group-title="HBO INDO", HBO 9
 http://myteve.online:8080/Omni/kTxd7pe4MwVU8DJQ/197972
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/800px-HBO_logo.svg.png" group-title="HBO INDO", HBO 10
+http://myteve.online:8080/LeCyGodF2023/zAN6uWGxRmkqCcgep3wTHy/197972
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="HBO INDO", HBO FAMILY 1
@@ -418,7 +422,8 @@ http://iptvmedia.live:8080/silversatcom/SKcm5tNBsrJ2HZE/197055
 http://premiumiptvmk.com:8080/shaboy85/B3hLKkFsT7QXRE4PVcUCrx/197055
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="HBO INDO", HBO FAMILY 9
 http://myteve.online:8080/Omni/kTxd7pe4MwVU8DJQ/197055
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="HBO INDO", HBO FAMILY 10
+http://myteve.online:8080/LeCyGodF2023/zAN6uWGxRmkqCcgep3wTHy/197055
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="HBO INDO", HBO HITS 1
@@ -439,6 +444,9 @@ http://iptvmedia.live:8080/silversatcom/SKcm5tNBsrJ2HZE/196480
 http://premiumiptvmk.com:8080/shaboy85/B3hLKkFsT7QXRE4PVcUCrx/196480
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="HBO INDO", HBO HITS 9
 http://myteve.online:8080/Omni/kTxd7pe4MwVU8DJQ/196480
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="HBO INDO", HBO HITS 10
+http://myteve.online:8080/LeCyGodF2023/zAN6uWGxRmkqCcgep3wTHy/196480
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="HBO INDO", HBO SIGNATURE 1
 http://sysadminhost.net:8080/pachaman/kcxSPa4CExFPFjm2/221948
@@ -458,6 +466,8 @@ http://iptvmedia.live:8080/silversatcom/SKcm5tNBsrJ2HZE/221948
 http://premiumiptvmk.com:8080/shaboy85/B3hLKkFsT7QXRE4PVcUCrx/221948
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="HBO INDO", HBO SIGNATURE 9
 http://myteve.online:8080/Omni/kTxd7pe4MwVU8DJQ/221948
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="HBO INDO", HBO SIGNATURE 10
+http://myteve.online:8080/LeCyGodF2023/zAN6uWGxRmkqCcgep3wTHy/221948
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
