@@ -5733,8 +5733,6 @@ http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=505718_&
 
 
 
-
-
 #EXTINF:-1 tvg-logo="http://ceoapps.org/logos/tigosportsbolivia222.png" group-title="SPORT LATIN", D| Tigo Sports 2 BO
 http://sdmx.vip:8080/iworhgfsagwjearigjws/iworhgfsagwjearigjws2023/155635
 
@@ -6385,8 +6383,14 @@ http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=577389&extension=
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=841552&extension=ts&play_token=yK7Ppvy2jW
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="CARTOON KIDS", DKIDS
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=281658&extension=ts&play_token=yK7Ppvy2jW
-
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="CARTOON KIDS", DISCOVERY KIDS
+https://i.mjh.nz/SamsungTVPlus/INBC15000054I.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="CARTOON KIDS", POGO KIDS
+https://i.mjh.nz/SamsungTVPlus/INBD1300021X3.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="CARTOON KIDS", CARTOON NETWORK
+https://i.mjh.nz/SamsungTVPlus/INBD13000205L.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="CARTOON KIDS", DISNEY JUNIOR
+http://103.99.249.139/disneyjunior/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="MUSIC MTV", MTV LIVE
