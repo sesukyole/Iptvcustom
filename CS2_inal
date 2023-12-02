@@ -6508,6 +6508,8 @@ http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=577405&extension=
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=577402&extension=ts&play_token=yK7Ppvy2j
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="CARTOON KIDS", CARTOON NETWORK
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=577401&extension=ts&play_token=yK7Ppvy2j
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="CARTOON KIDS", CARTOON NETWORK HD
+http://a1.dinott.com/play/live.php?mac=00:1a:79:7a:bf:78&stream=264853&extension=ts&play_token=GprtI8UCLX
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="CARTOON KIDS", NICKELODEON
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=577400&extension=ts&play_token=yK7Ppvy2j
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="CARTOON KIDS", CBEEBIES
