@@ -5870,38 +5870,20 @@ http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=7021287_
 http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=505718_&extension=ts
 
 
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT VIP", HUB SPORT PREMIER 1
+#EXTINF:-1 tvg-logo="https://sportskhabri.com/wp-content/uploads/2022/02/Premier-League-announces-StarHub-partnership.jpg" group-title="SPORT VIP", HUB SPORT PREMIER 1
 http://king4k.tv/play/live.php?mac=00:1A:79:A5:DD:10&stream=620786&extension=ts&play_token=9Tkwk6UcYs
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT VIP", HUB SPORT PREMIER 2
+#EXTINF:-1 tvg-logo="https://sportskhabri.com/wp-content/uploads/2022/02/Premier-League-announces-StarHub-partnership.jpg" group-title="SPORT VIP", HUB SPORT PREMIER 2
 http://king4k.tv/play/live.php?mac=00:1A:79:A5:DD:10&stream=620785&extension=ts&play_token=9Tkwk6UcYs
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT VIP", HUB SPORT PREMIER 3
+#EXTINF:-1 tvg-logo="https://sportskhabri.com/wp-content/uploads/2022/02/Premier-League-announces-StarHub-partnership.jpg" group-title="SPORT VIP", HUB SPORT PREMIER 3
 http://king4k.tv/play/live.php?mac=00:1A:79:A5:DD:10&stream=620784&extension=ts&play_token=9Tkwk6UcYs
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT VIP", HUB SPORT PREMIER 4
+#EXTINF:-1 tvg-logo="https://sportskhabri.com/wp-content/uploads/2022/02/Premier-League-announces-StarHub-partnership.jpg" group-title="SPORT VIP", HUB SPORT PREMIER 4
 http://king4k.tv/play/live.php?mac=00:1A:79:A5:DD:10&stream=620783&extension=ts&play_token=9Tkwk6UcYs
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT VIP", HUB SPORT PREMIER 5
+#EXTINF:-1 tvg-logo="https://sportskhabri.com/wp-content/uploads/2022/02/Premier-League-announces-StarHub-partnership.jpg" group-title="SPORT VIP", HUB SPORT PREMIER 5
 http://king4k.tv/play/live.php?mac=00:1A:79:A5:DD:10&stream=620782&extension=ts&play_token=9Tkwk6UcYs
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT VIP", HUB SPORT PREMIER 6
+#EXTINF:-1 tvg-logo="https://sportskhabri.com/wp-content/uploads/2022/02/Premier-League-announces-StarHub-partnership.jpg" group-title="SPORT VIP", HUB SPORT PREMIER 6
 http://king4k.tv/play/live.php?mac=00:1A:79:A5:DD:10&stream=620781&extension=ts&play_token=9Tkwk6UcYs
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT VIP", HUB SPORT PREMIER 7
+#EXTINF:-1 tvg-logo="https://sportskhabri.com/wp-content/uploads/2022/02/Premier-League-announces-StarHub-partnership.jpg" group-title="SPORT VIP", HUB SPORT PREMIER 7
 http://king4k.tv/play/live.php?mac=00:1A:79:A5:DD:10&stream=620780&extension=ts&play_token=9Tkwk6UcYs
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpZhNrDFITbwQisBQv1_2OzIo7eIsKtgwIVw&usqp=CAU" group-title="SPORT VIP", OPTUS SPORT 1
-http://king4k.tv/play/live.php?mac=00:1A:79:A5:DD:10&stream=625250&extension=ts&play_token=9Tkwk6UcYs
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpZhNrDFITbwQisBQv1_2OzIo7eIsKtgwIVw&usqp=CAU" group-title="SPORT VIP", OPTUS SPORT 2
-http://king4k.tv/play/live.php?mac=00:1A:79:A5:DD:10&stream=625249&extension=ts&play_token=9Tkwk6UcYs
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpZhNrDFITbwQisBQv1_2OzIo7eIsKtgwIVw&usqp=CAU" group-title="SPORT VIP", OPTUS SPORT 3
-http://king4k.tv/play/live.php?mac=00:1A:79:A5:DD:10&stream=625248&extension=ts&play_token=9Tkwk6UcYs
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpZhNrDFITbwQisBQv1_2OzIo7eIsKtgwIVw&usqp=CAU" group-title="SPORT VIP", OPTUS SPORT 4
-http://king4k.tv/play/live.php?mac=00:1A:79:A5:DD:10&stream=625247&extension=ts&play_token=9Tkwk6UcYs
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpZhNrDFITbwQisBQv1_2OzIo7eIsKtgwIVw&usqp=CAU" group-title="SPORT VIP", OPTUS SPORT 5
-http://king4k.tv/play/live.php?mac=00:1A:79:A5:DD:10&stream=625246&extension=ts&play_token=9Tkwk6UcYs
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpZhNrDFITbwQisBQv1_2OzIo7eIsKtgwIVw&usqp=CAU" group-title="SPORT VIP", OPTUS SPORT 6
-http://king4k.tv/play/live.php?mac=00:1A:79:A5:DD:10&stream=625245&extension=ts&play_token=9Tkwk6UcYs
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpZhNrDFITbwQisBQv1_2OzIo7eIsKtgwIVw&usqp=CAU" group-title="SPORT VIP", OPTUS SPORT 7
-http://king4k.tv/play/live.php?mac=00:1A:79:A5:DD:10&stream=625244&extension=ts&play_token=9Tkwk6UcYs
-
 
 
 #EXTINF:-1 tvg-logo="http://ceoapps.org/logos/tigosportsbolivia222.png" group-title="SPORT LATIN", D| Tigo Sports 2 BO
