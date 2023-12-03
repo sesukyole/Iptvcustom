@@ -4444,6 +4444,8 @@ http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=754351&extension=
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=754354&extension=ts&play_token=yK7Ppvy2j
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT DUNIA", COSMOTE SPORT 7 GR
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=754356&extension=ts&play_token=yK7Ppvy2j
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT DUNIA", COSMOTE SPORT 8 GR
+http://iptvomax.xyz:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=754357&extension=ts&play_token=qvZT3hFVrD
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT DUNIA", PRIMETEL SPORT 1 GR
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=851582&extension=ts&play_token=yK7Ppvy2j
