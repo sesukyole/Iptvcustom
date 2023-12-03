@@ -6496,6 +6496,27 @@ http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=577899&extension=
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=577897&extension=ts&play_token=yK7Ppvy2j
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="DOCUMENTARY", HGTV
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=577880&extension=ts&play_token=yK7Ppvy2j
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB5000002PL_20230823T033115SQUARE.png_20230823033116.png" ,Wild Planet
+https://i.mjh.nz/SamsungTVPlus/GBBB5000002PL.m3u8
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC900015D3_20230712T021136SQUARE.png_20230712021136.png" ,Adventure Earth
+https://i.mjh.nz/SamsungTVPlus/GBBC900015D3.m3u8
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA220000751_20230125T022345SQUARE.png_20230125022346.png" ,INWILD
+https://i.mjh.nz/SamsungTVPlus/GBBA220000751.m3u8
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC4300002RW_20230125T022354SQUARE.png_20230125022354.png" ,WildEarth
+https://i.mjh.nz/SamsungTVPlus/GBBC4300002RW.m3u8
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC300003UQ_20231011T082518SQUARE.png_20231011082518.png" ,WaterBear
+https://i.mjh.nz/SamsungTVPlus/GBBC300003UQ.m3u8
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA22000063W_20230426T015615SQUARE.png_20230426015616.png" ,Wonder
+https://i.mjh.nz/SamsungTVPlus/GBBA22000063W.m3u8
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAJ4900009UA_20230322T075400SQUARE.png_20230322075401.png" ,Documentaries - Rakuten TV
+https://i.mjh.nz/SamsungTVPlus/GBAJ4900009UA.m3u8
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1100001UI_20230510T044353SQUARE.png_20230510044353.png" ,World War TV
+https://i.mjh.nz/SamsungTVPlus/GBBD1100001UI.m3u8
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA2200005ZA_20230426T015613SQUARE.png_20230426015614.png" ,History Hit
+https://i.mjh.nz/SamsungTVPlus/GBBA2200005ZA.m3u8
+
+
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="CARTOON KIDS", DISNEY CHANNEL
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=577405&extension=ts&play_token=yK7Ppvy2j
@@ -6591,7 +6612,8 @@ http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=577422&extension=
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=656390&extension=ts&play_token=yK7Ppvy2j
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="MUSIC MTV", DJ DANCE LIVE 2
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=656391&extension=ts&play_token=yK7Ppvy2j
-
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB3800005QO_20220323T071808SQUARE.png_20220323071810.png" group-title="MUSIC MTV",XITE Hits
+https://i.mjh.nz/SamsungTVPlus/GBBB3800005QO.m3u8
 
 
 
@@ -6637,6 +6659,34 @@ http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=281256&extension=
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=281257&extension=ts&play_token=yK7Ppvy2jW
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="MOVIE ASIA", SONY MAX IN
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=281263&extension=ts&play_token=yK7Ppvy2jW
+
+
+#EXTINF:-1 group-title="MOVIE ASIA" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAJ4900007I2_20230926T032317SQUARE.png_20230926032318.png" ,Comedy Movies - Rakuten TV
+https://i.mjh.nz/SamsungTVPlus/GBAJ4900007I2.m3u8
+#EXTINF:-1 group-title="MOVIE ASIA" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB3800003JH_20220323T071458SQUARE.png_20220323071500.png" ,Moviedome
+https://i.mjh.nz/SamsungTVPlus/GBBB3800003JH.m3u8
+#EXTINF:-1 group-title="MOVIE ASIA" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAJ400042T1_20230222T011314SQUARE.png_20230222011314.png" ,Sparkle Movies
+https://i.mjh.nz/SamsungTVPlus/GBAJ400042T1.m3u8
+#EXTINF:-1 group-title="MOVIE ASIA" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD500007TG_20230413T013222SQUARE.png_20230413013223.png" ,Grjngo - Western Movies
+https://i.mjh.nz/SamsungTVPlus/GBBD500007TG.m3u8
+#EXTINF:-1 group-title="MOVIE ASIA" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA3300050RG_20220323T071656SQUARE.png_20220323071659.png" ,wedo movies
+https://i.mjh.nz/SamsungTVPlus/GBBA3300050RG.m3u8
+#EXTINF:-1 group-title="MOVIE ASIA" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAJ4900011Y4_20220323T071426SQUARE.png_20220323071430.png" ,Filmstream
+https://i.mjh.nz/SamsungTVPlus/GBAJ4900011Y4.m3u8
+#EXTINF:-1 group-title="MOVIE ASIA" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA3300020DM_20230322T075406SQUARE.png_20230322075406.png" ,Romance Movies - Rakuten TV
+https://i.mjh.nz/SamsungTVPlus/GBBA3300020DM.m3u8
+#EXTINF:-1 group-title="MOVIE ASIA" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA33000557H_20221201T014509SQUARE.png_20221201014510.png" ,MovieSphere
+https://i.mjh.nz/SamsungTVPlus/GBBA33000557H.m3u8
+#EXTINF:-1 group-title="MOVIE ASIA" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAJ400045P5_20220810T012605SQUARE.png_20220810012605.png" ,Popflix
+https://i.mjh.nz/SamsungTVPlus/GBAJ400045P5.m3u8
+#EXTINF:-1 group-title="MOVIE ASIA" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC90001660_20221012T015921SQUARE.png_20221012015922.png" ,Top Movies - Rakuten TV
+https://i.mjh.nz/SamsungTVPlus/GBBC90001660.m3u8
+#EXTINF:-1 group-title="MOVIE ASIA" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAJ49000081B_20220323T071414SQUARE.png_20220323071417.png" ,Drama Movies - Rakuten TV
+https://i.mjh.nz/SamsungTVPlus/GBAJ49000081B.m3u8
+#EXTINF:-1 group-title="MOVIE ASIA" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAJ4900006TU_20220323T071344SQUARE.png_20220323071347.png" ,Action Movies - Rakuten TV
+https://i.mjh.nz/SamsungTVPlus/GBAJ4900006TU.m3u8
+
+
 
 
 
