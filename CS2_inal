@@ -6541,6 +6541,8 @@ https://i.mjh.nz/SamsungTVPlus/INBD1300021X3.m3u8
 https://i.mjh.nz/SamsungTVPlus/INBD13000205L.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="CARTOON KIDS", DISNEY JUNIOR
 http://103.99.249.139/disneyjunior/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="CARTOON KIDS", BABY FIRST
+https://origin1.noisypeak.com/4XhPa5v93P3za6G0cMyV/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="MUSIC MTV", MTV LIVE
