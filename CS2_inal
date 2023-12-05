@@ -34,14 +34,12 @@ http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=768770_&
 http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=799064_&extension=ts
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1200px-SCTV_Logo.svg.png" group-title="#🏎️🏎️🏎️LIVE VIDIO🏎️🏎️🏎️#", SCTV
-https://etslive-2-vidio-com.akamaized.net/exp=1701765417~acl=/hls-p/ingest_204_*/*~hmac=8055a8c02b819aa630de4e475d7a59308a0fd82d314ab22ac3789e6885779dfb/hls-p/ingest_204_720p/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1200px-INDOSIAR_Logo.png" group-title="#🏎️🏎️🏎️LIVE VIDIO🏎️🏎️🏎️#", INDOSIAR
-https://etslive-2-vidio-com.akamaized.net/exp=1701765939~acl=/hls-p/ingest_205_*/*~hmac=c0f66b52978e8d6edab0a1faa57598876155e113c78235916c69ec583e9569a9/hls-p/ingest_205_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/fd/Antv_logo%282009%29.png" group-title="#🏎️🏎️🏎️LIVE VIDIO🏎️🏎️🏎️#", ANTV
 https://video-weaver.jkt01.hls.ttvnw.net/v1/playlist/CqkFURD4yrhATwQCz6WJQT6vLz45ePxOdLIHrsppvIrrhQ9z423pgG5_rE_-9aN-BJRW_maIv4bU4UFNzhg6mSSOdz78J4aXpxitJxTtPcjqYbjTp2KoktsQhu4A2J7CEtzimMiV7lnmSfrGlkFoszhRey4G26bBGJA0a5oa2uZXao5RAAA7mqE78jXl_b-dhz-D5wJQTcfmf7tls0Eq5sKh2iUTe4WQ7ver_bSk4CSZWrkrBKPPPxzpib3gNcaXzkijNsBObGjw6AXhZylIGzzzJEv_W7sKYP60avVHhReGzOCGA6u-EEWOv9TtmHEmmY5heiwpte8_KPY5tOVuPckxYZJflCxWBH__7UNQwWJy_J_imjUHsnTvpuebNWb67Q5O8PJFhkKaB3tXHSG_oh6zUKYM4VpFezy1CvYGoI6uOD_2AAVRob6kAxgsZENb_a3fQvHwS6Qww5ZJB2BB3qDcCtvte8clvuJKjxX0hSTeN9dyQFbJppuWBYRtBtnIJHlrl_7dUCq-74Xs9RgU330ExVqo5R-4SkK6E2JflmkevukJvwd0qw9YcczntnEc_kANo1b7GjYFskz7PRFncanLOT_zCw19bzwYVizrs0VljtWtfBtt8GVMsMTpWtQ4jlkIul5BK3ZcD9LqJf3J5BJnnHZNBU0nOPqTs7Wshu0b2V6iZzqbXYGKpe7YKSTkhcyfz7EkiKtYB_kv0r2LpaI89jAoUEg8GvmMHXkSJSNjPVFz_Fvu4RV6cgHsoNgGG5nEoFw0Y2V3cyChxaWEIt_VJndvBdR4NZDWgwxgzIv_gZx6YYhAD1SJbO9bghwq7WlaRNRHKa51Sy-3r6nkGBbI8cCNOjZZG5NdexPRBKKTqW741LtcM1k6e3verfzszJAGZ7dnOBmLTlVeGgxtkh9D_3ym1dWTCQcgASoJdXMtd2VzdC0yMJQI.m3u8
+#EXTVLCOPT:http-referrer=https://www.transtv.co.id/
 #EXTINF:-1 tvg-logo="https://www.transtv.co.id/layout/ttvnew/src/images/logo/01-t7.png" group-title="#🏎️🏎️🏎️LIVE VIDIO🏎️🏎️🏎️#", TRANS 7
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1233350520_b744100_sleng.m3u8
+#EXTVLCOPT:http-referrer=https://www.transtv.co.id/
 #EXTINF:-1 tvg-logo="https://www.transtv.co.id/layout/new/src/images/tv/TRANS%20TV%20live%20streaming%20tv.jpg" group-title="#🏎️🏎️🏎️LIVE VIDIO🏎️🏎️🏎️#", TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w2069300316_b744100_sleng.m3u8
 
