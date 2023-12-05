@@ -34,17 +34,6 @@ http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=768770_&
 http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=799064_&extension=ts
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/fd/Antv_logo%282009%29.png" group-title="#🏎️🏎️🏎️LIVE VIDIO🏎️🏎️🏎️#", ANTV
-https://video-weaver.jkt01.hls.ttvnw.net/v1/playlist/CqkFURD4yrhATwQCz6WJQT6vLz45ePxOdLIHrsppvIrrhQ9z423pgG5_rE_-9aN-BJRW_maIv4bU4UFNzhg6mSSOdz78J4aXpxitJxTtPcjqYbjTp2KoktsQhu4A2J7CEtzimMiV7lnmSfrGlkFoszhRey4G26bBGJA0a5oa2uZXao5RAAA7mqE78jXl_b-dhz-D5wJQTcfmf7tls0Eq5sKh2iUTe4WQ7ver_bSk4CSZWrkrBKPPPxzpib3gNcaXzkijNsBObGjw6AXhZylIGzzzJEv_W7sKYP60avVHhReGzOCGA6u-EEWOv9TtmHEmmY5heiwpte8_KPY5tOVuPckxYZJflCxWBH__7UNQwWJy_J_imjUHsnTvpuebNWb67Q5O8PJFhkKaB3tXHSG_oh6zUKYM4VpFezy1CvYGoI6uOD_2AAVRob6kAxgsZENb_a3fQvHwS6Qww5ZJB2BB3qDcCtvte8clvuJKjxX0hSTeN9dyQFbJppuWBYRtBtnIJHlrl_7dUCq-74Xs9RgU330ExVqo5R-4SkK6E2JflmkevukJvwd0qw9YcczntnEc_kANo1b7GjYFskz7PRFncanLOT_zCw19bzwYVizrs0VljtWtfBtt8GVMsMTpWtQ4jlkIul5BK3ZcD9LqJf3J5BJnnHZNBU0nOPqTs7Wshu0b2V6iZzqbXYGKpe7YKSTkhcyfz7EkiKtYB_kv0r2LpaI89jAoUEg8GvmMHXkSJSNjPVFz_Fvu4RV6cgHsoNgGG5nEoFw0Y2V3cyChxaWEIt_VJndvBdR4NZDWgwxgzIv_gZx6YYhAD1SJbO9bghwq7WlaRNRHKa51Sy-3r6nkGBbI8cCNOjZZG5NdexPRBKKTqW741LtcM1k6e3verfzszJAGZ7dnOBmLTlVeGgxtkh9D_3ym1dWTCQcgASoJdXMtd2VzdC0yMJQI.m3u8
-#EXTVLCOPT:http-referrer=https://www.transtv.co.id/
-#EXTINF:-1 tvg-logo="https://www.transtv.co.id/layout/ttvnew/src/images/logo/01-t7.png" group-title="#🏎️🏎️🏎️LIVE VIDIO🏎️🏎️🏎️#", TRANS 7
-https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1233350520_b744100_sleng.m3u8
-#EXTVLCOPT:http-referrer=https://www.transtv.co.id/
-#EXTINF:-1 tvg-logo="https://www.transtv.co.id/layout/new/src/images/tv/TRANS%20TV%20live%20streaming%20tv.jpg" group-title="#🏎️🏎️🏎️LIVE VIDIO🏎️🏎️🏎️#", TRANS TV
-https://video.detik.com/transtv/smil:transtv.smil/chunklist_w2069300316_b744100_sleng.m3u8
-
-
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="INDO_NESIA 1", ###INDO_NESIA 1###
 https://github.com/inaldie/inaldie/raw/main/LOGO.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="INDO_NESIA 2", ###INDO_NESIA 2###
@@ -331,7 +320,9 @@ http://iptvstream.xyz:8080/Dooby/66754f23/162138
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="EMTEKK TV", INDOSIAR 8
 http://myteve.online:8080/Omni/kTxd7pe4MwVU8DJQ/162138
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="EMTEKK TV", INDOSIAR 9
-http://premiumiptvmk.com:8080/shaboy85/B3hLKkFsT7QXRE4PVcUCrx/298550
+http://premiumiptvmk.com:8080/shaboy85/B3hLKkFsT7QXRE4PVcUCrx/162138
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="EMTEKK TV", INDOSIAR 10
+http://myteve.online:8080/LeCyGodF2023/zAN6uWGxRmkqCcgep3wTHy/162138
 
 
 
@@ -351,6 +342,8 @@ http://iptvstream.xyz:8080/Dooby/66754f23/298550
 http://myteve.online:8080/Omni/kTxd7pe4MwVU8DJQ/298550
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="EMTEKK TV", MOJI 8
 http://premiumiptvmk.com:8080/shaboy85/B3hLKkFsT7QXRE4PVcUCrx/298550
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="EMTEKK TV", MOJI 9
+http://myteve.online:8080/LeCyGodF2023/zAN6uWGxRmkqCcgep3wTHy/298550
 
 
 #EXTINF:-1 tvg-logo="https://www.wowkeren.com/display/images/photo/2019/09/07/00272011.jpg" group-title="EMTEKK TV", SCTV 1
@@ -369,6 +362,9 @@ http://iptvstream.xyz:8080/Dooby/66754f23/162141
 http://myteve.online:8080/Omni/kTxd7pe4MwVU8DJQ/162141
 #EXTINF:-1 tvg-logo="https://www.wowkeren.com/display/images/photo/2019/09/07/00272011.jpg" group-title="EMTEKK TV", SCTV 8
 http://premiumiptvmk.com:8080/shaboy85/B3hLKkFsT7QXRE4PVcUCrx/162141
+#EXTINF:-1 tvg-logo="https://www.wowkeren.com/display/images/photo/2019/09/07/00272011.jpg" group-title="EMTEKK TV", SCTV 9
+http://myteve.online:8080/LeCyGodF2023/zAN6uWGxRmkqCcgep3wTHy/162141
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbCkSdgdd7ZaJ82Fhgt5qZ3Otnn9NtocomGg&usqp=CAU" group-title="HBO INDO", CINEMAX 1
 http://sysadminhost.net:8080/pachaman/kcxSPa4CExFPFjm2/197964
@@ -515,7 +511,6 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(cec31cdd-d2ff
 
 
 
-
 #EXTINF:-1 tvg-logo="https://earntv.io/wp-content/uploads/2023/10/ETV__logo.png" group-title="ETV BIOSKOP", ETV BIOSKOP 1 1
 http://sysadminhost.net:8080/pachaman/kcxSPa4CExFPFjm2/298526
 #EXTINF:-1 tvg-logo="https://earntv.io/wp-content/uploads/2023/10/ETV__logo.png" group-title="ETV BIOSKOP", ETV BIOSKOP 1 2
@@ -553,6 +548,7 @@ http://iptvmedia.live:8080/silversatcom/SKcm5tNBsrJ2HZE/298527
 http://premiumiptvmk.com:8080/shaboy85/B3hLKkFsT7QXRE4PVcUCrx/298527
 #EXTINF:-1 tvg-logo="https://earntv.io/wp-content/uploads/2023/10/ETV__logo.png" group-title="ETV BIOSKOP", ETV BIOSKOP 2 9
 http://myteve.online:8080/Omni/kTxd7pe4MwVU8DJQ/298527
+
 
 #EXTINF:-1 tvg-logo="https://earntv.io/wp-content/uploads/2023/10/ETV__logo.png" group-title="ETV BIOSKOP", ETV BIOSKOP 3 1
 http://sysadminhost.net:8080/pachaman/kcxSPa4CExFPFjm2/298528
@@ -1274,8 +1270,6 @@ http://iptvmedia.live:8080/streamnet/a8b92bb196/297499
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/ab95d8e974bb7f697b1dd79c7ac0f765.png" group-title="MALAY_SIA 1", MY: Warner TV
 http://iptvmedia.live:8080/streamnet/a8b92bb196/157550
-
-
 
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-11/e17423b3478a962cdb92c6c20a15f178.jpg" group-title="MALAY_SIA 2", MY: 8TV
@@ -2645,9 +2639,6 @@ http://premiumiptvmk.com:8080/shaboy85/B3hLKkFsT7QXRE4PVcUCrx/264751
 
 
 
-
-
-
 <====================== Indonesia Channel ======================>
 
 
@@ -2717,6 +2708,9 @@ https://nyanv-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 tvg-id="ANTV.id"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/2560px-Antv_logo.svg.png" group-title="VISION+",ANTV
 https://nyanv-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
+#EXTINF:-1 tvg-id="ANTV.id"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/2560px-Antv_logo.svg.png" group-title="VISION+",ANTV SD
+https://video-weaver.jkt01.hls.ttvnw.net/v1/playlist/CqkFURD4yrhATwQCz6WJQT6vLz45ePxOdLIHrsppvIrrhQ9z423pgG5_rE_-9aN-BJRW_maIv4bU4UFNzhg6mSSOdz78J4aXpxitJxTtPcjqYbjTp2KoktsQhu4A2J7CEtzimMiV7lnmSfrGlkFoszhRey4G26bBGJA0a5oa2uZXao5RAAA7mqE78jXl_b-dhz-D5wJQTcfmf7tls0Eq5sKh2iUTe4WQ7ver_bSk4CSZWrkrBKPPPxzpib3gNcaXzkijNsBObGjw6AXhZylIGzzzJEv_W7sKYP60avVHhReGzOCGA6u-EEWOv9TtmHEmmY5heiwpte8_KPY5tOVuPckxYZJflCxWBH__7UNQwWJy_J_imjUHsnTvpuebNWb67Q5O8PJFhkKaB3tXHSG_oh6zUKYM4VpFezy1CvYGoI6uOD_2AAVRob6kAxgsZENb_a3fQvHwS6Qww5ZJB2BB3qDcCtvte8clvuJKjxX0hSTeN9dyQFbJppuWBYRtBtnIJHlrl_7dUCq-74Xs9RgU330ExVqo5R-4SkK6E2JflmkevukJvwd0qw9YcczntnEc_kANo1b7GjYFskz7PRFncanLOT_zCw19bzwYVizrs0VljtWtfBtt8GVMsMTpWtQ4jlkIul5BK3ZcD9LqJf3J5BJnnHZNBU0nOPqTs7Wshu0b2V6iZzqbXYGKpe7YKSTkhcyfz7EkiKtYB_kv0r2LpaI89jAoUEg8GvmMHXkSJSNjPVFz_Fvu4RV6cgHsoNgGG5nEoFw0Y2V3cyChxaWEIt_VJndvBdR4NZDWgwxgzIv_gZx6YYhAD1SJbO9bghwq7WlaRNRHKa51Sy-3r6nkGBbI8cCNOjZZG5NdexPRBKKTqW741LtcM1k6e3verfzszJAGZ7dnOBmLTlVeGgxtkh9D_3ym1dWTCQcgASoJdXMtd2VzdC0yMJQI.m3u8
+
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
