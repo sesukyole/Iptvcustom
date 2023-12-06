@@ -2771,6 +2771,12 @@ https://nyanv-live-cdn.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuB
 
 
 <================== Premium Movies ====================>
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="VISION+", HBO Family
+http://95.111.193.211:8106/play/a00o/index.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="VISION+", HBO Hits
+http://95.111.193.211:8106/play/a017/index.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="VISION+", HBO Signature
+http://95.111.193.211:8106/play/a00v/index.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2921,6 +2927,23 @@ https://nyanv-live-cdn.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 
 
 <================ Knowledge & Documentary ==========================>
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-id="AnimalPlanet" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_203.png" group-title="VISION+", Animal Planet HD
+http://exprestv.win/play/live.php?mac=00:1A:79:A2:5B:B8&stream=155736&extension=ts&play_token=lmz9vDcDLc
+#EXTINF:-1 tvg-id="AnimalPlanet" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_203.png" group-title="VISION+", Animal Planet 
+http://95.111.193.211:8106/play/a00y/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/2560px-Logo_Nat_Geo_Wild.svg.png" group-title="VISION+", Nat Geo Wild HD
+http://exprestv.win/play/live.php?mac=00:1A:79:A2:5B:B8&stream=155741&extension=ts&play_token=lmz9vDcDLc
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/2560px-Logo_Nat_Geo_Wild.svg.png" group-title="VISION+", Nat Geo Wild
+http://exprestv.win/play/live.php?mac=00:1A:79:A2:5B:B8&stream=1283055&extension=ts&play_token=lmz9vDcDLc
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/2560px-Logo_Nat_Geo_Wild.svg.png" group-title="VISION+", Nat Geo Wild SD
+http://95.111.193.211:8106/play/a00c/index.m3u8
+#EXTINF:-1 tvg-logo="https://asset.ctv.ca/image-service/version/c:ZmVjNmE1NTgtYmVhYS00:MGRiZGNi/image.png" group-title="VISION+", Discovery
+http://95.111.193.211:8106/play/a010/index.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2945,18 +2968,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChanne
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 tvg-id=""  tvg-logo="https://lovenature.com/wp-content/uploads/2020/08/love-nature-logo_peacock.png" group-title="VISION+",Love Nature
 https://nyanv-live-cdn.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
-
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-id="AnimalPlanet" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_203.png" group-title="VISION+", Animal Planet 
-http://exprestv.win/play/live.php?mac=00:1A:79:A2:5B:B8&stream=155736&extension=ts&play_token=lmz9vDcDLc
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/2560px-Logo_Nat_Geo_Wild.svg.png" group-title="VISION+", Nat Geo Wild HD
-http://exprestv.win/play/live.php?mac=00:1A:79:A2:5B:B8&stream=155741&extension=ts&play_token=lmz9vDcDLc
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/2560px-Logo_Nat_Geo_Wild.svg.png" group-title="VISION+", Nat Geo Wild
-http://exprestv.win/play/live.php?mac=00:1A:79:A2:5B:B8&stream=1283055&extension=ts&play_token=lmz9vDcDLc
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -6046,12 +6057,19 @@ http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=1104675_&exten
 http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=282675_&extension=ts&play_token=9Tkwk6UcYs
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-j88X7dq1UxY0FB77gG-pYjxjSSsGwfrKzLyCZP_NmxGLKgjZIXIgDYtCBQQAFAJWtE8&usqp=CAU" group-title="SPORT ASIA", STAR SPORTS SELECT 2
 http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=155973_&extension=ts&play_token=9Tkwk6UcYs
+#EXTINF:-1 tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/Star_Sports_Select_1.jpg" group-title="SPORT ASIA", STAR SPORTS SELECT 1
+http://103.109.56.116/live/skyfeed1015/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-j88X7dq1UxY0FB77gG-pYjxjSSsGwfrKzLyCZP_NmxGLKgjZIXIgDYtCBQQAFAJWtE8&usqp=CAU" group-title="SPORT ASIA", STAR SPORTS SELECT 2
+http://95.111.193.211:8106/play/a01o/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/One_Sports_logo.svg/1200px-One_Sports_logo.svg.png" group-title="SPORT ASIA", ONE SPORTS PH
 http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=926161_&extension=ts&play_token=9Tkwk6UcYs
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/One_Sports_logo.svg/1200px-One_Sports_logo.svg.png" group-title="SPORT ASIA", ONE SPORTS PK
 http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=926161_&extension=ts&play_token=9Tkwk6UcYs
 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/59/Sony_Sports_Network.png" group-title="SPORT ASIA", SONY TEN SPORT 1 TATA
+http://103.109.56.116/live/skyfeed1013/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/59/Sony_Sports_Network.png" group-title="SPORT ASIA", SONY TEN SPORT 1
 https://cdn.sajeeb.online/Sony-Ten-1-hd/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/59/Sony_Sports_Network.png" group-title="SPORT ASIA", SONY TEN SPORT 2
@@ -7340,10 +7358,12 @@ https://i.mjh.nz/SamsungTVPlus/GBBB3800005QO.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="MOVIE ASIA", &PRIVE
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=281642&extension=ts&play_token=yK7Ppvy2jW
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="MOVIE ASIA", &PLIX
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="MOVIE ASIA", &FLIX
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=843901&extension=ts&play_token=yK7Ppvy2jW
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="MOVIE ASIA", STAR MOVIES
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="MOVIE ASIA", STAR MOVIES HD
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=281643&extension=ts&play_token=yK7Ppvy2jW
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="MOVIE ASIA", STAR MOVIES
+http://95.111.193.211:8106/play/a00z/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="MOVIE ASIA", TATA HITS
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=841538&extension=ts&play_token=yK7Ppvy2jW
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="MOVIE ASIA", ROWEDY NOW
@@ -7380,6 +7400,8 @@ http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=281256&extension=
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=281257&extension=ts&play_token=yK7Ppvy2jW
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="MOVIE ASIA", SONY MAX IN
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=281263&extension=ts&play_token=yK7Ppvy2jW
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="MOVIE ASIA", SONY MAX
+http://208.86.19.13:81/706.stream/index.m3u8
 
 
 #EXTINF:-1 group-title="MOVIE ASIA" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAJ4900007I2_20230926T032317SQUARE.png_20230926032318.png" ,Comedy Movies - Rakuten TV
