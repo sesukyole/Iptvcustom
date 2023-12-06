@@ -78,6 +78,8 @@ https://github.com/inaldie/inaldie/raw/main/LOGO.ts
 https://github.com/inaldie/inaldie/raw/main/LOGO.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT LATIN1", ###SPORT LATIN1###
 https://github.com/inaldie/inaldie/raw/main/LOGO.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT OPTUS", ###SPORT OPTUS###
+https://github.com/inaldie/inaldie/raw/main/LOGO.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="RADIO FM", ###RADIO FM###
 https://github.com/inaldie/inaldie/raw/main/LOGO.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="LOKAL DAERAH", ###LOKAL DAERAH###
@@ -6099,6 +6101,11 @@ http://king4k.tv/play/live.php?mac=00:1A:79:A5:DD:10&stream=441276&extension=ts&
 
 
 
+#EXTINF:-1 tvg-logo="https://picon.pp.ua/bein-sports-afc.png" group-title="SPORT ASIA", BEIN AFC 1
+http://fleximediatv.co.uk:8080/play/live.php?mac=00:1A:79:62:04:F4&stream=1884529_&extension=ts
+#EXTINF:-1 tvg-logo="https://picon.pp.ua/bein-sports-afc.png" group-title="SPORT ASIA", BEIN AFC 2
+http://fleximediatv.co.uk:8080/play/live.php?mac=00:1A:79:62:04:F4&stream=1884530_&extension=ts
+
 
 #EXTINF:-1 tvg-logo="https://sportskhabri.com/wp-content/uploads/2022/02/Premier-League-announces-StarHub-partnership.jpg" group-title="SPORT ASIA", HUB SPORT PREMIER 1
 http://king4k.tv/play/live.php?mac=00:1A:79:A5:DD:10&stream=620786&extension=ts&play_token=9Tkwk6UcYs
@@ -6138,12 +6145,13 @@ http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=941572_&extens
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/HUB%203.png" group-title="SPORT ASIA", HUB SPORT 3
 http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=941571_&extension=ts&play_token=9Tkwk6UcYs
 
-#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/logo/621-wbg-e.png" group-title="SPORT ASIA", NOW SPORT PREMIER 1
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/logo/621-wbg-e.png" group-title="SPORT ASIA", NOW SPORT PREMIER 1 FHD
 http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=554953_&extension=ts&play_token=9Tkwk6UcYs
 #EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/04/600-dbg-c.png" group-title="SPORT ASIA", NOW SPORT 2
 http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=554948_&extension=ts&play_token=9Tkwk6UcYs
 #EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/04/600-dbg-c.png" group-title="SPORT ASIA", NOW SPORT 3
 http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=554947_&extension=ts&play_token=9Tkwk6UcYs
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/2560px-Star_Sports_1_HD.png" group-title="SPORT ASIA", STAR SPORTS 1
 http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=282677_&extension=ts&play_token=9Tkwk6UcYs
@@ -6249,6 +6257,76 @@ http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=864917&extension=
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=864918&extension=ts&play_token=yK7Ppvy2jW
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="MLS LIGA", MLS LIVE 15
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=864919&extension=ts&play_token=yK7Ppvy2jW
+
+#EXTINF:-1 tvg-logo="https://mumbrella.com.au/wp-content/uploads/2020/05/K-League-on-Optus-Sport-e1588811937261.png" group-title="SPORT OPTUS", OPTUS SPORT 1 
+http://fleximediatv.co.uk:8080/play/live.php?mac=00:1A:79:62:04:F4&stream=1686687_&extension=ts
+#EXTINF:-1 tvg-logo="https://mumbrella.com.au/wp-content/uploads/2020/05/K-League-on-Optus-Sport-e1588811937261.png" group-title="SPORT VIP", OPTUS SPORT 1 
+http://fleximediatv.co.uk:8080/play/live.php?mac=00:1A:79:62:04:F4&stream=1686686_&extension=ts
+#EXTINF:-1 tvg-logo="https://mumbrella.com.au/wp-content/uploads/2020/05/K-League-on-Optus-Sport-e1588811937261.png" group-title="SPORT VIP", OPTUS SPORT 2
+http://fleximediatv.co.uk:8080/play/live.php?mac=00:1A:79:62:04:F4&stream=1686685_&extension=ts
+#EXTINF:-1 tvg-logo="https://mumbrella.com.au/wp-content/uploads/2020/05/K-League-on-Optus-Sport-e1588811937261.png" group-title="SPORT VIP", OPTUS SPORT 3 
+http://fleximediatv.co.uk:8080/play/live.php?mac=00:1A:79:62:04:F4&stream=1686684_&extension=ts
+#EXTINF:-1 tvg-logo="https://mumbrella.com.au/wp-content/uploads/2020/05/K-League-on-Optus-Sport-e1588811937261.png" group-title="SPORT VIP", OPTUS SPORT 4 
+http://fleximediatv.co.uk:8080/play/live.php?mac=00:1A:79:62:04:F4&stream=1686683_&extension=ts
+#EXTINF:-1 tvg-logo="https://mumbrella.com.au/wp-content/uploads/2020/05/K-League-on-Optus-Sport-e1588811937261.png" group-title="SPORT VIP", OPTUS SPORT 5 
+http://fleximediatv.co.uk:8080/play/live.php?mac=00:1A:79:62:04:F4&stream=1686682_&extension=ts
+#EXTINF:-1 tvg-logo="https://mumbrella.com.au/wp-content/uploads/2020/05/K-League-on-Optus-Sport-e1588811937261.png" group-title="SPORT VIP", OPTUS SPORT 6 
+http://fleximediatv.co.uk:8080/play/live.php?mac=00:1A:79:62:04:F4&stream=1686681_&extension=ts
+#EXTINF:-1 tvg-logo="https://mumbrella.com.au/wp-content/uploads/2020/05/K-League-on-Optus-Sport-e1588811937261.png" group-title="SPORT VIP", OPTUS SPORT 7 
+http://fleximediatv.co.uk:8080/play/live.php?mac=00:1A:79:62:04:F4&stream=1686680_&extension=ts
+#EXTINF:-1 tvg-logo="https://mumbrella.com.au/wp-content/uploads/2020/05/K-League-on-Optus-Sport-e1588811937261.png" group-title="SPORT VIP", OPTUS SPORT 8 
+http://fleximediatv.co.uk:8080/play/live.php?mac=00:1A:79:62:04:F4&stream=1686679_&extension=ts
+#EXTINF:-1 tvg-logo="https://mumbrella.com.au/wp-content/uploads/2020/05/K-League-on-Optus-Sport-e1588811937261.png" group-title="SPORT VIP", OPTUS SPORT 9 
+http://fleximediatv.co.uk:8080/play/live.php?mac=00:1A:79:62:04:F4&stream=1686678_&extension=ts
+#EXTINF:-1 tvg-logo="https://mumbrella.com.au/wp-content/uploads/2020/05/K-League-on-Optus-Sport-e1588811937261.png" group-title="SPORT VIP", OPTUS SPORT 1 
+http://fleximediatv.co.uk:8080/play/live.php?mac=00:1A:79:62:04:F4&stream=1686677_&extension=ts
+
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/logo/621-wbg-e.png" group-title="SPORT VIP", NOW SPORT PREMIER 1
+http://fleximediatv.co.uk:8080/play/live.php?mac=00:1A:79:62:04:F4&stream=1693705_&extension=ts
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/logo/621-wbg-e.png" group-title="SPORT VIP", NOW SPORT PREMIER 2
+http://fleximediatv.co.uk:8080/play/live.php?mac=00:1A:79:62:04:F4&stream=1693698_&extension=ts
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/logo/621-wbg-e.png" group-title="SPORT VIP", NOW SPORT PREMIER 3
+http://fleximediatv.co.uk:8080/play/live.php?mac=00:1A:79:62:04:F4&stream=1693704_&extension=ts
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/logo/621-wbg-e.png" group-title="SPORT VIP", NOW SPORT PREMIER 4
+http://fleximediatv.co.uk:8080/play/live.php?mac=00:1A:79:62:04:F4&stream=1693703_&extension=ts
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/logo/621-wbg-e.png" group-title="SPORT VIP", NOW SPORT PREMIER 5
+http://fleximediatv.co.uk:8080/play/live.php?mac=00:1A:79:62:04:F4&stream=1693702_&extension=ts
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/logo/621-wbg-e.png" group-title="SPORT VIP", NOW SPORT PREMIER 6
+http://fleximediatv.co.uk:8080/play/live.php?mac=00:1A:79:62:04:F4&stream=1693701_&extension=ts
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/logo/621-wbg-e.png" group-title="SPORT VIP", NOW SPORT PREMIER 7
+http://fleximediatv.co.uk:8080/play/live.php?mac=00:1A:79:62:04:F4&stream=1693700_&extension=ts
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/308_144.png" group-title="SPORT VIP", ASTRO SUPERSPORT UHD
+http://fleximediatv.co.uk:8080/play/live.php?mac=00:1A:79:62:04:F4&stream=1917657_&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="SPORT VIP", ASTRO SUPERSPORT 1
+http://fleximediatv.co.uk:8080/play/live.php?mac=00:1A:79:62:04:F4&stream=1917664_&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="SPORT VIP", ASTRO SUPERSPORT 2
+http://fleximediatv.co.uk:8080/play/live.php?mac=00:1A:79:62:04:F4&stream=1917663_&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="SPORT VIP", ASTRO SUPERSPORT 3
+http://fleximediatv.co.uk:8080/play/live.php?mac=00:1A:79:62:04:F4&stream=1917662_&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="SPORT VIP", ASTRO SUPERSPORT 4
+http://fleximediatv.co.uk:8080/play/live.php?mac=00:1A:79:62:04:F4&stream=1917661_&extension=ts
+
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/1002/931/png-transparent-espn-espn3-logo-espn-events-tcm-logo-miscellaneous-television-text.png" group-title="SPORT VIP", ESPN+ 1
+http://fleximediatv.co.uk:8080/play/live.php?mac=00:1A:79:62:04:F4&stream=1913731_&extension=ts
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/1002/931/png-transparent-espn-espn3-logo-espn-events-tcm-logo-miscellaneous-television-text.png" group-title="SPORT VIP", ESPN+ 2
+http://fleximediatv.co.uk:8080/play/live.php?mac=00:1A:79:62:04:F4&stream=1913730_&extension=ts
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/1002/931/png-transparent-espn-espn3-logo-espn-events-tcm-logo-miscellaneous-television-text.png" group-title="SPORT VIP", ESPN+ 3
+http://fleximediatv.co.uk:8080/play/live.php?mac=00:1A:79:62:04:F4&stream=1913729_&extension=ts
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/1002/931/png-transparent-espn-espn3-logo-espn-events-tcm-logo-miscellaneous-television-text.png" group-title="SPORT VIP", ESPN+ 4
+http://fleximediatv.co.uk:8080/play/live.php?mac=00:1A:79:62:04:F4&stream=1913728_&extension=ts
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/1002/931/png-transparent-espn-espn3-logo-espn-events-tcm-logo-miscellaneous-television-text.png" group-title="SPORT VIP", ESPN+ 5
+http://fleximediatv.co.uk:8080/play/live.php?mac=00:1A:79:62:04:F4&stream=1913727_&extension=ts
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/1002/931/png-transparent-espn-espn3-logo-espn-events-tcm-logo-miscellaneous-television-text.png" group-title="SPORT VIP", ESPN+ 6
+http://fleximediatv.co.uk:8080/play/live.php?mac=00:1A:79:62:04:F4&stream=1913726_&extension=ts
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/1002/931/png-transparent-espn-espn3-logo-espn-events-tcm-logo-miscellaneous-television-text.png" group-title="SPORT VIP", ESPN+ 7
+http://fleximediatv.co.uk:8080/play/live.php?mac=00:1A:79:62:04:F4&stream=1913725_&extension=ts
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/1002/931/png-transparent-espn-espn3-logo-espn-events-tcm-logo-miscellaneous-television-text.png" group-title="SPORT VIP", ESPN+ 8
+http://fleximediatv.co.uk:8080/play/live.php?mac=00:1A:79:62:04:F4&stream=1913724_&extension=ts
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/1002/931/png-transparent-espn-espn3-logo-espn-events-tcm-logo-miscellaneous-television-text.png" group-title="SPORT VIP", ESPN+ 9
+http://fleximediatv.co.uk:8080/play/live.php?mac=00:1A:79:62:04:F4&stream=1913723_&extension=ts
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/1002/931/png-transparent-espn-espn3-logo-espn-events-tcm-logo-miscellaneous-television-text.png" group-title="SPORT VIP", ESPN+ 10
+http://fleximediatv.co.uk:8080/play/live.php?mac=00:1A:79:62:04:F4&stream=1913722_&extension=ts
 
 
 
@@ -7539,34 +7617,40 @@ https://i.mjh.nz/SamsungTVPlus/GBAJ49000081B.m3u8
 https://i.mjh.nz/SamsungTVPlus/GBAJ4900006TU.m3u8
 
 
-
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="24/7 MOVIE", MR BEAN
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmRz5k4LT6f0TOzSq-L5PiHEF3Cqadmvlnng&usqp=CAU" group-title="24/7 MOVIE", MR BEAN
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=617158&extension=ts&play_token=yK7Ppvy2jW
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="24/7 MOVIE", JAMES BOND
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmRz5k4LT6f0TOzSq-L5PiHEF3Cqadmvlnng&usqp=CAU" group-title="24/7 MOVIE", JAMES BOND
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=617159&extension=ts&play_token=yK7Ppvy2jW
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="24/7 MOVIE", PITARES OF CARABIAN
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmRz5k4LT6f0TOzSq-L5PiHEF3Cqadmvlnng&usqp=CAU" group-title="24/7 MOVIE", PIRATES OF CARABIAN
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=617124&extension=ts&play_token=yK7Ppvy2jW
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="24/7 MOVIE", SCIFI-MOVIE
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmRz5k4LT6f0TOzSq-L5PiHEF3Cqadmvlnng&usqp=CAU" group-title="24/7 MOVIE", SCIFI-MOVIE
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=617117&extension=ts&play_token=yK7Ppvy2jW
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="24/7 MOVIE", SUPERHERO MOVIE
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmRz5k4LT6f0TOzSq-L5PiHEF3Cqadmvlnng&usqp=CAU" group-title="24/7 MOVIE", SUPERHERO MOVIE
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=617112&extension=ts&play_token=yK7Ppvy2jW
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="24/7 MOVIE", JURASSIC PARK
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmRz5k4LT6f0TOzSq-L5PiHEF3Cqadmvlnng&usqp=CAU" group-title="24/7 MOVIE", JURASSIC PARK
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=617130&extension=ts&play_token=yK7Ppvy2jW
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="24/7 MOVIE", HORROR MOVIES
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmRz5k4LT6f0TOzSq-L5PiHEF3Cqadmvlnng&usqp=CAU" group-title="24/7 MOVIE", HORROR MOVIES
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=617145&extension=ts&play_token=yK7Ppvy2jW
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="24/7 MOVIE", THRILLER MOVIES
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmRz5k4LT6f0TOzSq-L5PiHEF3Cqadmvlnng&usqp=CAU" group-title="24/7 MOVIE", THRILLER MOVIES
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=617149&extension=ts&play_token=yK7Ppvy2jW
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="24/7 MOVIE", FAMILY MOVIES
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmRz5k4LT6f0TOzSq-L5PiHEF3Cqadmvlnng&usqp=CAU" group-title="24/7 MOVIE", FAMILY MOVIES
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=617148&extension=ts&play_token=yK7Ppvy2jW
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="24/7 MOVIE", COMEDY MOVIES
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmRz5k4LT6f0TOzSq-L5PiHEF3Cqadmvlnng&usqp=CAU" group-title="24/7 MOVIE", COMEDY MOVIES
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=617147&extension=ts&play_token=yK7Ppvy2jW
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="24/7 MOVIE", CRIME MOVIES
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmRz5k4LT6f0TOzSq-L5PiHEF3Cqadmvlnng&usqp=CAU" group-title="24/7 MOVIE", CRIME MOVIES
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=617146&extension=ts&play_token=yK7Ppvy2jW
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="24/7 MOVIE", HARRY POTTER
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmRz5k4LT6f0TOzSq-L5PiHEF3Cqadmvlnng&usqp=CAU" group-title="24/7 MOVIE", HARRY POTTER
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=617133&extension=ts&play_token=yK7Ppvy2jW
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmRz5k4LT6f0TOzSq-L5PiHEF3Cqadmvlnng&usqp=CAU" group-title="24/7 MOVIE", SPIDERMAN 
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:E4:91:33&stream=1790144_&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmRz5k4LT6f0TOzSq-L5PiHEF3Cqadmvlnng&usqp=CAU" group-title="24/7 MOVIE", TRANSPORMER 
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:E4:91:33&stream=1790108_&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmRz5k4LT6f0TOzSq-L5PiHEF3Cqadmvlnng&usqp=CAU" group-title="24/7 MOVIE", FAST & FUORIUS 
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:E4:91:33&stream=1790010_&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmRz5k4LT6f0TOzSq-L5PiHEF3Cqadmvlnng&usqp=CAU" group-title="24/7 MOVIE", TOM & JERRY 
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:E4:91:33&stream=1790008_&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmRz5k4LT6f0TOzSq-L5PiHEF3Cqadmvlnng&usqp=CAU" group-title="24/7 MOVIE", TRANSPORMER 
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:E4:91:33&stream=1790108_&extension=ts
 
 
 #EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv1.jpg" group-title="CHINA CCTV 🇨🇳",CCTV 1 
@@ -7710,6 +7794,28 @@ http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=658851&extension=
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=559855&extension=ts&play_token=yK7Ppvy2jW
 
 
+
+#EXTINF:-1 tvg-logo="https://tv.apple.com/assets/knowledge-graph/tv.png" group-title="ONDEMAND APPLE+", APPLE+ SERIES 1 
+http://fleximediatv.co.uk:8080/play/live.php?mac=00:1A:79:62:04:F4&stream=1144028_&extension=ts
+#EXTINF:-1 tvg-logo="https://tv.apple.com/assets/knowledge-graph/tv.png" group-title="ONDEMAND APPLE+", APPLE+ SERIES 2
+http://fleximediatv.co.uk:8080/play/live.php?mac=00:1A:79:62:04:F4&stream=1144027_&extension=ts
+#EXTINF:-1 tvg-logo="https://tv.apple.com/assets/knowledge-graph/tv.png" group-title="ONDEMAND APPLE+", APPLE+ SERIES 3 
+http://fleximediatv.co.uk:8080/play/live.php?mac=00:1A:79:62:04:F4&stream=1144026_&extension=ts
+#EXTINF:-1 tvg-logo="https://tv.apple.com/assets/knowledge-graph/tv.png" group-title="ONDEMAND APPLE+", APPLE+ SERIES 4 
+http://fleximediatv.co.uk:8080/play/live.php?mac=00:1A:79:62:04:F4&stream=1144025_&extension=ts
+#EXTINF:-1 tvg-logo="https://tv.apple.com/assets/knowledge-graph/tv.png" group-title="ONDEMAND APPLE+", APPLE+ SERIES 5 
+http://fleximediatv.co.uk:8080/play/live.php?mac=00:1A:79:62:04:F4&stream=1144024_&extension=ts
+#EXTINF:-1 tvg-logo="https://tv.apple.com/assets/knowledge-graph/tv.png" group-title="ONDEMAND APPLE+", APPLE+ SERIES 6 
+http://fleximediatv.co.uk:8080/play/live.php?mac=00:1A:79:62:04:F4&stream=1144023_&extension=ts
+#EXTINF:-1 tvg-logo="https://tv.apple.com/assets/knowledge-graph/tv.png" group-title="ONDEMAND APPLE+", APPLE+ SERIES 7 
+http://fleximediatv.co.uk:8080/play/live.php?mac=00:1A:79:62:04:F4&stream=1144022_&extension=ts
+#EXTINF:-1 tvg-logo="https://tv.apple.com/assets/knowledge-graph/tv.png" group-title="ONDEMAND APPLE+", APPLE+ SERIES 8 
+http://fleximediatv.co.uk:8080/play/live.php?mac=00:1A:79:62:04:F4&stream=1144021_&extension=ts
+#EXTINF:-1 tvg-logo="https://tv.apple.com/assets/knowledge-graph/tv.png" group-title="ONDEMAND APPLE+", APPLE+ SERIES 9 
+http://fleximediatv.co.uk:8080/play/live.php?mac=00:1A:79:62:04:F4&stream=1144020_&extension=ts
+#EXTINF:-1 tvg-logo="https://tv.apple.com/assets/knowledge-graph/tv.png" group-title="ONDEMAND APPLE+", APPLE+ SERIES 10
+http://fleximediatv.co.uk:8080/play/live.php?mac=00:1A:79:62:04:F4&stream=1144019_&extension=ts
+
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/amc-plus-logo-5EBE4D087E-seeklogo.com.png" group-title="ONDEMAND AMC+", AMC+ 1
 http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7d&stream=1095558_&extension=ts
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/amc-plus-logo-5EBE4D087E-seeklogo.com.png" group-title="ONDEMAND AMC+", AMC+ 2
@@ -7772,7 +7878,6 @@ http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7d&stream=1095716_&exten
 #EXTINF:-1 tvg-logo="https://www.androidauthority.com/wp-content/uploads/2020/08/starz-logo.jpg" group-title="ONDEMAND STARZ", STARZ SERIES  10
 http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7d&stream=1095715_&extension=ts
 
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Logo_vodafone_new.png" group-title="ONDEMAND VODAFONE", VODAFONE KINDER 1
 http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7d&stream=994040&extension=ts&play_token=9t1VGqgnHU
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Logo_vodafone_new.png" group-title="ONDEMAND VODAFONE", VODAFONE KINDER 2
@@ -7809,7 +7914,6 @@ http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7d&stream=994025&extensi
 http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7d&stream=994024&extension=ts&play_token=9t1VGqgnHU
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Logo_vodafone_new.png" group-title="ONDEMAND VODAFONE", VODAFONE MOVIE 15
 http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7d&stream=994023&extension=ts&play_token=9t1VGqgnHU
-
 
 #EXTINF:-1 tvg-logo="https://cdn.technadu.com/wp-content/uploads/2021/05/Sky-Go-Logotype-696x392.jpg" group-title="ONDEMAND SKYGO", SKYGO OD 1 ANIME
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=699648&extension=ts&play_token=yK7Ppvy2jW
@@ -7869,7 +7973,6 @@ http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=699563&extension=
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Sky_Select_DE_Logo_2016.png" group-title="ONDEMAND SKYGO", SKY SELECT 7
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=699562&extension=ts&play_token=yK7Ppvy2jW
 
-
 #EXTINF:-1 tvg-logo="https://www.peacocktv.com/static/peacock-toolkit/0.25.2/logo/peacock-wob.png" group-title="ONDEMAND PEACOCK", PEACOCK SERIES 1
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=975485&extension=ts&play_token=yK7Ppvy2jW
 #EXTINF:-1 tvg-logo="https://www.peacocktv.com/static/peacock-toolkit/0.25.2/logo/peacock-wob.png" group-title="ONDEMAND PEACOCK", PEACOCK SERIES 2
@@ -7894,7 +7997,6 @@ http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=975476&extension=
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=975475&extension=ts&play_token=yK7Ppvy2jW
 #EXTINF:-1 tvg-logo="https://www.peacocktv.com/static/peacock-toolkit/0.25.2/logo/peacock-wob.png" group-title="ONDEMAND PEACOCK", PEACOCK SERIES 12
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=975474&extension=ts&play_token=yK7Ppvy2jW
-
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkJDEJ_7QpbyfzGaoqVc8ZWaHYIkpmFJVfTA&usqp=CAU" group-title="ONDEMAND HBOMAX", HBO MAX 1
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=970637&extension=ts&play_token=yK7Ppvy2jW
@@ -7926,7 +8028,6 @@ http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=970625&extension=
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=970624&extension=ts&play_token=yK7Ppvy2jW
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkJDEJ_7QpbyfzGaoqVc8ZWaHYIkpmFJVfTA&usqp=CAU" group-title="ONDEMAND HBOMAX", HBO MAX 15
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=970623&extension=ts&play_token=yK7Ppvy2jW
-
 
 #EXTINF:-1 tvg-logo="https://www.bein.com/ar/wp-content/uploads/sites/4/2020/07/bein-ondemand-Package-page.png" group-title="ONDEMAND BEIN", BEIN MOVIE OD 1
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=594505&extension=ts&play_token=yK7Ppvy2jW
@@ -7970,7 +8071,6 @@ http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=909093&extension=
 #EXTINF:-1 tvg-logo="https://www.broadcastprome.com/wp-content/uploads/2015/10/beIN-movie.jpg" group-title="ONDEMAND BEIN", BEIN ON MAX 10
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=909092&extension=ts&play_token=yK7Ppvy2jW
 
-
 #EXTINF:-1 tvg-logo="https://www.majalahict.com/wp-content/uploads/2021/06/amazon-prime-viceo.jpeg" group-title="ONDEMAND AMAZON PRIME", AMAZON PRIME 1
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=908388&extension=ts&play_token=yK7Ppvy2jW
 #EXTINF:-1 tvg-logo="https://www.majalahict.com/wp-content/uploads/2021/06/amazon-prime-viceo.jpeg" group-title="ONDEMAND AMAZON PRIME", AMAZON PRIME 2
@@ -8002,8 +8102,6 @@ http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=908375&extension=
 #EXTINF:-1 tvg-logo="https://www.majalahict.com/wp-content/uploads/2021/06/amazon-prime-viceo.jpeg" group-title="ONDEMAND AMAZON PRIME", AMAZON PRIME 15
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=908374&extension=ts&play_token=yK7Ppvy2jW
 
-
-
 #EXTINF:-1 tvg-logo="https://files.cults3d.com/uploaders/15076709/illustration-file/70da090e-ea35-4ccb-a301-bc02b743a87c/2.jpg" group-title="ONDEMAND HULU", HULU 1
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=909381&extension=ts&play_token=yK7Ppvy2jW
 #EXTINF:-1 tvg-logo="https://files.cults3d.com/uploaders/15076709/illustration-file/70da090e-ea35-4ccb-a301-bc02b743a87c/2.jpg" group-title="ONDEMAND HULU", HULU 2
@@ -8025,8 +8123,6 @@ http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=909373&extension=
 #EXTINF:-1 tvg-logo="https://files.cults3d.com/uploaders/15076709/illustration-file/70da090e-ea35-4ccb-a301-bc02b743a87c/2.jpg" group-title="ONDEMAND HULU", HULU 10
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=909372&extension=ts&play_token=yK7Ppvy2jW
 
-
-
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tod-tv-logo-D8BDB5883C-seeklogo.com.png" group-title="ONDEMAND TOD", TOD 1
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=909572&extension=ts&play_token=yK7Ppvy2jW
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tod-tv-logo-D8BDB5883C-seeklogo.com.png" group-title="ONDEMAND TOD", TOD 2
@@ -8047,9 +8143,6 @@ http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=909565&extension=
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=909564&extension=ts&play_token=yK7Ppvy2jW
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tod-tv-logo-D8BDB5883C-seeklogo.com.png" group-title="ONDEMAND TOD", TOD 10
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=909563&extension=ts&play_token=yK7Ppvy2jW
-
-
-
 
 #EXTINF:-1 channel-id="samsung-KRBD1400001ED" tvg-id="KRBD1400001ED" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD1400001ED_20230524T004408SQUARE.png_20230524004408.png" tvg-chno="501" group-title="SAMSUNG TV" , ????TV
 https://i.mjh.nz/SamsungTVPlus/KRBD1400001ED.m3u8
