@@ -2771,12 +2771,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuB
 
 
 <================== Premium Movies ====================>
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="VISION+", HBO Family
-http://95.111.193.211:8106/play/a00o/index.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="VISION+", HBO Hits
-http://95.111.193.211:8106/play/a017/index.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="VISION+", HBO Signature
-http://95.111.193.211:8106/play/a00v/index.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2932,8 +2926,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 tvg-id="AnimalPlanet" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_203.png" group-title="VISION+", Animal Planet HD
 http://exprestv.win/play/live.php?mac=00:1A:79:A2:5B:B8&stream=155736&extension=ts&play_token=lmz9vDcDLc
-#EXTINF:-1 tvg-id="AnimalPlanet" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_203.png" group-title="VISION+", Animal Planet 
-http://95.111.193.211:8106/play/a00y/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/2560px-Logo_Nat_Geo_Wild.svg.png" group-title="VISION+", Nat Geo Wild HD
 http://exprestv.win/play/live.php?mac=00:1A:79:A2:5B:B8&stream=155741&extension=ts&play_token=lmz9vDcDLc
@@ -2941,7 +2933,7 @@ http://exprestv.win/play/live.php?mac=00:1A:79:A2:5B:B8&stream=155741&extension=
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/2560px-Logo_Nat_Geo_Wild.svg.png" group-title="VISION+", Nat Geo Wild
 http://exprestv.win/play/live.php?mac=00:1A:79:A2:5B:B8&stream=1283055&extension=ts&play_token=lmz9vDcDLc
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/2560px-Logo_Nat_Geo_Wild.svg.png" group-title="VISION+", Nat Geo Wild SD
-http://95.111.193.211:8106/play/a00c/index.m3u8
+http://95.111.193.211:8106/play/a00y/index.m3u8
 #EXTINF:-1 tvg-logo="https://asset.ctv.ca/image-service/version/c:ZmVjNmE1NTgtYmVhYS00:MGRiZGNi/image.png" group-title="VISION+", Discovery
 http://95.111.193.211:8106/play/a010/index.m3u8
 
