@@ -4461,7 +4461,7 @@ http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=260744&extension=
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=260750&extension=ts&play_token=yK7Ppvy2j
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Sport5_Logo.png/800px-Sport5_Logo.png" group-title="SPORT DUNIA", YES SPORT LIVE 5 IL
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=260753&extension=ts&play_token=yK7Ppvy2j
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT7yIXdd3SxE4Q-CZcF23TQV0bJ0b2UadJOQuGE20J4a5_9pHAKhmEnr2F0SiosCFsB5g&usqp=CAU", YES SPORT 5 PLUS IL
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT7yIXdd3SxE4Q-CZcF23TQV0bJ0b2UadJOQuGE20J4a5_9pHAKhmEnr2F0SiosCFsB5g&usqp=CAU" group-title="SPORT DUNIA", YES SPORT 5 PLUS IL
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=260754&extension=ts&play_token=yK7Ppvy2j
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT7yIXdd3SxE4Q-CZcF23TQV0bJ0b2UadJOQuGE20J4a5_9pHAKhmEnr2F0SiosCFsB5g&usqp=CAU" group-title="SPORT DUNIA", YES SPORT 5 PLUS+ IL
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=260755&extension=ts&play_token=yK7Ppvy2j
