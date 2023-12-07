@@ -5584,18 +5584,6 @@ http://king4k.tv/play/live.php?mac=00:1A:79:A5:DD:10&stream=325001&extension=ts&
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 2", GOL TV US
 http://king4k.tv/play/live.php?mac=00:1A:79:A5:DD:10&stream=325047&extension=ts&play_token=9Tkwk6UcYs
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmVTAZNxbU1StkeyD7qgfMcqxjs3ggZnDrE0FGLRgaWvP3EXffzaotvh07MV4eFiZDqUo&usqp=CAU" group-title="SPORT 4K", ELEVEN SPORT 1 4K
-http://king4k.tv/play/live.php?mac=00:1A:79:A5:DD:10&stream=483973&extension=ts&play_token=9Tkwk6UcYs
-#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F643%2Fv-sport-ultra-1.png" group-title="SPORT 4K", V SPORT ULTRA 4K
-http://king4k.tv/play/live.php?mac=00:1A:79:A5:DD:10&stream=483974&extension=ts&play_token=9Tkwk6UcYs
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/2d/5b/42/2d5b42fa4aa47b204acdba11256f14c8.png" group-title="SPORT 4K", BEIN SPORT 4K
-http://king4k.tv/play/live.php?mac=00:1A:79:A5:DD:10&stream=483975&extension=ts&play_token=9Tkwk6UcYs
-#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/s-logo/611_e.png" group-title="SPORT 4K", NOW SPORT PREMIER 1 4K
-http://king4k.tv/play/live.php?mac=00:1A:79:A5:DD:10&stream=484471&extension=ts&play_token=9Tkwk6UcYs
-#EXTINF:-1 tvg-logo="https://sportskhabri.com/wp-content/uploads/2022/02/Premier-League-announces-StarHub-partnership.jpg" group-title="SPORT 4K", HUB SPORT PREMIER 2 4K
-http://king4k.tv/play/live.php?mac=00:1A:79:A5:DD:10&stream=484466&extension=ts&play_token=9Tkwk6UcYs
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Sport5_Logo.png/800px-Sport5_Logo.png" group-title="SPORT 4K", YES SPORT 5 4K
-http://king4k.tv/play/live.php?mac=00:1A:79:A5:DD:10&stream=483972&extension=ts&play_token=9Tkwk6UcYs
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT FIGHT", UFC NETWORK
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=487680&extension=ts&play_token=yK7Ppvy2j
@@ -6210,9 +6198,6 @@ https://pubads.g.doubleclick.net/ssai/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8
 https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
 
 
-
-
-
 #EXTINF:-1 tvg-logo="https://startingeleven.id/wp-content/uploads/2019/04/mls.jpg" group-title="MLS LIGA", MLS LIVE 1A
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=864905&extension=ts&play_token=yK7Ppvy2jW
 #EXTINF:-1 tvg-logo="https://startingeleven.id/wp-content/uploads/2019/04/mls.jpg" group-title="MLS LIGA", MLS LIVE 2A
@@ -6275,9 +6260,6 @@ http://fleximediatv.co.uk:8080/play/live.php?mac=00:1A:79:62:04:F4&stream=166398
 #EXTINF:-1 tvg-logo="https://www.si.com/.image/t_share/MTY4MjU3MDczODg4NDM4MTQ1/mls-logo-marquee.jpg" group-title="MLS LIGA", MLS LIVE 15B
 http://fleximediatv.co.uk:8080/play/live.php?mac=00:1A:79:62:04:F4&stream=1663988_&extension=ts
 
-
-
-
 #EXTINF:-1 tvg-logo="https://mumbrella.com.au/wp-content/uploads/2020/05/K-League-on-Optus-Sport-e1588811937261.png" group-title="SPORT VIP", OPTUS SPORT 1 
 http://fleximediatv.co.uk:8080/play/live.php?mac=00:1A:79:62:04:F4&stream=1686687_&extension=ts
 #EXTINF:-1 tvg-logo="https://mumbrella.com.au/wp-content/uploads/2020/05/K-League-on-Optus-Sport-e1588811937261.png" group-title="SPORT VIP", OPTUS SPORT 2
@@ -6314,8 +6296,6 @@ http://fleximediatv.co.uk:8080/play/live.php?mac=00:1A:79:62:04:F4&stream=169370
 #EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/logo/621-wbg-e.png" group-title="SPORT VIP", NOW SPORT PREMIER 7
 http://fleximediatv.co.uk:8080/play/live.php?mac=00:1A:79:62:04:F4&stream=1693700_&extension=ts
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/308_144.png" group-title="SPORT VIP", ASTRO SUPERSPORT UHD
-http://fleximediatv.co.uk:8080/play/live.php?mac=00:1A:79:62:04:F4&stream=1917657_&extension=ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="SPORT VIP", ASTRO SUPERSPORT 1
 http://fleximediatv.co.uk:8080/play/live.php?mac=00:1A:79:62:04:F4&stream=1917664_&extension=ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="SPORT VIP", ASTRO SUPERSPORT 2
@@ -6347,6 +6327,20 @@ http://fleximediatv.co.uk:8080/play/live.php?mac=00:1A:79:62:04:F4&stream=191372
 http://fleximediatv.co.uk:8080/play/live.php?mac=00:1A:79:62:04:F4&stream=1913722_&extension=ts
 
 
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/308_144.png" group-title="SPORT 4K", ASTRO SUPERSPORT UHD
+http://fleximediatv.co.uk:8080/play/live.php?mac=00:1A:79:62:04:F4&stream=1917657_&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmVTAZNxbU1StkeyD7qgfMcqxjs3ggZnDrE0FGLRgaWvP3EXffzaotvh07MV4eFiZDqUo&usqp=CAU" group-title="SPORT 4K", ELEVEN SPORT 1 4K
+http://king4k.tv/play/live.php?mac=00:1A:79:A5:DD:10&stream=483973&extension=ts&play_token=9Tkwk6UcYs
+#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F643%2Fv-sport-ultra-1.png" group-title="SPORT 4K", V SPORT ULTRA 4K
+http://king4k.tv/play/live.php?mac=00:1A:79:A5:DD:10&stream=483974&extension=ts&play_token=9Tkwk6UcYs
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/2d/5b/42/2d5b42fa4aa47b204acdba11256f14c8.png" group-title="SPORT 4K", BEIN SPORT 4K
+http://king4k.tv/play/live.php?mac=00:1A:79:A5:DD:10&stream=483975&extension=ts&play_token=9Tkwk6UcYs
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/s-logo/611_e.png" group-title="SPORT 4K", NOW SPORT PREMIER 1 4K
+http://king4k.tv/play/live.php?mac=00:1A:79:A5:DD:10&stream=484471&extension=ts&play_token=9Tkwk6UcYs
+#EXTINF:-1 tvg-logo="https://sportskhabri.com/wp-content/uploads/2022/02/Premier-League-announces-StarHub-partnership.jpg" group-title="SPORT 4K", HUB SPORT PREMIER 2 4K
+http://king4k.tv/play/live.php?mac=00:1A:79:A5:DD:10&stream=484466&extension=ts&play_token=9Tkwk6UcYs
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Sport5_Logo.png/800px-Sport5_Logo.png" group-title="SPORT 4K", YES SPORT 5 4K
+http://king4k.tv/play/live.php?mac=00:1A:79:A5:DD:10&stream=483972&extension=ts&play_token=9Tkwk6UcYs
 
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/bein-sports-1-logo-4E5E4AE6B8-seeklogo.com.png" group-title="MPD SPORT", BEIN SPORT 1 IND
