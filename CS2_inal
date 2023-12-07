@@ -3793,158 +3793,143 @@ https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
 ##################################SPORT ARAB###################################
 ################################################################################
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT ARAB", ABUDHABI SPORT 1
+#EXTINF:-1 tvg-logo="https://lesfolies.design/wp-content/uploads/2018/05/LF-Portfolio-ADSports-Logo-2.jpg" group-title="SPORT ARAB", ABUDHABI SPORT 1
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=584507&extension=ts&play_token=yK7Ppvy2jW
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT ARAB", ABUDHABI SPORT 2
+#EXTINF:-1 tvg-logo="https://lesfolies.design/wp-content/uploads/2018/05/LF-Portfolio-ADSports-Logo-2.jpg" group-title="SPORT ARAB", ABUDHABI SPORT 2
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=584506&extension=ts&play_token=yK7Ppvy2jW
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT ARAB", ABUDHABI SPORT ASIA 1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYCBZDVrfolQB0m1GTp24oillG1H8F4GUpWhpGf6V59UiAhLM2qgIZTIlhwSHnwzRbBhk&usqp=CAU" group-title="SPORT ARAB", ABUDHABI SPORT ASIA 1
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=676456&extension=ts&play_token=yK7Ppvy2jW
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT ARAB", ABUDHABI SPORT ASIA 2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYCBZDVrfolQB0m1GTp24oillG1H8F4GUpWhpGf6V59UiAhLM2qgIZTIlhwSHnwzRbBhk&usqp=CAU" group-title="SPORT ARAB", ABUDHABI SPORT ASIA 2
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=676457&extension=ts&play_token=yK7Ppvy2jW
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT ARAB", STARZPLAY SPORT 1
+#EXTINF:-1 tvg-logo="https://www.sportstarz.tv/wp-content/uploads/2021/06/sportstarz-white-logo.png" group-title="SPORT ARAB", STARZPLAY SPORT 1
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=584505&extension=ts&play_token=yK7Ppvy2jW
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT ARAB", STARZPLAY SPORT 2
+#EXTINF:-1 tvg-logo="https://www.sportstarz.tv/wp-content/uploads/2021/06/sportstarz-white-logo.png" group-title="SPORT ARAB", STARZPLAY SPORT 2
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=584501&extension=ts&play_token=yK7Ppvy2jW
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT ARAB", ALKASS 1
+#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/e07af070606335.5ba94e1546767.jpg" group-title="SPORT ARAB", ALKASS 1
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=924603&extension=ts&play_token=yK7Ppvy2jW
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT ARAB", ALKASS 2
+#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/e07af070606335.5ba94e1546767.jpg" group-title="SPORT ARAB", ALKASS 2
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=924602&extension=ts&play_token=yK7Ppvy2jW
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT ARAB", ALKASS 3
+#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/e07af070606335.5ba94e1546767.jpg" group-title="SPORT ARAB", ALKASS 3
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=924601&extension=ts&play_token=yK7Ppvy2jW
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT ARAB", ALKASS 4
+#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/e07af070606335.5ba94e1546767.jpg" group-title="SPORT ARAB", ALKASS 4
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=924600&extension=ts&play_token=yK7Ppvy2jW
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT ARAB", ALKASS 5
+#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/e07af070606335.5ba94e1546767.jpg" group-title="SPORT ARAB", ALKASS 5
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=924599&extension=ts&play_token=yK7Ppvy2jW
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT ARAB", ALKASS 6
+#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/e07af070606335.5ba94e1546767.jpg" group-title="SPORT ARAB", ALKASS 6
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=924598&extension=ts&play_token=yK7Ppvy2jW
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT ARAB", ABUDHABI SPORT 1
+#EXTINF:-1 tvg-logo="https://lesfolies.design/wp-content/uploads/2018/05/LF-Portfolio-ADSports-Logo-2.jpg" group-title="SPORT ARAB", ABUDHABI SPORT 1
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=924597&extension=ts&play_token=yK7Ppvy2jW
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT ARAB", ABUDHABI SPORT 2
+#EXTINF:-1 tvg-logo="https://lesfolies.design/wp-content/uploads/2018/05/LF-Portfolio-ADSports-Logo-2.jpg" group-title="SPORT ARAB", ABUDHABI SPORT 2
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=924596&extension=ts&play_token=yK7Ppvy2jW
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT ARAB", KSA SPORT 1
+#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/fs/4ceb4e62661903.5a9753390ce2c.png" group-title="SPORT ARAB", KSA SPORT 1
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=924595&extension=ts&play_token=yK7Ppvy2jW
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT ARAB", KSA SPORT 2
+#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/fs/4ceb4e62661903.5a9753390ce2c.png" group-title="SPORT ARAB", KSA SPORT 2
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=924594&extension=ts&play_token=yK7Ppvy2jW
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT ARAB", KSA SPORT 3
+#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/fs/4ceb4e62661903.5a9753390ce2c.png" group-title="SPORT ARAB", KSA SPORT 3
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=924593&extension=ts&play_token=yK7Ppvy2jW
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT ARAB", KSA SPORT 4
+#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/fs/4ceb4e62661903.5a9753390ce2c.png" group-title="SPORT ARAB", KSA SPORT 4
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=924592&extension=ts&play_token=yK7Ppvy2jW
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT ARAB",KSA SAUDI SPORT 1
+#EXTINF:-1 tvg-logo="https://www.elsafa-nwes.com/wp-content/uploads/2019/10/ksa-sport-hd.jpg" group-title="SPORT ARAB",KSA SAUDI SPORT 1
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=924591&extension=ts&play_token=yK7Ppvy2jW
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT ARAB", KSA SAUDI SPORT 2
+#EXTINF:-1 tvg-logo="https://www.elsafa-nwes.com/wp-content/uploads/2019/10/ksa-sport-hd.jpg" group-title="SPORT ARAB", KSA SAUDI SPORT 2
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=924590&extension=ts&play_token=yK7Ppvy2jW
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT ARAB", DUBAI RACING 1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPV75wDkjrVSRYULS-CfRz1caOVvpySiWG85blACUIyDQzzEUYVk9izjfgAlM7-X55pIM&usqp=CAU" group-title="SPORT ARAB", DUBAI RACING 1
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=924589&extension=ts&play_token=yK7Ppvy2jW
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT ARAB", DUBAI RACING 2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPV75wDkjrVSRYULS-CfRz1caOVvpySiWG85blACUIyDQzzEUYVk9izjfgAlM7-X55pIM&usqp=CAU" group-title="SPORT ARAB", DUBAI RACING 2
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=924588&extension=ts&play_token=yK7Ppvy2jW
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT ARAB", DUBAI RACING 3
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPV75wDkjrVSRYULS-CfRz1caOVvpySiWG85blACUIyDQzzEUYVk9izjfgAlM7-X55pIM&usqp=CAU" group-title="SPORT ARAB", DUBAI RACING 3
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=584487&extension=ts&play_token=yK7Ppvy2jW
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT ARAB", DUBAI SPORT 1
+#EXTINF:-1 tvg-logo="https://www.dubaisports.ae/content/dam/Common/brands1/dubai-sport.png" group-title="SPORT ARAB", DUBAI SPORT 1
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=584486&extension=ts&play_token=yK7Ppvy2jW
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT ARAB", DUBAI SPORT 2
+#EXTINF:-1 tvg-logo="https://www.dubaisports.ae/content/dam/Common/brands1/dubai-sport.png" group-title="SPORT ARAB", DUBAI SPORT 2
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=584485&extension=ts&play_token=yK7Ppvy2jW
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT ARAB", DUBAI SPORT 3
+#EXTINF:-1 tvg-logo="https://www.dubaisports.ae/content/dam/Common/brands1/dubai-sport.png" group-title="SPORT ARAB", DUBAI SPORT 3
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=584484&extension=ts&play_token=yK7Ppvy2jW
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT ARAB", ON TIME SPORT 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/On_Time_Sports_Logo.png/800px-On_Time_Sports_Logo.png" group-title="SPORT ARAB", ON TIME SPORT 1
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=924587&extension=ts&play_token=yK7Ppvy2jW
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT ARAB", ON TIME SPORT 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/On_Time_Sports_Logo.png/800px-On_Time_Sports_Logo.png" group-title="SPORT ARAB", ON TIME SPORT 2
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=924586&extension=ts&play_token=yK7Ppvy2jW
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT ARAB", NILE SPORT
+#EXTINF:-1 tvg-logo="https://egytvs.com/wp-content/uploads/2017/02/nilesport.jpg" group-title="SPORT ARAB", NILE SPORT
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=924585&extension=ts&play_token=yK7Ppvy2jW
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT ARAB", LIBYA SPORT
+#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=02588%2F149092_493733864014631_771267810_n.jpg" group-title="SPORT ARAB", LIBYA SPORT
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=924584&extension=ts&play_token=yK7Ppvy2jW
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT ARAB", ARRYADIA SPORT 2
+#EXTINF:-1 tvg-logo="https://korafoot.com/wp-content/uploads/2023/02/dubai-sport-2.png" group-title="SPORT ARAB", ARRYADIA SPORT 2
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=924583&extension=ts&play_token=yK7Ppvy2jW
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT ARAB", IRAQIA SPORT
+#EXTINF:-1 tvg-logo="https://imn.iq/wp-content/uploads/2020/11/4D5BF000-73D9-4268-A52E-34623FC2D026.jpeg" group-title="SPORT ARAB", IRAQIA SPORT
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=924582&extension=ts&play_token=yK7Ppvy2jW
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT ARAB", LIBYA SPORT
+#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=02588%2F149092_493733864014631_771267810_n.jpg" group-title="SPORT ARAB", LIBYA SPORT
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=924581&extension=ts&play_token=yK7Ppvy2jW
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT ARAB", YAS SPORT
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1704037624917209088/YmyRUw2C_400x400.jpg" group-title="SPORT ARAB", YAS SPORT
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=924580&extension=ts&play_token=yK7Ppvy2jW
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT ARAB", JORDAN SPORT
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=924578&extension=ts&play_token=yK7Ppvy2jW
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT ARAB", LIBYA SPORT 2
+#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=02588%2F149092_493733864014631_771267810_n.jpg" group-title="SPORT ARAB", LIBYA SPORT 2
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=924577&extension=ts&play_token=yK7Ppvy2jW
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT ARAB", OMAN SPORT
+#EXTINF:-1 tvg-logo="https://www.ra2ya.com/wp-content/uploads/2021/01/oman-sport-tv.jpg" group-title="SPORT ARAB", OMAN SPORT
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=584469&extension=ts&play_token=yK7Ppvy2jW
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT ARAB", KUWAIT SPORT
+#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=logo_sport%2Fkuwaitsport.jpg" group-title="SPORT ARAB", KUWAIT SPORT
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=584473&extension=ts&play_token=yK7Ppvy2jW
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT ARAB", BAHRAIN SPORT 1
+#EXTINF:-1 tvg-logo="https://binfaqeeh.com/admin/resources/uploads/posts/0db71f503cfc86bd2ee5dd763509d381.jpg" group-title="SPORT ARAB", BAHRAIN SPORT 1
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=584491&extension=ts&play_token=yK7Ppvy2jW
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT ARAB", BAHRAIN SPORT 2
+#EXTINF:-1 tvg-logo="https://binfaqeeh.com/admin/resources/uploads/posts/0db71f503cfc86bd2ee5dd763509d381.jpg" group-title="SPORT ARAB", BAHRAIN SPORT 2
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=584490&extension=ts&play_token=yK7Ppvy2jW
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT ARAB", ABUDHABI SPORT 1
+#EXTINF:-1 tvg-logo="https://www.dubaisports.ae/content/dam/Common/brands1/dubai-sport.png" group-title="SPORT ARAB", ABUDHABI SPORT 1
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=765048&extension=ts&play_token=yK7Ppvy2jW
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT ARAB", ABUDHABI SPORT 2
+#EXTINF:-1 tvg-logo="https://www.dubaisports.ae/content/dam/Common/brands1/dubai-sport.png" group-title="SPORT ARAB", ABUDHABI SPORT 2
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=765052&extension=ts&play_token=yK7Ppvy2jW
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT ARAB", ABUDHABI SPORT 3
+#EXTINF:-1 tvg-logo="https://www.dubaisports.ae/content/dam/Common/brands1/dubai-sport.png" group-title="SPORT ARAB", ABUDHABI SPORT 3
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=761734&extension=ts&play_token=yK7Ppvy2jW
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT ARAB", ABUDHABI SPORT ASIA 1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYCBZDVrfolQB0m1GTp24oillG1H8F4GUpWhpGf6V59UiAhLM2qgIZTIlhwSHnwzRbBhk&usqp=CAU" group-title="SPORT ARAB", ABUDHABI SPORT ASIA 1
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=765044&extension=ts&play_token=yK7Ppvy2jW
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT ARAB", ABUDHABI SPORT ASIA 2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYCBZDVrfolQB0m1GTp24oillG1H8F4GUpWhpGf6V59UiAhLM2qgIZTIlhwSHnwzRbBhk&usqp=CAU" group-title="SPORT ARAB", ABUDHABI SPORT ASIA 2
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=765046&extension=ts&play_token=yK7Ppvy2jW
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT ARAB", SSC SPORT 1
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/71FHz073Z8L.png" group-title="SPORT ARAB", SSC SPORT 1
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=770767&extension=ts&play_token=yK7Ppvy2jW
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT ARAB", SSC SPORT 2
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/71FHz073Z8L.png" group-title="SPORT ARAB", SSC SPORT 2
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=770759&extension=ts&play_token=yK7Ppvy2jW
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT ARAB", SSC SPORT 3
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/71FHz073Z8L.png" group-title="SPORT ARAB", SSC SPORT 3
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=770751&extension=ts&play_token=yK7Ppvy2jW
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT ARAB", SSC SPORT 4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/71FHz073Z8L.png" group-title="SPORT ARAB", SSC SPORT 4
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=770744&extension=ts&play_token=yK7Ppvy2jW
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT ARAB", SSC SPORT 5
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/71FHz073Z8L.png" group-title="SPORT ARAB", SSC SPORT 5
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=770740&extension=ts&play_token=yK7Ppvy2jW
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT ARAB", SSC SPORT EXTRA 1
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/71FHz073Z8L.png" group-title="SPORT ARAB", SSC SPORT EXTRA 1
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=770763&extension=ts&play_token=yK7Ppvy2jW
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT ARAB", SSC SPORT EXTRA 2
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/71FHz073Z8L.png" group-title="SPORT ARAB", SSC SPORT EXTRA 2
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=770755&extension=ts&play_token=yK7Ppvy2jW
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT ARAB", SSC SPORT EXTRA 3
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/71FHz073Z8L.png" group-title="SPORT ARAB", SSC SPORT EXTRA 3
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=770747&extension=ts&play_token=yK7Ppvy2jW
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT ARAB", ALKASS SPORT 1
+#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/a89d2f70606335.5ba94e15d078f.jpg" group-title="SPORT ARAB", ALKASS SPORT 1
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=584499&extension=ts&play_token=yK7Ppvy2jW
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT ARAB", ALKASS SPORT 2
+#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/a89d2f70606335.5ba94e15d078f.jpg" group-title="SPORT ARAB", ALKASS SPORT 2
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=584497&extension=ts&play_token=yK7Ppvy2jW
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT ARAB", ALKASS SPORT 3
+#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/a89d2f70606335.5ba94e15d078f.jpg" group-title="SPORT ARAB", ALKASS SPORT 3
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=631033&extension=ts&play_token=yK7Ppvy2jW
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT ARAB", ALKASS SPORT 4
+#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/a89d2f70606335.5ba94e15d078f.jpg" group-title="SPORT ARAB", ALKASS SPORT 4
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=584495&extension=ts&play_token=yK7Ppvy2jW
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT ARAB", ALKASS SPORT 5
+#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/a89d2f70606335.5ba94e15d078f.jpg" group-title="SPORT ARAB", ALKASS SPORT 5
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=584493&extension=ts&play_token=yK7Ppvy2jW
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT ARAB", ALKASS SPORT 6
+#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/a89d2f70606335.5ba94e15d078f.jpg" group-title="SPORT ARAB", ALKASS SPORT 6
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=631034&extension=ts&play_token=yK7Ppvy2jW
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT ARAB", BEIN SPORTS 1
-http://main.xplus2-main.xyz:2082/xplus-2-p8Fh74QndE/QZGmsX9MEY/901
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT ARAB", BEIN SPORTS 2
-http://main.xplus2-main.xyz:2082/xplus-2-p8Fh74QndE/QZGmsX9MEY/902
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT ARAB", BEIN SPORTS 3
-http://main.xplus2-main.xyz:2082/xplus-2-p8Fh74QndE/QZGmsX9MEY/903
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT ARAB", BEIN SPORTS 4
-http://main.xplus2-main.xyz:2082/xplus-2-p8Fh74QndE/QZGmsX9MEY/904
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT ARAB", BEIN SPORTS 5
-http://main.xplus2-main.xyz:2082/xplus-2-p8Fh74QndE/QZGmsX9MEY/905
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT ARAB", BEIN SPORTS 6
-http://main.xplus2-main.xyz:2082/xplus-2-p8Fh74QndE/QZGmsX9MEY/906
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT ARAB", BEIN SPORTS 7
-http://main.xplus2-main.xyz:2082/xplus-2-p8Fh74QndE/QZGmsX9MEY/907
 
 
 ################################################################################
 ##################################SPORT DUNIA###################################
 ################################################################################
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT DUNIA", RMC SPORT 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_RMC_Sport_2018.svg/640px-Logo_RMC_Sport_2018.svg.png" group-title="SPORT DUNIA", RMC SPORT 1
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=554024&extension=ts&play_token=yK7Ppvy2jW
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT DUNIA", RMC SPORT 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_RMC_Sport_2018.svg/640px-Logo_RMC_Sport_2018.svg.png" group-title="SPORT DUNIA", RMC SPORT 2
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=554025&extension=ts&play_token=yK7Ppvy2jW
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT DUNIA", RMC SPORT 3 LIVE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_RMC_Sport_2018.svg/640px-Logo_RMC_Sport_2018.svg.png" group-title="SPORT DUNIA", RMC SPORT 3 LIVE
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=543390&extension=ts&play_token=yK7Ppvy2jW
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT DUNIA", RMC SPORT 4 LIVE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_RMC_Sport_2018.svg/640px-Logo_RMC_Sport_2018.svg.png" group-title="SPORT DUNIA", RMC SPORT 4 LIVE
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=543392&extension=ts&play_token=yK7Ppvy2jW
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT DUNIA", RMC SPORT 5 LIVE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_RMC_Sport_2018.svg/640px-Logo_RMC_Sport_2018.svg.png" group-title="SPORT DUNIA", RMC SPORT 5 LIVE
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=543430&extension=ts&play_token=yK7Ppvy2jW
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT DUNIA", RMC SPORT 6 LIVE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_RMC_Sport_2018.svg/640px-Logo_RMC_Sport_2018.svg.png" group-title="SPORT DUNIA", RMC SPORT 6 LIVE
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=543431&extension=ts&play_token=yK7Ppvy2jW
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/BeIN_SPORTS_France_logo_2017.jpg" group-title="SPORT DUNIA", BEIN SPORT 1 FR
@@ -4019,11 +4004,11 @@ http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=605972&extension=
 #EXTINF:-1 tvg-logo="https://s2.abcstatics.com/media/tecnologia/2020/09/10/s/trucos-amazon-primevideo-ksrD--620x349@abc.png" group-title="SPORT DUNIA", AMAZONE PRIME LIGUE 8 FR
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=605971&extension=ts&play_token=yK7Ppvy2jW
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/BeIN_SPORTS_France_logo_2017.jpg" group-title="SPORT DUNIA", BEIN SPORT 1 FR TOD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/BeIN_SPORTS_France_logo_2017.jpg" group-title="SPORT DUNIA", BEIN SPORT 1 FR 
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=603945&extension=ts&play_token=yK7Ppvy2jW
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/BeIN_SPORTS_France_logo_2017.jpg" group-title="SPORT DUNIA", BEIN SPORT 2 FR TOD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/BeIN_SPORTS_France_logo_2017.jpg" group-title="SPORT DUNIA", BEIN SPORT 2 FR
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=603944&extension=ts&play_token=yK7Ppvy2jW
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/BeIN_SPORTS_France_logo_2017.jpg" group-title="SPORT DUNIA", BEIN SPORT 3 FR TOD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/BeIN_SPORTS_France_logo_2017.jpg" group-title="SPORT DUNIA", BEIN SPORT 3 FR
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=559736&extension=ts&play_token=yK7Ppvy2jW
 
 #EXTINF:-1 tvg-logo="https://apkaio.com/storage/images/com/emas/radio/com.emas.radio_1.png" group-title="SPORT DUNIA", BEIN SPORT 1 AR
@@ -4076,10 +4061,8 @@ http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=559748&extension=
 #EXTINF:-1 tvg-logo="https://apkaio.com/storage/images/com/emas/radio/com.emas.radio_1.png" group-title="SPORT DUNIA", BEIN SPORT 9 TOD
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=559747&extension=ts&play_token=yK7Ppvy2jW
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT DUNIA", BEIN SPORT GLOBAL TOD
+#EXTINF:-1 tvg-logo="https://apkaio.com/storage/images/com/emas/radio/com.emas.radio_1.png" group-title="SPORT DUNIA", BEIN SPORT GLOBAL TOD
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=550401&extension=ts&play_token=yK7Ppvy2jW
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT DUNIA", BEIN SPORT ULTRA EVENT
-http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=973395&extension=ts&play_token=yK7Ppvy2jW
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT DUNIA", BEIN SPORT NBA
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=971254&extension=ts&play_token=yK7Ppvy2jW
 
@@ -4105,22 +4088,22 @@ http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=812991&extension=
 #EXTINF:-1 tvg-logo="https://www.icarus-sports.com/wp-content/uploads/2021/03/bbf8aa8cfd0411f1af63449751373933.jpeg" group-title="SPORT DUNIA", SPORT TV 6 PT
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=632985&extension=ts&play_token=yK7Ppvy2jW
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT DUNIA", ELEVEN 1 PT
+#EXTINF:-1 tvg-logo="https://picon.pp.ua/eleven-sport1-pt.png" group-title="SPORT DUNIA", ELEVEN 1 PT
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=812992&extension=ts&play_token=yK7Ppvy2jW
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT DUNIA", ELEVEN 2 PT
+#EXTINF:-1 tvg-logo="https://picon.pp.ua/eleven-sport1-pt.png" group-title="SPORT DUNIA", ELEVEN 2 PT
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=812993&extension=ts&play_token=yK7Ppvy2jW
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT DUNIA", ELEVEN 3 PT
+#EXTINF:-1 tvg-logo="https://picon.pp.ua/eleven-sport1-pt.png" group-title="SPORT DUNIA", ELEVEN 3 PT
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=812994&extension=ts&play_token=yK7Ppvy2jW
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT DUNIA", ELEVEN 4 PT
+#EXTINF:-1 tvg-logo="https://picon.pp.ua/eleven-sport1-pt.png" group-title="SPORT DUNIA", ELEVEN 4 PT
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=812995&extension=ts&play_token=yK7Ppvy2jW
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT DUNIA", ELEVEN 5 PT
+#EXTINF:-1 tvg-logo="https://picon.pp.ua/eleven-sport1-pt.png" group-title="SPORT DUNIA", ELEVEN 5 PT
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=812996&extension=ts&play_token=yK7Ppvy2jW
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT DUNIA", ELEVEN 6 PT
+#EXTINF:-1 tvg-logo="https://picon.pp.ua/eleven-sport1-pt.png" group-title="SPORT DUNIA", ELEVEN 6 PT
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=812997&extension=ts&play_token=yK7Ppvy2jW
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT DUNIA", SPORT TV NBA PT
+#EXTINF:-1 tvg-logo="https://i0.wp.com/travelradar.aero/wp-content/uploads/2021/05/NBA.png" group-title="SPORT DUNIA", SPORT TV NBA PT
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=250580&extension=ts&play_token=yK7Ppvy2jW
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT DUNIA", NBA TV PT
+#EXTINF:-1 tvg-logo="https://i0.wp.com/travelradar.aero/wp-content/uploads/2021/05/NBA.png" group-title="SPORT DUNIA", NBA TV PT
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=250610&extension=ts&play_token=yK7Ppvy2jW
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT DUNIA", BENFICA BTV PT
