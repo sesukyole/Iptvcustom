@@ -21,6 +21,8 @@ http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=652929_&
 http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=727387_&extension=ts
 #EXTINF:-1 tvg-logo="https://cdn-9.motorsport.com/images/amp/0rGgREq2/s1000/francesco-bagnaia-ducati-team-.jpg" group-title="#🏍️🏍️🏍️LIVE MOTOGP🏍️🏍️🏍️#", GP LIVE 5
 http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=520554_&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn-9.motorsport.com/images/amp/0rGgREq2/s1000/francesco-bagnaia-ducati-team-.jpg" group-title="#🏍️🏍️🏍️LIVE MOTOGP🏍️🏍️🏍️#", GP LIVE 6
+http://adarker.com:25461/play/live.php?mac=00:1A:79:8A:43:5E&stream=1925_&extension=ts
 
 #EXTINF:-1 tvg-logo="https://ichef.bbci.co.uk/news/1024/branded_news/A235/production/_98952514_newf1touse.jpg" group-title="#🏎️🏎️🏎️LIVE F1🏎️🏎️🏎️#", F1 LIVE 1
 http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=520553_&extension=ts
@@ -4300,7 +4302,6 @@ http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=577982&extension=
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=577981&extension=ts&play_token=yK7Ppvy2j
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT DUNIA", SKY SPORT MAIN EVENT UK
-
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=577997&extension=ts&play_token=yK7Ppvy2j
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT DUNIA", SKY SPORT PREMIER LEAGUE UK
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=577996&extension=ts&play_token=yK7Ppvy2j
@@ -5936,6 +5937,17 @@ http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7d&stream=239085&extensi
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/supervariety4.png" group-title="SPORT AFRICA", SUPERSPORT VARIETY 4
 http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7d&stream=239084&extension=ts&play_token=Tj5rP8kRtc
 
+#EXTINF:-1 tvg-logo="https://dnl.tntsports.co.uk/sd/img/structured-data/tntsports.jpg" group-title="SPORT TNT", TNT SPORT 1
+http://adarker.com:25461/play/live.php?mac=00:1A:79:8A:43:5E&stream=1924_&extension=ts
+#EXTINF:-1 tvg-logo="https://dnl.tntsports.co.uk/sd/img/structured-data/tntsports.jpg" group-title="SPORT TNT", TNT SPORT 2
+http://adarker.com:25461/play/live.php?mac=00:1A:79:8A:43:5E&stream=1925_&extension=ts
+#EXTINF:-1 tvg-logo="https://dnl.tntsports.co.uk/sd/img/structured-data/tntsports.jpg" group-title="SPORT TNT", TNT SPORT 3
+http://adarker.com:25461/play/live.php?mac=00:1A:79:8A:43:5E&stream=1926_&extension=ts
+#EXTINF:-1 tvg-logo="https://dnl.tntsports.co.uk/sd/img/structured-data/tntsports.jpg" group-title="SPORT TNT", TNT SPORT 4
+http://adarker.com:25461/play/live.php?mac=00:1A:79:8A:43:5E&stream=1923_&extension=ts
+#EXTINF:-1 tvg-logo="https://dnl.tntsports.co.uk/sd/img/structured-data/tntsports.jpg" group-title="SPORT TNT", TNT SPORT 5 EXTRA
+http://adarker.com:25461/play/live.php?mac=00:1A:79:8A:43:5E&stream=1940_&extension=ts
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT TURKY", BEIN SPORT 1 HD
 http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=564724_&extension=ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT TURKY", BEIN SPORT 1 SD
@@ -6341,6 +6353,8 @@ http://king4k.tv/play/live.php?mac=00:1A:79:A5:DD:10&stream=484471&extension=ts&
 http://king4k.tv/play/live.php?mac=00:1A:79:A5:DD:10&stream=484466&extension=ts&play_token=9Tkwk6UcYs
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Sport5_Logo.png/800px-Sport5_Logo.png" group-title="SPORT 4K", YES SPORT 5 4K
 http://king4k.tv/play/live.php?mac=00:1A:79:A5:DD:10&stream=483972&extension=ts&play_token=9Tkwk6UcYs
+#EXTINF:-1 tvg-logo="https://media.info/i/lf/0/1500468425/1514.png" group-title="SPORT 4K", SKY SPORT F1 4K
+http://adarker.com:25461/play/live.php?mac=00:1A:79:8A:43:5E&stream=1940_&extension=ts
 
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/bein-sports-1-logo-4E5E4AE6B8-seeklogo.com.png" group-title="MPD SPORT", BEIN SPORT 1 IND
