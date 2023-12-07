@@ -4697,8 +4697,6 @@ http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=263456&extension=
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/xyyytr1444741576.png" group-title="SPORT DUNIA", SNOVA SPORT BG
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=263468&extension=ts&play_token=yK7Ppvy2j
 
-
-
 #EXTINF:-1 tvg-logo="https://tv.donmaztv.com/bein-sports-haber.png" group-title="SPORT DUNIA 1", BEIN HABER TR
 http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=27725_&extension=ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", BEIN SPORT 4K TR
@@ -5429,19 +5427,6 @@ http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=65325_&extension
 http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=65415_&extension=ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", MATCH CTPAHA RU
 http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=65331_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA", ZIGGO SPORT GOLF
-http://xpro.one-iptv.com:25443/live/RAFTIAR2/1083083020242/62970.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA", ZIGGO SPORT TENNIS
-http://xpro.one-iptv.com:25443/live/RAFTIAR2/1083083020242/62971.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA", ZIGGO SPORT
-http://xpro.one-iptv.com:25443/live/RAFTIAR2/1083083020242/62972.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA", ZIGGO SPORT RACING
-http://xpro.one-iptv.com:25443/live/RAFTIAR2/1083083020242/62973.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA", ZIGGO SPORT SELECT
-http://xpro.one-iptv.com:25443/live/RAFTIAR2/1083083020242/62974.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA", ZIGGO SPORT VOETBAL
-http://xpro.one-iptv.com:25443/live/RAFTIAR2/1083083020242/62975.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 2", TNT SPORT 1 UK SD
 http://king4k.tv/play/live.php?mac=00:1A:79:A5:DD:10&stream=604006&extension=ts&play_token=9Tkwk6UcYs
