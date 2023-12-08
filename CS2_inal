@@ -6191,6 +6191,11 @@ https://youdooball.livedoomovies.com:4432/02_PremierHD4_720p/chunklist.m3u8
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
 https://youdooball.livedoomovies.com:4432/02_PremierHD5_720p/chunklist.m3u8
 
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/1200px-Logo_bein_sports_1.png" group-title="SPORT ASIA", BEIN SPORT 1 TH
+https://edge1.laotv.la/live/Bsport1/index.m3u8
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_bein_sports_2.png/640px-Logo_bein_sports_2.png" group-title="SPORT ASIA", BEIN SPORT 2 TH
+https://edge1.laotv.la/live/Bsport2/index.m3u8
+
 
 #EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/59/Sony_Sports_Network.png" group-title="SPORT ASIA",Sony TEN 1 HD 
 https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8 
