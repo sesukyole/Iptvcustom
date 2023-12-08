@@ -3938,6 +3938,23 @@ http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=584493&extension=
 #EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/a89d2f70606335.5ba94e15d078f.jpg" group-title="SPORT ARAB", ALKASS SPORT 6
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=631034&extension=ts&play_token=yK7Ppvy2jW
 
+#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F921%2Fssc1-hd-1.png" group-title="SPORT ARAB", SSC SPORT 1 SD
+https://s1.bein-kora.live:5443/YallaGoalApp/streams/Teletv_SSC_Sport_1.m3u8
+#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F921%2Fssc1-hd-1.png" group-title="SPORT ARAB", SSC SPORT 2 SD
+https://s1.bein-kora.live:5443/YallaGoalApp/streams/Teletv_SSC_Sport_2.m3u8
+#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F921%2Fssc1-hd-1.png" group-title="SPORT ARAB", SSC SPORT 3 SD
+https://s1.bein-kora.live:5443/YallaGoalApp/streams/Teletv_SSC_Sport_3.m3u8
+#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F921%2Fssc1-hd-1.png" group-title="SPORT ARAB", SSC SPORT 4 SD
+https://s1.bein-kora.live:5443/YallaGoalApp/streams/Teletv_SSC_Sport_4.m3u8
+#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F921%2Fssc1-hd-1.png" group-title="SPORT ARAB", SSC SPORT 5 SD
+https://s1.bein-kora.live:5443/YallaGoalApp/streams/Teletv_SSC_Sport_5.m3u8
+#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F921%2Fssc1-hd-1.png" group-title="SPORT ARAB", SSC SPORT EXTRA 1 SD
+https://s1.bein-kora.live:5443/YallaGoalApp/streams/Teletv_SSC_Sport_Extra_1.m3u8
+#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F921%2Fssc1-hd-1.png" group-title="SPORT ARAB", SSC SPORT EXTRA 2 SD
+https://s1.bein-kora.live:5443/YallaGoalApp/streams/Teletv_SSC_Sport_Extra_2.m3u8
+#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F921%2Fssc1-hd-1.png" group-title="SPORT ARAB", SSC SPORT EXTRA 3 SD
+https://s1.bein-kora.live:5443/YallaGoalApp/streams/Teletv_SSC_Sport_Extra_3.m3u8
+
 
 ################################################################################
 ##################################SPORT DUNIA###################################
