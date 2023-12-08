@@ -5712,32 +5712,6 @@ http://king4k.tv/play/live.php?mac=00:1A:79:A5:DD:10&stream=325001&extension=ts&
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 2", GOL TV US
 http://king4k.tv/play/live.php?mac=00:1A:79:A5:DD:10&stream=325047&extension=ts&play_token=9Tkwk6UcYs
 
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT FIGHT", UFC NETWORK
-http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=487680&extension=ts&play_token=yK7Ppvy2j
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT FIGHT", UFC NETWORK LIVE
-http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=493822&extension=ts&play_token=yK7Ppvy2j
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT FIGHT", FIGHT WORLD
-http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=262780&extension=ts&play_token=yK7Ppvy2j
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT FIGHT", ARENA FIGHT
-http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=854423&extension=ts&play_token=yK7Ppvy2j
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT FIGHT", FIGHT NETWORK CA
-http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=626847&extension=ts&play_token=yK7Ppvy2j
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT FIGHT", FIGHT NETWORK
-http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=487683&extension=ts&play_token=yK7Ppvy2j
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT FIGHT", ARENA FIGHT HD
-http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=263074&extension=ts&play_token=yK7Ppvy2j
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT FIGHT", COMBAT UFC BR
-http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=264267&extension=ts&play_token=yK7Ppvy2j
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT FIGHT", MATCHBOEC UFC RU
-http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=293404&extension=ts&play_token=yK7Ppvy2j
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT FIGHT", FIGHTKLUB PL
-http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=814343&extension=ts&play_token=yK7Ppvy2j
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT FIGHT", FIGHT BOX AL
-http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=262254&extension=ts&play_token=yK7Ppvy2j
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT FIGHT", POLSAT FIGHT PL
-http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=814337&extension=ts&play_token=yK7Ppvy2j
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT LATIN1", BAND SPORT BR
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=264265&extension=ts&play_token=yK7Ppvy2j
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT LATIN1", ESPN SPORT 1 BR
@@ -6066,6 +6040,31 @@ http://iptvomax.xyz:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=630595&extensi
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs3VsiBsOdJy4JsmX_k5SxMxwbHUvkkt5DrA&usqp=CAU" group-title="SPORT NEWZELAND", SKY SPORT 10
 http://iptvomax.xyz:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=630596&extension=ts&play_token=rGRed9lUa7
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/UFC_Network.png" group-title="SPORT FIGHT", UFC NETWORK
+http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=487680&extension=ts&play_token=yK7Ppvy2j
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/UFC_Network.png" group-title="SPORT FIGHT", UFC NETWORK LIVE
+http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=493822&extension=ts&play_token=yK7Ppvy2j
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TFN_logo.svg/1200px-TFN_logo.svg.png" group-title="SPORT FIGHT", FIGHT WORLD
+http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=262780&extension=ts&play_token=yK7Ppvy2j
+#EXTINF:-1 tvg-logo="https://rem.rs/uploads/attachment/pruzalac/1636/thumb_arena_fight.png" group-title="SPORT FIGHT", ARENA FIGHT
+http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=854423&extension=ts&play_token=yK7Ppvy2j
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TFN_logo.svg/1200px-TFN_logo.svg.png" group-title="SPORT FIGHT", FIGHT NETWORK CA
+http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=626847&extension=ts&play_token=yK7Ppvy2j
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TFN_logo.svg/1200px-TFN_logo.svg.png" group-title="SPORT FIGHT", FIGHT NETWORK
+http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=487683&extension=ts&play_token=yK7Ppvy2j
+#EXTINF:-1 tvg-logo="https://rem.rs/uploads/attachment/pruzalac/1636/thumb_arena_fight.png" group-title="SPORT FIGHT", ARENA FIGHT HD
+http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=263074&extension=ts&play_token=yK7Ppvy2j
+#EXTINF:-1 tvg-logo="https://www.exorbeo.com/wp-content/uploads/2013/07/canal-combate-1280x720.jpg" group-title="SPORT FIGHT", COMBAT UFC BR
+http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=264267&extension=ts&play_token=yK7Ppvy2j
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ru/b/b2/%D0%9C%D0%B0%D1%82%D1%87%21_%D0%91%D0%BE%D0%B5%D1%86.jpg" group-title="SPORT FIGHT", MATCHBOEC UFC RU
+http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=293404&extension=ts&play_token=yK7Ppvy2j
+#EXTINF:-1 tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/fightklub.png" group-title="SPORT FIGHT", FIGHTKLUB PL
+http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=814343&extension=ts&play_token=yK7Ppvy2j
+#EXTINF:-1 tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/logo/FightBoxHD-logo.png" group-title="SPORT FIGHT", FIGHT BOX AL
+http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=262254&extension=ts&play_token=yK7Ppvy2j
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Polsat_Sport_Fight_HD_%E2%80%93_logo.jpg" group-title="SPORT FIGHT", POLSAT FIGHT PL
+http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=814337&extension=ts&play_token=yK7Ppvy2j
+
 #EXTINF:-1 tvg-logo="https://dnl.tntsports.co.uk/sd/img/structured-data/tntsports.jpg" group-title="SPORT TNT", TNT SPORT 1
 http://adarker.com:25461/play/live.php?mac=00:1A:79:8A:43:5E&stream=1924_&extension=ts
 #EXTINF:-1 tvg-logo="https://dnl.tntsports.co.uk/sd/img/structured-data/tntsports.jpg" group-title="SPORT TNT", TNT SPORT 2
@@ -6077,138 +6076,136 @@ http://adarker.com:25461/play/live.php?mac=00:1A:79:8A:43:5E&stream=1923_&extens
 #EXTINF:-1 tvg-logo="https://dnl.tntsports.co.uk/sd/img/structured-data/tntsports.jpg" group-title="SPORT TNT", TNT SPORT 5 EXTRA
 http://adarker.com:25461/play/live.php?mac=00:1A:79:8A:43:5E&stream=1940_&extension=ts
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT TURKY", BEIN SPORT 1 HD
+#EXTINF:-1 tvg-logo="https://icdb.tv/images/5eff02f4d1725fb111490c036ecec4d7.jpg" group-title="SPORT TURKY", BEIN SPORT 1 HD
 http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=564724_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT TURKY", BEIN SPORT 1 SD
+#EXTINF:-1 tvg-logo="https://icdb.tv/images/5eff02f4d1725fb111490c036ecec4d7.jpg" group-title="SPORT TURKY", BEIN SPORT 1 SD
 http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=432674_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT TURKY", BEIN SPORT 2
+#EXTINF:-1 tvg-logo="https://icdb.tv/images/5eff02f4d1725fb111490c036ecec4d7.jpg" group-title="SPORT TURKY", BEIN SPORT 2 HD
 http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=70_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT TURKY", BEIN SPORT 3
+#EXTINF:-1 tvg-logo="https://icdb.tv/images/5eff02f4d1725fb111490c036ecec4d7.jpg" group-title="SPORT TURKY", BEIN SPORT 3 HD
 http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=71_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT TURKY", BEIN SPORT 4
+#EXTINF:-1 tvg-logo="https://icdb.tv/images/5eff02f4d1725fb111490c036ecec4d7.jpg" group-title="SPORT TURKY", BEIN SPORT 4 HD
 http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=72_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT TURKY", BEIN SPORT 5
-http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=702284_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT TURKY", BEIN SPORT MAX 1
+#EXTINF:-1 tvg-logo="https://icdb.tv/images/5eff02f4d1725fb111490c036ecec4d7.jpg" group-title="SPORT TURKY", BEIN SPORT 5 HD
+http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=702284_&extension=ts 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png" group-title="SPORT TURKY", BEIN SPORT MAX 1 HD
 http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=428_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT TURKY", BEIN SPORT MAX 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png" group-title="SPORT TURKY", BEIN SPORT MAX 2 HD
 http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=439_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT TURKY", BEIN SPORT HABER
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/9/9a/BeIN_SPORTS_Haber_HD.jpg" group-title="SPORT TURKY", BEIN SPORT HABER HD
 http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=421_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT TURKY", A SPORT TR
+#EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image27516465960.jpg" group-title="SPORT TURKY", A SPORT TR
 http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=305_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT TURKY", TRT SPORT TR
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/280x280_RS/54/16/10/541610e5005ac44489f31a641e6217f5.jpg" group-title="SPORT TURKY", TRT SPORT TR
 http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=391_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT TURKY", TRT SPORT 2 TR
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/280x280_RS/54/16/10/541610e5005ac44489f31a641e6217f5.jpg" group-title="SPORT TURKY", TRT SPORT 2 TR
 http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=702286_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT TURKY", TRT SPORT 3 TR
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/280x280_RS/54/16/10/541610e5005ac44489f31a641e6217f5.jpg" group-title="SPORT TURKY", TRT SPORT 3 TR
 http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=702285_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT TURKY", SMART SPORT 1 TR
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/Smart-spor-hd.png" group-title="SPORT TURKY", SMART SPORT 1 TR
 http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=27_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT TURKY", SMART SPORT 2 TR
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/Smart-spor-hd.png" group-title="SPORT TURKY", SMART SPORT 2 TR
 http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=641918_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT TURKY", SMART SPORT 2 HD TR
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/Smart-spor-hd.png" group-title="SPORT TURKY", SMART SPORT 2 HD TR
 http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=434_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT TURKY", TIVIBU SPORT 1 TR
+#EXTINF:-1 tvg-logo="https://www.giniko.com/logos/190x110/943.png" group-title="SPORT TURKY", TIVIBU SPORT 1 TR
 http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=435_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT TURKY", TIVIBU SPORT 2 TR
+#EXTINF:-1 tvg-logo="https://www.giniko.com/logos/190x110/943.png" group-title="SPORT TURKY", TIVIBU SPORT 2 TR
 http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=436_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT TURKY", TIVIBU SPORT 3 TR
+#EXTINF:-1 tvg-logo="https://www.giniko.com/logos/190x110/943.png" group-title="SPORT TURKY", TIVIBU SPORT 3 TR
 http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=437_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT TURKY", TIVIBU SPORT 4 TR
+#EXTINF:-1 tvg-logo="https://www.giniko.com/logos/190x110/943.png" group-title="SPORT TURKY", TIVIBU SPORT 4 TR
 http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=664524_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT TURKY", S SPORT 1 TR
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/82/S_Sport_logo.jpg" group-title="SPORT TURKY", S SPORT 1 TR
 http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=37_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT TURKY", S SPORT 2 TR
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/82/S_Sport_logo.jpg" group-title="SPORT TURKY", S SPORT 2 TR
 http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=38_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT TURKY", S SPORT PLUS 1 TR
-http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=694610_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT TURKY", CBS SPORT TR
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/93/22/89/93228966c452ea1df8c37adacef4ca5e.jpg" group-title="SPORT TURKY", CBS SPORT TR
 http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=702146_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT TURKY", SPORTS TV TR
+#EXTINF:-1 tvg-logo="https://www.sportstv.com.tr/assets/images/sportstv/logo_sportstv_large.png" group-title="SPORT TURKY", SPORTS TV TR
 http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=85_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT TURKY", TJK SPORT TR
+#EXTINF:-1 tvg-logo="https://canlitjktvizle.files.wordpress.com/2014/07/tjk-tv-izle.png" group-title="SPORT TURKY", TJK SPORT TR
 http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=304_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT TURKY", TAY SPORT TR
+#EXTINF:-1 tvg-logo="https://live.kavuntv.net/uploads/kanal/26829tay-tv.png" group-title="SPORT TURKY", TAY SPORT TR
 http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=694394_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT TURKY", EDGE SPORT TR
+#EXTINF:-1 tvg-logo="https://www.sportstribal.tv/home/wp-content/uploads/2021/02/edgesports-logo-sml-v2.png" group-title="SPORT TURKY", EDGE SPORT TR
 http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=702291_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT TURKY", FIGHTBOX TR
+#EXTINF:-1 tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/logo/FightBoxHD-logo.png" group-title="SPORT TURKY", FIGHTBOX TR
 http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=7021287_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT TURKY", NBA SPORT TR
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="SPORT TURKY", NBA SPORT TR
 http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=505718_&extension=ts
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT TURKY", BEIN SPORT 1
+#EXTINF:-1 tvg-logo="https://icdb.tv/images/5eff02f4d1725fb111490c036ecec4d7.jpg" group-title="SPORT TURKY", BEIN SPORT 1
 http://king4k.tv/play/live.php?mac=00:1A:79:A5:DD:10&stream=394554&extension=ts&play_token=9Tkwk6UcYs
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT TURKY", BEIN SPORT 2
+#EXTINF:-1 tvg-logo="https://icdb.tv/images/5eff02f4d1725fb111490c036ecec4d7.jpg" group-title="SPORT TURKY", BEIN SPORT 2
 http://king4k.tv/play/live.php?mac=00:1A:79:A5:DD:10&stream=394555&extension=ts&play_token=9Tkwk6UcYs
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT TURKY", BEIN SPORT 3
+#EXTINF:-1 tvg-logo="https://icdb.tv/images/5eff02f4d1725fb111490c036ecec4d7.jpg" group-title="SPORT TURKY", BEIN SPORT 3
 http://king4k.tv/play/live.php?mac=00:1A:79:A5:DD:10&stream=394556&extension=ts&play_token=9Tkwk6UcYs
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT TURKY", BEIN SPORT 4
+#EXTINF:-1 tvg-logo="https://icdb.tv/images/5eff02f4d1725fb111490c036ecec4d7.jpg" group-title="SPORT TURKY", BEIN SPORT 4
 http://king4k.tv/play/live.php?mac=00:1A:79:A5:DD:10&stream=394557&extension=ts&play_token=9Tkwk6UcYs
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT TURKY", BEIN SPORT 5
+#EXTINF:-1 tvg-logo="https://icdb.tv/images/5eff02f4d1725fb111490c036ecec4d7.jpg" group-title="SPORT TURKY", BEIN SPORT 5
 http://king4k.tv/play/live.php?mac=00:1A:79:A5:DD:10&stream=394558&extension=ts&play_token=9Tkwk6UcYs
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT TURKY", BEIN SPORT MAX 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png" group-title="SPORT TURKY", BEIN SPORT MAX 1
 http://king4k.tv/play/live.php?mac=00:1A:79:A5:DD:10&stream=394561&extension=ts&play_token=9Tkwk6UcYs
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT TURKY", BEIN SPORT MAX 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png" group-title="SPORT TURKY", BEIN SPORT MAX 2
 http://king4k.tv/play/live.php?mac=00:1A:79:A5:DD:10&stream=394562&extension=ts&play_token=9Tkwk6UcYs
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT TURKY", BEIN SPORT HABER
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/9/9a/BeIN_SPORTS_Haber_HD.jpg" group-title="SPORT TURKY", BEIN SPORT HABER
 http://king4k.tv/play/live.php?mac=00:1A:79:A5:DD:10&stream=200278&extension=ts&play_token=9Tkwk6UcYs
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT TURKY", S SPORT 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/82/S_Sport_logo.jpg" group-title="SPORT TURKY", S SPORT 1
 http://king4k.tv/play/live.php?mac=00:1A:79:A5:DD:10&stream=378439&extension=ts&play_token=9Tkwk6UcYs
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT TURKY", S SPORT 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/82/S_Sport_logo.jpg" group-title="SPORT TURKY", S SPORT 2
 http://king4k.tv/play/live.php?mac=00:1A:79:A5:DD:10&stream=378440&extension=ts&play_token=9Tkwk6UcYs
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT TURKY", SMART SPORT 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/Smart-spor-hd.png" group-title="SPORT TURKY", SMART SPORT 1
 http://king4k.tv/play/live.php?mac=00:1A:79:A5:DD:10&stream=378445&extension=ts&play_token=9Tkwk6UcYs
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT TURKY", SMART SPORT 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/Smart-spor-hd.png" group-title="SPORT TURKY", SMART SPORT 2
 http://king4k.tv/play/live.php?mac=00:1A:79:A5:DD:10&stream=378446&extension=ts&play_token=9Tkwk6UcYs
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT TURKY", a SPORT
+#EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image27516465960.jpg" group-title="SPORT TURKY", a SPORT
 http://king4k.tv/play/live.php?mac=00:1A:79:A5:DD:10&stream=8679&extension=ts&play_token=9Tkwk6UcYs
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT TURKY", TRT SPORT
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/280x280_RS/54/16/10/541610e5005ac44489f31a641e6217f5.jpg" group-title="SPORT TURKY", TRT SPORT
 http://king4k.tv/play/live.php?mac=00:1A:79:A5:DD:10&stream=374967&extension=ts&play_token=9Tkwk6UcYs
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT TURKY", TRT SPORT 2
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/280x280_RS/54/16/10/541610e5005ac44489f31a641e6217f5.jpg" group-title="SPORT TURKY", TRT SPORT 2
 http://king4k.tv/play/live.php?mac=00:1A:79:A5:DD:10&stream=418465&extension=ts&play_token=9Tkwk6UcYs
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT TURKY", SPORT TV
+#EXTINF:-1 tvg-logo="https://www.sportstv.com.tr/assets/images/sportstv/logo_sportstv_large.png" group-title="SPORT TURKY", SPORT TV
 http://king4k.tv/play/live.php?mac=00:1A:79:A5:DD:10&stream=8734&extension=ts&play_token=9Tkwk6UcYs
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT TURKY", TIVIBU SPORT 1
+#EXTINF:-1 tvg-logo="https://www.giniko.com/logos/190x110/943.png" group-title="SPORT TURKY", TIVIBU SPORT 1
 http://king4k.tv/play/live.php?mac=00:1A:79:A5:DD:10&stream=200275&extension=ts&play_token=9Tkwk6UcYs
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT TURKY", TIVIBU SPORT 2
+#EXTINF:-1 tvg-logo="https://www.giniko.com/logos/190x110/943.png" group-title="SPORT TURKY", TIVIBU SPORT 2
 http://king4k.tv/play/live.php?mac=00:1A:79:A5:DD:10&stream=200276&extension=ts&play_token=9Tkwk6UcYs
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT TURKY", TIVIBU SPORT 3
+#EXTINF:-1 tvg-logo="https://www.giniko.com/logos/190x110/943.png" group-title="SPORT TURKY", TIVIBU SPORT 3
 http://king4k.tv/play/live.php?mac=00:1A:79:A5:DD:10&stream=200277&extension=ts&play_token=9Tkwk6UcYs
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT AUSTRALIA", BEIN SPORT 1 AU
+#EXTINF:-1 tvg-logo="https://www.beinmediagroup.com/wp-content/uploads/2015/03/beIN-AUSTRALIA.jpg" group-title="SPORT AUSTRALIA", BEIN SPORT 1 AU
 http://king4k.tv/play/live.php?mac=00:1A:79:A5:DD:10&stream=441313&extension=ts&play_token=9Tkwk6UcYs
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT AUSTRALIA", BEIN SPORT 2 AU
+#EXTINF:-1 tvg-logo="https://www.beinmediagroup.com/wp-content/uploads/2015/03/beIN-AUSTRALIA.jpg" group-title="SPORT AUSTRALIA", BEIN SPORT 2 AU
 http://king4k.tv/play/live.php?mac=00:1A:79:A5:DD:10&stream=441312&extension=ts&play_token=9Tkwk6UcYs
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT AUSTRALIA", BEIN SPORT 3 AU
+#EXTINF:-1 tvg-logo="https://www.beinmediagroup.com/wp-content/uploads/2015/03/beIN-AUSTRALIA.jpg" group-title="SPORT AUSTRALIA", BEIN SPORT 3 AU
 http://king4k.tv/play/live.php?mac=00:1A:79:A5:DD:10&stream=441311&extension=ts&play_token=9Tkwk6UcYs
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT AUSTRALIA", ESPN SPORT AU
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/6f5dkk1660762913.png" group-title="SPORT AUSTRALIA", ESPN SPORT AU
 http://king4k.tv/play/live.php?mac=00:1A:79:A5:DD:10&stream=441310&extension=ts&play_token=9Tkwk6UcYs
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT AUSTRALIA", ESPN SPORT 2 AU
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/6f5dkk1660762913.png" group-title="SPORT AUSTRALIA", ESPN SPORT 2 AU
 http://king4k.tv/play/live.php?mac=00:1A:79:A5:DD:10&stream=441309&extension=ts&play_token=9Tkwk6UcYs
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT AUSTRALIA", FOX SPORT 501 AU
+#EXTINF:-1 tvg-logo="https://sportsradionow.com/wp-content/uploads/2023/01/foxsports.jpg" group-title="SPORT AUSTRALIA", FOX SPORT 501 AU
 http://king4k.tv/play/live.php?mac=00:1A:79:A5:DD:10&stream=441307&extension=ts&play_token=9Tkwk6UcYs
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT AUSTRALIA", FOX SPORT 502 AU
+#EXTINF:-1 tvg-logo="https://sportsradionow.com/wp-content/uploads/2023/01/foxsports.jpg" group-title="SPORT AUSTRALIA", FOX SPORT 502 AU
 http://king4k.tv/play/live.php?mac=00:1A:79:A5:DD:10&stream=441306&extension=ts&play_token=9Tkwk6UcYs
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT AUSTRALIA", FOX SPORT 503 AU
+#EXTINF:-1 tvg-logo="https://sportsradionow.com/wp-content/uploads/2023/01/foxsports.jpg" group-title="SPORT AUSTRALIA", FOX SPORT 503 AU
 http://king4k.tv/play/live.php?mac=00:1A:79:A5:DD:10&stream=441305&extension=ts&play_token=9Tkwk6UcYs
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT AUSTRALIA", FOX SPORT 504 AU
+#EXTINF:-1 tvg-logo="https://sportsradionow.com/wp-content/uploads/2023/01/foxsports.jpg" group-title="SPORT AUSTRALIA", FOX SPORT 504 AU
 http://king4k.tv/play/live.php?mac=00:1A:79:A5:DD:10&stream=441304&extension=ts&play_token=9Tkwk6UcYs
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT AUSTRALIA", FOX SPORT 505 AU
+#EXTINF:-1 tvg-logo="https://sportsradionow.com/wp-content/uploads/2023/01/foxsports.jpg" group-title="SPORT AUSTRALIA", FOX SPORT 505 AU
 http://king4k.tv/play/live.php?mac=00:1A:79:A5:DD:10&stream=441303&extension=ts&play_token=9Tkwk6UcYs
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT AUSTRALIA", FOX SPORT 506 AU
+#EXTINF:-1 tvg-logo="https://sportsradionow.com/wp-content/uploads/2023/01/foxsports.jpg" group-title="SPORT AUSTRALIA", FOX SPORT 506 AU
 http://king4k.tv/play/live.php?mac=00:1A:79:A5:DD:10&stream=441302&extension=ts&play_token=9Tkwk6UcYs
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT AUSTRALIA", FOX SPORT 507 AU
+#EXTINF:-1 tvg-logo="https://sportsradionow.com/wp-content/uploads/2023/01/foxsports.jpg" group-title="SPORT AUSTRALIA", FOX SPORT 507 AU
 http://king4k.tv/play/live.php?mac=00:1A:79:A5:DD:10&stream=441301&extension=ts&play_token=9Tkwk6UcYs
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT AUSTRALIA", SKY RACING 1 AU
+#EXTINF:-1 tvg-logo="https://static.perform.news/sites/2/2021/05/03131150/sky-racing.jpg" group-title="SPORT AUSTRALIA", SKY RACING 1 AU
 http://king4k.tv/play/live.php?mac=00:1A:79:A5:DD:10&stream=441294&extension=ts&play_token=9Tkwk6UcYs
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT AUSTRALIA", SKY RACING 2 AU
+#EXTINF:-1 tvg-logo="https://static.perform.news/sites/2/2021/05/03131150/sky-racing.jpg" group-title="SPORT AUSTRALIA", SKY RACING 2 AU
 http://king4k.tv/play/live.php?mac=00:1A:79:A5:DD:10&stream=441295&extension=ts&play_token=9Tkwk6UcYs
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT AUSTRALIA", STAN SPORT 1 AU
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Stan_Sport_logo.svg/2560px-Stan_Sport_logo.svg.png" group-title="SPORT AUSTRALIA", STAN SPORT 1 AU
 http://king4k.tv/play/live.php?mac=00:1A:79:A5:DD:10&stream=441277&extension=ts&play_token=9Tkwk6UcYs
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT AUSTRALIA", STAN SPORT 2 AU
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Stan_Sport_logo.svg/2560px-Stan_Sport_logo.svg.png" group-title="SPORT AUSTRALIA", STAN SPORT 2 AU
 http://king4k.tv/play/live.php?mac=00:1A:79:A5:DD:10&stream=441276&extension=ts&play_token=9Tkwk6UcYs
 
 
