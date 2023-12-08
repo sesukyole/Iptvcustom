@@ -6449,6 +6449,8 @@ http://king4k.tv/play/live.php?mac=00:1A:79:A5:DD:10&stream=620780&extension=ts&
 #EXTINF:-1 tvg-logo="https://sportskhabri.com/wp-content/uploads/2022/02/Premier-League-announces-StarHub-partnership.jpg" group-title="SPORT ASIA", HUB SPORT PREMIER 7
 http://king4k.tv/play/live.php?mac=00:1A:79:A5:DD:10&stream=620780&extension=ts&play_token=9Tkwk6UcYs
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6hxy651WWHdpvqbh9nfTlLpb2DqIMiT1JAA&usqp=CAU" group-title="SPORT ASIA", ASTRO ARENA 1
+http://867754785116685132.of1207.xyz:80/play/ja412869/yPqt9STQShr/685132.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="SPORT ASIA", ASTRO SUPERSPORT 1
 http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=1111034_&extension=ts&play_token=9Tkwk6UcYs
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="SPORT ASIA", ASTRO SUPERSPORT 2
@@ -7962,6 +7964,14 @@ http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=281257&extension=
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=281263&extension=ts&play_token=yK7Ppvy2jW
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="MOVIE ASIA", SONY MAX
 http://208.86.19.13:81/706.stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="MOVIE ASIA", ASTRO PRIMA
+http://867754785116702524.of1207.xyz:80/play/ja412869/yPqt9STQShr/702524.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="MOVIE ASIA", ASTRO VAANAVIL
+http://867754785116687671.of1207.xyz:80/play/ja412869/yPqt9STQShr/687671.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="MOVIE ASIA", ASTRO OASIS
+http://867754785116685133.of1207.xyz:80/play/ja412869/yPqt9STQShr/685133.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="MOVIE ASIA", TATA PLAY HITS
+http://867754785116701549.of1207.xyz:80/play/ja412869/yPqt9STQShr/701549.ts
 
 
 #EXTINF:-1 group-title="MOVIE ASIA" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAJ4900007I2_20230926T032317SQUARE.png_20230926032318.png" ,Comedy Movies - Rakuten TV
