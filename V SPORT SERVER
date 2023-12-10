@@ -58,7 +58,12 @@ http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=564969_&
 http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=564978_&extension=ts
 #EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="#🇬🇧LIVE PREMIER LIGA🇬🇧#", LIVE 11
 http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=727904_&extension=ts
-
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="#🇬🇧LIVE PREMIER LIGA🇬🇧#", LIVE 12
+http://king4k.tv/play/live.php?mac=00:1A:79:A5:DD:10&stream=607456&extension=ts&play_token=9Tkwk6UcYs
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="#🇬🇧LIVE PREMIER LIGA🇬🇧#", LIVE 13
+http://king4k.tv/play/live.php?mac=00:1A:79:A5:DD:10&stream=607463&extension=ts&play_token=9Tkwk6UcYs
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="#🇬🇧LIVE PREMIER LIGA🇬🇧#", LIVE 14
+http://king4k.tv/play/live.php?mac=00:1A:79:A5:DD:10&stream=607459&extension=ts&play_token=9Tkwk6UcYs
 
 
 #EXTINF:-1 tvg-logo="https://ligalaga.id/wp-content/uploads/2019/08/Serie-A-Logo-Sempre-Inter.jpg" group-title="#🇮🇹LIVE LIGA SERI A🇮🇹#", LIVE 1
