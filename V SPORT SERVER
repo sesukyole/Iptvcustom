@@ -61,7 +61,7 @@ http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=6595_&ex
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Ligue1_Uber_Eats_logo.png/327px-Ligue1_Uber_Eats_logo.png" group-title="#🇫🇷LIVE LIGA FRANCE🇫🇷#", LIVE 1
 http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=501436_&extension=ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Ligue1_Uber_Eats_logo.png/327px-Ligue1_Uber_Eats_logo.png" group-title="#🇫🇷LIVE LIGA FRANCE🇫🇷#", LIVE 2
-http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=585225_&extension=ts
+http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=5479_&extension=ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Ligue1_Uber_Eats_logo.png/327px-Ligue1_Uber_Eats_logo.png" group-title="#🇫🇷LIVE LIGA FRANCE🇫🇷#", LIVE 3
 http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=220767_&extension=ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Ligue1_Uber_Eats_logo.png/327px-Ligue1_Uber_Eats_logo.png" group-title="#🇫🇷LIVE LIGA FRANCE🇫🇷#", LIVE 4
