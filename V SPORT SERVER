@@ -6239,6 +6239,18 @@ http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=577923&extension=
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=577918&extension=ts&play_token=yK7Ppvy2j
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT AFRICA", SUPERSPORT RUGBY
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=577917&extension=ts&play_token=yK7Ppvy2j
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT AFRICA", CANAL+ SPORT 1 AF
+http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=356183&extension=ts&play_token=yK7Ppvy2j
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT AFRICA", CANAL+ SPORT 2 AF
+http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=356182&extension=ts&play_token=yK7Ppvy2j
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT AFRICA", CANAL+ SPORT 3 AF
+http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=356181&extension=ts&play_token=yK7Ppvy2j
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT AFRICA", CANAL+ SPORT 4 AF
+http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=356180&extension=ts&play_token=yK7Ppvy2j
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT AFRICA", CANAL+ SPORT 5 AF
+http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=356179&extension=ts&play_token=yK7Ppvy2j
+
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/superPL.png" group-title="SPORT AFRICA", SUPERSPORT PREMIER LEAGUE
 http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7d&stream=239078&extension=ts&play_token=WIj93CqWrq
