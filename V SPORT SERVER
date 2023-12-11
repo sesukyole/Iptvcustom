@@ -3273,23 +3273,25 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
 https://nyanv-live-cdn.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.mpd
 
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/baby_tv.png" group-title="VISION+",Baby TV UK
-http://adarker.com:25461/play/live.php?mac=00:1A:79:8A:43:5E&stream=2261_&extension=ts
+http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=768815_&extension=ts
 #EXTINF:-1 tvg-logo="https://www.familychoiceawards.com/wp-content/uploads/2021/09/Screen-Shot-2023-03-14-at-11.03.02-AM.png" group-title="VISION+", Cartoonito
-http://adarker.com:25461/play/live.php?mac=00:1A:79:8A:43:5E&stream=2242_&extension=ts
+http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=769013_&extension=ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Cartoon_Network_2010_logo.svg" group-title="VISION+", Cartoon Network
-http://adarker.com:25461/play/live.php?mac=00:1A:79:8A:43:5E&stream=2240_&extension=ts
+http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=768831_&extension=ts
 #EXTINF:-1 tvg-logo="https://www.freqsat.com/wp-content/uploads/2018/05/Boomerang-HD-TV.png" group-title="VISION+", Boomerang
-http://adarker.com:25461/play/live.php?mac=00:1A:79:8A:43:5E&stream=2245_&extension=ts
+http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=768940_&extension=ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/2560px-Nick_Jr._logo_2009.svg.png" group-title="VISION+", Nick JR
-http://adarker.com:25461/play/live.php?mac=00:1A:79:8A:43:5E&stream=2248_&extension=ts
+http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=768945_&extension=ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/Nick_Jr._Too_UK_logo_2014.svg/2560px-Nick_Jr._Too_UK_logo_2014.svg.png" group-title="VISION+", Nick JR Too
-http://adarker.com:25461/play/live.php?mac=00:1A:79:8A:43:5E&stream=2252_&extension=ts
+http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=769022_&extension=ts
 #EXTINF:-1 tvg-logo="https://guardian.ng/wp-content/uploads/2023/03/nickelodeon-logo-black.jpg" group-title="VISION+", Nickelodeon
-http://adarker.com:25461/play/live.php?mac=00:1A:79:8A:43:5E&stream=2252_&extension=ts
+http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=768946_&extension=ts
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/SpongeBob-Logo.png" group-title="VISION+", Nicketoon Spongebob
-http://adarker.com:25461/play/live.php?mac=00:1A:79:8A:43:5E&stream=2253_&extension=ts
+http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=768900_&extension=ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5c/Tiny_Pop_logo_2018.svg/1200px-Tiny_Pop_logo_2018.svg.png" group-title="VISION+", Tiny Pop
-http://adarker.com:25461/play/live.php?mac=00:1A:79:8A:43:5E&stream=2256_&extension=ts
+http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=768946_&extension=ts
+#EXTINF:-1 tvg-logo="_____" group-title="VISION+", DISNEY+
+http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=501404_&extension=ts
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/96.jpg" group-title="VISION+", MY KIDZ
 http://210.210.155.37/uq2663/h/h191/index.m3u8
 
