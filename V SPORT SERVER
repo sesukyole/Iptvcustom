@@ -3071,6 +3071,27 @@ https://nyanv-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 
 <================ Korean Channels ===================>
 
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/39.jpg" group-title="VISION+", ROCK ENTERTAINMENT
+http://210.210.155.37/dr9445/h/h16/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/44.jpg" group-title="VISION+", ROCK ACTION
+http://210.210.155.37/dr9445/h/h15/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/95.jpg" group-title="VISION+", MY CINEMA
+http://210.210.155.37/uq2663/h/h192/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/109.jpg" group-title="VISION+", MY CINEMA ASIA
+http://210.210.155.37/uq2663/h/h193/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/92.jpg" group-title="VISION+", CINEMA EUROPE
+http://210.210.155.37/uq2663/h/h18/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/114.jpg" group-title="VISION+", MY FAMILY CHANNEL
+http://210.210.155.37/uq2663/h/h194/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/100.jpg" group-title="VISION+", K+
+http://210.210.155.37/uq2663/h/h08/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/59.jpg" group-title="VISION+", TVN
+http://210.210.155.37/dr9445/h/h20/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/58.jpg" group-title="VISION+", TVN MOVIES
+http://210.210.155.37/dr9445/h/h21/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/99.jpg" group-title="VISION+", CELESTIAL MOVIES
+http://210.210.155.37/dr9445/h/h14/index.m3u8
+
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -3088,6 +3109,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 tvg-id="ONE.id"  tvg-logo="https://static.mncnow.id/images/channel/3ad70848/b686_r32.jpg" group-title="VISION+",ONE
 https://nyanv-live-cdn.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
+
 
 
 <================ Knowledge & Documentary ==========================>
@@ -3208,6 +3230,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd
 
 <=============== Kids Channels =====================>
 
+
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -3268,7 +3291,8 @@ http://adarker.com:25461/play/live.php?mac=00:1A:79:8A:43:5E&stream=2252_&extens
 http://adarker.com:25461/play/live.php?mac=00:1A:79:8A:43:5E&stream=2253_&extension=ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5c/Tiny_Pop_logo_2018.svg/1200px-Tiny_Pop_logo_2018.svg.png" group-title="VISION+", Tiny Pop
 http://adarker.com:25461/play/live.php?mac=00:1A:79:8A:43:5E&stream=2256_&extension=ts
-
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/96.jpg" group-title="VISION+", MY KIDZ
+http://210.210.155.37/uq2663/h/h191/index.m3u8
 
 
 <======================= Music ==========================>
@@ -3566,6 +3590,9 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch128%29/index
 #EXTINF:-1  tvg-logo="https://rodja.tv/site/wp-content/uploads/2023/02/logo-rodjatv-box.png" group-title="RELIGI", RODJA TV HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h233/02.m3u8
+
+#EXTINF:-1  tvg-logo="https://rodja.tv/site/wp-content/uploads/2023/02/logo-rodjatv-box.png" group-title="RELIGI", RODJA TV
+http://210.210.155.37/x6bnqe/s/s14/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://makkahtv.tv/assets/images/makkah-channel-redcolor-1440-alpha-570x716.png" group-title="RELIGI", MEKKAH LIVE HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
@@ -7146,6 +7173,9 @@ http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=814343&extension=
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=262254&extension=ts&play_token=yK7Ppvy2j
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Polsat_Sport_Fight_HD_%E2%80%93_logo.jpg" group-title="SPORT FIGHT", POLSAT FIGHT PL
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=814337&extension=ts&play_token=yK7Ppvy2j
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/38.jpg" group-title="SPORT FIGHT", FIGHT SPORT
+http://210.210.155.37/dr9445/h/h02/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://dnl.tntsports.co.uk/sd/img/structured-data/tntsports.jpg" group-title="SPORT TNT", TNT SPORT 1
 http://king4k.tv/play/live.php?mac=00:1A:79:A5:DD:10&stream=621422&extension=ts&play_token=9Tkwk6UcYs
