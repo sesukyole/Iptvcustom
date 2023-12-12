@@ -7231,10 +7231,6 @@ http://new.ivue.co:25461/play/live.php?mac=00:1A:79:E4:91:33&stream=1944_&extens
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:E4:91:33&stream=1945_&extension=ts&play_token=9Tkwk6UcYs
 
 
-
-
-
-
 #EXTINF:-1 tvg-logo="https://icdb.tv/images/5eff02f4d1725fb111490c036ecec4d7.jpg" group-title="SPORT TURKY", BEIN SPORT 1 HD
 http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=564724_&extension=ts
 #EXTINF:-1 tvg-logo="https://icdb.tv/images/5eff02f4d1725fb111490c036ecec4d7.jpg" group-title="SPORT TURKY", BEIN SPORT 1 SD
@@ -7373,7 +7369,6 @@ http://king4k.tv/play/live.php?mac=00:1A:79:A5:DD:10&stream=441276&extension=ts&
 http://fleximediatv.co.uk:8080/play/live.php?mac=00:1A:79:62:04:F4&stream=1884529_&extension=ts
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/bein-sports-afc.png" group-title="SPORT ASIA", BEIN AFC 2
 http://fleximediatv.co.uk:8080/play/live.php?mac=00:1A:79:62:04:F4&stream=1884530_&extension=ts
-
 
 #EXTINF:-1 tvg-logo="https://sportskhabri.com/wp-content/uploads/2022/02/Premier-League-announces-StarHub-partnership.jpg" group-title="SPORT ASIA", HUB SPORT PREMIER 1
 http://king4k.tv/play/live.php?mac=00:1A:79:A5:DD:10&stream=620786&extension=ts&play_token=9Tkwk6UcYs
@@ -7645,8 +7640,23 @@ http://king4k.tv/play/live.php?mac=00:1A:79:A5:DD:10&stream=484471&extension=ts&
 http://king4k.tv/play/live.php?mac=00:1A:79:A5:DD:10&stream=484466&extension=ts&play_token=9Tkwk6UcYs
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Sport5_Logo.png/800px-Sport5_Logo.png" group-title="SPORT 4K", YES SPORT 5 4K
 http://king4k.tv/play/live.php?mac=00:1A:79:A5:DD:10&stream=483972&extension=ts&play_token=9Tkwk6UcYs
-#EXTINF:-1 tvg-logo="https://media.info/i/lf/0/1500468425/1514.png" group-title="SPORT 4K", SKY SPORT F1 4K
-http://adarker.com:25461/play/live.php?mac=00:1A:79:8A:43:5E&stream=1566281_&extension=ts
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Sky_Sport_Bundesliga_UHD.png" group-title="SPORT 4K", SKY SPORT BUNDESLIGA UHD
+http://king4k.tv/play/live.php?mac=00:1A:79:A5:DD:10&stream=486169&extension=ts&play_token=9Tkwk6UcYs
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Sky_Sport_Bundesliga_UHD.png" group-title="SPORT 4K", SKY SPORT UHD
+http://king4k.tv/play/live.php?mac=00:1A:79:A5:DD:10&stream=486168&extension=ts&play_token=9Tkwk6UcYs
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Sky_Sport_Bundesliga_UHD.png" group-title="SPORT 4K", RAI SPORT UHD
+http://king4k.tv/play/live.php?mac=00:1A:79:A5:DD:10&stream=284620&extension=ts&play_token=9Tkwk6UcYs
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVbHtrnZi7VaWnAhLLd00j2RAQaavIPEOEsA&usqp=CAU" group-title="SPORT 4K", SSC SPORT 4K
+http://f13.dinott.com/play/live.php?mac=00:1A:79:8C:52:B8&stream=770768&extension=ts&play_token=yK7Ppvy2j
+#EXTINF:-1 tvg-logo="https://typologies.gr/wp-content/uploads/2020/08/cosmote-sport-4K.jpg" group-title="SPORT 4K", COSMOTE SPORT 4K
+http://f13.dinott.com/play/live.php?mac=00:1A:79:8C:52:B8&stream=1008821&extension=ts&play_token=yK7Ppvy2j
+#EXTINF:-1 tvg-logo="https://media.info/i/lf/0/1507600158/1086.png" group-title="SPORT 4K", SKY SPORT MAIN EVENT 4K
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:E4:91:33&stream=1299719_&extension=ts&play_token=9Tkwk6UcYs
+#EXTINF:-1 tvg-logo="https://static.skyassets.com/contentstack/assets/blt143e20b03d72047e/blta9409abe5001a140/6400bce3ec12cd34d006003f/Sky_Sports_F1_UHD_PRIMARY_RGB.png" group-title="SPORT 4K", SKY SPORT F1 UHD
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:E4:91:33&stream=1566281_&extension=ts&play_token=9Tkwk6UcYs
+#EXTINF:-1 tvg-logo="https://icdb.tv/images/6b01c9754c5ab8c066ec81a9b974d74d.jpg" group-title="SPORT 4K", TNT SPORT ULTIMATE 4K
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:E4:91:33&stream=1300442_&extension=ts&play_token=9Tkwk6UcYs
+
 
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/bein-sports-1-logo-4E5E4AE6B8-seeklogo.com.png" group-title="MPD SPORT", BEIN SPORT 1 IND
