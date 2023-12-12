@@ -4328,9 +4328,9 @@ http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=765044&extension=
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=765046&extension=ts&play_token=yK7Ppvy2jW
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/71FHz073Z8L.png" group-title="SPORT ARAB", SSC SPORT 1
-http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=1189095&extension=ts&play_token=yK7Ppvy2jW
+http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=770763&extension=ts&play_token=yK7Ppvy2jW
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/71FHz073Z8L.png" group-title="SPORT ARAB", SSC SPORT 1 HD
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=1189095&extension=ts&play_token=UJUiVNzfui
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=1002801&extension=ts&play_token=SGFXnN3JH2
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/71FHz073Z8L.png" group-title="SPORT ARAB", SSC SPORT 2
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=770759&extension=ts&play_token=yK7Ppvy2jW
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/71FHz073Z8L.png" group-title="SPORT ARAB", SSC SPORT 3
@@ -5256,8 +5256,9 @@ http://f13.dinott.com/play/live.php?mac=00:1A:79:8C:52:B8&stream=765044&extensio
 http://f13.dinott.com/play/live.php?mac=00:1A:79:8C:52:B8&stream=765046&extension=ts&play_token=yK7Ppvy2jW
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/71FHz073Z8L.png" group-title="SPORT DUNIA 1", SSC SPORT 1
-http://f13.dinott.com/play/live.php?mac=00:1A:79:8C:52:B8&stream=1189095&extension=ts&play_token=yK7Ppvy2jW
-#http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=1189095&extension=ts&play_token=UJUiVNzfui
+http://f13.dinott.com/play/live.php?mac=00:1A:79:8C:52:B8&stream=770764&extension=ts&play_token=yK7Ppvy2jW
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/71FHz073Z8L.png" group-title="SPORT DUNIA 1", SSC SPORT 1 HD
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=1189095&extension=ts&play_token=UJUiVNzfui
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/71FHz073Z8L.png" group-title="SPORT DUNIA 1", SSC SPORT 2
 http://f13.dinott.com/play/live.php?mac=00:1A:79:8C:52:B8&stream=770759&extension=ts&play_token=yK7Ppvy2jW
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/71FHz073Z8L.png" group-title="SPORT DUNIA 1", SSC SPORT 3
