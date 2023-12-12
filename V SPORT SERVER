@@ -6129,6 +6129,15 @@ http://f13.dinott.com/play/live.php?mac=00:1A:79:8C:52:B8&stream=262254&extensio
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Polsat_Sport_Fight_HD_%E2%80%93_logo.jpg" group-title="SPORT DUNIA 1", POLSAT FIGHT PL
 http://f13.dinott.com/play/live.php?mac=00:1A:79:8C:52:B8&stream=814337&extension=ts&play_token=yK7Ppvy2j
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT DUNIA 1", SPORT KLUB 1 SL
+http://pal.alphatx.me/play/live.php?mac=00:1A:79:C6:20:7D&stream=1189093&extension=ts&play_token=yK7Ppvy2j
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT DUNIA 1", SPORT KLUB 2 SL
+http://pal.alphatx.me/play/live.php?mac=00:1A:79:C6:20:7D&stream=1189094&extension=ts&play_token=yK7Ppvy2j
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT DUNIA 1", SPORT KLUB 3 SL
+http://pal.alphatx.me/play/live.php?mac=00:1A:79:C6:20:7D&stream=1189095&extension=ts&play_token=yK7Ppvy2j
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT DUNIA 1", SPORT KLUB 4 SL
+http://pal.alphatx.me/play/live.php?mac=00:1A:79:C6:20:7D&stream=1189096&extension=ts&play_token=yK7Ppvy2j
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT DUNIA 1", TSN SPORT 1 CA
 http://pal.alphatx.me/play/live.php?mac=00:1A:79:C6:20:7D&stream=904216&extension=ts&play_token=yK7Ppvy2j
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT DUNIA 1", TSN SPORT 2 CA
