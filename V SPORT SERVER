@@ -11,31 +11,6 @@ https://github.com/Arrasyid22/inaldie/raw/main/LOGO.ts
 https://github.com/Arrasyid22/inaldie/raw/main/DONATE.ts
 
 
-#EXTINF:-1 tvg-logo="https://images.bisnis.com/posts/2022/02/08/1497785/vidio1.jpg" group-title="#🇬🇧LIVE VIDIOA🇬🇧#", LIVE 1
-http://king4k.tv/play/live.php?mac=00:1A:79:A5:DD:10&stream=606222&extension=ts&play_token=9Tkwk6UcYs
-#EXTINF:-1 tvg-logo="https://images.bisnis.com/posts/2022/02/08/1497785/vidio1.jpg" group-title="#🇬🇧LIVE VIDIOA🇬🇧#", LIVE 2 INDOSIAR
-http://king4k.tv/play/live.php?mac=00:1A:79:A5:DD:10&stream=606221&extension=ts&play_token=9Tkwk6UcYs
-#EXTINF:-1 tvg-logo="https://images.bisnis.com/posts/2022/02/08/1497785/vidio1.jpg" group-title="#🇬🇧LIVE VIDIOA🇬🇧#", LIVE 3
-http://king4k.tv/play/live.php?mac=00:1A:79:A5:DD:10&stream=606219&extension=ts&play_token=9Tkwk6UcYs
-#EXTINF:-1 tvg-logo="https://images.bisnis.com/posts/2022/02/08/1497785/vidio1.jpg" group-title="#🇬🇧LIVE VIDIOA🇬🇧#", LIVE 4
-http://king4k.tv/play/live.php?mac=00:1A:79:A5:DD:10&stream=606218&extension=ts&play_token=9Tkwk6UcYs
-#EXTINF:-1 tvg-logo="https://images.bisnis.com/posts/2022/02/08/1497785/vidio1.jpg" group-title="#🇬🇧LIVE VIDIOA🇬🇧#", LIVE 5
-http://king4k.tv/play/live.php?mac=00:1A:79:A5:DD:10&stream=606217&extension=ts&play_token=9Tkwk6UcYs
-#EXTINF:-1 tvg-logo="https://images.bisnis.com/posts/2022/02/08/1497785/vidio1.jpg" group-title="#🇬🇧LIVE VIDIOA🇬🇧#", LIVE 6
-http://king4k.tv/play/live.php?mac=00:1A:79:A5:DD:10&stream=606216&extension=ts&play_token=9Tkwk6UcYs
-#EXTINF:-1 tvg-logo="https://images.bisnis.com/posts/2022/02/08/1497785/vidio1.jpg" group-title="#🇬🇧LIVE VIDIOA🇬🇧#", LIVE 7
-http://king4k.tv/play/live.php?mac=00:1A:79:A5:DD:10&stream=606215&extension=ts&play_token=9Tkwk6UcYs
-#EXTINF:-1 tvg-logo="https://images.bisnis.com/posts/2022/02/08/1497785/vidio1.jpg" group-title="#🇬🇧LIVE VIDIOA🇬🇧#", LIVE 8
-http://king4k.tv/play/live.php?mac=00:1A:79:A5:DD:10&stream=606214&extension=ts&play_token=9Tkwk6UcYs
-#EXTINF:-1 tvg-logo="https://images.bisnis.com/posts/2022/02/08/1497785/vidio1.jpg" group-title="#🇬🇧LIVE VIDIOA🇬🇧#", LIVE 9
-http://king4k.tv/play/live.php?mac=00:1A:79:A5:DD:10&stream=606213&extension=ts&play_token=9Tkwk6UcYs
-#EXTINF:-1 tvg-logo="https://images.bisnis.com/posts/2022/02/08/1497785/vidio1.jpg" group-title="#🇬🇧LIVE VIDIOA🇬🇧#", LIVE 10
-http://king4k.tv/play/live.php?mac=00:1A:79:A5:DD:10&stream=606212&extension=ts&play_token=9Tkwk6UcYs
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="#🇬🇧LIVE PREMIER LIGA🇬🇧#", LIVE 1
 http://foxx.pure-iptv.net:8080/play/live.php?mac=00:1A:79:55:11:BA&stream=457085_&extension=ts
 #EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="#🇬🇧LIVE PREMIER LIGA🇬🇧#", LIVE 2
@@ -135,6 +110,137 @@ http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=728722_&
 http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=768770_&extension=ts
 #EXTINF:-1 tvg-logo="https://ichef.bbci.co.uk/news/1024/branded_news/A235/production/_98952514_newf1touse.jpg" group-title="#🏎️🏎️🏎️LIVE F1🏎️🏎️🏎️#", F1 LIVE 5
 http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=799064_&extension=ts
+
+
+
+#EXTINF:-1 tvg-logo="https://images.bisnis.com/posts/2022/02/08/1497785/vidio1.jpg" group-title="#▶️JUARA SPORTS◀️#", LIVE 1
+http://king4k.tv/play/live.php?mac=00:1A:79:A5:DD:10&stream=606222&extension=ts&play_token=9Tkwk6UcYs
+#EXTINF:-1 tvg-logo="https://images.bisnis.com/posts/2022/02/08/1497785/vidio1.jpg" group-title="#▶️JUARA SPORTS◀️#", LIVE 2
+http://king4k.tv/play/live.php?mac=00:1A:79:A5:DD:10&stream=606221&extension=ts&play_token=9Tkwk6UcYs
+#EXTINF:-1 tvg-logo="https://images.bisnis.com/posts/2022/02/08/1497785/vidio1.jpg" group-title="#▶️JUARA SPORTS◀️#", LIVE 3
+http://king4k.tv/play/live.php?mac=00:1A:79:A5:DD:10&stream=606219&extension=ts&play_token=9Tkwk6UcYs
+#EXTINF:-1 tvg-logo="https://images.bisnis.com/posts/2022/02/08/1497785/vidio1.jpg" group-title="#▶️JUARA SPORTS◀️#", LIVE 4
+http://king4k.tv/play/live.php?mac=00:1A:79:A5:DD:10&stream=606218&extension=ts&play_token=9Tkwk6UcYs
+#EXTINF:-1 tvg-logo="https://images.bisnis.com/posts/2022/02/08/1497785/vidio1.jpg" group-title="#▶️JUARA SPORTS◀️#", LIVE 5
+http://king4k.tv/play/live.php?mac=00:1A:79:A5:DD:10&stream=606217&extension=ts&play_token=9Tkwk6UcYs
+#EXTINF:-1 tvg-logo="https://images.bisnis.com/posts/2022/02/08/1497785/vidio1.jpg" group-title="#▶️JUARA SPORTS◀️#", LIVE 6
+http://king4k.tv/play/live.php?mac=00:1A:79:A5:DD:10&stream=606216&extension=ts&play_token=9Tkwk6UcYs
+#EXTINF:-1 tvg-logo="https://images.bisnis.com/posts/2022/02/08/1497785/vidio1.jpg" ggroup-title="#▶️JUARA SPORTS◀️#", LIVE 7
+http://king4k.tv/play/live.php?mac=00:1A:79:A5:DD:10&stream=606215&extension=ts&play_token=9Tkwk6UcYs
+#EXTINF:-1 tvg-logo="https://images.bisnis.com/posts/2022/02/08/1497785/vidio1.jpg" group-title="#▶️JUARA SPORTS◀️#", LIVE 8
+http://king4k.tv/play/live.php?mac=00:1A:79:A5:DD:10&stream=606214&extension=ts&play_token=9Tkwk6UcYs
+#EXTINF:-1 tvg-logo="https://images.bisnis.com/posts/2022/02/08/1497785/vidio1.jpg" group-title="#▶️JUARA SPORTS◀️#", LIVE 9
+http://king4k.tv/play/live.php?mac=00:1A:79:A5:DD:10&stream=606213&extension=ts&play_token=9Tkwk6UcYs
+#EXTINF:-1 tvg-logo="https://images.bisnis.com/posts/2022/02/08/1497785/vidio1.jpg" group-title="#▶️JUARA SPORTS◀️#", LIVE 10
+http://king4k.tv/play/live.php?mac=00:1A:79:A5:DD:10&stream=606212&extension=ts&play_token=9Tkwk6UcYs
+
+#EXTINF:-1 tvg-id="" tvg-name="Champions League 4" tvg-logo="https://i.ibb.co/gSqB5fH/CHAMPION.png" group-title="#▶️JUARA SPORTS◀️#",CHAMPION 1 MPD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c9f3795d0a1d46b505fd5b5d34953dec:ef3bb480e631339ce3690d519f328fbd
+https://production-drm-vidio-com-event-1.akamaized.net/out/v1/6ae0fdb0f6ee4b10b5497efc10f0ce03/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="Champions League 4" tvg-logo="https://i.ibb.co/gSqB5fH/CHAMPION.png" group-title="#▶️JUARA SPORTS◀️#", CHAMPION 2 MPD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e34a4f7ba8ccfe3f5e14d8413af8d6f8:20f28eaa8592128da2032a0c05fc7b12
+https://production-drm-vidio-com-event-2.akamaized.net/out/v1/078b12e86d0a4f75b4c7ce1ed23d82d9/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="Champions League 4" tvg-logo="https://i.ibb.co/gSqB5fH/CHAMPION.png" group-title="#▶️JUARA SPORTS◀️#", CHAMPION 3 MPD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1bc3e6cc570d8baf7edd5d68b1bea0c9:f91ed9a52cc02e932551c9cc97df0cdc
+https://production-drm-vidio-com-event-3.akamaized.net/out/v1/ee66c2e0b8784d3d9f9585af6bdf9109/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="Champions League 4" tvg-logo="https://i.ibb.co/gSqB5fH/CHAMPION.png" group-title="#▶️JUARA SPORTS◀️#", CHAMPION 5 MPD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=792c9b382615c47fdfb840dfd2387b8b:c86191afc372c5006ebab6e8bdf61e14
+https://drm-epl-vidio-com-epl-1.akamaized.net/out/v1/1b34ee57680f49229adaa19b74a9b60d/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="Champions League 4" tvg-logo="https://i.ibb.co/gSqB5fH/CHAMPION.png" group-title="#▶️JUARA SPORTS◀️#", CHAMPION 6 MPD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a0605846d1f0dc153537b04d5fef6594:af747fe84c6c850c646364ad0b96c6cf
+https://drm-epl-vidio-com-epl-2.akamaized.net/out/v1/213998e62d2c4e5f9cf9e832d4502b83/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="Champions League 4" tvg-logo="https://i.ibb.co/gSqB5fH/CHAMPION.png" group-title="#▶️JUARA SPORTS◀️#", CHAMPION 7 MPD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=59b2f57473739523e5627132d9e04603:5751379870ddad5bba06f1d8cbdd2984
+https://etslive-2-vidio-com.akamaized.net/drm/dash/9431_stream.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="Champions League 4" tvg-logo="https://i.ibb.co/gSqB5fH/CHAMPION.png" group-title="#▶️JUARA SPORTS◀️#", CHAMPION 8 MPD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7bacf759768884bc001b192284da04cd:40f0c18b068b72ccff74e4e94c6aded6
+https://etslive-2-vidio-com.akamaized.net/drm/dash/9430_stream.mpd
+
+
+#EXTINF:-1 group-title="#▶️JUARA SPORTS◀️#" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.pnghttps://i.imgur.com/Vtk2cGI.png", beIN SPORTS 1
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c9f3795d0a1d46b505fd5b5d34953dec:ef3bb480e631339ce3690d519f328fbd
+https://production-drm-vidio-com-event-1.akamaized.net/out/v1/6ae0fdb0f6ee4b10b5497efc10f0ce03/index.mpd
+
+#EXTINF:-1 group-title="#▶️JUARA SPORTS◀️#" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png", beIN SPORTS 3
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=e34a4f7ba8ccfe3f5e14d8413af8d6f8:20f28eaa8592128da2032a0c05fc7b12
+https://production-drm-vidio-com-event-2.akamaized.net/out/v1/078b12e86d0a4f75b4c7ce1ed23d82d9/index.mpd
+
+#EXTINF:-1  group-title="#▶️JUARA SPORTS◀️#" tvg-logo="https://thumbor.prod.vidiocdn.com/f4-7EI2_Sj9cY0Tb1v8QHyA1QBU=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-7898f2.jpg", CHAMPIONS TV 3
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=1bc3e6cc570d8baf7edd5d68b1bea0c9:f91ed9a52cc02e932551c9cc97df0cdc
+https://production-drm-vidio-com-event-3.akamaized.net/out/v1/ee66c2e0b8784d3d9f9585af6bdf9109/index.mpd
+
+#EXTINF:-1 group-title="#▶️JUARA SPORTS◀️#" tvg-logo="https://thumbor.prod.vidiocdn.com/ADccuVLRN9T0yU12s2oZ9BWg91w=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-764e22.jpg", Champions TV 5
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=792c9b382615c47fdfb840dfd2387b8b:c86191afc372c5006ebab6e8bdf61e14
+https://drm-epl-vidio-com-epl-1.akamaized.net/out/v1/1b34ee57680f49229adaa19b74a9b60d/index.mpd
+
+#EXTINF:-1 group-title="#▶️JUARA SPORTS◀️#" tvg-logo="https://thumbor.prod.vidiocdn.com/FlchC_zDtL6BohLUeP5ANFfnQ_w=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-01b4c7.jpg", Champions TV 6
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a0605846d1f0dc153537b04d5fef6594:af747fe84c6c850c646364ad0b96c6cf
+https://drm-epl-vidio-com-epl-2.akamaized.net/out/v1/213998e62d2c4e5f9cf9e832d4502b83/index.mpd
+
+#EXTINF:-1 group-title="#▶️JUARA SPORTS◀️#" tvg-logo="https://cdn6.aptoide.com/imgs/8/c/9/8c9482a5f95b5740eec32c20eaa288ad_fgraphic.png", Vidio EPL 1
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9c188d54b1b585a24c52bdbba5c3f031:2f5c37a723b9c879ec5bbe43cb34c8a3
+https://drm-epl-vidio-com-epl-3.akamaized.net/out/v1/71829de864884cb0b831334ac3dc0a2a/index.mpd
+
+#EXTINF:-1 group-title="#▶️JUARA SPORTS◀️#" tvg-logo="https://cdn6.aptoide.com/imgs/8/c/9/8c9482a5f95b5740eec32c20eaa288ad_fgraphic.png", Vidio EPL 2
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cbb2857966a3a1c27c3305f68e2e92a4:881eca5eda60de64e4ea1514583869f2
+https://drm-epl-vidio-com-epl-4.akamaized.net/out/v1/90396b8cf44f4d20b28f1be94b41b241/index.mpd
+
+#EXTINF:-1 group-title="#▶️JUARA SPORTS◀️#" tvg-logo="https://cdn6.aptoide.com/imgs/8/c/9/8c9482a5f95b5740eec32c20eaa288ad_fgraphic.png", Vidio EPL 3
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a8eddebc801dbfca167dc077abd1c9dc:5f2fe1b86e14b590249fa9a813821377
+https://drm-epl-vidio-com-epl-5.akamaized.net/out/v1/17b4c59118e74b8d8f5761a7e10d1be2/index.mpd
+
+#EXTINF:-1 group-title="#▶️JUARA SPORTS◀️#" tvg-logo="https://thumbor.prod.vidiocdn.com/Y5ZZSYNOr3B-xLAaBNadIBc8VGc=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/test-tv-epl-f4cbe6.jpg", Premier League TV
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cdb6f38ce29ecfe657c7cade307587da:d38d7243bd224a9c2b1ea716f19c9950
+https://etslive-2-vidio-com.akamaized.net/drm/dash/9353_stream.mpd
+
+
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="INDO_NESIA 1", ###INDO_NESIA 1###
