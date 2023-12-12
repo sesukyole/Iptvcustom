@@ -7179,15 +7179,30 @@ http://210.210.155.37/dr9445/h/h02/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://dnl.tntsports.co.uk/sd/img/structured-data/tntsports.jpg" group-title="SPORT TNT", TNT SPORT 1
-http://king4k.tv/play/live.php?mac=00:1A:79:A5:DD:10&stream=621422&extension=ts&play_token=9Tkwk6UcYs
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:E4:91:33&stream=1930_&extension=ts&play_token=9Tkwk6UcYs
 #EXTINF:-1 tvg-logo="https://dnl.tntsports.co.uk/sd/img/structured-data/tntsports.jpg" group-title="SPORT TNT", TNT SPORT 2
-http://adarker.com:25461/play/live.php?mac=00:1A:79:8A:43:5E&stream=1925_&extension=ts
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:E4:91:33&stream=1933_&extension=ts&play_token=9Tkwk6UcYs
 #EXTINF:-1 tvg-logo="https://dnl.tntsports.co.uk/sd/img/structured-data/tntsports.jpg" group-title="SPORT TNT", TNT SPORT 3
-http://adarker.com:25461/play/live.php?mac=00:1A:79:8A:43:5E&stream=1926_&extension=ts
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:E4:91:33&stream=1936_&extension=ts&play_token=9Tkwk6UcYs
 #EXTINF:-1 tvg-logo="https://dnl.tntsports.co.uk/sd/img/structured-data/tntsports.jpg" group-title="SPORT TNT", TNT SPORT 4
-http://adarker.com:25461/play/live.php?mac=00:1A:79:8A:43:5E&stream=1923_&extension=ts
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:E4:91:33&stream=1939_&extension=ts&play_token=9Tkwk6UcYs
 #EXTINF:-1 tvg-logo="https://dnl.tntsports.co.uk/sd/img/structured-data/tntsports.jpg" group-title="SPORT TNT", TNT SPORT 5 EXTRA
-http://adarker.com:25461/play/live.php?mac=00:1A:79:8A:43:5E&stream=1940_&extension=ts
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:E4:91:33&stream=1940_&extension=ts&play_token=9Tkwk6UcYs
+#EXTINF:-1 tvg-logo="https://dnl.tntsports.co.uk/sd/img/structured-data/tntsports.jpg" group-title="SPORT TNT", TNT SPORT 6 EXTRA
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:E4:91:33&stream=1941_&extension=ts&play_token=9Tkwk6UcYs
+#EXTINF:-1 tvg-logo="https://dnl.tntsports.co.uk/sd/img/structured-data/tntsports.jpg" group-title="SPORT TNT", TNT SPORT 7 EXTRA
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:E4:91:33&stream=1942_&extension=ts&play_token=9Tkwk6UcYs
+#EXTINF:-1 tvg-logo="https://dnl.tntsports.co.uk/sd/img/structured-data/tntsports.jpg" group-title="SPORT TNT", TNT SPORT 8 EXTRA
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:E4:91:33&stream=1943_&extension=ts&play_token=9Tkwk6UcYs
+#EXTINF:-1 tvg-logo="https://dnl.tntsports.co.uk/sd/img/structured-data/tntsports.jpg" group-title="SPORT TNT", TNT SPORT 9 EXTRA
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:E4:91:33&stream=1944_&extension=ts&play_token=9Tkwk6UcYs
+#EXTINF:-1 tvg-logo="https://dnl.tntsports.co.uk/sd/img/structured-data/tntsports.jpg" group-title="SPORT TNT", TNT SPORT 10 EXTRA
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:E4:91:33&stream=1945_&extension=ts&play_token=9Tkwk6UcYs
+
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://icdb.tv/images/5eff02f4d1725fb111490c036ecec4d7.jpg" group-title="SPORT TURKY", BEIN SPORT 1 HD
 http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=564724_&extension=ts
