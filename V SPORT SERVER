@@ -38,7 +38,23 @@ http://foxx.pure-iptv.net:8080/play/live.php?mac=00:1A:79:55:11:BA&stream=57804_
 #EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="#🇬🇧LIVE PREMIER LIGA🇬🇧#", LIVE 13
 http://foxx.pure-iptv.net:8080/play/live.php?mac=00:1A:79:55:11:BA&stream=649227_&extension=ts
 #EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="#🇬🇧LIVE PREMIER LIGA🇬🇧#", LIVE 14
-http://foxx.pure-iptv.net:8080/play/live.php?mac=00:1A:79:55:11:BA&stream=649216_&extension=ts
+http://pal.alphatx.me/play/live.php?mac=00:1A:79:C6:20:7D&stream=833284&extension=ts&play_token=yK7Ppvy2j
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="#🇬🇧LIVE PREMIER LIGA🇬🇧#", LIVE 15
+http://pal.alphatx.me/play/live.php?mac=00:1A:79:C6:20:7D&stream=425666&extension=ts&play_token=yK7Ppvy2j
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="#🇬🇧LIVE PREMIER LIGA🇬🇧#", LIVE 16
+http://pal.alphatx.me/play/live.php?mac=00:1A:79:C6:20:7D&stream=116252&extension=ts&play_token=yK7Ppvy2j
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="#🇬🇧LIVE PREMIER LIGA🇬🇧#", LIVE 17
+http://pal.alphatx.me/play/live.php?mac=00:1A:79:C6:20:7D&stream=71907&extension=ts&play_token=yK7Ppvy2j
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="#🇬🇧LIVE PREMIER LIGA🇬🇧#", LIVE 18
+http://pal.alphatx.me/play/live.php?mac=00:1A:79:C6:20:7D&stream=636921&extension=ts&play_token=yK7Ppvy2j
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="#🇬🇧LIVE PREMIER LIGA🇬🇧#", LIVE 19
+http://pal.alphatx.me/play/live.php?mac=00:1A:79:C6:20:7D&stream=1078724&extension=ts&play_token=yK7Ppvy2j
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="#🇬🇧LIVE PREMIER LIGA🇬🇧#", LIVE 20
+http://pal.alphatx.me/play/live.php?mac=00:1A:79:C6:20:7D&stream=1078723&extension=ts&play_token=yK7Ppvy2j
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="#🇬🇧LIVE PREMIER LIGA🇬🇧#", LIVE 21
+http://pal.alphatx.me/play/live.php?mac=00:1A:79:C6:20:7D&stream=1078722&extension=ts&play_token=yK7Ppvy2j
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="#🇬🇧LIVE PREMIER LIGA🇬🇧#", LIVE 22
+http://pal.alphatx.me/play/live.php?mac=00:1A:79:C6:20:7D&stream=1078720&extension=ts&play_token=yK7Ppvy2j
 
 
 #EXTINF:-1 tvg-logo="https://ligalaga.id/wp-content/uploads/2019/08/Serie-A-Logo-Sempre-Inter.jpg" group-title="#🇮🇹LIVE LIGA SERI A🇮🇹#", LIVE 1
