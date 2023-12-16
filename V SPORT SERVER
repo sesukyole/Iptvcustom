@@ -3423,11 +3423,11 @@ http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=501404_&
 http://210.210.155.37/uq2663/h/h191/index.m3u8
 
 #EXTINF:-1 tvg-id="Aniplus.id" tvg-name="MY: Aniplus FHD" tvg-logo="https://i.postimg.cc/xT9FXnb1/aniplus2.png" group-title="VISION+", Aniplus FHD
-http://mykingtv.net:2082/amad1234/amad1234/5278
+https://ktpremium.com:443/yysspartyplayttyy/34gsj8945sd/73884
 #EXTINF:-1 tvg-id="astroceria.my" tvg-name="MY: Astro Ceria [A]" tvg-logo="https://i.imgur.com/Mg7OSZZ.png" group-title="VISION+", Astro Ceria [A]
 http://mykingtv.net:2082/amad1234/amad1234/5274
-#EXTINF:-1 tvg-id="611" tvg-name="MY: Astro Ceria [B]" tvg-logo="https://i.imgur.com/Mg7OSZZ.png" group-title="VISION+", Astro Ceria [B]
-http://mykingtv.net:2082/amad1234/amad1234/5275
+#EXTINF:-1 tvg-id="611" tvg-name="MY: Astro Ceria [B]" tvg-logo="https://i.imgur.com/Mg7OSZZ.png" group-title="VISION+", Astro Ceria KT
+https://ktpremium.com:443/yysspartyplayttyy/34gsj8945sd/912821
 <======================= Music ==========================>
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
