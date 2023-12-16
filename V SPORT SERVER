@@ -9226,6 +9226,27 @@ https://i.mjh.nz/SamsungTVPlus/GBAJ49000081B.m3u8
 #EXTINF:-1 group-title="MOVIE ASIA" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAJ4900006TU_20220323T071344SQUARE.png_20220323071347.png" ,Action Movies - Rakuten TV
 https://i.mjh.nz/SamsungTVPlus/GBAJ4900006TU.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="24/7 A LA CARTE", LA CARTE 1
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=507973&extension=ts&play_token=mjH30zsdZH
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="24/7 A LA CARTE", LA CARTE 2
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=507972&extension=ts&play_token=mjH30zsdZH
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="24/7 A LA CARTE", LA CARTE 3
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=507971&extension=ts&play_token=mjH30zsdZH
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="24/7 A LA CARTE", LA CARTE 4
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=507970&extension=ts&play_token=mjH30zsdZH
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="24/7 A LA CARTE", LA CARTE 5
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=507969&extension=ts&play_token=mjH30zsdZH
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="24/7 A LA CARTE", LA CARTE 6
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=507968&extension=ts&play_token=mjH30zsdZH
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="24/7 A LA CARTE", LA CARTE 7
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=507967&extension=ts&play_token=mjH30zsdZH
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="24/7 A LA CARTE", LA CARTE 8
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=507966&extension=ts&play_token=mjH30zsdZH
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="24/7 A LA CARTE", LA CARTE 9
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=507965&extension=ts&play_token=mjH30zsdZH
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="24/7 A LA CARTE", LA CARTE 10
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=507964&extension=ts&play_token=mjH30zsdZH
+
 
 
 
