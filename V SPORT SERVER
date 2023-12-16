@@ -7458,6 +7458,9 @@ http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=264945&extension=
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=264946&extension=ts&play_token=yK7Ppvy2j
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT LATIN1", TUDN SPORT MX
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=676049&extension=ts&play_token=yK7Ppvy2j
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT LATIN1", CBS SPORT GOLAZO
+http://pal.alphatx.me/play/live.php?mac=00:1A:79:C6:20:7D&stream=1293199&extension=ts&play_token=yK7Ppvy2j
+
 
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT LATIN1", BAND SPORTS 4K
