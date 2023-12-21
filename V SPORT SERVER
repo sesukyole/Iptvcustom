@@ -9578,6 +9578,14 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/5086/default_primary.m
 #KODIPROP:inputstream.adaptive.license_key=89c10c7ef0af145be7d6e88dec090b10:80558606a13a99d2c543872d8899ced0
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5076/default.mpd
 
+v1/imageContent-1021-j5nj3c68-m1.png" group-title="Tata Sky - VPN",Star Sports 2 HD
+http://rftv.wtf/tp/rjiptv.mpd?contentID=235
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=78&key
+#EXTINF:-1 tvg-id=ts78 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png" group-title="Tata Sky - VPN",Star Sports 1 HD
+http://rftv.wtf/tp/rjiptv.mpd?contentID=78
+
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="DOCUMENTARY", NATIONAL GEO HD
