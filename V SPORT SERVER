@@ -286,6 +286,18 @@ https://github.com/inaldie/inaldie/raw/main/LOGO.ts
 https://github.com/inaldie/inaldie/raw/main/LOGO.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="VISION+", ###VISION+ (OTT)###
 https://github.com/inaldie/inaldie/raw/main/LOGO.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="HBO INDO", ###HBO INDO###
+https://github.com/inaldie/inaldie/raw/main/LOGO.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="EMTEKK TV", ###EMTEK GRUP###
+https://github.com/inaldie/inaldie/raw/main/LOGO.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV1", ###ASEAN TV1###
+https://github.com/inaldie/inaldie/raw/main/LOGO.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV2", ###ASEAN TV2###
+https://github.com/inaldie/inaldie/raw/main/LOGO.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="LOKAL DAERAH", ###LOKAL DAERAH###
+https://github.com/inaldie/inaldie/raw/main/LOGO.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="RADIO FM", ###RADIO FM###
+https://github.com/inaldie/inaldie/raw/main/LOGO.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT LOKAL", ###SPORT LOKAL###
 https://github.com/inaldie/inaldie/raw/main/LOGO.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT ASIA", ###SPORT ASIA###
@@ -310,11 +322,6 @@ https://github.com/inaldie/inaldie/raw/main/LOGO.ts
 https://github.com/inaldie/inaldie/raw/main/LOGO.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT VIP", ###SPORT VIP###
 https://github.com/inaldie/inaldie/raw/main/LOGO.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="RADIO FM", ###RADIO FM###
-https://github.com/inaldie/inaldie/raw/main/LOGO.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="LOKAL DAERAH", ###LOKAL DAERAH###
-https://github.com/inaldie/inaldie/raw/main/LOGO.ts
-
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="MAC NASIONAL", INDOSIAR
 http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=994885&extension=ts&play_token=GVZS088tcf
@@ -3008,9 +3015,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 tvg-id="ANTV.id"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/2560px-Antv_logo.svg.png" group-title="VISION+",ANTV
 https://nyanv-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
-#EXTINF:-1 tvg-id="ANTV.id"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/2560px-Antv_logo.svg.png" group-title="VISION+",ANTV SD
-https://video-weaver.jkt01.hls.ttvnw.net/v1/playlist/CqkFURD4yrhATwQCz6WJQT6vLz45ePxOdLIHrsppvIrrhQ9z423pgG5_rE_-9aN-BJRW_maIv4bU4UFNzhg6mSSOdz78J4aXpxitJxTtPcjqYbjTp2KoktsQhu4A2J7CEtzimMiV7lnmSfrGlkFoszhRey4G26bBGJA0a5oa2uZXao5RAAA7mqE78jXl_b-dhz-D5wJQTcfmf7tls0Eq5sKh2iUTe4WQ7ver_bSk4CSZWrkrBKPPPxzpib3gNcaXzkijNsBObGjw6AXhZylIGzzzJEv_W7sKYP60avVHhReGzOCGA6u-EEWOv9TtmHEmmY5heiwpte8_KPY5tOVuPckxYZJflCxWBH__7UNQwWJy_J_imjUHsnTvpuebNWb67Q5O8PJFhkKaB3tXHSG_oh6zUKYM4VpFezy1CvYGoI6uOD_2AAVRob6kAxgsZENb_a3fQvHwS6Qww5ZJB2BB3qDcCtvte8clvuJKjxX0hSTeN9dyQFbJppuWBYRtBtnIJHlrl_7dUCq-74Xs9RgU330ExVqo5R-4SkK6E2JflmkevukJvwd0qw9YcczntnEc_kANo1b7GjYFskz7PRFncanLOT_zCw19bzwYVizrs0VljtWtfBtt8GVMsMTpWtQ4jlkIul5BK3ZcD9LqJf3J5BJnnHZNBU0nOPqTs7Wshu0b2V6iZzqbXYGKpe7YKSTkhcyfz7EkiKtYB_kv0r2LpaI89jAoUEg8GvmMHXkSJSNjPVFz_Fvu4RV6cgHsoNgGG5nEoFw0Y2V3cyChxaWEIt_VJndvBdR4NZDWgwxgzIv_gZx6YYhAD1SJbO9bghwq7WlaRNRHKa51Sy-3r6nkGBbI8cCNOjZZG5NdexPRBKKTqW741LtcM1k6e3verfzszJAGZ7dnOBmLTlVeGgxtkh9D_3ym1dWTCQcgASoJdXMtd2VzdC0yMJQI.m3u8
-
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -3479,10 +3483,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerc
 #EXTINF:-1 tvg-id="FightSports"  tvg-logo="https://www.mncvision.id/userfiles/image/channel/150x150fightsport.jpg" group-title="SPORT LOKAL",Fight Sports
 https://nyanv-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 
-#EXTINF:-1 tvg-id="UseeSports.id" tvg-name="UseeSport 1" tvg-logo="https://i.ibb.co/WKyLMfQ/usee1.png" group-title="SPORT LOKAL",UseeSport 1
-http://mykingtv.net:2082/amad1234/amad1234/8285
-#EXTINF:-1 tvg-id="UseeSports2.id" tvg-name="UseeSport2" tvg-logo="https://i.ibb.co/WKyLMfQ/usee1.png" group-title="SPORT LOKAL",UseeSport2
-http://mykingtv.net:2082/amad1234/amad1234/8286
 
 ################################################################################
 ##################################NEWS##########################################
