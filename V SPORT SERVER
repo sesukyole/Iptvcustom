@@ -8281,6 +8281,28 @@ http://fleximediatv.co.uk:8080/play/live.php?mac=00:1A:79:62:04:F4&stream=166398
 #EXTINF:-1 tvg-logo="https://www.si.com/.image/t_share/MTY4MjU3MDczODg4NDM4MTQ1/mls-logo-marquee.jpg" group-title="MLS LIGA", MLS LIVE 15B
 http://fleximediatv.co.uk:8080/play/live.php?mac=00:1A:79:62:04:F4&stream=1663988_&extension=ts
 
+
+#EXTINF:-1 tvg-logo="https://mumbrella.com.au/wp-content/uploads/2020/05/K-League-on-Optus-Sport-e1588811937261.png" group-title="SPORT VIP", OPTUS SPORT 1 BK
+http://xtv.ooo:8080/0480101/730137/223070
+#EXTINF:-1 tvg-logo="https://mumbrella.com.au/wp-content/uploads/2020/05/K-League-on-Optus-Sport-e1588811937261.png" group-title="SPORT VIP", OPTUS SPORT 2 BK
+http://xtv.ooo:8080/0480101/730137/223071
+#EXTINF:-1 tvg-logo="https://mumbrella.com.au/wp-content/uploads/2020/05/K-League-on-Optus-Sport-e1588811937261.png" group-title="SPORT VIP", OPTUS SPORT 3 BK
+http://xtv.ooo:8080/0480101/730137/223073
+#EXTINF:-1 tvg-logo="https://mumbrella.com.au/wp-content/uploads/2020/05/K-League-on-Optus-Sport-e1588811937261.png" group-title="SPORT VIP", OPTUS SPORT 4 BK
+http://xtv.ooo:8080/0480101/730137/223072
+#EXTINF:-1 tvg-logo="https://mumbrella.com.au/wp-content/uploads/2020/05/K-League-on-Optus-Sport-e1588811937261.png" group-title="SPORT VIP", OPTUS SPORT 5 BK
+http://xtv.ooo:8080/0480101/730137/223074
+#EXTINF:-1 tvg-logo="https://mumbrella.com.au/wp-content/uploads/2020/05/K-League-on-Optus-Sport-e1588811937261.png" group-title="SPORT VIP", OPTUS SPORT 6 BK
+http://xtv.ooo:8080/0480101/730137/223075
+#EXTINF:-1 tvg-logo="https://mumbrella.com.au/wp-content/uploads/2020/05/K-League-on-Optus-Sport-e1588811937261.png" group-title="SPORT VIP", OPTUS SPORT 7 BK
+http://xtv.ooo:8080/0480101/730137/223076
+#EXTINF:-1 tvg-logo="https://mumbrella.com.au/wp-content/uploads/2020/05/K-League-on-Optus-Sport-e1588811937261.png" group-title="SPORT VIP", OPTUS SPORT 8 BK
+http://xtv.ooo:8080/0480101/730137/371132
+#EXTINF:-1 tvg-logo="https://mumbrella.com.au/wp-content/uploads/2020/05/K-League-on-Optus-Sport-e1588811937261.png" group-title="SPORT VIP", OPTUS SPORT 9 BK
+http://xtv.ooo:8080/0480101/730137/371133
+#EXTINF:-1 tvg-logo="https://mumbrella.com.au/wp-content/uploads/2020/05/K-League-on-Optus-Sport-e1588811937261.png" group-title="SPORT VIP", OPTUS SPORT 10 BK
+http://xtv.ooo:8080/0480101/730137/371134
+
 #EXTINF:-1 tvg-logo="https://mumbrella.com.au/wp-content/uploads/2020/05/K-League-on-Optus-Sport-e1588811937261.png" group-title="SPORT VIP", OPTUS SPORT 1 
 http://fleximediatv.co.uk:8080/play/live.php?mac=00:1A:79:62:04:F4&stream=1686687_&extension=ts
 #EXTINF:-1 tvg-logo="https://mumbrella.com.au/wp-content/uploads/2020/05/K-League-on-Optus-Sport-e1588811937261.png" group-title="SPORT VIP", OPTUS SPORT 2
