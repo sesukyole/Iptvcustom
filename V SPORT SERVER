@@ -9231,6 +9231,8 @@ http://28b304f4.edemist.com/iptv/NMCWA9PDLXUCX4/12252/index.m3u8
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoOcuMB1o22HNqpsrW8qpRchQEoHV2TLO7Ug&usqp=CAU" group-title="MPD SPORT", PARAMOUNT+ SPORT
 https://i.mjh.nz/PlutoTV/62d816fcf24d280008762ee9-alt.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrBHnIhM5o6ucCLKWmx0VzsMOkEOaCLSzoZw&usqp=CAU" group-title="MPD SPORT", USA LIVE SPORT
+https://gettvfree.tech/live/stream_1.m3u8
 
 
 #EXTINF:-1 group-title="DAZN GRUP MPD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/DAZN_F1_logo.svg/2560px-DAZN_F1_logo.svg.png", DAZN F1
