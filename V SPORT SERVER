@@ -8324,51 +8324,58 @@ http://king4k.tv:80/play/live.php?mac=00:1A:79:A5:DD:10&stream=625242&extension=
 #EXTINF:-1 tvg-logo="https://mumbrella.com.au/wp-content/uploads/2020/05/K-League-on-Optus-Sport-e1588811937261.png" group-title="SPORT VIP", OPTUS SPORT 10 
 http://king4k.tv:80/play/live.php?mac=00:1A:79:A5:DD:10&stream=625241&extension=ts&play_token=0HJV3GlNad
 
-#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/logo/621-wbg-e.png" group-title="SPORT VIP", NOW SPORT PREMIER 1
-http://fleximediatv.co.uk:8080/play/live.php?mac=00:1A:79:62:04:F4&stream=1693705_&extension=ts
-#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/logo/621-wbg-e.png" group-title="SPORT VIP", NOW SPORT PREMIER 2
-http://fleximediatv.co.uk:8080/play/live.php?mac=00:1A:79:62:04:F4&stream=1693698_&extension=ts
-#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/logo/621-wbg-e.png" group-title="SPORT VIP", NOW SPORT PREMIER 3
-http://fleximediatv.co.uk:8080/play/live.php?mac=00:1A:79:62:04:F4&stream=1693704_&extension=ts
-#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/logo/621-wbg-e.png" group-title="SPORT VIP", NOW SPORT PREMIER 4
-http://fleximediatv.co.uk:8080/play/live.php?mac=00:1A:79:62:04:F4&stream=1693703_&extension=ts
-#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/logo/621-wbg-e.png" group-title="SPORT VIP", NOW SPORT PREMIER 5
-http://fleximediatv.co.uk:8080/play/live.php?mac=00:1A:79:62:04:F4&stream=1693702_&extension=ts
-#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/logo/621-wbg-e.png" group-title="SPORT VIP", NOW SPORT PREMIER 6
-http://fleximediatv.co.uk:8080/play/live.php?mac=00:1A:79:62:04:F4&stream=1693701_&extension=ts
-#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/logo/621-wbg-e.png" group-title="SPORT VIP", NOW SPORT PREMIER 7
-http://fleximediatv.co.uk:8080/play/live.php?mac=00:1A:79:62:04:F4&stream=1693700_&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxlEpb2fKT5jsjpI2ds0aSKDcjIrejYMxNTQ&usqp=CAU" group-title="SPORT VIP", PEACOCK EVENT 1
+http://king4k.tv:80/play/live.php?mac=00:1A:79:A5:DD:10&stream=605703&extension=ts&play_token=wwFFqA6HFP
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxlEpb2fKT5jsjpI2ds0aSKDcjIrejYMxNTQ&usqp=CAU" group-title="SPORT VIP", PEACOCK EVENT 2
+http://king4k.tv:80/play/live.php?mac=00:1A:79:A5:DD:10&stream=605704&extension=ts&play_token=TWBKj02zXN
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxlEpb2fKT5jsjpI2ds0aSKDcjIrejYMxNTQ&usqp=CAU" group-title="SPORT VIP", PEACOCK EVENT 3
+http://king4k.tv:80/play/live.php?mac=00:1A:79:A5:DD:10&stream=605705&extension=ts&play_token=1H1dwsjwVB
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxlEpb2fKT5jsjpI2ds0aSKDcjIrejYMxNTQ&usqp=CAU" group-title="SPORT VIP", PEACOCK EVENT 4
+http://king4k.tv:80/play/live.php?mac=00:1A:79:A5:DD:10&stream=605706&extension=ts&play_token=1H1dwsjwVB
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxlEpb2fKT5jsjpI2ds0aSKDcjIrejYMxNTQ&usqp=CAU" group-title="SPORT VIP", PEACOCK EVENT 5
+http://king4k.tv:80/play/live.php?mac=00:1A:79:A5:DD:10&stream=605707&extension=ts&play_token=1H1dwsjwVB
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxlEpb2fKT5jsjpI2ds0aSKDcjIrejYMxNTQ&usqp=CAU" group-title="SPORT VIP", PEACOCK EVENT 6
+http://king4k.tv:80/play/live.php?mac=00:1A:79:A5:DD:10&stream=605708&extension=ts&play_token=1H1dwsjwVB
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxlEpb2fKT5jsjpI2ds0aSKDcjIrejYMxNTQ&usqp=CAU" group-title="SPORT VIP", PEACOCK EVENT 7
+http://king4k.tv:80/play/live.php?mac=00:1A:79:A5:DD:10&stream=605709&extension=ts&play_token=1H1dwsjwVB
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxlEpb2fKT5jsjpI2ds0aSKDcjIrejYMxNTQ&usqp=CAU" group-title="SPORT VIP", PEACOCK EVENT 8
+http://king4k.tv:80/play/live.php?mac=00:1A:79:A5:DD:10&stream=605710&extension=ts&play_token=1H1dwsjwVB
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxlEpb2fKT5jsjpI2ds0aSKDcjIrejYMxNTQ&usqp=CAU" group-title="SPORT VIP", PEACOCK EVENT 9
+http://king4k.tv:80/play/live.php?mac=00:1A:79:A5:DD:10&stream=605711&extension=ts&play_token=1H1dwsjwVB
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxlEpb2fKT5jsjpI2ds0aSKDcjIrejYMxNTQ&usqp=CAU" group-title="SPORT VIP", PEACOCK EVENT 10
+http://king4k.tv:80/play/live.php?mac=00:1A:79:A5:DD:10&stream=605712&extension=ts&play_token=1H1dwsjwVB
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="SPORT VIP", ASTRO SUPERSPORT 1
-http://fleximediatv.co.uk:8080/play/live.php?mac=00:1A:79:62:04:F4&stream=1917664_&extension=ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="SPORT VIP", ASTRO SUPERSPORT 2
-http://fleximediatv.co.uk:8080/play/live.php?mac=00:1A:79:62:04:F4&stream=1917663_&extension=ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="SPORT VIP", ASTRO SUPERSPORT 3
-http://fleximediatv.co.uk:8080/play/live.php?mac=00:1A:79:62:04:F4&stream=1917662_&extension=ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="SPORT VIP", ASTRO SUPERSPORT 4
-http://fleximediatv.co.uk:8080/play/live.php?mac=00:1A:79:62:04:F4&stream=1917661_&extension=ts
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/1002/931/png-transparent-espn-espn3-logo-espn-events-tcm-logo-miscellaneous-television-text.png" group-title="SPORT VIP", ESPN+ 1
-http://fleximediatv.co.uk:8080/play/live.php?mac=00:1A:79:62:04:F4&stream=1913731_&extension=ts
+http://king4k.tv:80/play/live.php?mac=00:1A:79:A5:DD:10&stream=614570&extension=ts&play_token=T3dDLQ4N1E
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/1002/931/png-transparent-espn-espn3-logo-espn-events-tcm-logo-miscellaneous-television-text.png" group-title="SPORT VIP", ESPN+ 2
-http://fleximediatv.co.uk:8080/play/live.php?mac=00:1A:79:62:04:F4&stream=1913730_&extension=ts
+http://king4k.tv:80/play/live.php?mac=00:1A:79:A5:DD:10&stream=614569&extension=ts&play_token=T3dDLQ4N1E
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/1002/931/png-transparent-espn-espn3-logo-espn-events-tcm-logo-miscellaneous-television-text.png" group-title="SPORT VIP", ESPN+ 3
-http://fleximediatv.co.uk:8080/play/live.php?mac=00:1A:79:62:04:F4&stream=1913729_&extension=ts
+http://king4k.tv:80/play/live.php?mac=00:1A:79:A5:DD:10&stream=614568&extension=ts&play_token=T3dDLQ4N1E
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/1002/931/png-transparent-espn-espn3-logo-espn-events-tcm-logo-miscellaneous-television-text.png" group-title="SPORT VIP", ESPN+ 4
-http://fleximediatv.co.uk:8080/play/live.php?mac=00:1A:79:62:04:F4&stream=1913728_&extension=ts
+http://king4k.tv:80/play/live.php?mac=00:1A:79:A5:DD:10&stream=614567&extension=ts&play_token=T3dDLQ4N1E
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/1002/931/png-transparent-espn-espn3-logo-espn-events-tcm-logo-miscellaneous-television-text.png" group-title="SPORT VIP", ESPN+ 5
-http://fleximediatv.co.uk:8080/play/live.php?mac=00:1A:79:62:04:F4&stream=1913727_&extension=ts
+http://king4k.tv:80/play/live.php?mac=00:1A:79:A5:DD:10&stream=614566&extension=ts&play_token=T3dDLQ4N1E
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/1002/931/png-transparent-espn-espn3-logo-espn-events-tcm-logo-miscellaneous-television-text.png" group-title="SPORT VIP", ESPN+ 6
-http://fleximediatv.co.uk:8080/play/live.php?mac=00:1A:79:62:04:F4&stream=1913726_&extension=ts
+http://king4k.tv:80/play/live.php?mac=00:1A:79:A5:DD:10&stream=614565&extension=ts&play_token=T3dDLQ4N1E
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/1002/931/png-transparent-espn-espn3-logo-espn-events-tcm-logo-miscellaneous-television-text.png" group-title="SPORT VIP", ESPN+ 7
-http://fleximediatv.co.uk:8080/play/live.php?mac=00:1A:79:62:04:F4&stream=1913725_&extension=ts
+http://king4k.tv:80/play/live.php?mac=00:1A:79:A5:DD:10&stream=614564&extension=ts&play_token=T3dDLQ4N1E
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/1002/931/png-transparent-espn-espn3-logo-espn-events-tcm-logo-miscellaneous-television-text.png" group-title="SPORT VIP", ESPN+ 8
-http://fleximediatv.co.uk:8080/play/live.php?mac=00:1A:79:62:04:F4&stream=1913724_&extension=ts
+http://king4k.tv:80/play/live.php?mac=00:1A:79:A5:DD:10&stream=614563&extension=ts&play_token=T3dDLQ4N1E
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/1002/931/png-transparent-espn-espn3-logo-espn-events-tcm-logo-miscellaneous-television-text.png" group-title="SPORT VIP", ESPN+ 9
-http://fleximediatv.co.uk:8080/play/live.php?mac=00:1A:79:62:04:F4&stream=1913723_&extension=ts
+http://king4k.tv:80/play/live.php?mac=00:1A:79:A5:DD:10&stream=614562&extension=ts&play_token=T3dDLQ4N1E
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/1002/931/png-transparent-espn-espn3-logo-espn-events-tcm-logo-miscellaneous-television-text.png" group-title="SPORT VIP", ESPN+ 10
-http://fleximediatv.co.uk:8080/play/live.php?mac=00:1A:79:62:04:F4&stream=1913722_&extension=ts
-
+http://king4k.tv:80/play/live.php?mac=00:1A:79:A5:DD:10&stream=614561&extension=ts&play_token=T3dDLQ4N1E
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/1002/931/png-transparent-espn-espn3-logo-espn-events-tcm-logo-miscellaneous-television-text.png" group-title="SPORT VIP", ESPN+ 11
+http://king4k.tv:80/play/live.php?mac=00:1A:79:A5:DD:10&stream=614560&extension=ts&play_token=T3dDLQ4N1E
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/1002/931/png-transparent-espn-espn3-logo-espn-events-tcm-logo-miscellaneous-television-text.png" group-title="SPORT VIP", ESPN+ 12
+http://king4k.tv:80/play/live.php?mac=00:1A:79:A5:DD:10&stream=614559&extension=ts&play_token=T3dDLQ4N1E
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/1002/931/png-transparent-espn-espn3-logo-espn-events-tcm-logo-miscellaneous-television-text.png" group-title="SPORT VIP", ESPN+ 13
+http://king4k.tv:80/play/live.php?mac=00:1A:79:A5:DD:10&stream=614558&extension=ts&play_token=T3dDLQ4N1E
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/1002/931/png-transparent-espn-espn3-logo-espn-events-tcm-logo-miscellaneous-television-text.png" group-title="SPORT VIP", ESPN+ 14
+http://king4k.tv:80/play/live.php?mac=00:1A:79:A5:DD:10&stream=614557&extension=ts&play_token=T3dDLQ4N1E
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/1002/931/png-transparent-espn-espn3-logo-espn-events-tcm-logo-miscellaneous-television-text.png" group-title="SPORT VIP", ESPN+ 15
+http://king4k.tv:80/play/live.php?mac=00:1A:79:A5:DD:10&stream=614556&extension=ts&play_token=T3dDLQ4N1E
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/308_144.png" group-title="SPORT 4K", ASTRO SUPERSPORT UHD
 http://fleximediatv.co.uk:8080/play/live.php?mac=00:1A:79:62:04:F4&stream=1917657_&extension=ts
