@@ -8345,6 +8345,27 @@ http://king4k.tv:80/play/live.php?mac=00:1A:79:A5:DD:10&stream=605711&extension=
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxlEpb2fKT5jsjpI2ds0aSKDcjIrejYMxNTQ&usqp=CAU" group-title="SPORT VIP", PEACOCK EVENT 10
 http://king4k.tv:80/play/live.php?mac=00:1A:79:A5:DD:10&stream=605712&extension=ts&play_token=1H1dwsjwVB
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu_ExIaTTs8bHlOi2Yd2sANLGao6L0r7eAVQ&usqp=CAU" group-title="SPORT VIP", PRIME VIDIO EVENT 1
+http://king4k.tv:80/play/live.php?mac=00:1A:79:A5:DD:10&stream=613269&extension=ts&play_token=1ARwOXtAhU
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu_ExIaTTs8bHlOi2Yd2sANLGao6L0r7eAVQ&usqp=CAU" group-title="SPORT VIP", PRIME VIDIO EVENT 2
+http://king4k.tv:80/play/live.php?mac=00:1A:79:A5:DD:10&stream=613268&extension=ts&play_token=lXuVX3rmba
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu_ExIaTTs8bHlOi2Yd2sANLGao6L0r7eAVQ&usqp=CAU" group-title="SPORT VIP", PRIME VIDIO EVENT 3
+http://king4k.tv:80/play/live.php?mac=00:1A:79:A5:DD:10&stream=613267&extension=ts&play_token=lXuVX3rmba
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu_ExIaTTs8bHlOi2Yd2sANLGao6L0r7eAVQ&usqp=CAU" group-title="SPORT VIP", PRIME VIDIO EVENT 4
+http://king4k.tv:80/play/live.php?mac=00:1A:79:A5:DD:10&stream=613266&extension=ts&play_token=lXuVX3rmba
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu_ExIaTTs8bHlOi2Yd2sANLGao6L0r7eAVQ&usqp=CAU" group-title="SPORT VIP", PRIME VIDIO EVENT 5
+http://king4k.tv:80/play/live.php?mac=00:1A:79:A5:DD:10&stream=613265&extension=ts&play_token=lXuVX3rmba
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu_ExIaTTs8bHlOi2Yd2sANLGao6L0r7eAVQ&usqp=CAU" group-title="SPORT VIP", PRIME VIDIO EVENT 6
+http://king4k.tv:80/play/live.php?mac=00:1A:79:A5:DD:10&stream=613264&extension=ts&play_token=lXuVX3rmba
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu_ExIaTTs8bHlOi2Yd2sANLGao6L0r7eAVQ&usqp=CAU" group-title="SPORT VIP", PRIME VIDIO EVENT 7
+http://king4k.tv:80/play/live.php?mac=00:1A:79:A5:DD:10&stream=613263&extension=ts&play_token=lXuVX3rmba
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu_ExIaTTs8bHlOi2Yd2sANLGao6L0r7eAVQ&usqp=CAU" group-title="SPORT VIP", PRIME VIDIO EVENT 8
+http://king4k.tv:80/play/live.php?mac=00:1A:79:A5:DD:10&stream=613262&extension=ts&play_token=lXuVX3rmba
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu_ExIaTTs8bHlOi2Yd2sANLGao6L0r7eAVQ&usqp=CAU" group-title="SPORT VIP", PRIME VIDIO EVENT 9
+http://king4k.tv:80/play/live.php?mac=00:1A:79:A5:DD:10&stream=613261&extension=ts&play_token=lXuVX3rmba
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu_ExIaTTs8bHlOi2Yd2sANLGao6L0r7eAVQ&usqp=CAU" group-title="SPORT VIP", PRIME VIDIO EVENT 10
+http://king4k.tv:80/play/live.php?mac=00:1A:79:A5:DD:10&stream=613260&extension=ts&play_token=lXuVX3rmba
+
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/1002/931/png-transparent-espn-espn3-logo-espn-events-tcm-logo-miscellaneous-television-text.png" group-title="SPORT VIP", ESPN+ 1
 http://king4k.tv:80/play/live.php?mac=00:1A:79:A5:DD:10&stream=614570&extension=ts&play_token=T3dDLQ4N1E
