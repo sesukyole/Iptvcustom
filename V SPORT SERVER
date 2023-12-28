@@ -3715,7 +3715,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 
 <================ Korean Channels ===================>
 #EXTINF:-1 tvg-name="Flik FHD" tvg-logo="https://i.postimg.cc/LXrN4MF2/flik2.png" group-title="VISION+",Flik
-http://mykingtv.net:2082/amad1234/amad1234/6973
+http://xtv.ooo:8080/6535678/8655688/350947
 #EXTINF:-1 tvg-id="BioskopIndonesia.id" tvg-name="ID: Bioskop Indonesia" tvg-logo="https://i.postimg.cc/QC7sVsBb/bios2.png" group-title="VISION+", Bioskop Indonesia
 https://ktpremium.com:443/kt2770/70072389/73873
 #EXTINF:-1 tvg-id="HBO" tvg-name="MY: HBO" tvg-logo="https://i.postimg.cc/SKhTC4ns/HBO2.png" group-title="VISION+", HBO K
@@ -3938,10 +3938,11 @@ http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=501404_&
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/96.jpg" group-title="VISION+", MY KIDZ
 http://210.210.155.37/uq2663/h/h191/index.m3u8
 
+#EXTINF:-1 tvg-id="Aniplus.id" tvg-name="MY: Aniplus FHD" tvg-logo="https://i.postimg.cc/xT9FXnb1/aniplus2.png" group-title="VISION+", Aniplus IP3
+http://xtv.ooo:8080/6535678/8655688/350891
+
 #EXTINF:-1 tvg-id="Aniplus.id" tvg-name="MY: Aniplus FHD" tvg-logo="https://i.postimg.cc/xT9FXnb1/aniplus2.png" group-title="VISION+", Aniplus FHD
 https://ktpremium.com:443/kt2770/70072389/73884
-#EXTINF:-1 tvg-id="astroceria.my" tvg-name="MY: Astro Ceria [A]" tvg-logo="https://i.imgur.com/Mg7OSZZ.png" group-title="VISION+", Astro Ceria [A]
-http://mykingtv.net:2082/amad1234/amad1234/5274
 #EXTINF:-1 tvg-id="611" tvg-name="MY: Astro Ceria [B]" tvg-logo="https://i.imgur.com/Mg7OSZZ.png" group-title="VISION+", Astro Ceria KT
 https://ktpremium.com:443/kt2770/70072389/26238
 
