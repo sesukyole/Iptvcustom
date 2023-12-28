@@ -3466,7 +3466,14 @@ http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 #EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: Indosiar HD" tvg-logo="https://i.ibb.co/stL6b6b/INDOSIAR-PPI-IP-TV.png" group-title="VISION+", INDOSIAR KT
 https://ktpremium.com:443/kt2770/70072389/73617
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="VISION+", INDOSIAR IP3
-http://iptvtree.net:8080/F33638/590ef23d/162138
+http://xtv.ooo:8080/6535678/8655688/350972
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="VISION+", MOJI DENS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://op-group1-swiftservesd-1.dens.tv/s/s41/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="VISION+", MOJI IP3
+http://xtv.ooo:8080/6535678/8655688/350997
+
 
 #EXTINF:-1 tvg-logo="https://www.wowkeren.com/display/images/photo/2019/09/07/00272011.jpg" group-title="VISION+", SCTV DENS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
@@ -3474,13 +3481,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ID: SCTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png" group-title="VISION+", SCTV KT
 https://ktpremium.com:443/kt2770/70072389/73607
 #EXTINF:-1 tvg-logo="https://www.wowkeren.com/display/images/photo/2019/09/07/00272011.jpg" group-title="VISION+", SCTV IP3
-http://iptvtree.net:8080/F33638/590ef23d/162141
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="VISION+", MOJI DENS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://op-group1-swiftservesd-1.dens.tv/s/s41/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="VISION+", MOJI IP3
-http://iptvtree.net:8080/F33638/590ef23d/298550
+http://xtv.ooo:8080/6535678/8655688/351030
 
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -3713,7 +3714,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
 https://nyanv-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 
 <================ Korean Channels ===================>
-#EXTINF:-1 tvg-id="Arena2" tvg-name="Flik FHD" tvg-logo="https://i.postimg.cc/LXrN4MF2/flik2.png" group-title="VISION+",Flik
+#EXTINF:-1 tvg-name="Flik FHD" tvg-logo="https://i.postimg.cc/LXrN4MF2/flik2.png" group-title="VISION+",Flik
 http://mykingtv.net:2082/amad1234/amad1234/6973
 #EXTINF:-1 tvg-id="BioskopIndonesia.id" tvg-name="ID: Bioskop Indonesia" tvg-logo="https://i.postimg.cc/QC7sVsBb/bios2.png" group-title="VISION+", Bioskop Indonesia
 https://ktpremium.com:443/kt2770/70072389/73873
@@ -3729,6 +3730,19 @@ https://ktpremium.com:443/kt2770/70072389/656642
 https://ktpremium.com:443/kt2770/70072389/901187
 #EXTINF:-1 tvg-id="WarnerTV" tvg-name="MY: Warner TV" tvg-logo="https://i.ibb.co/GR4H1Tt/jjkj.png" group-title="VISION+", Warner TV
 https://ktpremium.com:443/kt2770/70072389/26097
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Gmy39FDR/cinema2.png" group-title="VISION+", CINEMAX IP3
+http://xtv.ooo:8080/6535678/8655688/350922
+#EXTINF:-1 tvg-id="HBO" tvg-name="MY: HBO" tvg-logo="https://i.postimg.cc/SKhTC4ns/HBO2.png" group-title="VISION+", HBO IP3
+http://xtv.ooo:8080/6535678/8655688/350955
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zXyc10mJ/hboff33.png" group-title="VISION+", HBO Family IP3
+http://xtv.ooo:8080/6535678/8655688/350956
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kXLhMK9W/hbohits22.png" group-title="VISION+", HBO Hits IP3
+http://xtv.ooo:8080/6535678/8655688/350957
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZY7MgXM7/hbosig2.png" group-title="VISION+", HBO Signature IP3
+http://xtv.ooo:8080/6535678/8655688/350958
+
 
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/39.jpg" group-title="VISION+", ROCK ENTERTAINMENT
 http://210.210.155.37/dr9445/h/h16/index.m3u8
@@ -5172,12 +5186,6 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIPAPUA)/st
 
 ################################################################################
 
-
-#EXTINF:-1 tvg-logo="https://picon.pp.ua/bein-sports-afc.png" group-title="SPORT ASIA", BEIN AFC 1
-http://fleximediatv.co.uk:8080/play/live.php?mac=00:1A:79:62:04:F4&stream=1884529_&extension=ts
-#EXTINF:-1 tvg-logo="https://picon.pp.ua/bein-sports-afc.png" group-title="SPORT ASIA", BEIN AFC 2
-http://fleximediatv.co.uk:8080/play/live.php?mac=00:1A:79:62:04:F4&stream=1884530_&extension=ts
-
 #EXTINF:-1 tvg-logo="https://sportskhabri.com/wp-content/uploads/2022/02/Premier-League-announces-StarHub-partnership.jpg" group-title="SPORT ASIA", HUB SPORT PREMIER 1
 http://king4k.tv/play/live.php?mac=00:1A:79:A5:DD:10&stream=620786&extension=ts&play_token=9Tkwk6UcYs
 #EXTINF:-1 tvg-logo="https://sportskhabri.com/wp-content/uploads/2022/02/Premier-League-announces-StarHub-partnership.jpg" group-title="SPORT ASIA", HUB SPORT PREMIER 2
@@ -5197,10 +5205,6 @@ http://king4k.tv/play/live.php?mac=00:1A:79:A5:DD:10&stream=620780&extension=ts&
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6hxy651WWHdpvqbh9nfTlLpb2DqIMiT1JAA&usqp=CAU" group-title="SPORT ASIA", ASTRO ARENA 1
 http://867754785116685132.of1207.xyz:80/play/ja412869/yPqt9STQShr/685132.ts
-#EXTINF:-1 tvg-id="801" tvg-name="MY: Astro Arena[A]" tvg-logo="https://i.ibb.co/ZVs9f7v/arena.png" group-title="SPORT ASIA", ASTRO ARENA 1K
-http://mykingtv.net:2082/amad1234/amad1234/7156
-#EXTINF:-1 tvg-id="AstroArena2" tvg-name="MY:Arena 2" tvg-logo="https://i.ibb.co/ZVs9f7v/arena.png" group-title="SPORT ASIA", ASTRO ARENA 2K
-http://mykingtv.net:2082/amad1234/amad1234/8648
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="SPORT ASIA", ASTRO SUPERSPORT 1
 http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=1111034_&extension=ts&play_token=9Tkwk6UcYs
@@ -5214,11 +5218,6 @@ http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=1111031_&exten
 http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=315181_&extension=ts&play_token=9Tkwk6UcYs
 #EXTINF:-1 tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2021/09/14110530/W-Sport-Tagline.png" group-title="SPORT ASIA", W SPORT
 http://exprestv.win/play/live.php?mac=00:1A:79:A2:5B:B8&stream=918982&extension=ts&play_token=lmz9vDcDLc
-
-#EXTINF:-1 tvg-id="" tvg-name="Arena Bola 1" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/486_144.png" group-title="SPORT ASIA", ARENA BOLA 1
-http://mykingtv.net:2082/amad1234/amad1234/18863
-#EXTINF:-1 tvg-id="" tvg-name="Arena Bola 2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/486_144.png" group-title="SPORT ASIA", ARENA BOLA 2
-http://mykingtv.net:2082/amad1234/amad1234/18864
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/HUB%201.png" group-title="SPORT ASIA", HUB SPORT 1
 http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=941573_&extension=ts&play_token=9Tkwk6UcYs
