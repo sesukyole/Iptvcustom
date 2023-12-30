@@ -559,8 +559,9 @@ http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=571179&extensi
 #EXTINF:-1 tvg-logo="____" group-title="MAC MALAYSIA", AFN
 http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=534440&extension=ts&play_token=GVZS088tcf
 
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="EMTEKK TV", INDOSIAR 1
-http://cheaptv.online:8080/stadnik2/7082341272/162138
+http://myteve.online:8080/Abraham/6b3ca724a0/162138
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="EMTEKK TV", INDOSIAR 2
 http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/162138
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="EMTEKK TV", INDOSIAR 3
@@ -569,20 +570,9 @@ http://iptvtree.net:8080/linuxapp2023/THKDLbhZj5XFvf6R/162138
 http://xtv.ooo:8080/6535678/8655688/350972
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="EMTEKK TV", INDOSIAR 5
 http://iptvtree.net:8080/87b43fb3/d8db7a3d96/162138
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="EMTEKK TV", INDOSIAR 6
-http://iptvtree.net:8080/devtv/5af3eeb538/162138
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="EMTEKK TV", INDOSIAR 7
-http://iptvstream.xyz:8080/Dooby/66754f23/162138
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="EMTEKK TV", INDOSIAR 8
-http://myteve.online:8080/Omni/kTxd7pe4MwVU8DJQ/162138
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="EMTEKK TV", INDOSIAR 9
-http://premiumiptvmk.com:8080/shaboy85/B3hLKkFsT7QXRE4PVcUCrx/162138
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="EMTEKK TV", INDOSIAR 10
-http://myteve.online:8080/LeCyGodF2023/zAN6uWGxRmkqCcgep3wTHy/162138
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="EMTEKK TV", MOJI 1
-http://cheaptv.online:8080/stadnik2/7082341272/298550
+http://myteve.online:8080/Abraham/6b3ca724a0/298550
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="EMTEKK TV", MOJI 2
 http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/298550
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="EMTEKK TV", MOJI 3
@@ -591,18 +581,9 @@ http://iptvtree.net:8080/linuxapp2023/THKDLbhZj5XFvf6R/298550
 http://xtv.ooo:8080/6535678/8655688/350997
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="EMTEKK TV", MOJI 5
 http://iptvtree.net:8080/devtv/5af3eeb538/298550
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="EMTEKK TV", MOJI 6
-http://iptvstream.xyz:8080/Dooby/66754f23/298550
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="EMTEKK TV", MOJI 7
-http://myteve.online:8080/Omni/kTxd7pe4MwVU8DJQ/298550
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="EMTEKK TV", MOJI 8
-http://premiumiptvmk.com:8080/shaboy85/B3hLKkFsT7QXRE4PVcUCrx/298550
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="EMTEKK TV", MOJI 9
-http://myteve.online:8080/LeCyGodF2023/zAN6uWGxRmkqCcgep3wTHy/298550
-
 
 #EXTINF:-1 tvg-logo="https://www.wowkeren.com/display/images/photo/2019/09/07/00272011.jpg" group-title="EMTEKK TV", SCTV 1
-http://cheaptv.online:8080/stadnik2/7082341272/162141
+http://myteve.online:8080/Abraham/6b3ca724a0/162141
 #EXTINF:-1 tvg-logo="https://www.wowkeren.com/display/images/photo/2019/09/07/00272011.jpg" group-title="EMTEKK TV", SCTV 2
 http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/162141
 #EXTINF:-1 tvg-logo="https://www.wowkeren.com/display/images/photo/2019/09/07/00272011.jpg" group-title="EMTEKK TV", SCTV 3
@@ -611,18 +592,10 @@ http://iptvtree.net:8080/linuxapp2023/THKDLbhZj5XFvf6R/162141
 http://xtv.ooo:8080/6535678/8655688/351030
 #EXTINF:-1 tvg-logo="https://www.wowkeren.com/display/images/photo/2019/09/07/00272011.jpg" group-title="EMTEKK TV", SCTV 5
 http://iptvtree.net:8080/devtv/5af3eeb538/162141
-#EXTINF:-1 tvg-logo="https://www.wowkeren.com/display/images/photo/2019/09/07/00272011.jpg" group-title="EMTEKK TV", SCTV 6
-http://iptvstream.xyz:8080/Dooby/66754f23/162141
-#EXTINF:-1 tvg-logo="https://www.wowkeren.com/display/images/photo/2019/09/07/00272011.jpg" group-title="EMTEKK TV", SCTV 7
-http://myteve.online:8080/Omni/kTxd7pe4MwVU8DJQ/162141
-#EXTINF:-1 tvg-logo="https://www.wowkeren.com/display/images/photo/2019/09/07/00272011.jpg" group-title="EMTEKK TV", SCTV 8
-http://premiumiptvmk.com:8080/shaboy85/B3hLKkFsT7QXRE4PVcUCrx/162141
-#EXTINF:-1 tvg-logo="https://www.wowkeren.com/display/images/photo/2019/09/07/00272011.jpg" group-title="EMTEKK TV", SCTV 9
-http://myteve.online:8080/LeCyGodF2023/zAN6uWGxRmkqCcgep3wTHy/162141
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbCkSdgdd7ZaJ82Fhgt5qZ3Otnn9NtocomGg&usqp=CAU" group-title="HBO INDO", CINEMAX 1
-http://cheaptv.online:8080/stadnik2/7082341272/197964
+http://myteve.online:8080/Abraham/6b3ca724a0/197964
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbCkSdgdd7ZaJ82Fhgt5qZ3Otnn9NtocomGg&usqp=CAU" group-title="HBO INDO", CINEMAX 2
 http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/197964
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbCkSdgdd7ZaJ82Fhgt5qZ3Otnn9NtocomGg&usqp=CAU" group-title="HBO INDO", CINEMAX 3
@@ -631,22 +604,10 @@ http://iptvtree.net:8080/linuxapp2023/THKDLbhZj5XFvf6R/197964
 http://xtv.ooo:8080/6535678/8655688/350922
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbCkSdgdd7ZaJ82Fhgt5qZ3Otnn9NtocomGg&usqp=CAU" group-title="HBO INDO", CINEMAX 5
 http://iptvtree.net:8080/devtv/5af3eeb538/197964
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbCkSdgdd7ZaJ82Fhgt5qZ3Otnn9NtocomGg&usqp=CAU" group-title="HBO INDO", CINEMAX 6
-http://iptvstream.xyz:8080/Dooby/66754f23/197964
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbCkSdgdd7ZaJ82Fhgt5qZ3Otnn9NtocomGg&usqp=CAU" group-title="HBO INDO", CINEMAX 7
-http://iptvmedia.live:8080/silversatcom/SKcm5tNBsrJ2HZE/197964
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbCkSdgdd7ZaJ82Fhgt5qZ3Otnn9NtocomGg&usqp=CAU" group-title="HBO INDO", CINEMAX 8
-http://premiumiptvmk.com:8080/shaboy85/B3hLKkFsT7QXRE4PVcUCrx/197964
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbCkSdgdd7ZaJ82Fhgt5qZ3Otnn9NtocomGg&usqp=CAU" group-title="HBO INDO", CINEMAX 9
-http://myteve.online:8080/Omni/kTxd7pe4MwVU8DJQ/197964
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbCkSdgdd7ZaJ82Fhgt5qZ3Otnn9NtocomGg&usqp=CAU" group-title="HBO INDO", CINEMAX 10
-http://myteve.online:8080/LeCyGodF2023/zAN6uWGxRmkqCcgep3wTHy/197964
-
-
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/800px-HBO_logo.svg.png" group-title="HBO INDO", HBO 1
-http://cheaptv.online:8080/stadnik2/7082341272/197972
+http://myteve.online:8080/Abraham/6b3ca724a0/197972
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/800px-HBO_logo.svg.png" group-title="HBO INDO", HBO 2
 http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/197972
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/800px-HBO_logo.svg.png" group-title="HBO INDO", HBO 3
@@ -655,20 +616,9 @@ http://iptvtree.net:8080/linuxapp2023/THKDLbhZj5XFvf6R/197972
 http://xtv.ooo:8080/6535678/8655688/350955
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/800px-HBO_logo.svg.png" group-title="HBO INDO", HBO 5
 http://iptvtree.net:8080/devtv/5af3eeb538/197972
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/800px-HBO_logo.svg.png" group-title="HBO INDO", HBO 6
-http://iptvstream.xyz:8080/Dooby/66754f23/197972
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/800px-HBO_logo.svg.png" group-title="HBO INDO", HBO 7
-http://iptvmedia.live:8080/silversatcom/SKcm5tNBsrJ2HZE/197972
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/800px-HBO_logo.svg.png" group-title="HBO INDO", HBO 8
-http://premiumiptvmk.com:8080/shaboy85/B3hLKkFsT7QXRE4PVcUCrx/197972
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/800px-HBO_logo.svg.png" group-title="HBO INDO", HBO 9
-http://myteve.online:8080/Omni/kTxd7pe4MwVU8DJQ/197972
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/800px-HBO_logo.svg.png" group-title="HBO INDO", HBO 10
-http://myteve.online:8080/LeCyGodF2023/zAN6uWGxRmkqCcgep3wTHy/197972
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="HBO INDO", HBO FAMILY 1
-http://cheaptv.online:8080/stadnik2/7082341272/197055
+http://myteve.online:8080/Abraham/6b3ca724a0/197055
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="HBO INDO", HBO FAMILY 2
 http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/197055
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="HBO INDO", HBO FAMILY 3
@@ -677,19 +627,9 @@ http://iptvtree.net:8080/linuxapp2023/THKDLbhZj5XFvf6R/197055
 http://xtv.ooo:8080/6535678/8655688/350956
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="HBO INDO", HBO FAMILY 5
 http://iptvtree.net:8080/devtv/5af3eeb538/197055
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="HBO INDO", HBO FAMILY 6
-http://iptvstream.xyz:8080/Dooby/66754f23/197055
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="HBO INDO", HBO FAMILY 7
-http://iptvmedia.live:8080/silversatcom/SKcm5tNBsrJ2HZE/197055
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="HBO INDO", HBO FAMILY 8
-http://premiumiptvmk.com:8080/shaboy85/B3hLKkFsT7QXRE4PVcUCrx/197055
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="HBO INDO", HBO FAMILY 9
-http://myteve.online:8080/Omni/kTxd7pe4MwVU8DJQ/197055
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="HBO INDO", HBO FAMILY 10
-http://myteve.online:8080/LeCyGodF2023/zAN6uWGxRmkqCcgep3wTHy/197055
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="HBO INDO", HBO HITS 1
-http://cheaptv.online:8080/stadnik2/7082341272/196480
+http://myteve.online:8080/Abraham/6b3ca724a0/196480
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="HBO INDO", HBO HITS 2
 http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/196480
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="HBO INDO", HBO HITS 3
@@ -698,19 +638,9 @@ http://iptvtree.net:8080/linuxapp2023/THKDLbhZj5XFvf6R/196480
 http://xtv.ooo:8080/6535678/8655688/350957
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="HBO INDO", HBO HITS 5
 http://iptvtree.net:8080/devtv/5af3eeb538/196480
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="HBO INDO", HBO HITS 6
-http://iptvstream.xyz:8080/Dooby/66754f23/196480
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="HBO INDO", HBO HITS 7
-http://iptvmedia.live:8080/silversatcom/SKcm5tNBsrJ2HZE/196480
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="HBO INDO", HBO HITS 8
-http://premiumiptvmk.com:8080/shaboy85/B3hLKkFsT7QXRE4PVcUCrx/196480
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="HBO INDO", HBO HITS 9
-http://myteve.online:8080/Omni/kTxd7pe4MwVU8DJQ/196480
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="HBO INDO", HBO HITS 10
-http://myteve.online:8080/LeCyGodF2023/zAN6uWGxRmkqCcgep3wTHy/196480
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="HBO INDO", HBO SIGNATURE 1
-http://cheaptv.online:8080/stadnik2/7082341272/221948
+http://myteve.online:8080/Abraham/6b3ca724a0/221948
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="HBO INDO", HBO SIGNATURE 2
 http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/221948
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="HBO INDO", HBO SIGNATURE 3
@@ -719,16 +649,6 @@ http://iptvtree.net:8080/linuxapp2023/THKDLbhZj5XFvf6R/221948
 http://xtv.ooo:8080/6535678/8655688/350958
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="HBO INDO", HBO SIGNATURE 5
 http://iptvtree.net:8080/devtv/5af3eeb538/221948
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="HBO INDO", HBO SIGNATURE 6
-http://iptvstream.xyz:8080/Dooby/66754f23/221948
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="HBO INDO", HBO SIGNATURE 7
-http://iptvmedia.live:8080/silversatcom/SKcm5tNBsrJ2HZE/221948
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="HBO INDO", HBO SIGNATURE 8
-http://premiumiptvmk.com:8080/shaboy85/B3hLKkFsT7QXRE4PVcUCrx/221948
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="HBO INDO", HBO SIGNATURE 9
-http://myteve.online:8080/Omni/kTxd7pe4MwVU8DJQ/221948
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="HBO INDO", HBO SIGNATURE 10
-http://myteve.online:8080/LeCyGodF2023/zAN6uWGxRmkqCcgep3wTHy/221948
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
