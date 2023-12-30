@@ -8693,25 +8693,26 @@ http://fleximediatv.co.uk:8080/play/live.php?mac=00:1A:79:62:04:F4&stream=166398
 
 
 #EXTINF:-1 tvg-logo="https://mumbrella.com.au/wp-content/uploads/2020/05/K-League-on-Optus-Sport-e1588811937261.png" group-title="SPORT VIP", OPTUS SPORT 1 BK
-http://xtv.ooo:8080/0480101/730137/223070
+http://zalhdplus.com:80/play/live.php?mac=00:1A:79:A5:DD:10&stream=625250&extension=ts&play_token=wwzPBfpQLi
 #EXTINF:-1 tvg-logo="https://mumbrella.com.au/wp-content/uploads/2020/05/K-League-on-Optus-Sport-e1588811937261.png" group-title="SPORT VIP", OPTUS SPORT 2 BK
-http://xtv.ooo:8080/0480101/730137/223071
+http://zalhdplus.com:80/play/live.php?mac=00:1A:79:A5:DD:10&stream=625249&extension=ts&play_token=30apXagKeS
 #EXTINF:-1 tvg-logo="https://mumbrella.com.au/wp-content/uploads/2020/05/K-League-on-Optus-Sport-e1588811937261.png" group-title="SPORT VIP", OPTUS SPORT 3 BK
-http://xtv.ooo:8080/0480101/730137/223073
+http://zalhdplus.com:80/play/live.php?mac=00:1A:79:A5:DD:10&stream=625248&extension=ts&play_token=30apXagKeS
 #EXTINF:-1 tvg-logo="https://mumbrella.com.au/wp-content/uploads/2020/05/K-League-on-Optus-Sport-e1588811937261.png" group-title="SPORT VIP", OPTUS SPORT 4 BK
-http://xtv.ooo:8080/0480101/730137/223072
+http://zalhdplus.com:80/play/live.php?mac=00:1A:79:A5:DD:10&stream=625247&extension=ts&play_token=30apXagKeS
 #EXTINF:-1 tvg-logo="https://mumbrella.com.au/wp-content/uploads/2020/05/K-League-on-Optus-Sport-e1588811937261.png" group-title="SPORT VIP", OPTUS SPORT 5 BK
-http://xtv.ooo:8080/0480101/730137/223074
+http://zalhdplus.com:80/play/live.php?mac=00:1A:79:A5:DD:10&stream=625246&extension=ts&play_token=30apXagKeS
 #EXTINF:-1 tvg-logo="https://mumbrella.com.au/wp-content/uploads/2020/05/K-League-on-Optus-Sport-e1588811937261.png" group-title="SPORT VIP", OPTUS SPORT 6 BK
-http://xtv.ooo:8080/0480101/730137/223075
+http://zalhdplus.com:80/play/live.php?mac=00:1A:79:A5:DD:10&stream=625245&extension=ts&play_token=30apXagKeS
 #EXTINF:-1 tvg-logo="https://mumbrella.com.au/wp-content/uploads/2020/05/K-League-on-Optus-Sport-e1588811937261.png" group-title="SPORT VIP", OPTUS SPORT 7 BK
-http://xtv.ooo:8080/0480101/730137/223076
+http://zalhdplus.com:80/play/live.php?mac=00:1A:79:A5:DD:10&stream=625244&extension=ts&play_token=30apXagKeS
 #EXTINF:-1 tvg-logo="https://mumbrella.com.au/wp-content/uploads/2020/05/K-League-on-Optus-Sport-e1588811937261.png" group-title="SPORT VIP", OPTUS SPORT 8 BK
-http://xtv.ooo:8080/0480101/730137/371132
+http://zalhdplus.com:80/play/live.php?mac=00:1A:79:A5:DD:10&stream=625243&extension=ts&play_token=30apXagKeS
 #EXTINF:-1 tvg-logo="https://mumbrella.com.au/wp-content/uploads/2020/05/K-League-on-Optus-Sport-e1588811937261.png" group-title="SPORT VIP", OPTUS SPORT 9 BK
-http://xtv.ooo:8080/0480101/730137/371133
+http://zalhdplus.com:80/play/live.php?mac=00:1A:79:A5:DD:10&stream=625242&extension=ts&play_token=30apXagKeS
 #EXTINF:-1 tvg-logo="https://mumbrella.com.au/wp-content/uploads/2020/05/K-League-on-Optus-Sport-e1588811937261.png" group-title="SPORT VIP", OPTUS SPORT 10 BK
-http://xtv.ooo:8080/0480101/730137/371134
+http://zalhdplus.com:80/play/live.php?mac=00:1A:79:A5:DD:10&stream=625241&extension=ts&play_token=30apXagKeS
+
 
 #EXTINF:-1 tvg-logo="https://mumbrella.com.au/wp-content/uploads/2020/05/K-League-on-Optus-Sport-e1588811937261.png" group-title="SPORT VIP", OPTUS SPORT 1 
 http://king4k.tv:80/play/live.php?mac=00:1A:79:A5:DD:10&stream=625250&extension=ts&play_token=LGf7r9biHK
