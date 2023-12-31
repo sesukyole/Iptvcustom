@@ -653,6 +653,17 @@ http://xtv.ooo:8080/6535678/8655688/350958
 http://iptvtree.net:8080/devtv/5af3eeb538/221948
 
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SKhTC4ns/HBO2.png" group-title="HBO INDO", HBO MY
+http://mykingtv.net:2082/gadget1k85/pass1k85/7123
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kXLhMK9W/hbohits22.png" group-title="HBO INDO", HBO HITS MY 
+http://mykingtv.net:2082/gadget1k85/pass1k85/7124
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZY7MgXM7/hbosig2.png" group-title="HBO INDO", HBO SIGNATURE MY
+http://mykingtv.net:2082/gadget1k85/pass1k85/7125
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zXyc10mJ/hboff33.png" group-title="HBO INDO", HBO FAMILY MY
+http://mykingtv.net:2082/gadget1k85/pass1k85/7126
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Gmy39FDR/cinema2.png" group-title="HBO INDO", CINEMAX MY
+http://mykingtv.net:2082/gadget1k85/pass1k85/7127
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJ4eHh4eHh4eC14eHh4LXh4eHgteHh4eC14eHh4eHh4eHh4eHgiLCJzZXNzaW9uSWQiOiJlSGg0ZUhoNGVIZ3RlSGg0ZUMxNGVIaDRMWGg0ZUhndGVIaDRlSGg0ZUhoNGVIaDRMR052YlM1dFlYaHpkSEpsWVcwc1JFRlRTRU5KVGtWTlFWaEVVazBzTVRreU1UVTBNak0xTWl4aGJtUnliMmxrTERCZmEyVnZhbXBzWVRZIiwibWVyY2hhbnQiOiJ0ZWxrb21zZWwifQ"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
