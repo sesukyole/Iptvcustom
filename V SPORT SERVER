@@ -8493,6 +8493,28 @@ http://gtvm.bmw786.xyz:80/Dan123/Dan123/217488
 #EXTINF:-1 tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_news.png" group-title="SPORT NEWZELAND", NZ SKY Sport SELECT
 http://gtvm.bmw786.xyz:80/Dan123/Dan123/217487
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPjmHKjW5y4bzXCZD_mgWQltZKgrHIqRZrMQ&usqp=CAU" group-title="SPORT NEWZELAND", SKY SPORT 1
+http://dino.tvprotocol.cc:80/play/live.php?mac=00:1A:79:FD:B7:E7&stream=630587&extension=ts&play_token=0FhjZeD68T
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPjmHKjW5y4bzXCZD_mgWQltZKgrHIqRZrMQ&usqp=CAU" group-title="SPORT NEWZELAND", SKY SPORT 2
+http://dino.tvprotocol.cc:80/play/live.php?mac=00:1A:79:FD:B7:E7&stream=630588&extension=ts&play_token=Ya0k0l0skt
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPjmHKjW5y4bzXCZD_mgWQltZKgrHIqRZrMQ&usqp=CAU" group-title="SPORT NEWZELAND", SKY SPORT 3
+http://dino.tvprotocol.cc:80/play/live.php?mac=00:1A:79:FD:B7:E7&stream=630589&extension=ts&play_token=Ya0k0l0skt
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPjmHKjW5y4bzXCZD_mgWQltZKgrHIqRZrMQ&usqp=CAU" group-title="SPORT NEWZELAND", SKY SPORT 4
+http://dino.tvprotocol.cc:80/play/live.php?mac=00:1A:79:FD:B7:E7&stream=630590&extension=ts&play_token=Ya0k0l0skt
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPjmHKjW5y4bzXCZD_mgWQltZKgrHIqRZrMQ&usqp=CAU" group-title="SPORT NEWZELAND", SKY SPORT 5
+http://dino.tvprotocol.cc:80/play/live.php?mac=00:1A:79:FD:B7:E7&stream=630591&extension=ts&play_token=Ya0k0l0skt
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPjmHKjW5y4bzXCZD_mgWQltZKgrHIqRZrMQ&usqp=CAU" group-title="SPORT NEWZELAND", SKY SPORT 6
+http://dino.tvprotocol.cc:80/play/live.php?mac=00:1A:79:FD:B7:E7&stream=630592&extension=ts&play_token=Ya0k0l0skt
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPjmHKjW5y4bzXCZD_mgWQltZKgrHIqRZrMQ&usqp=CAU" group-title="SPORT NEWZELAND", SKY SPORT 7
+http://dino.tvprotocol.cc:80/play/live.php?mac=00:1A:79:FD:B7:E7&stream=630593&extension=ts&play_token=Ya0k0l0skt
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPjmHKjW5y4bzXCZD_mgWQltZKgrHIqRZrMQ&usqp=CAU" group-title="SPORT NEWZELAND", SKY SPORT 8
+http://dino.tvprotocol.cc:80/play/live.php?mac=00:1A:79:FD:B7:E7&stream=630594&extension=ts&play_token=Ya0k0l0skt
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPjmHKjW5y4bzXCZD_mgWQltZKgrHIqRZrMQ&usqp=CAU" group-title="SPORT NEWZELAND", SKY SPORT 9
+http://dino.tvprotocol.cc:80/play/live.php?mac=00:1A:79:FD:B7:E7&stream=630595&extension=ts&play_token=Ya0k0l0skt
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPjmHKjW5y4bzXCZD_mgWQltZKgrHIqRZrMQ&usqp=CAU" group-title="SPORT NEWZELAND", SKY SPORT SELECT
+http://dino.tvprotocol.cc:80/play/live.php?mac=00:1A:79:FD:B7:E7&stream=630596&extension=ts&play_token=Ya0k0l0skt
+
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/UFC_Network.png" group-title="SPORT FIGHT", UFC NETWORK
 http://planetiptv.online/play/live.php?mac=00:1A:79:9E:99:0C&stream=487680&extension=ts&play_token=yK7Ppvy2j
