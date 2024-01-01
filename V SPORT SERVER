@@ -5113,6 +5113,18 @@ http://king4k.tv/play/live.php?mac=00:1A:79:A5:DD:10&stream=620780&extension=ts&
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6hxy651WWHdpvqbh9nfTlLpb2DqIMiT1JAA&usqp=CAU" group-title="SPORT ASIA", ASTRO ARENA 1
 http://867754785116685132.of1207.xyz:80/play/ja412869/yPqt9STQShr/685132.ts
 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="SPORT ASIA", ASTRO SUPERSPORT 1 SOOKA
+http://gtvm.bmw786.xyz:80/Dan123/Dan123/716930
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="SPORT ASIA", ASTRO SUPERSPORT 2 SOOKA
+http://gtvm.bmw786.xyz:80/Dan123/Dan123/716931
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="SPORT ASIA", ASTRO SUPERSPORT 3 SOOKA
+http://gtvm.bmw786.xyz:80/Dan123/Dan123/716932
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="SPORT ASIA", ASTRO SUPERSPORT 4 SOOKA
+http://gtvm.bmw786.xyz:80/Dan123/Dan123/716933
+#EXTINF:-1 tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2021/09/14110530/W-Sport-Tagline.png" group-title="SPORT ASIA", W SPORT SOOKA
+http://gtvm.bmw786.xyz:80/Dan123/Dan123/716934
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="SPORT ASIA", ASTRO SUPERSPORT 1
 http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=1111034_&extension=ts&play_token=9Tkwk6UcYs
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="SPORT ASIA", ASTRO SUPERSPORT 2
@@ -5133,7 +5145,15 @@ http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=941572_&extens
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/HUB%203.png" group-title="SPORT ASIA", HUB SPORT 3
 http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=941571_&extension=ts&play_token=9Tkwk6UcYs
 
-#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/logo/621-wbg-e.png" group-title="SPORT ASIA", NOW SPORT PREMIER 1 FHD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmvIGbnEZv10X9uXghSOYJTJZ_Gv1hvtCfsg&usqp=CAU" group-title="SPORT ASIA", HUB SPORT PREMIER 1X
+http://gtvm.bmw786.xyz:80/Dan123/Dan123/625866
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmvIGbnEZv10X9uXghSOYJTJZ_Gv1hvtCfsg&usqp=CAU" group-title="SPORT ASIA", HUB SPORT PREMIER 2X
+http://gtvm.bmw786.xyz:80/Dan123/Dan123/625867
+
+
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/logo/621-wbg-e.png" group-title="SPORT ASIA", NOW SPORT PREMIER 1X
+http://gtvm.bmw786.xyz:80/Dan123/Dan123/217477
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/logo/621-wbg-e.png" group-title="SPORT ASIA", NOW SPORT PREMIER 1
 http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=554953_&extension=ts&play_token=9Tkwk6UcYs
 #EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/04/600-dbg-c.png" group-title="SPORT ASIA", NOW SPORT 2
 http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=554948_&extension=ts&play_token=9Tkwk6UcYs
@@ -5152,26 +5172,28 @@ http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=1104675_&exten
 http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=282675_&extension=ts&play_token=9Tkwk6UcYs
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-j88X7dq1UxY0FB77gG-pYjxjSSsGwfrKzLyCZP_NmxGLKgjZIXIgDYtCBQQAFAJWtE8&usqp=CAU" group-title="SPORT ASIA", STAR SPORTS SELECT 2
 http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=155973_&extension=ts&play_token=9Tkwk6UcYs
-#EXTINF:-1 tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/Star_Sports_Select_1.jpg" group-title="SPORT ASIA", STAR SPORTS SELECT 1
+#EXTINF:-1 tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/Star_Sports_Select_1.jpg" group-title="SPORT ASIA", STAR SPORTS SELECT 1X
 http://103.109.56.116/live/skyfeed1015/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/Star_Sports_Select_1.jpg" group-title="SPORT ASIA", STAR SPORTS SELECT 1 FHD
+http://planetiptv.online:80/play/live.php?mac=00:1A:79:9E:99:0C&stream=281635&extension=ts&play_token=YssIMvEPAx
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-j88X7dq1UxY0FB77gG-pYjxjSSsGwfrKzLyCZP_NmxGLKgjZIXIgDYtCBQQAFAJWtE8&usqp=CAU" group-title="SPORT ASIA", STAR SPORTS SELECT 2
-http://95.111.193.211:8106/play/a01o/index.m3u8
+http://planetiptv.online:80/play/live.php?mac=00:1A:79:9E:99:0C&stream=281636&extension=ts&play_token=75RaZWIsaC
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/One_Sports_logo.svg/1200px-One_Sports_logo.svg.png" group-title="SPORT ASIA", ONE SPORTS PH
 http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=926161_&extension=ts&play_token=9Tkwk6UcYs
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/One_Sports_logo.svg/1200px-One_Sports_logo.svg.png" group-title="SPORT ASIA", ONE SPORTS PK
-http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=926161_&extension=ts&play_token=9Tkwk6UcYs
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp3oyNrGNt_3MlYqDlO1eQE2Vej7tp4qytAw&usqp=CAU" group-title="SPORT ASIA",TEN SPORTS PK
+http://planetiptv.online:80/play/live.php?mac=00:1A:79:9E:99:0C&stream=292979&extension=ts&play_token=iKmPhDFMiU
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/59/Sony_Sports_Network.png" group-title="SPORT ASIA", SONY TEN SPORT 1
-http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:17:AA:D6&stream=156017&extension=ts&play_token=APZKcUzZO6
+http://planetiptv.online:80/play/live.php?mac=00:1A:79:9E:99:0C&stream=807928&extension=ts&play_token=ztFtCPU2ji
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/59/Sony_Sports_Network.png" group-title="SPORT ASIA", SONY TEN SPORT 2
-http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:17:AA:D6&stream=156010&extension=ts&play_token=bIUe31Aktf
+http://planetiptv.online:80/play/live.php?mac=00:1A:79:9E:99:0C&stream=281639&extension=ts&play_token=u1rK4Or2K6
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/59/Sony_Sports_Network.png" group-title="SPORT ASIA", SONY TEN SPORT 3
-http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:17:AA:D6&stream=1114578&extension=ts&play_token=81r9eXEgPf
+http://planetiptv.online:80/play/live.php?mac=00:1A:79:9E:99:0C&stream=843535&extension=ts&play_token=cnqVrmrzmF
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/59/Sony_Sports_Network.png" group-title="SPORT ASIA", SONY TEN SPORT 4
-http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:17:AA:D6&stream=1114579&extension=ts&play_token=zM1D1I3p3U
+http://planetiptv.online:80/play/live.php?mac=00:1A:79:9E:99:0C&stream=843536&extension=ts&play_token=glEKbiiQxu
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/59/Sony_Sports_Network.png" group-title="SPORT ASIA", SONY TEN SPORT 5
-http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:17:AA:D6&stream=1104671&extension=ts&play_token=zfnCbkWNjh
+http://planetiptv.online:80/play/live.php?mac=00:1A:79:9E:99:0C&stream=281629&extension=ts&play_token=ZicDHJwk3b
 
 #EXTINF:1 tvg-id="TruePremierFootball1.th" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD1.png" group-title="SPORT ASIA", True Premier HD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
