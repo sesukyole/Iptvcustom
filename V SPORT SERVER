@@ -115,8 +115,6 @@ http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=652929_&
 http://foxx.pure-iptv.net:8080/play/live.php?mac=00:1A:79:55:11:BA&stream=97148_&extension=ts
 #EXTINF:-1 tvg-logo="https://cdn-9.motorsport.com/images/amp/0rGgREq2/s1000/francesco-bagnaia-ducati-team-.jpg" group-title="#🏍️🏍️🏍️LIVE MOTOGP🏍️🏍️🏍️#", GP LIVE 5
 http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=520554_&extension=ts
-#EXTINF:-1 tvg-logo="https://cdn-9.motorsport.com/images/amp/0rGgREq2/s1000/francesco-bagnaia-ducati-team-.jpg" group-title="#🏍️🏍️🏍️LIVE MOTOGP🏍️🏍️🏍️#", GP LIVE 6
-http://adarker.com:25461/play/live.php?mac=00:1A:79:8A:43:5E&stream=1925_&extension=ts
 
 #EXTINF:-1 tvg-logo="https://ichef.bbci.co.uk/news/1024/branded_news/A235/production/_98952514_newf1touse.jpg" group-title="#🏎️🏎️🏎️LIVE F1🏎️🏎️🏎️#", F1 LIVE 1
 http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=520553_&extension=ts
@@ -564,7 +562,7 @@ http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=534440&extensi
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="EMTEKK TV", INDOSIAR 1
 http://myteve.online:8080/Abraham/6b3ca724a0/162138
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="EMTEKK TV", INDOSIAR 2
-http://myteve.online:8080/minionbob/378fde7197/162138
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="EMTEKK TV", INDOSIAR 3
 http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/162138
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="EMTEKK TV", INDOSIAR 4
@@ -575,7 +573,7 @@ http://iptvtree.net:8080/live/34223073/2cdb1b8d70/162138.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="EMTEKK TV", MOJI 1
 http://myteve.online:8080/Abraham/6b3ca724a0/298550
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="EMTEKK TV", MOJI 2
-http://myteve.online:8080/minionbob/378fde7197/298550
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298550
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="EMTEKK TV", MOJI 3
 http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/298550
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="EMTEKK TV", MOJI 4
@@ -586,7 +584,7 @@ http://iptvtree.net:8080/live/34223073/2cdb1b8d70/298550.m3u8
 #EXTINF:-1 tvg-logo="https://www.wowkeren.com/display/images/photo/2019/09/07/00272011.jpg" group-title="EMTEKK TV", SCTV 1
 http://myteve.online:8080/Abraham/6b3ca724a0/162141
 #EXTINF:-1 tvg-logo="https://www.wowkeren.com/display/images/photo/2019/09/07/00272011.jpg" group-title="EMTEKK TV", SCTV 2
-http://myteve.online:8080/minionbob/378fde7197/162141
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162141
 #EXTINF:-1 tvg-logo="https://www.wowkeren.com/display/images/photo/2019/09/07/00272011.jpg" group-title="EMTEKK TV", SCTV 3
 http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/162141
 #EXTINF:-1 tvg-logo="https://www.wowkeren.com/display/images/photo/2019/09/07/00272011.jpg" group-title="EMTEKK TV", SCTV 4
@@ -598,7 +596,7 @@ http://iptvtree.net:8080/live/34223073/2cdb1b8d70/162141.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa1A1hAnd1nsMY42I2Eg5B-pGcyZdiI6u4Sw&usqp=CAU" group-title="EMTEKK TV", MENTARI TV 1
 http://myteve.online:8080/Abraham/6b3ca724a0/298546
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa1A1hAnd1nsMY42I2Eg5B-pGcyZdiI6u4Sw&usqp=CAU" group-title="EMTEKK TV", MENTARI TV 2
-http://myteve.online:8080/minionbob/378fde7197/298546
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298546
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa1A1hAnd1nsMY42I2Eg5B-pGcyZdiI6u4Sw&usqp=CAU" group-title="EMTEKK TV", MENTARI TV 3
 http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/298546
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa1A1hAnd1nsMY42I2Eg5B-pGcyZdiI6u4Sw&usqp=CAU" group-title="EMTEKK TV", MENTARI TV 4
@@ -611,7 +609,7 @@ http://iptvtree.net:8080/live/34223073/2cdb1b8d70/298546.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbCkSdgdd7ZaJ82Fhgt5qZ3Otnn9NtocomGg&usqp=CAU" group-title="HBO INDO", CINEMAX 1
 http://myteve.online:8080/Abraham/6b3ca724a0/197964
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbCkSdgdd7ZaJ82Fhgt5qZ3Otnn9NtocomGg&usqp=CAU" group-title="HBO INDO", CINEMAX 2
-http://myteve.online:8080/minionbob/378fde7197/197964
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/197964
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbCkSdgdd7ZaJ82Fhgt5qZ3Otnn9NtocomGg&usqp=CAU" group-title="HBO INDO", CINEMAX 3
 http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/197964
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbCkSdgdd7ZaJ82Fhgt5qZ3Otnn9NtocomGg&usqp=CAU" group-title="HBO INDO", CINEMAX 4
@@ -623,7 +621,7 @@ http://iptvtree.net:8080/live/34223073/2cdb1b8d70/197964.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/800px-HBO_logo.svg.png" group-title="HBO INDO", HBO 1
 http://myteve.online:8080/Abraham/6b3ca724a0/197972
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/800px-HBO_logo.svg.png" group-title="HBO INDO", HBO 2
-http://myteve.online:8080/minionbob/378fde7197/197972
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/197972
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/800px-HBO_logo.svg.png" group-title="HBO INDO", HBO 3
 http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/197972
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/800px-HBO_logo.svg.png" group-title="HBO INDO", HBO 4
@@ -634,7 +632,7 @@ http://iptvtree.net:8080/live/34223073/2cdb1b8d70/197972.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="HBO INDO", HBO FAMILY 1
 http://myteve.online:8080/Abraham/6b3ca724a0/197055
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="HBO INDO", HBO FAMILY 2
-http://myteve.online:8080/minionbob/378fde7197/197055
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/197055
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="HBO INDO", HBO FAMILY 3
 http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/197055
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="HBO INDO", HBO FAMILY 4
@@ -645,7 +643,7 @@ http://iptvtree.net:8080/live/34223073/2cdb1b8d70/197055.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="HBO INDO", HBO HITS 1
 http://myteve.online:8080/Abraham/6b3ca724a0/196480
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="HBO INDO", HBO HITS 2
-http://myteve.online:8080/minionbob/378fde7197/196480
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/196480
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="HBO INDO", HBO HITS 3
 http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/196480
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="HBO INDO", HBO HITS 4
@@ -656,25 +654,13 @@ http://iptvtree.net:8080/live/34223073/2cdb1b8d70/196480.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="HBO INDO", HBO SIGNATURE 1
 http://myteve.online:8080/Abraham/6b3ca724a0/221948
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="HBO INDO", HBO SIGNATURE 2
-http://myteve.online:8080/minionbob/378fde7197/221948
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/221948
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="HBO INDO", HBO SIGNATURE 3
 http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/221948
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="HBO INDO", HBO SIGNATURE 4
 http://xtv.ooo:8080/6535678/8655688/350958
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="HBO INDO", HBO SIGNATURE 5
 http://iptvtree.net:8080/live/34223073/2cdb1b8d70/221948.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SKhTC4ns/HBO2.png" group-title="HBO INDO", HBO MY
-http://mykingtv.net:2082/gadget1k85/pass1k85/7123
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/kXLhMK9W/hbohits22.png" group-title="HBO INDO", HBO HITS MY 
-http://mykingtv.net:2082/gadget1k85/pass1k85/7124
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZY7MgXM7/hbosig2.png" group-title="HBO INDO", HBO SIGNATURE MY
-http://mykingtv.net:2082/gadget1k85/pass1k85/7125
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/zXyc10mJ/hboff33.png" group-title="HBO INDO", HBO FAMILY MY
-http://mykingtv.net:2082/gadget1k85/pass1k85/7126
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Gmy39FDR/cinema2.png" group-title="HBO INDO", CINEMAX MY
-http://mykingtv.net:2082/gadget1k85/pass1k85/7127
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJ4eHh4eHh4eC14eHh4LXh4eHgteHh4eC14eHh4eHh4eHh4eHgiLCJzZXNzaW9uSWQiOiJlSGg0ZUhoNGVIZ3RlSGg0ZUMxNGVIaDRMWGg0ZUhndGVIaDRlSGg0ZUhoNGVIaDRMR052YlM1dFlYaHpkSEpsWVcwc1JFRlRTRU5KVGtWTlFWaEVVazBzTVRreU1UVTBNak0xTWl4aGJtUnliMmxrTERCZmEyVnZhbXBzWVRZIiwibWVyY2hhbnQiOiJ0ZWxrb21zZWwifQ"}
@@ -717,56 +703,55 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(cec31cdd-d2ff
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7e3ac8f2-3380-461a-976b-30bca8d939a0)/manifest.mpd
 
 
-
-#EXTINF:-1 tvg-logo="https://earntv.io/wp-content/uploads/2023/10/ETV__logo.png" group-title="ETV BIOSKOP", ETV BIOSKOP 1 1
+#EXTINF:-1 tvg-logo="https://earntv.io/wp-content/uploads/2023/10/ETV__logo.png" group-title="ETV BIOSKOP", ETV BIOSKOP 1A
 http://myteve.online:8080/Abraham/6b3ca724a0/298526
-#EXTINF:-1 tvg-logo="https://earntv.io/wp-content/uploads/2023/10/ETV__logo.png" group-title="ETV BIOSKOP", ETV BIOSKOP 1 2
-http://myteve.online:8080/minionbob/378fde7197/298526
-#EXTINF:-1 tvg-logo="https://earntv.io/wp-content/uploads/2023/10/ETV__logo.png" group-title="ETV BIOSKOP", ETV BIOSKOP 1 3
+#EXTINF:-1 tvg-logo="https://earntv.io/wp-content/uploads/2023/10/ETV__logo.png" group-title="ETV BIOSKOP", ETV BIOSKOP 1B
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298526
+#EXTINF:-1 tvg-logo="https://earntv.io/wp-content/uploads/2023/10/ETV__logo.png" group-title="ETV BIOSKOP", ETV BIOSKOP 1C
 http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/298526
-#EXTINF:-1 tvg-logo="https://earntv.io/wp-content/uploads/2023/10/ETV__logo.png" group-title="ETV BIOSKOP", ETV BIOSKOP 1 4
+#EXTINF:-1 tvg-logo="https://earntv.io/wp-content/uploads/2023/10/ETV__logo.png" group-title="ETV BIOSKOP", ETV BIOSKOP 1D
 http://xtv.ooo:8080/6535678/8655688/350941
-#EXTINF:-1 tvg-logo="https://earntv.io/wp-content/uploads/2023/10/ETV__logo.png" group-title="ETV BIOSKOP", ETV BIOSKOP 1 5
+#EXTINF:-1 tvg-logo="https://earntv.io/wp-content/uploads/2023/10/ETV__logo.png" group-title="ETV BIOSKOP", ETV BIOSKOP 1E
 http://iptvtree.net:8080/live/34223073/2cdb1b8d70/298526.m3u8
 
-#EXTINF:-1 tvg-logo="https://earntv.io/wp-content/uploads/2023/10/ETV__logo.png" group-title="ETV BIOSKOP", ETV BIOSKOP 2 1
+#EXTINF:-1 tvg-logo="https://earntv.io/wp-content/uploads/2023/10/ETV__logo.png" group-title="ETV BIOSKOP", ETV BIOSKOP 2A
 http://myteve.online:8080/Abraham/6b3ca724a0/298527
-#EXTINF:-1 tvg-logo="https://earntv.io/wp-content/uploads/2023/10/ETV__logo.png" group-title="ETV BIOSKOP", ETV BIOSKOP 2 2
-http://myteve.online:8080/minionbob/378fde7197/298527
-#EXTINF:-1 tvg-logo="https://earntv.io/wp-content/uploads/2023/10/ETV__logo.png" group-title="ETV BIOSKOP", ETV BIOSKOP 2 3
+#EXTINF:-1 tvg-logo="https://earntv.io/wp-content/uploads/2023/10/ETV__logo.png" group-title="ETV BIOSKOP", ETV BIOSKOP 2B
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298527
+#EXTINF:-1 tvg-logo="https://earntv.io/wp-content/uploads/2023/10/ETV__logo.png" group-title="ETV BIOSKOP", ETV BIOSKOP 2C
 http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/298527
-#EXTINF:-1 tvg-logo="https://earntv.io/wp-content/uploads/2023/10/ETV__logo.png" group-title="ETV BIOSKOP", ETV BIOSKOP 2 4
+#EXTINF:-1 tvg-logo="https://earntv.io/wp-content/uploads/2023/10/ETV__logo.png" group-title="ETV BIOSKOP", ETV BIOSKOP 2D
 http://xtv.ooo:8080/6535678/8655688/350942
-#EXTINF:-1 tvg-logo="https://earntv.io/wp-content/uploads/2023/10/ETV__logo.png" group-title="ETV BIOSKOP", ETV BIOSKOP 2 5
+#EXTINF:-1 tvg-logo="https://earntv.io/wp-content/uploads/2023/10/ETV__logo.png" group-title="ETV BIOSKOP", ETV BIOSKOP 2E
 http://iptvtree.net:8080/live/34223073/2cdb1b8d70/298527.m3u8
 
-#EXTINF:-1 tvg-logo="https://earntv.io/wp-content/uploads/2023/10/ETV__logo.png" group-title="ETV BIOSKOP", ETV BIOSKOP 3 1
+#EXTINF:-1 tvg-logo="https://earntv.io/wp-content/uploads/2023/10/ETV__logo.png" group-title="ETV BIOSKOP", ETV BIOSKOP 3A
 http://myteve.online:8080/Abraham/6b3ca724a0/298528
-#EXTINF:-1 tvg-logo="https://earntv.io/wp-content/uploads/2023/10/ETV__logo.png" group-title="ETV BIOSKOP", ETV BIOSKOP 3 2
-http://myteve.online:8080/minionbob/378fde7197/298528
-#EXTINF:-1 tvg-logo="https://earntv.io/wp-content/uploads/2023/10/ETV__logo.png" group-title="ETV BIOSKOP", ETV BIOSKOP 3 3
+#EXTINF:-1 tvg-logo="https://earntv.io/wp-content/uploads/2023/10/ETV__logo.png" group-title="ETV BIOSKOP", ETV BIOSKOP 3B
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298528
+#EXTINF:-1 tvg-logo="https://earntv.io/wp-content/uploads/2023/10/ETV__logo.png" group-title="ETV BIOSKOP", ETV BIOSKOP 3C
 http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/298528
-#EXTINF:-1 tvg-logo="https://earntv.io/wp-content/uploads/2023/10/ETV__logo.png" group-title="ETV BIOSKOP", ETV BIOSKOP 3 4
+#EXTINF:-1 tvg-logo="https://earntv.io/wp-content/uploads/2023/10/ETV__logo.png" group-title="ETV BIOSKOP", ETV BIOSKOP 3D
 http://xtv.ooo:8080/6535678/8655688/350943
-#EXTINF:-1 tvg-logo="https://earntv.io/wp-content/uploads/2023/10/ETV__logo.png" group-title="ETV BIOSKOP", ETV BIOSKOP 3 5
+#EXTINF:-1 tvg-logo="https://earntv.io/wp-content/uploads/2023/10/ETV__logo.png" group-title="ETV BIOSKOP", ETV BIOSKOP 3E
 http://iptvtree.net:8080/live/34223073/2cdb1b8d70/298528.m3u8
 
-#EXTINF:-1 tvg-logo="https://earntv.io/wp-content/uploads/2023/10/ETV__logo.png" group-title="ETV BIOSKOP", ETV BIOSKOP 4 1
+#EXTINF:-1 tvg-logo="https://earntv.io/wp-content/uploads/2023/10/ETV__logo.png" group-title="ETV BIOSKOP", ETV BIOSKOP 4A
 http://myteve.online:8080/Abraham/6b3ca724a0/298529
-#EXTINF:-1 tvg-logo="https://earntv.io/wp-content/uploads/2023/10/ETV__logo.png" group-title="ETV BIOSKOP", ETV BIOSKOP 4 2
-http://myteve.online:8080/minionbob/378fde7197/298529
-#EXTINF:-1 tvg-logo="https://earntv.io/wp-content/uploads/2023/10/ETV__logo.png" group-title="ETV BIOSKOP", ETV BIOSKOP 4 3
+#EXTINF:-1 tvg-logo="https://earntv.io/wp-content/uploads/2023/10/ETV__logo.png" group-title="ETV BIOSKOP", ETV BIOSKOP 4B
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298529
+#EXTINF:-1 tvg-logo="https://earntv.io/wp-content/uploads/2023/10/ETV__logo.png" group-title="ETV BIOSKOP", ETV BIOSKOP 4C
 http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/298529
-#EXTINF:-1 tvg-logo="https://earntv.io/wp-content/uploads/2023/10/ETV__logo.png" group-title="ETV BIOSKOP", ETV BIOSKOP 4 4
+#EXTINF:-1 tvg-logo="https://earntv.io/wp-content/uploads/2023/10/ETV__logo.png" group-title="ETV BIOSKOP", ETV BIOSKOP 4D
 http://xtv.ooo:8080/6535678/8655688/350944
-#EXTINF:-1 tvg-logo="https://earntv.io/wp-content/uploads/2023/10/ETV__logo.png" group-title="ETV BIOSKOP", ETV BIOSKOP 4 5
+#EXTINF:-1 tvg-logo="https://earntv.io/wp-content/uploads/2023/10/ETV__logo.png" group-title="ETV BIOSKOP", ETV BIOSKOP 4E
 http://iptvtree.net:8080/live/34223073/2cdb1b8d70/298529.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/hiphiphore.png" group-title="HIP-HIP HOREE", HIP-HIP HOREE1
 http://myteve.online:8080/Abraham/6b3ca724a0/298536
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/hiphiphore.png" group-title="HIP-HIP HOREE", HIP-HIP HOREE2
-http://myteve.online:8080/minionbob/378fde7197/298536
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298536
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/hiphiphore.png" group-title="HIP-HIP HOREE", HIP-HIP HOREE3
 http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/298536
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/hiphiphore.png" group-title="HIP-HIP HOREE", HIP-HIP HOREE4
@@ -778,7 +763,7 @@ http://iptvtree.net:8080/live/34223073/2cdb1b8d70/298536.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/horee.png" group-title="HIP-HIP HOREE", HOREE1
 http://myteve.online:8080/Abraham/6b3ca724a0/264750
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/horee.png" group-title="HIP-HIP HOREE", HOREE2
-http://myteve.online:8080/minionbob/378fde7197/264750
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/264750
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/horee.png" group-title="HIP-HIP HOREE", HOREE3
 http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/264750
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/horee.png" group-title="HIP-HIP HOREE", HOREE4
