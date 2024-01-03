@@ -5112,7 +5112,6 @@ http://king4k.tv/play/live.php?mac=00:1A:79:A5:DD:10&stream=620780&extension=ts&
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6hxy651WWHdpvqbh9nfTlLpb2DqIMiT1JAA&usqp=CAU" group-title="SPORT ASIA", ASTRO ARENA 1
 http://867754785116685132.of1207.xyz:80/play/ja412869/yPqt9STQShr/685132.ts
 
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="SPORT ASIA", ASTRO SUPERSPORT 1 SOOKA
 http://gtvm.bmw786.xyz:80/Dan123/Dan123/716930
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="SPORT ASIA", ASTRO SUPERSPORT 2 SOOKA
@@ -8157,9 +8156,6 @@ http://foxx.pure-iptv.net:8080/play/live.php?mac=00:1A:79:55:11:BA&stream=174513
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT DUNIA 2", GOL PERU PE
 http://foxx.pure-iptv.net:8080/play/live.php?mac=00:1A:79:55:11:BA&stream=174464&extension=ts
 
-
-
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT LATIN1", BAND SPORT BR
 http://planetiptv.online/play/live.php?mac=00:1A:79:9E:99:0C&stream=264265&extension=ts&play_token=yK7Ppvy2j
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT LATIN1", ESPN SPORT 1 BR
@@ -8280,9 +8276,8 @@ http://pal.alphatx.me/play/live.php?mac=00:1A:79:C6:20:7D&stream=1293199&extensi
 
 
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT LATIN1", BAND SPORTS 4K
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT LATIN1", BAND SPORTS
 http://main.xplus2-main.xyz:2082/xplus-2-p8Fh74QndE/QZGmsX9MEY/120
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT LATIN1", BAND SPORTS HD
 http://main.xplus2-main.xyz:2082/xplus-2-p8Fh74QndE/QZGmsX9MEY/121
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT LATIN1", DAZN 1
@@ -8335,57 +8330,40 @@ http://main.xplus2-main.xyz:2082/xplus-2-p8Fh74QndE/QZGmsX9MEY/1007
 http://main.xplus2-main.xyz:2082/xplus-2-p8Fh74QndE/QZGmsX9MEY/133
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT LATIN1", ESPN EXTRA HD
 http://main.xplus2-main.xyz:2082/xplus-2-p8Fh74QndE/QZGmsX9MEY/134
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT LATIN1", ESPN EXTRA HDR+
 http://main.xplus2-main.xyz:2082/xplus-2-p8Fh74QndE/QZGmsX9MEY/1005
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT LATIN1", EUROSPORT 1 HD PT
 http://main.xplus2-main.xyz:2082/xplus-2-p8Fh74QndE/QZGmsX9MEY/137
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT LATIN1", EUROSPORT 2 HD PT
 http://main.xplus2-main.xyz:2082/xplus-2-p8Fh74QndE/QZGmsX9MEY/138
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT LATIN1", FOX SPORTS 2 4K
 http://main.xplus2-main.xyz:2082/xplus-2-p8Fh74QndE/QZGmsX9MEY/139
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT LATIN1", FOX SPORTS 2 HD
 http://main.xplus2-main.xyz:2082/xplus-2-p8Fh74QndE/QZGmsX9MEY/140
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT LATIN1", FOX SPORTS 2 HDR+
 http://main.xplus2-main.xyz:2082/xplus-2-p8Fh74QndE/QZGmsX9MEY/1008
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT LATIN1", MOTOR VISION HD
 http://main.xplus2-main.xyz:2082/xplus-2-p8Fh74QndE/QZGmsX9MEY/806
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT LATIN1", NSPORTS 1 HD
 http://main.xplus2-main.xyz:2082/xplus-2-p8Fh74QndE/QZGmsX9MEY/1068
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT LATIN1", NSPORTS 2 HD
 http://main.xplus2-main.xyz:2082/xplus-2-p8Fh74QndE/QZGmsX9MEY/1069
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT LATIN1", PAY PER VIEW ESPORTES 1
-http://main.xplus2-main.xyz:2082/xplus-2-p8Fh74QndE/QZGmsX9MEY/989
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT LATIN1", SKY SPORTS F1 HD
 http://main.xplus2-main.xyz:2082/xplus-2-p8Fh74QndE/QZGmsX9MEY/808
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT LATIN1", SPORT TV 1 HD PT
 http://main.xplus2-main.xyz:2082/xplus-2-p8Fh74QndE/QZGmsX9MEY/167
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT LATIN1", SPORT TV 2 HD PT
 http://main.xplus2-main.xyz:2082/xplus-2-p8Fh74QndE/QZGmsX9MEY/168
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT LATIN1", SPORT TV 3 HD PT
 http://main.xplus2-main.xyz:2082/xplus-2-p8Fh74QndE/QZGmsX9MEY/169
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT LATIN1", SPORT TV 4 HD PT
 http://main.xplus2-main.xyz:2082/xplus-2-p8Fh74QndE/QZGmsX9MEY/170
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT LATIN1", SPORT TV 5 HD PT
 http://main.xplus2-main.xyz:2082/xplus-2-p8Fh74QndE/QZGmsX9MEY/171
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT LATIN1", SPORT TV+ HD PT
 http://main.xplus2-main.xyz:2082/xplus-2-p8Fh74QndE/QZGmsX9MEY/166
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT LATIN1", SPORTING HD
 http://main.xplus2-main.xyz:2082/xplus-2-p8Fh74QndE/QZGmsX9MEY/805
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT LATIN1", SPORTV 1 4K
 http://main.xplus2-main.xyz:2082/xplus-2-p8Fh74QndE/QZGmsX9MEY/183
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT LATIN1", SPORTV 1 HDR
@@ -8522,8 +8500,6 @@ http://dino.tvprotocol.cc:80/play/live.php?mac=00:1A:79:FD:B7:E7&stream=630594&e
 http://dino.tvprotocol.cc:80/play/live.php?mac=00:1A:79:FD:B7:E7&stream=630595&extension=ts&play_token=Ya0k0l0skt
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPjmHKjW5y4bzXCZD_mgWQltZKgrHIqRZrMQ&usqp=CAU" group-title="SPORT NEWZELAND", SKY SPORT SELECT
 http://dino.tvprotocol.cc:80/play/live.php?mac=00:1A:79:FD:B7:E7&stream=630596&extension=ts&play_token=Ya0k0l0skt
-
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/UFC_Network.png" group-title="SPORT FIGHT", UFC NETWORK
 http://planetiptv.online/play/live.php?mac=00:1A:79:9E:99:0C&stream=487680&extension=ts&play_token=yK7Ppvy2j
@@ -8888,8 +8864,6 @@ http://king4k.tv:80/play/live.php?mac=00:1A:79:A5:DD:10&stream=614557&extension=
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/1002/931/png-transparent-espn-espn3-logo-espn-events-tcm-logo-miscellaneous-television-text.png" group-title="SPORT VIP", ESPN+ 15
 http://king4k.tv:80/play/live.php?mac=00:1A:79:A5:DD:10&stream=614556&extension=ts&play_token=T3dDLQ4N1E
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/308_144.png" group-title="SPORT 4K", ASTRO SUPERSPORT UHD
-http://fleximediatv.co.uk:8080/play/live.php?mac=00:1A:79:62:04:F4&stream=1917657_&extension=ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmVTAZNxbU1StkeyD7qgfMcqxjs3ggZnDrE0FGLRgaWvP3EXffzaotvh07MV4eFiZDqUo&usqp=CAU" group-title="SPORT 4K", ELEVEN SPORT 1 4K
 http://king4k.tv/play/live.php?mac=00:1A:79:A5:DD:10&stream=483973&extension=ts&play_token=9Tkwk6UcYs
 #EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F643%2Fv-sport-ultra-1.png" group-title="SPORT 4K", V SPORT ULTRA 4K
@@ -8972,26 +8946,6 @@ https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0002/DASH/S0002.mpd
 #KODIPROP:inputstream.adaptive.license_key=aa724943787320593f5563048c90032d:a039276254f53769b040199a4eca8c2c
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0003/DASH/S0003.mpd
  
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VSHfjjc/Bein-4.png" group-title="MPD SPORT",BeIN Sports 4 AIS
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://license.dstv.com/widevine/getLicense?CrmId=afl&AccountId=afl&ContentId=SH2&SessionId=D3C00F885C24B9C6&Ticket=C839A8D71AB94299
-https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0004/DASH/S0004.mpd
- 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8z92d2F/Bein-5.png" group-title="MPD SPORT",BeIN Sports 5 AIS
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://license.dstv.com/widevine/getLicense?CrmId=afl&AccountId=afl&ContentId=SH2&SessionId=D3C00F885C24B9C6&Ticket=C839A8D71AB94299
-https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0005/DASH/S0005.mpd
- 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hgVx5GL/Bein-1.png" group-title="MPD SPORT", BeIN Sports 6 AIS
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://license.dstv.com/widevine/getLicense?CrmId=afl&AccountId=afl&ContentId=SH2&SessionId=D3C00F885C24B9C6&Ticket=C839A8D71AB94299
-https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0006/DASH/S0006.mpd
- 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pK7Y84R/Bein-7.png" group-title="MPD SPORT",BeIN Sports 7 AIS
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://license.dstv.com/widevine/getLicense?CrmId=afl&AccountId=afl&ContentId=SH2&SessionId=D3C00F885C24B9C6&Ticket=C839A8D71AB94299
-https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0007/DASH/S0007.mpd
-
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1605131756310614017/05qwHae-_400x400.jpg", tvg-id="ksport1hd" group-title="MPD SPORT", Sky Premier League
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -9439,16 +9393,6 @@ https://aws-appeartv-cdn.rikstv.no/rikstv/1476/2/dash/Viasport_3/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=ce37e20374e55be6bb4d26837af27605:52cc532f748fcbf2b806dad4289bf84c
 https://director.streaming.telia.com/tvm-packager-prod/group1/60896dfd47a23d7c065cd68c/manifest.mpd
 
-#EXTINF:-1 group-title="MPD SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/fi/a/a6/MTV_Sport.png",FI - MTV Urheilo 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5cf725ed7c2a4acb99d9028564608b37:0b81472f439628c2f23c639725d3db3e
-https://mtv-c-liveusp-b.akamaized.net/live/TELIA_MAXSPORT1/TELIA_MAXSPORT1.isml/MAXSPORT1.mpd
-
-#EXTINF:-1 group-title="MPD SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/fi/a/a6/MTV_Sport.png",FI - MTV Urheilo 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5cf725ed7c2a4acb99d9028564608b37:0b81472f439628c2f23c639725d3db3e
-https://mtv-c-liveusp-b.akamaized.net/live/TELIA_MAXSPORT2/TELIA_MAXSPORT2.isml/MAXSPORT2.mpd
-
 
 #EXTINF:-1 tvg-logo="https://www.tsn.ca/polopoly_fs/1.1190711!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/tsn.jpg" group-title="MPD SPORT", TSN 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -9837,9 +9781,6 @@ https://ssc-extra2-on-prem-ak.akamaized.net/out/v1/a525c44d152f4d238aa21af75945e
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9b05d5f11a0b422d86354c34782ed2bc:82aef319b4cfc71fd48cdd495ee79786
 https://ssc-extra3-on-prem-cw-ak.akamaized.net/out/v1/9d373d000ab64078b131f9d4c18e3502/index.mpd
-
-
-
 
 
 #EXTINF:-1 group-title="DAZN GRUP MPD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/DAZN_F1_logo.svg/2560px-DAZN_F1_logo.svg.png", DAZN F1
@@ -10461,7 +10402,6 @@ https://d277c08tzca9og.cloudfront.net/CH5/masterCH5.mpd
 #EXTINF:-1 group-logo="https://telegra.ph/file/5231dea66798aba2c94b7.png" group-title="ASTRO GO - VPN" tvg-logo="https://telegra.ph/file/fdae501cefcf5faaeeba3.png" tvg-id="xxx",ADHOC 2
 https://d277c08tzca9og.cloudfront.net/CH2/masterCH2.mpd
 
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -10545,64 +10485,54 @@ https://linear08-playback.sooka.my/CH2/masterCH2.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=246&key
-#EXTINF:-1 tvg-id=ts246 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-7891-j75vq7k0-v1/imageContent-7891-j75vq7k0-m1.PNG" group-title="Tata Sky - VPN",Star Sports Select 1 HD
-http://rftv.wtf/tp/rjiptv.mpd?contentID=246
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"U3876+ousu0yr1dJkBJIFw", "kid":"ap5CBPP4V36/bnmzsYVz+A"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="ts24" group-title="TATA - VPN" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-60-j5fdr6a0-v1/imageContent-60-j5fdr6a0-m1.png" ,Star Sports 1 Hindi HD
+https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_252/output/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=463&key
-#EXTINF:-1 tvg-id=ts463 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11791-j9kyqpy8-v1/imageContent-11791-j9kyqpy8-m1.png" group-title="Tata Sky - VPN",Star Sports Select 2 HD
-http://rftv.wtf/tp/rjiptv.mpd?contentID=463
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"skhRnvveUv5fjvnFY1bJow", "kid":"vF6pUmmFU9qrqFeHAB1gkw"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="ts235" group-title="TATA - VPN" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1021-j5nj3c68-v1/imageContent-1021-j5nj3c68-m1.png" ,Star Sports 2 HD
+https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_251/output/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=35&key
-#EXTINF:-1 tvg-id=ts35 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-108-j5fl5wwg-v3/imageContent-108-j5fl5wwg-m3.png" group-title="Tata Sky - VPN",SONY SPORTS TEN 5 HD
-http://rftv.wtf/tp/rjiptv.mpd?contentID=35
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"uY+6Zqbrmiy+m4UM4zm8Mg", "kid":"p2QVI6yHWOOx4N8ihxnhRQ"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="ts246" group-title="TATA - VPN" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-7891-j75vq7k0-v1/imageContent-7891-j75vq7k0-m1.PNG" ,Star Sports Select 1 HD
+https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_413/output/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=171&key
-#EXTINF:-1 tvg-id=ts171 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-739-j5l4y6yw-v5/imageContent-739-j5l4y6yw-m5.png" group-title="Tata Sky - VPN",SONY SPORTS TEN 3
-http://rftv.wtf/tp/rjiptv.mpd?contentID=171
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"/dT42piFUYLoYZn9/AQa5g", "kid":"sR3SW2KRWYaLd9XLTN2BKQ"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="ts463" group-title="TATA - VPN" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11791-j9kyqpy8-v1/imageContent-11791-j9kyqpy8-m1.png" ,Star Sports Select 2 HD
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_729/output/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=464&key
-#EXTINF:-1 tvg-id=ts464 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11787-j9kynnm0-v3/imageContent-11787-j9kynnm0-m3.png" group-title="Tata Sky - VPN",SONY SPORTS TEN 3 HD
-http://rftv.wtf/tp/rjiptv.mpd?contentID=464
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"IXtnVX9tKnY0OzdDowlWvA", "kid":"HMNh4XCEWTaup7lcbvtHjg"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="ts462" group-title="TATA - VPN" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11784-j9kylfd4-v2/imageContent-11784-j9kylfd4-m3.png" ,SONY SPORTS TEN 2 HD
+https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_726/output/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=170&key
-#EXTINF:-1 tvg-id=ts170 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-742-j5l50le0-v5/imageContent-742-j5l50le0-m7.png" group-title="Tata Sky - VPN",SONY SPORTS TEN 2
-http://rftv.wtf/tp/rjiptv.mpd?contentID=170
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"VFcv+z0fxplG2I2w7ZS4ww", "kid":"NWlIIalcWSOAGrG6O+jdrw"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="ts150" group-title="TATA - VPN" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-513-j5jzouqw-v5/imageContent-513-j5jzouqw-m7.png" ,SONY SPORTS TEN 1
+https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_114/output/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=462&key
-#EXTINF:-1 tvg-id=ts462 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11784-j9kylfd4-v2/imageContent-11784-j9kylfd4-m3.png" group-title="Tata Sky - VPN",SONY SPORTS TEN 2 HD
-http://rftv.wtf/tp/rjiptv.mpd?contentID=462
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"shbsnZftxFaVo0xnddqHgA", "kid":"RCi+eqz7VXSSx/pVLD7L8Q"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="ts464" group-title="TATA - VPN" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11787-j9kynnm0-v3/imageContent-11787-j9kynnm0-m3.png" ,SONY SPORTS TEN 3 HD
+https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_727/output/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=150&key
-#EXTINF:-1 tvg-id=ts150 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-513-j5jzouqw-v5/imageContent-513-j5jzouqw-m7.png" group-title="Tata Sky - VPN",SONY SPORTS TEN 1
-http://rftv.wtf/tp/rjiptv.mpd?contentID=150
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"MNBQV/mWxuTINE88IhgFAA", "kid":"05035z35X6ufN/JSD6JJgg"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="ts170" group-title="TATA - VPN" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-742-j5l50le0-v5/imageContent-742-j5l50le0-m7.png" ,SONY SPORTS TEN 2
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_115/output/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=81&key
-#EXTINF:-1 tvg-id=ts81 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-261-j5fz9bvk-v4/imageContent-261-j5fz9bvk-m4.png" group-title="Tata Sky - VPN",SONY SPORTS TEN 1 HD
-http://rftv.wtf/tp/rjiptv.mpd?contentID=81
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"0HYXI6koitULcDZKhAxhnw", "kid":"DSYjkRgRUOm7HB+j+G19uA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="ts171" group-title="TATA - VPN" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-739-j5l4y6yw-v5/imageContent-739-j5l4y6yw-m5.png" ,SONY SPORTS TEN 3
+https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_116/output/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=24&key
-#EXTINF:-1 tvg-id=ts24 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-60-j5fdr6a0-v1/imageContent-60-j5fdr6a0-m1.png" group-title="Tata Sky - VPN",Star Sports 1 Hindi HD
-http://rftv.wtf/tp/rjiptv.mpd?contentID=24
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=235&key
-#EXTINF:-1 tvg-id=ts235 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1021-j5nj3c68-v1/imageContent-1021-j5nj3c68-m1.png" group-title="Tata Sky - VPN",Star Sports 2 HD
-http://rftv.wtf/tp/rjiptv.mpd?contentID=235
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=78&key
-#EXTINF:-1 tvg-id=ts78 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png" group-title="Tata Sky - VPN",Star Sports 1 HD
-http://rftv.wtf/tp/rjiptv.mpd?contentID=78
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"9T0xZ+8zORev6zzUJKmZmA", "kid":"xx3WP0EaUJmESnP76FDJ/Q"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="ts35" group-title="TATA - VPN" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-108-j5fl5wwg-v3/imageContent-108-j5fl5wwg-m3.png" ,SONY SPORTS TEN 5 HD
+https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_254/output/manifest.mpd
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="DOCUMENTARY", NATIONAL GEO HD
@@ -10986,46 +10916,6 @@ http://new.ivue.co:25461/play/live.php?mac=00:1A:79:E4:91:33&stream=1790010_&ext
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:E4:91:33&stream=1790008_&extension=ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmRz5k4LT6f0TOzSq-L5PiHEF3Cqadmvlnng&usqp=CAU" group-title="24/7 MOVIE", TRANSPORMER 
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:E4:91:33&stream=1790108_&extension=ts
-
-
-
-
-#EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv1.jpg" group-title="CHINA CCTV 🇨🇳",CCTV 1 
-http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226737/1.m3u8
-#EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv2.jpg" group-title="CHINA CCTV 🇨🇳",CCTV 2 
-http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226739/1.m3u8
-#EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv3.jpg" group-title="CHINA CCTV 🇨🇳",CCTV 3
-http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226720/1.m3u8 
-#EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv4.jpg" group-title="CHINA CCTV 🇨🇳",CCTV 4 
-http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226725/1.m3u8
-#EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv5.jpg" group-title="CHINA CCTV 🇨🇳",CCTV 5 
-http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226731/1.m3u8
-#EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv5.jpg" group-title="CHINA CCTV 🇨🇳",CCTV 5+
-http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226711/1.m3u8
-#EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv6.jpg" group-title="CHINA CCTV 🇨🇳",CCTV 6 
-http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226699/1.m3u8
-#EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv7.jpg" group-title="CHINA CCTV 🇨🇳",CCTV 7
-http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226721/1.m3u8
-#EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv8.jpg" group-title="CHINA CCTV 🇨🇳",CCTV 8
-http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226715/1.m3u8
-#EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv9.jpg" group-title="CHINA CCTV 🇨🇳",CCTV 9 
-http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226657/1.m3u8
-#EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv10.jpg" group-title="CHINA CCTV 🇨🇳",CCTV 10 
-http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226708/1.m3u8
-#EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv11.jpg" group-title="CHINA CCTV 🇨🇳",CCTV 11 
-http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226714/1.m3u8
-#EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv12.jpg" group-title="CHINA CCTV 🇨🇳",CCTV 12 
-http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226748/1.m3u8
-#EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv13.jpg" group-title="CHINA CCTV 🇨🇳",CCTV 13
-http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226717/1.m3u8
-#EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv14.jpg" group-title="CHINA CCTV 🇨🇳",CCTV 14 
-http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226717/1.m3u8
-#EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv15.jpg" group-title="CHINA CCTV 🇨🇳",CCTV 15 
-http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv16.jpg" group-title="CHINA CCTV 🇨🇳",CCTV 16
-http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226825/1.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/cctv17.jpg" group-title="CHINA CCTV 🇨🇳",CCTV 17 
-http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226660/1.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="BEIN ENTERTAIMENT", BEIN MOVIES PREMIERE 1
@@ -14830,7 +14720,7 @@ https://i.mjh.nz/SamsungTVPlus/USBD1200008GL.m3u8
 
 #EXTINF:-1 channel-id="samsung-USBC3600008WY" tvg-id="USBC3600008WY" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600008WY_20230809T005428SQUARE.png_20230809005429.png" tvg-chno="1543" group-title="SAMSUNG TV" , Vevo Pop
 https://i.mjh.nz/SamsungTVPlus/USBC3600008WY.m3u8
-#################
+
 #EXTINF:-1 channel-id="samsung-GBBC2300003ZQ" tvg-id="GBBC2300003ZQ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC2300003ZQ_20220608T011330SQUARE.png_20220608011332.png" tvg-chno="4001" group-title="SAMSUNG TV" , Entertainment Hub
 https://i.mjh.nz/SamsungTVPlus/GBBC2300003ZQ.m3u8
 
