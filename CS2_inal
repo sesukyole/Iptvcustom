@@ -623,6 +623,16 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/useesport/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/133/useesports2/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/bein-sports-1-logo-4E5E4AE6B8-seeklogo.com.png" group-title="SPORT LOKAL", BEIN SPORT 1 IND
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/133/beib1/manifest.mpd
+
+#EXTINF:-1  tvg-logo="https://seeklogo.com/images/B/bein-sports-3-logo-42227D7D66-seeklogo.com.png" group-title="SPORT LOKAL", BEIN SPORT 3 IND
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/133/beib2/manifest.mpd
+
 
 ################################################################################
 ##################################NEWS##########################################
@@ -1042,187 +1052,574 @@ http://op-group1-swiftservehd-1.dens.tv/h/h233/02.m3u8
 http://op-group1-swiftservehd-1.dens.tv/h/h241/02.m3u8
 
 
-====================================== SPORT DAZN ================================================
+====================================== SPORT DUNIA ================================================
 
-#EXTINF:-1 group-title="SPORT DAZN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/DAZN_F1_logo.svg/2560px-DAZN_F1_logo.svg.png", DAZN F1
+#EXTINF:-1 tvg-id="ArenaSport1Serbia.rs" tvg-logo="https://i.ibb.co/Bc5hXbD/A1.png" group-title="SPORT DUNIA", ARENA SPORT 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"wYtqpzm+TAt3RgX8+11raA","k":"5Bw6b3UysuOoKNlYASTInQ"}]}
+https://webtvstream.bhtelecom.ba/hls6/arena1.mpd
+
+#EXTINF:-1 tvg-id="ArenaSport2Serbia.rs" tvg-logo="https://i.ibb.co/gPKgmQK/A2.png" group-title="SPORT DUNIA", ARENA SPORT 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"wYtqpzm+TAt3RgX8+11raA","k":"5Bw6b3UysuOoKNlYASTInQ"}]}
+https://webtvstream.bhtelecom.ba/hls6/arena2.mpd
+
+#EXTINF:-1 tvg-id="ArenaSport3Serbia.rs" tvg-logo="https://i.ibb.co/RQHG02z/A3.png" group-title="SPORT DUNIA", ARENA SPORT 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"wYtqpzm+TAt3RgX8+11raA","k":"5Bw6b3UysuOoKNlYASTInQ"}]}
+https://webtvstream.bhtelecom.ba/hls6/arena3.mpd
+
+#EXTINF:-1 tvg-id="ArenaSport4Serbia.rs" tvg-logo="https://i.ibb.co/19G8JXj/A4.png" group-title="SPORT DUNIA", ARENA SPORT 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"wYtqpzm+TAt3RgX8+11raA","k":"5Bw6b3UysuOoKNlYASTInQ"}]}
+https://webtvstream.bhtelecom.ba/hls6/arena4.mpd
+
+#EXTINF:-1 tvg-id="ArenaSport5Serbia.rs" tvg-logo="https://i.ibb.co/vvZDcJm/A5.png" group-title="SPORT DUNIA", ARENA SPORT 5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"wYtqpzm+TAt3RgX8+11raA","k":"5Bw6b3UysuOoKNlYASTInQ"}]}
+https://webtvstream.bhtelecom.ba/hls6/arena5.mpd
+
+#EXTINF:-1 tvg-id="ArenaSport6Serbia.rs" tvg-logo="https://i.ibb.co/YLZVGGx/A6.png" group-title="SPORT DUNIA", ARENA SPORT 6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"wYtqpzm+TAt3RgX8+11raA","k":"5Bw6b3UysuOoKNlYASTInQ"}]}
+https://webtvstream.bhtelecom.ba/hls6/arena6.mpd
+
+#EXTINF:-1 tvg-id="ArenaSport1x2Serbia.rs" tvg-logo="https://i.ibb.co/0ysP0P3/A1X2.png" group-title="SPORT DUNIA", ARENA SPORT 1x2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"wYtqpzm+TAt3RgX8+11raA","k":"5Bw6b3UysuOoKNlYASTInQ"}]}
+https://webtvstream.bhtelecom.ba/hls6/arena_1x2.mpd
+
+#EXTINF:-1 tvg-id="ArenaFightSerbia.rs" tvg-logo="https://i.ibb.co/tHkttff/AFIGHT.png" group-title="SPORT DUNIA", ARENA FIGHT
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"wYtqpzm+TAt3RgX8+11raA","k":"5Bw6b3UysuOoKNlYASTInQ"}]}
+https://webtvstream.bhtelecom.ba/hls6/arena_fight.mpd
+
+#EXTINF:-1 tvg-id="ArenaSport1PremiumSerbia.rs" tvg-logo="https://i.ibb.co/ckrG72y/A1P.png" group-title="SPORT DUNIA", ARENA SPORT PREMIUM 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"wYtqpzm+TAt3RgX8+11raA","k":"5Bw6b3UysuOoKNlYASTInQ"}]}
+https://webtvstream.bhtelecom.ba/hls6/as_premium1.mpd
+
+#EXTINF:-1 tvg-id="ArenaSport2PremiumSerbia.rs" tvg-logo="https://i.ibb.co/8DTJQL2/A2P.png" group-title="SPORT DUNIA", ARENA SPORT PREMIUM 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"wYtqpzm+TAt3RgX8+11raA","k":"5Bw6b3UysuOoKNlYASTInQ"}]}
+https://webtvstream.bhtelecom.ba/hls6/as_premium2.mpd
+
+#EXTINF:-1 tvg-id="ArenaSport3PremiumSerbia.rs" tvg-logo="https://i.ibb.co/ZK7s8bT/A3P.png" group-title="SPORT DUNIA", ARENA SPORT PREMIUM 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"wYtqpzm+TAt3RgX8+11raA","k":"5Bw6b3UysuOoKNlYASTInQ"}]}
+https://webtvstream.bhtelecom.ba/hls6/as_premium3.mpd
+
+
+#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/DAZN_F1_logo.svg/2560px-DAZN_F1_logo.svg.png", DAZN F1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-016/stream.mpd
 
-#EXTINF:-1 group-title="SPORT DAZN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/2560px-DAZN_1_Logo.svg.png", DAZN 1 HIGHLIGHT
+#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/2560px-DAZN_1_Logo.svg.png", DAZN 1 HIGHLIGHT
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-017/stream.mpd
 
-#EXTINF:-1 group-title="SPORT DAZN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/2560px-DAZN_2.svg.png", DAZN 2
+#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/2560px-DAZN_2.svg.png", DAZN 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-018/stream.mpd
 
-#EXTINF:-1 group-title="SPORT DAZN" tvg-logo="https://www.tv-angebote.de/wp-content/uploads/2021/11/sportdigital-dazn.jpg", DAZN SPORTDIGITAL
+#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="https://www.tv-angebote.de/wp-content/uploads/2021/11/sportdigital-dazn.jpg", DAZN SPORTDIGITAL
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-022/stream.mpd
 
-#EXTINF:-1 group-title="SPORT DAZN" tvg-logo="https://www.sportstravelmagazine.com/wp-content/uploads/2023/02/NFL-DAZN.jpeg", DAZN NFL
+#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="https://www.sportstravelmagazine.com/wp-content/uploads/2023/02/NFL-DAZN.jpeg", DAZN NFL
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-023/stream.mpd
 
-#EXTINF:-1 group-title="SPORT DAZN" tvg-logo="https://i.ytimg.com/vi/uA5c1PNhP3k/maxresdefault.jpg", DAZN ZONA
+#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="https://i.ytimg.com/vi/uA5c1PNhP3k/maxresdefault.jpg", DAZN ZONA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-024/stream.mpd
 
-#EXTINF:-1 group-title="SPORT DAZN" tvg-logo="https://pbs.twimg.com/profile_images/748641362191519744/wEclfGc1_400x400.jpg", MILAN TV
+#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="https://pbs.twimg.com/profile_images/748641362191519744/wEclfGc1_400x400.jpg", MILAN TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-025/stream.mpd
 
-#EXTINF:-1 group-title="SPORT DAZN" tvg-logo="https://img.mlbstatic.com/mlb-images/image/private/t_2x1/t_w1536/mlb/s5gshmbupuzqmygdfu0e.jpg", DAZN MLB
+#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="https://img.mlbstatic.com/mlb-images/image/private/t_2x1/t_w1536/mlb/s5gshmbupuzqmygdfu0e.jpg", DAZN MLB
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-026/stream.mpd
 
-#EXTINF:-1 group-title="SPORT DAZN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/da/Eurosport_1_HD_Logo_2015.png", EUROSPORT 1 HD
+#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/da/Eurosport_1_HD_Logo_2015.png", EUROSPORT 1 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-027/stream.mpd
 
-#EXTINF:-1 group-title="SPORT DAZN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/2560px-Eurosport_2_Logo_2015.svg.png", EUROSPORT 2 HD
+#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/2560px-Eurosport_2_Logo_2015.svg.png", EUROSPORT 2 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-028/stream.mpd
 
-#EXTINF:-1 group-title="SPORT DAZN" tvg-logo="https://jitv.ru/wp-content/uploads/2018/06/eurosport-1.png", EUROSPORT 1 SD
+#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="https://jitv.ru/wp-content/uploads/2018/06/eurosport-1.png", EUROSPORT 1 SD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-029/stream.mpd
 
-#EXTINF:-1 group-title="SPORT DAZN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY2sWw3HVukKiU1vETz2D6Tty8FOxcMaAzMZpJChcE84hi_F4daZcuecN4kgr29a3OE3I&usqp=CAU", EUROSPORT 2 SD
+#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY2sWw3HVukKiU1vETz2D6Tty8FOxcMaAzMZpJChcE84hi_F4daZcuecN4kgr29a3OE3I&usqp=CAU", EUROSPORT 2 SD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-030/stream.mpd
 
-#EXTINF:-1 group-title="SPORT DAZN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Eurosport_Logo_%282011-2015%29.svg/200px-Eurosport_Logo_%282011-2015%29.svg.png", EUROSPORT 1
+#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Eurosport_Logo_%282011-2015%29.svg/200px-Eurosport_Logo_%282011-2015%29.svg.png", EUROSPORT 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-031/stream.mpd
 
-#EXTINF:-1 group-title="SPORT DAZN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Eurosport_2_%282001-2011%29.svg/640px-Eurosport_2_%282001-2011%29.svg.png", EUROSPORT 2
+#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Eurosport_2_%282001-2011%29.svg/640px-Eurosport_2_%282001-2011%29.svg.png", EUROSPORT 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-032/stream.mpd
 
-#EXTINF:-1 group-title="SPORT DAZN" tvg-logo="https://pbs.twimg.com/profile_images/1376804256452386816/RUTe3hpG_400x400.jpg", INTER TV
+#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="https://pbs.twimg.com/profile_images/1376804256452386816/RUTe3hpG_400x400.jpg", INTER TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-033/stream.mpd
 
-#EXTINF:-1 group-title="SPORT DAZN" tvg-logo="https://4nema.com/wp/wp-content/uploads/DAZN-NBA.jpg", DAZN NBA TV
+#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="https://4nema.com/wp/wp-content/uploads/DAZN-NBA.jpg", DAZN NBA TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-035/stream.mpd
 
-#EXTINF:-1 group-title="SPORT DAZN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj9iEkRU-VnM8g48dNX3KLKirykP_ksSpppw&usqp=CAU", REDBULL TV
+#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj9iEkRU-VnM8g48dNX3KLKirykP_ksSpppw&usqp=CAU", REDBULL TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-036/stream.mpd
 
-#EXTINF:-1 group-title="SPORT DAZN" tvg-logo="https://boxtvmania.files.wordpress.com/2018/08/1_0_19_84_b_85_c000000_0_0_0.png", DAZN 1 DE
+#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="https://boxtvmania.files.wordpress.com/2018/08/1_0_19_84_b_85_c000000_0_0_0.png", DAZN 1 DE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-037/stream.mpd
 
-#EXTINF:-1 group-title="SPORT DAZN" tvg-logo="https://boxtvmania.files.wordpress.com/2018/08/1_0_19_7a_b_85_c00000_0_0_0.png", DAZN 2 DE
+#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="https://boxtvmania.files.wordpress.com/2018/08/1_0_19_7a_b_85_c00000_0_0_0.png", DAZN 2 DE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-038/stream.mpd
 
-#EXTINF:-1 group-title="SPORT DAZN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToM6On2c3sZTpdN5TBqdxkfyK5cFdWSW3edVILEGDizarR95qaEJvfTw_5IuReWzmlBH0&usqp=CAU", DAZN LA LIGA
+#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToM6On2c3sZTpdN5TBqdxkfyK5cFdWSW3edVILEGDizarR95qaEJvfTw_5IuReWzmlBH0&usqp=CAU", DAZN LA LIGA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-043/stream.mpd
 
-#EXTINF:-1 group-title="SPORT DAZN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQQyltxuruc7E_ZGWLyzk9BCUF9igpoKdeSRnZdXFdEK022NcUs4vPZ3i1vm5rgxQ49-o&usqp=CAU", UNBEATEN
+#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQQyltxuruc7E_ZGWLyzk9BCUF9igpoKdeSRnZdXFdEK022NcUs4vPZ3i1vm5rgxQ49-o&usqp=CAU", UNBEATEN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-044/stream.mpd
 
-#EXTINF:-1 group-title="SPORT DAZN" tvg-logo="https://www.digital-news.it/files-admin/Simone/2019/09/1568910267-dazn1.jpg", DAZN 1 ES
+#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="https://www.digital-news.it/files-admin/Simone/2019/09/1568910267-dazn1.jpg", DAZN 1 ES
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-045/stream.mpd
 
-#EXTINF:-1 group-title="SPORT DAZN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_Canal%2B_Ligue_1_Uber_Eats.png/640px-Logo_Canal%2B_Ligue_1_Uber_Eats.png", CANAL+ LIGUE 1
+#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_Canal%2B_Ligue_1_Uber_Eats.png/640px-Logo_Canal%2B_Ligue_1_Uber_Eats.png", CANAL+ LIGUE 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-046/stream.mpd
 
-#EXTINF:-1 group-title="SPORT DAZN" tvg-logo="https://www.sportintv.eu/wp-content/uploads/2022/08/dazn-eleven-sports.jpg", DAZN ELEVEN 1 
+#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="https://www.sportintv.eu/wp-content/uploads/2022/08/dazn-eleven-sports.jpg", DAZN ELEVEN 1 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-047/stream.mpd
 
-#EXTINF:-1 group-title="SPORT DAZN" tvg-logo="https://www.sportintv.eu/wp-content/uploads/2022/08/dazn-eleven-sports.jpg", DAZN ELEVEN 2
+#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="https://www.sportintv.eu/wp-content/uploads/2022/08/dazn-eleven-sports.jpg", DAZN ELEVEN 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-048/stream.mpd
 
-#EXTINF:-1 group-title="SPORT DAZN" tvg-logo="https://www.sportintv.eu/wp-content/uploads/2022/08/dazn-eleven-sports.jpg", DAZN ELEVEN 1 BE
+#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="https://www.sportintv.eu/wp-content/uploads/2022/08/dazn-eleven-sports.jpg", DAZN ELEVEN 1 BE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-049/stream.mpd
 
-#EXTINF:-1 group-title="SPORT DAZN" tvg-logo="https://www.sportintv.eu/wp-content/uploads/2022/08/dazn-eleven-sports.jpg", DAZN ELEVEN 1 BE
+#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="https://www.sportintv.eu/wp-content/uploads/2022/08/dazn-eleven-sports.jpg", DAZN ELEVEN 1 BE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-050/stream.mpd
 
-#EXTINF:-1 group-title="SPORT DAZN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/Telenet_Play_Sports_logo.png", PLAY SPORT 1
+#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/Telenet_Play_Sports_logo.png", PLAY SPORT 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-051/stream.mpd
 
-#EXTINF:-1 group-title="SPORT DAZN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/Telenet_Play_Sports_logo.png", PLAY SPORT 2
+#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/Telenet_Play_Sports_logo.png", PLAY SPORT 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-052/stream.mpd
 
-#EXTINF:-1 group-title="SPORT DAZN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/Telenet_Play_Sports_logo.png", PLAY SPORT 3
+#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/Telenet_Play_Sports_logo.png", PLAY SPORT 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-053/stream.mpd
 
-#EXTINF:-1 group-title="SPORT DAZN" tvg-logo="https://www.sportintv.eu/wp-content/uploads/2022/08/dazn-eleven-sports.jpg", DAZN ELEVEN 1
+#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="https://www.sportintv.eu/wp-content/uploads/2022/08/dazn-eleven-sports.jpg", DAZN ELEVEN 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-054/stream.mpd
 
-#EXTINF:-1 group-title="SPORT DAZN" tvg-logo="https://www.sportintv.eu/wp-content/uploads/2022/08/dazn-eleven-sports.jpg", DAZN ELEVEN 2
+#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="https://www.sportintv.eu/wp-content/uploads/2022/08/dazn-eleven-sports.jpg", DAZN ELEVEN 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-055/stream.mpd
 
-#EXTINF:-1 group-title="SPORT DAZN" tvg-logo="https://www.sportintv.eu/wp-content/uploads/2022/08/dazn-eleven-sports.jpg", DAZN ELEVEN 3
+#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="https://www.sportintv.eu/wp-content/uploads/2022/08/dazn-eleven-sports.jpg", DAZN ELEVEN 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-056/stream.mpd
 
-#EXTINF:-1 group-title="SPORT DAZN" tvg-logo="https://www.sportintv.eu/wp-content/uploads/2022/08/dazn-eleven-sports.jpg", DAZN ELEVEN 4
+#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="https://www.sportintv.eu/wp-content/uploads/2022/08/dazn-eleven-sports.jpg", DAZN ELEVEN 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-057/stream.mpd
 
-#EXTINF:-1 group-title="SPORT DAZN" tvg-logo="https://www.sportintv.eu/wp-content/uploads/2022/08/dazn-eleven-sports.jpg", DAZN ELEVEN 5
+#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="https://www.sportintv.eu/wp-content/uploads/2022/08/dazn-eleven-sports.jpg", DAZN ELEVEN 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-058/stream.mpd
 
-#EXTINF:-1 group-title="SPORT DAZN" tvg-logo="https://www.sportintv.eu/wp-content/uploads/2022/08/dazn-eleven-sports.jpg", DAZN ELEVEN 6
+#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="https://www.sportintv.eu/wp-content/uploads/2022/08/dazn-eleven-sports.jpg", DAZN ELEVEN 6
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-059/stream.mpd
+
+#EXTINF:-1 tvg-id="DAZN RISE" tvg-logo="https://i.ibb.co/N1fHRL4/DAZNCOMBAT.png" group-title="SPORT DUNIA" , DAZN COMBAT
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"z7XitzvvTzyHjyWrhqdFHw","k":"DWcSvyqE7cyT0AGpYT9v7A"}]}
+https://dcj-ac-live.cdn.indazn.com/dash/dazn-linear-502/stream.mpd
+
+#EXTINF:-1 tvg-id="DAZN RISE" tvg-logo="https://i.ibb.co/mHYMzNR/DAZNFAST.png" group-title="SPORT DUNIA" , DAZN FAST+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"z7XitzvvTzyHjyWrhqdFHw","k":"DWcSvyqE7cyT0AGpYT9v7A"}]}
+https://dcj-ac-live.cdn.indazn.com/dash/dazn-linear-504/stream.mpd
+
+#EXTINF:-1 tvg-id="DAZN RISE" tvg-logo="https://i.ibb.co/7SXPCbC/DAZNRISE.png" group-title="SPORT DUNIA" , DAZN RISE
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"z7XitzvvTzyHjyWrhqdFHw","k":"DWcSvyqE7cyT0AGpYT9v7A"}]}
+https://dcj-ac-live.cdn.indazn.com/dash/dazn-linear-501/stream.mpd
+
+#EXTINF:-1 tvg-id="DAZN RISE" tvg-logo="https://i.ibb.co/F7rGyFC/DAZNWOMENSFOOTBALL.png" group-title="SPORT DUNIA" , DAZN WOMEN'S FOOTBALL
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"z7XitzvvTzyHjyWrhqdFHw","k":"DWcSvyqE7cyT0AGpYT9v7A"}]}
+https://dcj-ac-live.cdn.indazn.com/dash/dazn-linear-503/stream.mpd
+
+
+#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7SoMAxYR6LAARUeiME9sf8jLcZK5FPCH-tg&usqp=CAU",ESPN 1 ARG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://ixp-nqn.origin.rcs.net.ar/mnp/espn/output.mpd
+
+#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7SoMAxYR6LAARUeiME9sf8jLcZK5FPCH-tg&usqp=CAU",ESPN 2 ARG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://ixp-nqn.origin.rcs.net.ar/mnp/espn2/output.mpd
+
+#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7SoMAxYR6LAARUeiME9sf8jLcZK5FPCH-tg&usqp=CAU",ESPN 3 ARG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://ixp-nqn.origin.rcs.net.ar/mnp/espn3/output.mpd
+
+#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7SoMAxYR6LAARUeiME9sf8jLcZK5FPCH-tg&usqp=CAU",FOX SPORT ARG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://ixp-nqn.origin.rcs.net.ar/mnp/fox_sport/output.mpd
+
+#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7SoMAxYR6LAARUeiME9sf8jLcZK5FPCH-tg&usqp=CAU",FOX SPORT 2 ARG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://ixp-nqn.origin.rcs.net.ar/mnp/fox_sport2/output.mpd
+
+#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7SoMAxYR6LAARUeiME9sf8jLcZK5FPCH-tg&usqp=CAU",FOX SPORT 3 ARG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://ixp-nqn.origin.rcs.net.ar/mnp/fox_sport2/output.mpd
+
+#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7SoMAxYR6LAARUeiME9sf8jLcZK5FPCH-tg&usqp=CAU",TYC SPORT ARG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://ixp-nqn.origin.rcs.net.ar/mnp/tyc/output.mpd
+
+#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7SoMAxYR6LAARUeiME9sf8jLcZK5FPCH-tg&usqp=CAU",ESPN PREM ARG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://ixp-nqn.origin.rcs.net.ar/mnp/espnpremium/output.mpd
+
+#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7SoMAxYR6LAARUeiME9sf8jLcZK5FPCH-tg&usqp=CAU",TNT SPORT ARG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://ixp-nqn.origin.rcs.net.ar/mnp/tntsports/output.mpd
+
+#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="https://dnl.tntsports.co.uk/sd/img/structured-data/tntsports.jpg", TNT SPORT 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key=0005888b503e9ca2bc49d35ba00df2d9:74c2df857d2fab7bac13a627db6424fe
+http://linear014-ie-dash1-prd-cf.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/channel(tntsport1)/manifest_hd.mpd
+
+#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="https://dnl.tntsports.co.uk/sd/img/structured-data/tntsports.jpg", TNT SPORT 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key=00051405c248d71094a3cec02be80d44:b87cd04f6fa8cb4af3e29e26fcded1c9
+http://linear012-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/channel(tntsport2)/manifest_hd.mpd
+
+#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="https://dnl.tntsports.co.uk/sd/img/structured-data/tntsports.jpg", TNT SPORT 3
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key=00033ea5f863d415b2243371f3887604:3523ac3b8633634563c112a56b53c798
+http://linear012-ie-dash1-prd-cf.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/channel(tntsport3)/manifest_hd.mpd
+
+#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="https://dnl.tntsports.co.uk/sd/img/structured-data/tntsports.jpg", TNT SPORT 4
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key=00052f1647b6acf2af6c38fd44558e42:89c9b65e51a82cbd338bec1ecce4d05d
+http://linear012-ie-dash1-prd-cf.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/channel(tntsport4)/manifest_hd.mpd
+
+#EXTINF:-1 tvg-logo="https://www.tsn.ca/polopoly_fs/1.1190711!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/tsn.jpg" group-title="SPORT DUNIA", TSN 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dea83ced0141424e983e1afe463b4b0d:c00dd5dd17b0799aa4013f365a1393ce
+https://live-ctv.video.9c9media.com/f/TSN/TSN1/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://www.tsn.ca/polopoly_fs/1.1190711!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/tsn.jpg" group-title="SPORT DUNIA", TSN 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ddc52c88e2c24d38a5bc8dda8a2acb61:ad5ea485464a13eec7dda3249c556446
+https://live-ctv.video.9c9media.com/f/TSN/TSN2/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://www.tsn.ca/polopoly_fs/1.1190711!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/tsn.jpg" group-title="SPORT DUNIA", TSN 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c0f378ad54e14a9c85a3d8c986d2a51f:5e1d040743ff78715e464ffb905e68a9
+https://live-ctv.video.9c9media.com/f/TSN/TSN3/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://www.tsn.ca/polopoly_fs/1.1190711!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/tsn.jpg" group-title="SPORT DUNIA", TSN 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f0a2efd11e0643c3a45d6f67d02f1a97:85bf4469003bd28f01ea4fefedd5a431
+https://live-ctv.video.9c9media.com/f/TSN/TSN4/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://www.tsn.ca/polopoly_fs/1.1190711!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/tsn.jpg" group-title="SPORT DUNIA", TSN 5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cb57741a1cee422690c6294a06eb1320:7a0cfd493df6ef7cc0d0bb3ad95cec8c
+https://live-ctv.video.9c9media.com/f/TSN/TSN5/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hgVx5GL/Bein-1.png" group-title="SPORT DUNIA",BeIN Sports 1 AIS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3fd52d1e9ba4b180aec12c9295b62c0f:bb274e33da0c709e62c55d0cba911889
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0001/DASH/S0001.mpd
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Lpk9gnv/Bein-2.png" group-title="SPORT DUNIA",BeIN Sports 2 AIS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=30c11587a1686b72f115f34b0bf1c383:1e3a6af2408cdd78347b722728560c3b
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0002/DASH/S0002.mpd
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kQvKn0B/Bein-3.png" group-title="SPORT DUNIA",BeIN Sports 3 AIS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=aa724943787320593f5563048c90032d:a039276254f53769b040199a4eca8c2c
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0003/DASH/S0003.mpd
+
+#EXTINF:-1 group-title="SPORT DUNIA" tvg-id="SSC 1" tvg-logo="https://i.ibb.co/Kzd055j/SSC1.png", SSC 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e76ae17d861546be9c238e6582509c2c:de1a91e2306bf8442236a80477f526e1
+https://ssc-1-on-prem-ak.akamaized.net/out/v1/ec938957da2849879f0cfac7e309ff38/index.mpd
+#EXTINF:-1 group-title="SPORT DUNIA" tvg-id="SSC 2" tvg-logo="https://i.ibb.co/2yqfwp3/SSC2.png", SSC 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b8763ccad3d146c2b15f8a77a4d6d733:ab87f6ae46b2dc187bd94cbb48cfe074
+https://ssc-2-on-prem-ak.akamaized.net/out/v1/d9a2acf5f809461ca47714440fcbc0f4/index.mpd
+
+#EXTINF:-1 group-title="SPORT DUNIA" tvg-id="SSC 3" tvg-logo="https://i.ibb.co/dMYSfh2/SSC3.png", SSC 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c3af2aa1da4a41cbb37b1dbe43b46782:b6b74f29f6d1501b989c96aec4dae599
+https://ssc-3-on-prem-ak.akamaized.net/out/v1/ad2b1abef05c419aa6a4e6aee6d269a2/index.mpd
+
+#EXTINF:-1 group-title="SPORT DUNIA" tvg-id="SSC 4" tvg-logo="https://i.ibb.co/WPCBbNW/SSC4.png", SSC 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2c506baa39a74674874ae2ab8bbc792f:1fa11c606eea3ba805f3d2efa537b1fa
+https://ssc-4-on-prem-ak.akamaized.net/out/v1/3e442c7dad1b44b6a0914aa26b62a892/index.mpd
+
+#EXTINF:-1 group-title="SPORT DUNIA" tvg-id="SSC 5" tvg-logo="https://i.ibb.co/LZCsJMh/SSC5.png", SSC 5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=150150f30a8140a2bfda5d1b3fbb2d4b:dad19250368b129f003817b778d65dae
+https://ssc-5-on-prem-cw-ak.akamaized.net/out/v1/ee54cd9a3f844ceb8249f430733f9c00/index.mpd
+
+#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="https://i.ibb.co/pwk3Ytw/SSCEXT1.png", SSC EXTRA 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0bf5a32868224a6f9f3a749a9ea20eb2:0ace749c97932aa44434da3a88c1ee69
+https://ssc-extra1-on-prem-cw-ak.akamaized.net/out/v1/d309ac98b822425d9435cca654211498/index.mpd
+
+#EXTINF:-1 group-title="SPORT DUNIA" tvg-id="SSC EXTRA 2" tvg-logo="https://i.ibb.co/JxkpvyG/SSCEXT2.png", SSC EXTRA 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fc98baf530ac49aea60a7bf50929aa91:f8c40722bb6a0cf822588661740a08bb
+https://ssc-extra2-on-prem-ak.akamaized.net/out/v1/a525c44d152f4d238aa21af75945e29c/index.mpd
+
+#EXTINF:-1 group-title="SPORT DUNIA" tvg-id="SSC EXTRA 3" tvg-logo="https://i.ibb.co/6XJSMSq/SSCEXT3.png", SSC EXTRA 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9b05d5f11a0b422d86354c34782ed2bc:82aef319b4cfc71fd48cdd495ee79786
+https://ssc-extra3-on-prem-cw-ak.akamaized.net/out/v1/9d373d000ab64078b131f9d4c18e3502/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/R0PKN9T/ZIGGOSPORT.png" group-title="SPORT DUNIA", ZIGGO SPORT
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"kOMqRxL1SAureryKT+8l2g","k":"LutJqGiPI2XhExz0rk1vCg"}]}
+https://wp-obc4-live-nl-prod.prod.cdn.dmdsdp.com/dash/go-dash-hdready-avc/NL_000014_019661/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/Ziggo_Sport_Logo.jpg" group-title="SPORT DUNIA" , ZIGGO SPORT VOETBAL
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=25586a5ca20847d684579cce0c2ecacc:9c92162b23709653688a471bec0cf19b
+https://da-d436234a20010b8800010302000000000000000c.id.cdn.upcbroadband.com/wp/wp-obc1-live-nl-prod.prod.cdn.dmdsdp.com/dash/NL_000095_019371/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=25586a5ca20847d684579cce0c2ecacc:9c92162b23709653688a471bec0cf19b
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/Ziggo_Sport_Logo.jpg" group-title="SPORT DUNIA", ZIGGO SPORT SELECT
+https://wp-obc5-live-nl-prod.prod.cdn.dmdsdp.com/dash/NL_000094_019321/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=25586a5ca20847d684579cce0c2ecacc:9c92162b23709653688a471bec0cf19b
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/Ziggo_Sport_Logo.jpg", group-title="SPORT DUNIA", ZIGGO SPORT DOCU
+https://da-d436236720010b88000103030000000000000009.id.cdn.upcbroadband.com/wp/wp-obc5-live-nl-prod.prod.cdn.dmdsdp.com/dash/NL_000098_019255/manifest.mpd
+
+#EXTINF:-1 tvg-id="Prima Sport 1" group-title="SPORT DUNIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Prima_sport.png", PRIMA SPORTS 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=49e2aa7ed50fc98b895023c87a32a183:57062665c1ef8481911e68e17655c8ec
+https://ott.cyberhost.ro/sdash/LIVE$LookPlus/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC
+
+#EXTINF:-1 tvg-id="Prima Sport 2" group-title="SPORT DUNIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Prima_sport.png", PRIMA SPORTS 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=96c311676c08545ea6aae37668e4a0df:64fca4a48c14d2b32afcd53971cfa62c
+https://ott.cyberhost.ro/sdash/LIVE$LookTVHD/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC
+
+#EXTINF:-1 tvg-id="Prima Sport 3" group-title="SPORT DUNIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Prima_sport.png", PRIMA SPORTS 3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9404e7ae27dce22d69d41ffc29197cef:a6177128238fe775d5c74803e15ac175
+https://ott1.cyberhost.ro/sdash/LIVE$LookSport3HD/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC
+
+#EXTINF:-1 tvg-id="Prima Sport 4" group-title="SPORT DUNIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Prima_sport.png", PRIMA SPORTS 4
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c68ec2e525d8406b6c3cedbac72debae:a0f28f93fb9834d331df3ddedeb8a565
+https://ott.cyberhost.ro/sdash/LIVE$LookSport2HD/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC
+
+#EXTINF:-1 tvg-id="telekomsport1.ro" group-title="SPORT DUNIA" tvg-logo="https://iptvboss.xyz/logos/Romania/OrangeSport1.ro.png",Orange Sport 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct", "k":"gGVzp0eJppZRwWLaTbtVJg", "kid":"sRUX3jEvyrXLoGvjXkghOA"}], "type":"temporary"}
+https://ott1.cyberhost.ro/sdash/LIVE$DolceSportHD/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC
+
+#EXTINF:-1 tvg-id="telekomsport2.ro" group-title="SPORT DUNIA" tvg-logo="https://iptvboss.xyz/logos/Romania/OrangeSport2.ro.png",Orange Sport 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct", "k":"MHv4idkpaf/TAU3dtnmZ9g", "kid":"91MCzbBKCeQ/FTCVvKzRIw"}], "type":"temporary"}
+https://ott1.cyberhost.ro/sdash/LIVE$DolceSport2HD/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC
+
+#EXTINF:-1 tvg-id="telekomsport3.ro" group-title="SPORT DUNIA" tvg-logo="https://iptvboss.xyz/logos/Romania/OrangeSport3.ro.png",Orange Sport 3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct", "k":"HNKJrHHOX7MGpedlMZLOOg", "kid":"uHhXunTOA/n6KGbx4IbQXQ"}], "type":"temporary"}
+https://ott1.cyberhost.ro/sdash/LIVE$DolceSport3/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC
+
+#EXTINF:-1 tvg-id="telekomsport4.ro" group-title="SPORT DUNIA" tvg-logo="https://iptvboss.xyz/logos/Romania/OrangeSport4.ro.png",Orange Sport 4
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct", "k":"zdOZhpBXvDTIJ/JX9WJkOg", "kid":"ICqSfNkTEB3nZbDluz9QDw"}], "type":"temporary"}
+https://ott1.cyberhost.ro/sdash/LIVE$DolceSport4/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="SPORT DUNIA", ASTRO SUPERSPORT 1
+http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=1111034_&extension=ts&play_token=9Tkwk6UcYs
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="SPORT DUNIA", ASTRO SUPERSPORT 2
+http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=1111033_&extension=ts&play_token=9Tkwk6UcYs
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="SPORT DUNIA", ASTRO SUPERSPORT 3
+http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=1111032_&extension=ts&play_token=9Tkwk6UcYs
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="SPORT DUNIA", ASTRO SUPERSPORT 4
+http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=1111031_&extension=ts&play_token=9Tkwk6UcYs
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png" group-title="SPORT DUNIA", ASTRO CRICKET
+http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=315181_&extension=ts&play_token=9Tkwk6UcYs
+#EXTINF:-1 tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2021/09/14110530/W-Sport-Tagline.png" group-title="SPORT DUNIA", W SPORT
+http://exprestv.win/play/live.php?mac=00:1A:79:A2:5B:B8&stream=918982&extension=ts&play_token=lmz9vDcDLc
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/HUB%201.png" group-title="SPORT DUNIA", HUB SPORT 1
+http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=941573_&extension=ts&play_token=9Tkwk6UcYs
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/HUB%202.png" group-title="SPORT DUNIA", HUB SPORT 2
+http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=941572_&extension=ts&play_token=9Tkwk6UcYs
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/HUB%203.png" group-title="SPORT DUNIA", HUB SPORT 3
+http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=941571_&extension=ts&play_token=9Tkwk6UcYs
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmvIGbnEZv10X9uXghSOYJTJZ_Gv1hvtCfsg&usqp=CAU" group-title="SPORT DUNIA", HUB SPORT PREMIER 1X
+http://gtvm.bmw786.xyz:80/Dan123/Dan123/625866
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmvIGbnEZv10X9uXghSOYJTJZ_Gv1hvtCfsg&usqp=CAU" group-title="SPORT DUNIA", HUB SPORT PREMIER 2X
+http://gtvm.bmw786.xyz:80/Dan123/Dan123/625867
+
+
+#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/59/Sony_Sports_Network.png" group-title="SPORT DUNIA",Sony TEN 1 HD 
+https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8 
+#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/59/Sony_Sports_Network.png" group-title="SPORT DUNIA",Sony TEN 2 HD 
+https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8 
+#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/59/Sony_Sports_Network.png" group-title="SPORT DUNIA",Sony TEN 3 HD 
+https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8 
+#EXTINF: -1   tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/59/Sony_Sports_Network.png" group-title="SPORT DUNIA",Sony TEN 4 HD 
+https://pubads.g.doubleclick.net/ssai/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8 
+#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/59/Sony_Sports_Network.png" group-title="SPORT DUNIA",Sony TEN 5 HD 
+https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
+
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/1200px-Logo_bein_sports_1.png" group-title="SPORT DUNIA", BEIN SPORT 1 TH
+https://edge1.laotv.la/live/Bsport1/index.m3u8
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_bein_sports_2.png/640px-Logo_bein_sports_2.png" group-title="SPORT DUNIA", BEIN SPORT 2 TH
+https://edge1.laotv.la/live/Bsport2/index.m3u8
+
+#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/27f34e20-7374-11ec-b576-afbb0a1303ef_webp_original.png",True Sports 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.3945.116 Mobile Safari/537.36
+https://smart-tv.livedoomovies.com:4432/02_2sporthd1_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r\u003dajax
+
+#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/1e8bbb60-f973-11e9-91cd-2f79be09d2b3_original.png",True Sports 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.3945.116 Mobile Safari/537.36
+https://sport.livedoomovies.com:4432/02_2sporthd2_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r\u003dajax
+
+#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/28a5ae30-7374-11ec-91d2-797a50c5a656_webp_320.webp",True Sports 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.3945.116 Mobile Safari/537.36
+https://sport.livedoomovies.com:4432/02_2sporthd3_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r\u003dajax
+
+#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/293236c0-7374-11ec-b576-afbb0a1303ef_webp_original.png",True Sports 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.3945.116 Mobile Safari/537.36
+https://sport.livedoomovies.com:4432/02_2sporthd4_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r\u003dajax
+
+
+
 
 #EXTINF:-1 
 #EXTM3U billed-msg="❤TIDAK UNTUK DIJUAL https://t.me/IPTVcostum ❤️"
