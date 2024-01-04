@@ -1659,6 +1659,69 @@ http://89.45.13.153:25461/play/live.php?mac=00:1A:79:46:6B:43&stream=1519259_&ex
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrjm8k3T-ku6xAR7pe5vw3HVhEGTrbVcG5JA&usqp=CAU" group-title="OPTUS SPORT", OPTUS 10
 http://89.45.13.153:25461/play/live.php?mac=00:1A:79:46:6B:43&stream=1519260_&extension=ts
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC0psdFjAESPBb1tRguBfowQikq8yVW6Zlfg&usqp=CAU" group-title="HUB SPORT", HUB PREMIER 1
+http://89.45.13.153:25461/play/live.php?mac=00:1A:79:46:6B:43&stream=1350557_&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC0psdFjAESPBb1tRguBfowQikq8yVW6Zlfg&usqp=CAU" group-title="HUB SPORT", HUB PREMIER 2
+http://89.45.13.153:25461/play/live.php?mac=00:1A:79:46:6B:43&stream=1350558_&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC0psdFjAESPBb1tRguBfowQikq8yVW6Zlfg&usqp=CAU" group-title="HUB SPORT", HUB PREMIER 2 UHD
+http://89.45.13.153:25461/play/live.php?mac=00:1A:79:46:6B:43&stream=1350568_&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC0psdFjAESPBb1tRguBfowQikq8yVW6Zlfg&usqp=CAU" group-title="HUB SPORT", HUB PREMIER 3
+http://89.45.13.153:25461/play/live.php?mac=00:1A:79:46:6B:43&stream=1350559_&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC0psdFjAESPBb1tRguBfowQikq8yVW6Zlfg&usqp=CAU" group-title="HUB SPORT", HUB PREMIER 4
+http://89.45.13.153:25461/play/live.php?mac=00:1A:79:46:6B:43&stream=1350560_&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC0psdFjAESPBb1tRguBfowQikq8yVW6Zlfg&usqp=CAU" group-title="HUB SPORT", HUB PREMIER 5
+http://89.45.13.153:25461/play/live.php?mac=00:1A:79:46:6B:43&stream=1350561_&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC0psdFjAESPBb1tRguBfowQikq8yVW6Zlfg&usqp=CAU" group-title="HUB SPORT", HUB PREMIER 6
+http://89.45.13.153:25461/play/live.php?mac=00:1A:79:46:6B:43&stream=1350562_&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC0psdFjAESPBb1tRguBfowQikq8yVW6Zlfg&usqp=CAU" group-title="HUB SPORT", HUB PREMIER 7
+http://89.45.13.153:25461/play/live.php?mac=00:1A:79:46:6B:43&stream=1350563_&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC0psdFjAESPBb1tRguBfowQikq8yVW6Zlfg&usqp=CAU" group-title="HUB SPORT", HUB PREMIER 8
+http://89.45.13.153:25461/play/live.php?mac=00:1A:79:46:6B:43&stream=1350564_&extension=ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw9qCWlnhgnAO8LHnEFgH6VhP14EImmDZ54Q&usqp=CAU" group-title="ESPN+", ESPN+ 1
+http://89.45.13.153:25461/play/live.php?mac=00:1A:79:46:6B:43&stream=1519359_&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw9qCWlnhgnAO8LHnEFgH6VhP14EImmDZ54Q&usqp=CAU" group-title="ESPN+", ESPN+ 2
+http://89.45.13.153:25461/play/live.php?mac=00:1A:79:46:6B:43&stream=1519360_&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw9qCWlnhgnAO8LHnEFgH6VhP14EImmDZ54Q&usqp=CAU" group-title="ESPN+", ESPN+ 3
+http://89.45.13.153:25461/play/live.php?mac=00:1A:79:46:6B:43&stream=1519361_&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw9qCWlnhgnAO8LHnEFgH6VhP14EImmDZ54Q&usqp=CAU" group-title="ESPN+", ESPN+ 4
+http://89.45.13.153:25461/play/live.php?mac=00:1A:79:46:6B:43&stream=1519362_&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw9qCWlnhgnAO8LHnEFgH6VhP14EImmDZ54Q&usqp=CAU" group-title="ESPN+", ESPN+ 5
+http://89.45.13.153:25461/play/live.php?mac=00:1A:79:46:6B:43&stream=1519363_&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw9qCWlnhgnAO8LHnEFgH6VhP14EImmDZ54Q&usqp=CAU" group-title="ESPN+", ESPN+ 6
+http://89.45.13.153:25461/play/live.php?mac=00:1A:79:46:6B:43&stream=1519364_&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw9qCWlnhgnAO8LHnEFgH6VhP14EImmDZ54Q&usqp=CAU" group-title="ESPN+", ESPN+ 7
+http://89.45.13.153:25461/play/live.php?mac=00:1A:79:46:6B:43&stream=1519365_&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw9qCWlnhgnAO8LHnEFgH6VhP14EImmDZ54Q&usqp=CAU" group-title="ESPN+", ESPN+ 8
+http://89.45.13.153:25461/play/live.php?mac=00:1A:79:46:6B:43&stream=1519366_&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw9qCWlnhgnAO8LHnEFgH6VhP14EImmDZ54Q&usqp=CAU" group-title="ESPN+", ESPN+ 9
+http://89.45.13.153:25461/play/live.php?mac=00:1A:79:46:6B:43&stream=1519367_&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw9qCWlnhgnAO8LHnEFgH6VhP14EImmDZ54Q&usqp=CAU" group-title="ESPN+", ESPN+ 10
+http://89.45.13.153:25461/play/live.php?mac=00:1A:79:46:6B:43&stream=1519368_&extension=ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT66jYrytpzHiRU_jHI8scInB53piIkvpAIag&usqp=CAU" group-title="BEIN SPORT", BEIN SPORT 1 AR
+http://89.45.13.153:25461/play/live.php?mac=00:1A:79:46:6B:43&stream=2591_&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT66jYrytpzHiRU_jHI8scInB53piIkvpAIag&usqp=CAU" group-title="BEIN SPORT", BEIN SPORT 2 AR
+http://89.45.13.153:25461/play/live.php?mac=00:1A:79:46:6B:43&stream=2592_&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT66jYrytpzHiRU_jHI8scInB53piIkvpAIag&usqp=CAU" group-title="BEIN SPORT", BEIN SPORT 3 AR
+http://89.45.13.153:25461/play/live.php?mac=00:1A:79:46:6B:43&stream=2593_&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT66jYrytpzHiRU_jHI8scInB53piIkvpAIag&usqp=CAU" group-title="BEIN SPORT", BEIN SPORT 4 AR
+http://89.45.13.153:25461/play/live.php?mac=00:1A:79:46:6B:43&stream=2594_&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT66jYrytpzHiRU_jHI8scInB53piIkvpAIag&usqp=CAU" group-title="BEIN SPORT", BEIN SPORT 5 AR
+http://89.45.13.153:25461/play/live.php?mac=00:1A:79:46:6B:43&stream=2595_&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT66jYrytpzHiRU_jHI8scInB53piIkvpAIag&usqp=CAU" group-title="BEIN SPORT", BEIN SPORT 6 AR
+http://89.45.13.153:25461/play/live.php?mac=00:1A:79:46:6B:43&stream=2596_&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT66jYrytpzHiRU_jHI8scInB53piIkvpAIag&usqp=CAU" group-title="BEIN SPORT", BEIN SPORT 7 AR
+http://89.45.13.153:25461/play/live.php?mac=00:1A:79:46:6B:43&stream=2597_&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT66jYrytpzHiRU_jHI8scInB53piIkvpAIag&usqp=CAU" group-title="BEIN SPORT", BEIN SPORT 8 AR
+http://89.45.13.153:25461/play/live.php?mac=00:1A:79:46:6B:43&stream=2598_&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT66jYrytpzHiRU_jHI8scInB53piIkvpAIag&usqp=CAU" group-title="BEIN SPORT", BEIN SPORT 9 AR
+http://89.45.13.153:25461/play/live.php?mac=00:1A:79:46:6B:43&stream=2599_&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT66jYrytpzHiRU_jHI8scInB53piIkvpAIag&usqp=CAU" group-title="BEIN SPORT", BEIN SPORT 10 AR
+http://89.45.13.153:25461/play/live.php?mac=00:1A:79:46:6B:43&stream=2600_&extension=ts
+
+
+
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", Premier League / Amazon Prime
 https://live.bdtubelive.xyz/api/auto/epeg/cdn/index.php?id=23400
