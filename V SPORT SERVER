@@ -3483,6 +3483,9 @@ https://nyanv-live-cdn.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuB
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_uRjo4ciBuku5Pss0UhApyJC9qPHT7eO-tg&usqp=CAU" group-title="VISION+", RTV SD
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/index.m3u8
 
+#EXTINF:-1 group-title="VISION+" tvg-id="f58db73d8d1a75abb48097a7090e17b3",VTV HD
+http://175.158.62.142:8888/stream/channelid/1035439605?ticket=44FF51CD20AD17E2905D2029E1DA0638345483D7&profile=pass
+
 <================== Premium Movies ====================>
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
