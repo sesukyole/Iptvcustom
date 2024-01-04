@@ -1611,6 +1611,25 @@ https://sport.livedoomovies.com:4432/02_2sporthd3_720p/chunklist.m3u8|Referer=ht
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.3945.116 Mobile Safari/537.36
 https://sport.livedoomovies.com:4432/02_2sporthd4_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r\u003dajax
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1200px-TNT_Sports_2021_logo.svg.png" group-title="SPORT DUNIA", TNT LATIN
+http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/27
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb17OXyKJdUQyQJjJibrZExDU-3MKjhkeXiA&usqp=CAU" group-title="SPORT DUNIA", SPORTV 1 LATIN
+http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/80
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb17OXyKJdUQyQJjJibrZExDU-3MKjhkeXiA&usqp=CAU" group-title="SPORT DUNIA", SPORTV 2 LATIN
+http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/9
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb17OXyKJdUQyQJjJibrZExDU-3MKjhkeXiA&usqp=CAU" group-title="SPORT DUNIA", SPORTV 3 LATIN
+http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/28
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbmDl6pC7KX3bcKCCnVA7u3YNNfh5OUT68KA&usqp=CAU" group-title="SPORT DUNIA", STAR+ LATIN
+http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/38
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlT7r8KCiRodyxv-0L70AGnVVyetzcK9Gp0Q&usqp=CAU" group-title="SPORT DUNIA", PREMIERE 1 BR
+http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlT7r8KCiRodyxv-0L70AGnVVyetzcK9Gp0Q&usqp=CAU" group-title="SPORT DUNIA", PREMIERE 2 BR
+http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/6
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_bandsports_m.png" group-title="SPORT DUNIA", BAND SPORT BR
+http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/23
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlsx6PJ3RUPwS6AZ6N9c-u7prUxXTxf8ufGg&usqp=CAU" group-title="SPORT DUNIA", ESPN LATIN
+http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/1
+
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", Premier League / Amazon Prime
 https://live.bdtubelive.xyz/api/auto/epeg/cdn/index.php?id=23400
