@@ -1613,24 +1613,24 @@ https://ott1.cyberhost.ro/sdash/LIVE$DolceSport3/index.mpd/Manifest?start=LIVE&e
 https://ott1.cyberhost.ro/sdash/LIVE$DolceSport4/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="SPORT DUNIA", ASTRO SUPERSPORT 1
-http://line.stealthdino.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=1111034_&extension=ts&play_token=9Tkwk6UcYs
+http://mag.alphatx.me:80/play/live.php?mac=00:1A:79:00:00:99&stream=571245&extension=ts&play_token=hTdx2cWwDH
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="SPORT DUNIA", ASTRO SUPERSPORT 2
-http://line.stealthdino.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=1111033_&extension=ts&play_token=9Tkwk6UcYs
+http://mag.alphatx.me:80/play/live.php?mac=00:1A:79:00:00:99&stream=918985&extension=ts&play_token=NGlqyt95cm
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="SPORT DUNIA", ASTRO SUPERSPORT 3
-http://line.stealthdino.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=1111032_&extension=ts&play_token=9Tkwk6UcYs
+http://mag.alphatx.me:80/play/live.php?mac=00:1A:79:00:00:99&stream=571247&extension=ts&play_token=UKo4XSAVTg
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="SPORT DUNIA", ASTRO SUPERSPORT 4
-http://line.stealthdino.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=1111031_&extension=ts&play_token=9Tkwk6UcYs
+http://mag.alphatx.me:80/play/live.php?mac=00:1A:79:00:00:99&stream=571246&extension=ts&play_token=i7p0qzI1L2
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png" group-title="SPORT DUNIA", ASTRO CRICKET
-http://line.stealthdino.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=315181_&extension=ts&play_token=9Tkwk6UcYs
+http://mag.alphatx.me:80/play/live.php?mac=00:1A:79:00:00:99&stream=1036490&extension=ts&play_token=RiT6ApGCwY
 #EXTINF:-1 tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2021/09/14110530/W-Sport-Tagline.png" group-title="SPORT DUNIA", W SPORT
 http://exprestv.win/play/live.php?mac=00:1A:79:A2:5B:B8&stream=918982&extension=ts&play_token=lmz9vDcDLc
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/HUB%201.png" group-title="SPORT DUNIA", HUB SPORT 1
-http://line.stealthdino.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=941573_&extension=ts&play_token=9Tkwk6UcYs
+http://mag.alphatx.me:80/play/live.php?mac=00:1A:79:00:00:99&stream=941573&extension=ts&play_token=fbORXLi1sf
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/HUB%202.png" group-title="SPORT DUNIA", HUB SPORT 2
-http://line.stealthdino.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=941572_&extension=ts&play_token=9Tkwk6UcYs
+http://mag.alphatx.me:80/play/live.php?mac=00:1A:79:00:00:99&stream=941572&extension=ts&play_token=Jnuq6ccKDi
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/HUB%203.png" group-title="SPORT DUNIA", HUB SPORT 3
-http://line.stealthdino.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=941571_&extension=ts&play_token=9Tkwk6UcYs
+http://mag.alphatx.me:80/play/live.php?mac=00:1A:79:00:00:99&stream=941571&extension=ts&play_token=A4KsdRkLqK
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmvIGbnEZv10X9uXghSOYJTJZ_Gv1hvtCfsg&usqp=CAU" group-title="SPORT DUNIA", HUB SPORT PREMIER 1X
 http://gtvm.bmw786.xyz:80/Dan123/Dan123/625866
