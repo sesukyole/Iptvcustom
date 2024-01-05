@@ -479,7 +479,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
 
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f0/Discovery-asia.png", DISCOVERY ASIA
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch302%29/index.m3u8
-#EXTINF:-1 group-title="FMX" tvg-logo="https://fescenter.org/wp-content/uploads/2014/01/discovery-logo-780x390.jpg", DISCOVERY CHANEL
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://fescenter.org/wp-content/uploads/2014/01/discovery-logo-780x390.jpg", DISCOVERY CHANEL
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch29%29/index.m3u8 
 
 #EXTINF:-1 tvg-logo="https://deadline.com/wp-content/uploads/2018/11/discovery-logo-2018.jpg" group-title="DOCUMENTARY", DISCOVERY 
@@ -604,10 +604,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.
 
 #EXTINF:-1 tvg-logo="https://thumb.viva.id/intipseleb/663x372/2023/10/06/651f4364392df-vtv.jpg"  group-title="CARTOON" tvg-id="f58db73d8d1a75abb48097a7090e17b3",VTV HD
 http://175.158.62.142:8888/stream/channelid/1035439605?ticket=44FF51CD20AD17E2905D2029E1DA0638345483D7&profile=pass
-
-
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/38.jpg" group-title="CARTOON", ANIPLUS
-http://210.210.155.37/dr9445/h/h02/index.m3u8
 
 <======================= Music ==========================>
 
