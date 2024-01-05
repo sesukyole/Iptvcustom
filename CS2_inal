@@ -609,6 +609,180 @@ https://nyanv-live-cdn.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.
 #EXTINF:-1 tvg-logo="https://thumb.viva.id/intipseleb/663x372/2023/10/06/651f4364392df-vtv.jpg"  group-title="CARTOON" tvg-id="f58db73d8d1a75abb48097a7090e17b3",VTV HD
 http://175.158.62.142:8888/stream/channelid/1035439605?ticket=44FF51CD20AD17E2905D2029E1DA0638345483D7&profile=pass
 
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CARTOON", Ekids
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/68937.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CARTOON", Nickelodeon
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/68935.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CARTOON", Disney
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/68936.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CARTOON", Nickelodeon
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/69320.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CARTOON", Disney Junior
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/69322.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CARTOON", Disney Channel
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/69324.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CARTOON", Disney Junior
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/69676.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CARTOON", Cartoon Network
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/69677.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CARTOON", Nickelodeon
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/69678.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CARTOON", SIC Kids
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/69680.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CARTOON", Nick Jr Hr.
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/25986.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CARTOON", Nick Jr
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/68475.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CARTOON", Nicktoons Hr.
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/71269.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CARTOON", Nicktoons
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/40979.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CARTOON", Nickelodeon Hr.
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/25987.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CARTOON", Nickelodeon
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/68476.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CARTOON", Cartoon Network Hr.
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/71267.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CARTOON", Cartoon Network
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/71113.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CARTOON", Tnt Kids
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/66257.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CARTOON", Pink Kids
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/266.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CARTOON", Pink Super Kids
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/71270.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CARTOON", Toon Kids
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/8858.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CARTOON", Cartoonito
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/71114.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CARTOON", Disney Chanel
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/71109.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CARTOON", Disney Junior
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/71268.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CARTOON", HBO Kids
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/72614.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CARTOON", Nova  Kids
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/67744.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CARTOON", IDJ Kids
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/68943.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CARTOON", Nick Jr
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/67783.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CARTOON", Nickelodeon
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/67784.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CARTOON", Nicktoons
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/67785.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CARTOON", TV 2 Kids
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/67820.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CARTOON", Nickelodeon
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/67823.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CARTOON", Disney XD
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/67876.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CARTOON", Nick Jr
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/67877.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CARTOON", Nicktoons
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/67878.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CARTOON", Nickelodeon
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/67879.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CARTOON", Nick Jr
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/67896.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CARTOON", Nickelodeon
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/67897.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CARTOON", Disney Canel
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/67898.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CARTOON", Disney junior
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/2751.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CARTOON", Cartoon Network
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/11260.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CARTOON", Nick Jr
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/12984.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CARTOON", Disney Channel
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/2720.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CARTOON", Cartoon Network
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/3673.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CARTOON", Nickelodeon
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/69836.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CARTOON", Nick Jr
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/69838.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CARTOON", Cartoon Network
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/69839.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CARTOON", Disney Canel
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/71258.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CARTOON", Cartoon Network
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/1116.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CARTOON", Cartoonito
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/1134.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CARTOON", Nickelodeon
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/2550.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CARTOON", NickJR.
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/20340.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CARTOON", Disney Channel
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/8281.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CARTOON", Disney
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/68936.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CARTOON", Nickelodeon
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/69320.ts
+
+
+
+
+
 <======================= Music ==========================>
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
