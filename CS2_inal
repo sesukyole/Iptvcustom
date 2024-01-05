@@ -11,6 +11,10 @@ https://github.com/inaldie/inaldie/raw/main/LOGO.ts
 https://github.com/inaldie/inaldie/raw/main/LOGO.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="MOVIE", ###MOVIE###
 https://github.com/inaldie/inaldie/raw/main/LOGO.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="HBO ID", ###HBO ID###
+https://github.com/inaldie/inaldie/raw/main/LOGO.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="FILM LUAR", ###FILM LUAR###
+https://github.com/inaldie/inaldie/raw/main/LOGO.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="DOCUMENTARY", ###DOCUMENTARY###
 https://github.com/inaldie/inaldie/raw/main/LOGO.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ENTERTAINMENT", ###ENTERTAINMENT###
@@ -2807,6 +2811,281 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23
 #EXTINF:-1 group-title="JAPAN TV" tvg-id="discovery" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery-channel-east-us.png", Discovery Channel  
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs08
 
+
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILM LUAR", HBO
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/68921.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILM LUAR", HBO 2
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/68922.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILM LUAR", HBO 3
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/68923.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILM LUAR", Cinemax 1
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/68924.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILM LUAR", Cinemax 2
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/68925.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILM LUAR", TV Cine Action
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/69659.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILM LUAR", TV Cine Top
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/69660.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILM LUAR", TV Cine Edition
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/69661.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILM LUAR", TV Cine Emotion
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/69662.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILM LUAR", Cinemundo
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/69663.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILM LUAR", HBO Family
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/69723.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILM LUAR", HBO Comedy
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/69724.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILM LUAR", HBO Signature
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/69725.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILM LUAR", HBO West
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/69726.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILM LUAR", HBO Zone
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/69727.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILM LUAR", Nova Cinema 4K
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/69176.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILM LUAR", Nova Cinema
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/39476.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILM LUAR", Nova Cinema 2
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/45121.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILM LUAR", Pink World Cinema
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/153.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILM LUAR", HBO
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/4747.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILM LUAR", HBO 2
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/23290.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILM LUAR", HBO 3
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/23291.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILM LUAR", Cinestar premiere 1
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/23270.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILM LUAR", Cinestar Premiere 2
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/23269.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILM LUAR", HBO
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/30519.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILM LUAR", HBO 2
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/30520.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILM LUAR", HBO
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/44.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILM LUAR", HBO 2
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/72.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILM LUAR", HBO 3
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/1555.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILM LUAR", Cinemax
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/70.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILM LUAR", Cinemax  2
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/126.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILM LUAR", CineStar Premiere 1
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/36.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILM LUAR", CineStar Premiere 2
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/37.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILM LUAR", CineStar TV 1
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/3851.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILM LUAR", CineStar TV 2
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/37920.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILM LUAR", CineStar Action
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/2685.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILM LUAR", CineStar Fantasy
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/10444.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILM LUAR", CineStar Comedy
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/30492.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILM LUAR", Cinemania
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/357.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILM LUAR", Cinema TV BH
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/174.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILM LUAR", AMC
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/9109.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILM LUAR", Euro Cinema 1
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/68477.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILM LUAR", Euro Cinema 2
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/68478.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILM LUAR", HBO MAX
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/45107.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILM LUAR", Cine+Select 1 HD
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/45268.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILM LUAR", Cine+Select 2 HD
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/45269.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILM LUAR", Cine+Select 3 HD
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/45270.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILM LUAR", Cine+Select 4 HD
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/45271.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILM LUAR", Cine+Select 5 HD
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/45272.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILM LUAR", Cine+Select 6 HD
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/45273.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILM LUAR", Cine+Select 7 HD
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/45274.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILM LUAR", Cine+Select 8 HD
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/45275.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILM LUAR", HBO 3
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/68923.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILM LUAR", Cine+Select 10 HD
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/45277.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILM LUAR", HBO Kids
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/72614.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILM LUAR", Sky Cinema Uno
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/68349.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILM LUAR", Sky Cinema Due
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/68350.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILM LUAR", HBO
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/67765.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILM LUAR", HBO
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/67799.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILM LUAR", HBO 2
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/67800.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILM LUAR", HBO 3
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/67801.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILM LUAR", Cinemax
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/67809.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILM LUAR", Cinemax 2
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/67810.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILM LUAR", Pro Cinema
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/24415.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILM LUAR", HBO
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/2606.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILM LUAR", HBO 2
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/8366.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILM LUAR", HBO 3
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/24414.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILM LUAR", Cinemax
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/24413.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILM LUAR", Cinemax 2
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/24412.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILM LUAR", Canal+Cinema
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/68334.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILM LUAR", Cine Cinema Emotion
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/68335.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILM LUAR", Cine Cinema Premier
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/68336.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILM LUAR", Cine Cinema Frisson
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/68337.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILM LUAR", Sky Cinema Action
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/171.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILM LUAR", Sky Cinema Best Of
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/1131.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILM LUAR", Sky Cinema Premieren
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/132.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILM LUAR", Sky Cinema Premieren +24
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/1125.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILM LUAR", Sky Cinema Special
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/1123.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILM LUAR", Sky Cinema Thriller
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/1424.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILM LUAR", Sky Cinema Classics
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/1120.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILM LUAR", Sky Cinema Family
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/4122.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILM LUAR", Sky Cinema Fan
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/1124.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILM LUAR", Sky Cinema Comedy
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/39434.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILM LUAR", Sky Cinema Premiere
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/71215.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILM LUAR", Sky Cinema Action
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/71217.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILM LUAR", Sky Cinema Hits
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/71218.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILM LUAR", Sky Cinema Family
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/71219.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILM LUAR", Sky Cinema Comedy
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/71220.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILM LUAR", Sky Cinema Sci-Fi
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/71221.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILM LUAR", Sky Cinema Select
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/71222.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILM LUAR", Amc
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/71231.ts
 
 
 
