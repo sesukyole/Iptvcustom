@@ -1627,6 +1627,13 @@ https://linearfast04.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/1200px-Animax.svg.png" group-title="CARTOON",Animax
 https://nyanv-live-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 
+#EXTINF:-1 group-title="CARTOON" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnaTnzP9GI1NRs1BxguaZxeV7V9RWyvvApFExqN6nASsUuI817sGXXFcA&s=10", ANIPLUS
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key=f2c313fce55344e5a52389741d1f53f8:bae1e47db562b66895beb8fccdf2ad8a
+https://cdnjt24.useetv.com/drm/live/smil:aniplus.smil/manifest.mpd
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnaTnzP9GI1NRs1BxguaZxeV7V9RWyvvApFExqN6nASsUuI817sGXXFcA&s=10" group-title="CARTOON",Aniplus
 http://iptvtree.net:8080/c4596f70/c3848d92/298504
 
@@ -1669,8 +1676,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.
 
 #EXTINF:-1 tvg-logo="https://thumb.viva.id/intipseleb/663x372/2023/10/06/651f4364392df-vtv.jpg"  group-title="CARTOON" tvg-id="f58db73d8d1a75abb48097a7090e17b3",VTV HD
 http://175.158.62.142:8888/stream/channelid/1035439605?ticket=44FF51CD20AD17E2905D2029E1DA0638345483D7&profile=pass
-
-
 
 
 <======================= Music ==========================>
