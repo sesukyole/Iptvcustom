@@ -59,18 +59,42 @@ http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162141
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Mentari_TV.svg/200px-Mentari_TV.svg.png" group-title="EMTEK GRUP", MENTARI TV 1
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298546
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="EMTEK GRUP", INDOSIAR 2
+http://iptvtree.net:8080/c4596f70/c3848d92/162138
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="EMTEK GRUP", MOJI 2
+http://iptvtree.net:8080/c4596f70/c3848d92/298550
+#EXTINF:-1 tvg-logo="https://www.wowkeren.com/display/images/photo/2019/09/07/00272011.jpg" group-title="EMTEK GRUP", SCTV 2
+http://iptvtree.net:8080/c4596f70/c3848d92/162141
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Mentari_TV.svg/200px-Mentari_TV.svg.png" group-title="EMTEK GRUP", MENTARI TV 2
+http://iptvtree.net:8080/c4596f70/c3848d92/298546
+
+
 ===============================================================================
 
-#EXTINF:-1 tvg-id="HBO HD" tvg-url="" tvg-logo="https://e7.pngegg.com/pngimages/476/791/png-clipart-hbo-now-hbo-go-television-hbo-latino-others-text-logo.png" group-title="HBO ID",HBO ID
+#EXTINF:-1 tvg-id="HBO HD" tvg-url="" tvg-logo="https://e7.pngegg.com/pngimages/476/791/png-clipart-hbo-now-hbo-go-television-hbo-latino-others-text-logo.png" group-title="HBO ID",HBO 1
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/197972
-#EXTINF:-1 tvg-id="HBO Hits HD" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="HBO ID",HBO Hits ID
+#EXTINF:-1 tvg-id="HBO Hits HD" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="HBO ID",HBO Hits 1
 http://iptvtree.net:8080/c4596f70/c3848d92/196480
-#EXTINF:-1 tvg-id="HBO Family HD" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="HBO ID",HBO Family ID
+#EXTINF:-1 tvg-id="HBO Family HD" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="HBO ID",HBO Family 1
 https://s.id/hbofam_shareext-ts
-#EXTINF:-1 tvg-id="HBO Signature HD" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="HBO ID",HBO Signature ID
+#EXTINF:-1 tvg-id="HBO Signature HD" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="HBO ID",HBO Signature 1
 https://s.id/hbosigHD_shareext-ts
 #EXTINF:-1 tvg-id="Cinemax HD" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="HBO ID",Cinemax ID
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/197964
+
+#EXTINF:-1 tvg-id="HBO HD" tvg-url="" tvg-logo="https://e7.pngegg.com/pngimages/476/791/png-clipart-hbo-now-hbo-go-television-hbo-latino-others-text-logo.png" group-title="HBO ID",HBO 2
+http://myteve.online:8080/4kaks2024/dEV6wycuCBj2WzXn/197972
+#EXTINF:-1 tvg-id="HBO Hits HD" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="HBO ID",HBO Hits 2
+http://myteve.online:8080/4kaks2024/dEV6wycuCBj2WzXn/196480
+#EXTINF:-1 tvg-id="HBO Family HD" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="HBO ID",HBO Family 2
+http://myteve.online:8080/4kaks2024/dEV6wycuCBj2WzXn/197055
+#EXTINF:-1 tvg-id="HBO Signature HD" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="HBO ID",HBO Signature 2
+http://myteve.online:8080/4kaks2024/dEV6wycuCBj2WzXn/221948
+#EXTINF:-1 tvg-id="Cinemax HD" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="HBO ID",Cinemax 2
+http://myteve.online:8080/4kaks2024/dEV6wycuCBj2WzXn/197964
+
+
+
 
 ========================================
 
