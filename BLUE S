@@ -5,14 +5,24 @@ https://github.com/inaldie/inaldie/raw/main/LOGO.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="#♦WELCOME MY PLAYLIST INALDIE♦#", DONASI => https://saweria.co/Inaldie22
 https://github.com/inaldie/inaldie/raw/main/DONATE.ts
 
-#EXTINF:-1 group-title="DENS TV" tvg-logo="_____", RCTI
+#EXTINF:-1 group-title="RCTI+" tvg-logo="_____", RCTI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://rcticdn-t.rctiplus.id/rcti-sdi-avc1_600000=9-mp4a_96000=1.m3u8?auth_key=1704545146-85dbbcebf1d08f2349e4bfe4a6065d07-0-af65050a17b2be5f43c4d2b3460bb2d0  
 
+#EXTINF:-1 group-title="RCTI+" tvg-logo="_____", MNCTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://mnccdn-t.rctiplus.id/mnctv-sdi-avc1_800000=7-mp4a_96000=1.m3u8?auth_key=1704546291-33e68e54389cd62ef49cf733e4a69150-0-cdcb0e9c798cd15a67bcedd85708243a
 
+#EXTINF:-1 group-title="RCTI+" tvg-logo="_____", GTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://1d-gtv.rctiplus.id/gtv-sdi-avc1_800000=9-mp4a_96000=1.m3u8?auth_key=1704546408-df6801edd27b60ceafdfb0aeafaf0d5b-0-cc7be1d6af7faf5ec1e17f6a8dc18c3c
 
- 
-
+#EXTINF:-1 group-title="RCTI+" tvg-logo="_____", INEWS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://icdn.rctiplus.id/inews-sdi-avc1_800000=8-mp4a_96000=1.m3u8?auth_key=1704546489-f65c755e1ee535a1f39beffb8bbb391f-0-cc7debf76d319a246afa26e5b48cc9e1
 
 
