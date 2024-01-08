@@ -45,8 +45,6 @@ https://github.com/inaldie/inaldie/raw/main/LOGO.ts
 https://github.com/inaldie/inaldie/raw/main/LOGO.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="MANDARIN", ###MANDARIN###
 https://github.com/inaldie/inaldie/raw/main/LOGO.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="INDIA TV", ###INDIA TV###
-https://github.com/inaldie/inaldie/raw/main/LOGO.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="JAPAN TV", ###JAPAN TV###
 https://github.com/inaldie/inaldie/raw/main/LOGO.ts
 
@@ -3594,6 +3592,11 @@ https://sport.livedoomovies.com:4432/02_2sporthd3_720p/chunklist.m3u8|Referer=ht
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.3945.116 Mobile Safari/537.36
 https://sport.livedoomovies.com:4432/02_2sporthd4_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r\u003dajax
 
+#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUIRKTmA3yfib0hwlOW66B4o6TP5uIsjWTAyqnOsLUq_wvnL30WFL0S4I&s=10",UFC FIGHT
+http://th4.online:2095/RESTREAMIOTV84/FLEXTVRESTRE/137283
+#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUIRKTmA3yfib0hwlOW66B4o6TP5uIsjWTAyqnOsLUq_wvnL30WFL0S4I&s=10",COMBAT UFC
+http://th4.online:2095/RESTREAMIOTV84/FLEXTVRESTRE/137285
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1200px-TNT_Sports_2021_logo.svg.png" group-title="SPORT DUNIA", TNT LATIN
 http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/27
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb17OXyKJdUQyQJjJibrZExDU-3MKjhkeXiA&usqp=CAU" group-title="SPORT DUNIA", SPORTV 1 LATIN
@@ -3674,6 +3677,126 @@ http://89.45.13.153:25461/play/live.php?mac=00:1A:79:46:6B:43&stream=1519366_&ex
 http://89.45.13.153:25461/play/live.php?mac=00:1A:79:46:6B:43&stream=1519367_&extension=ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw9qCWlnhgnAO8LHnEFgH6VhP14EImmDZ54Q&usqp=CAU" group-title="ESPN+", ESPN+ 10
 http://89.45.13.153:25461/play/live.php?mac=00:1A:79:46:6B:43&stream=1519368_&extension=ts
+
+
+
+#EXTINF:-1 tvg-logo="http://24horas.fun:8080/images/03ac82a1166b77af8f94c9585710f053.png" group-title="ESPN+", ESPN 1 MX
+http://th4.online:2095/RESTREAMIOTV84/FLEXTVRESTRE/178617
+
+#EXTINF:-1 tvg-logo="https://logo.iptveditor.com/espn2.png" group-title="ESPN+", ESPN 2 MX
+http://th4.online:2095/RESTREAMIOTV84/FLEXTVRESTRE/178618
+
+#EXTINF:-1 tvg-logo="http://24horas.fun:8080/images/017f41a2ef4ff9d39f45f680b88cd23b.png" group-title="ESPN+", ESPN 2 MX HD
+http://th4.online:2095/RESTREAMIOTV84/FLEXTVRESTRE/178619
+
+#EXTINF:-1 tvg-logo="https://logo.iptveditor.com/espn3.png" group-title="ESPN+", ESPN 3 MX
+http://th4.online:2095/RESTREAMIOTV84/FLEXTVRESTRE/178620
+
+#EXTINF:-1 tvg-logo="https://logo.iptveditor.com/espnsur.png" group-title="ESPN+", ESPN 1 SUR
+http://th4.online:2095/RESTREAMIOTV84/FLEXTVRESTRE/178621
+
+#EXTINF:-1 tvg-logo="https://logo.iptveditor.com/espn2sur.png" group-title="ESPN+", ESPN 2 SUR
+http://th4.online:2095/RESTREAMIOTV84/FLEXTVRESTRE/178622
+
+#EXTINF:-1 tvg-logo="http://24horas.fun:8080/images/e92ee4ecf4bcdcd084e42697c1fc60f1.png" group-title="ESPN+", ESPN 3 SUR
+http://th4.online:2095/RESTREAMIOTV84/FLEXTVRESTRE/178623
+
+#EXTINF:-1 tvg-logo="https://logo.iptveditor.com/espnsur.png" group-title="ESPN+", ESPN 4 SUR
+http://th4.online:2095/RESTREAMIOTV84/FLEXTVRESTRE/178624
+
+#EXTINF:-1 tvg-logo="https://logo.iptveditor.com/espn1.png" group-title="ESPN+", ESPN 1 (ARG)
+http://th4.online:2095/RESTREAMIOTV84/FLEXTVRESTRE/178625
+
+#EXTINF:-1 tvg-logo="https://logo.iptveditor.com/espn2.png" group-title="ESPN+", ESPN 2 (ARG)
+http://th4.online:2095/RESTREAMIOTV84/FLEXTVRESTRE/178626
+
+#EXTINF:-1 tvg-logo="https://logo.iptveditor.com/espn3.png" group-title="ESPN+", ESPN 3 (ARG)
+http://th4.online:2095/RESTREAMIOTV84/FLEXTVRESTRE/178627
+
+#EXTINF:-1 tvg-logo="https://logo.iptveditor.com/espn1.png" group-title="ESPN+", ESPN 1 (COL)
+http://th4.online:2095/RESTREAMIOTV84/FLEXTVRESTRE/178628
+
+#EXTINF:-1 tvg-logo="https://logo.iptveditor.com/espn2.png" group-title="ESPN+", ESPN 2 (COL)
+http://th4.online:2095/RESTREAMIOTV84/FLEXTVRESTRE/178629
+
+#EXTINF:-1 tvg-logo="https://logo.iptveditor.com/espn3.png" group-title="ESPN+", ESPN 3 (COL)
+http://th4.online:2095/RESTREAMIOTV84/FLEXTVRESTRE/178630
+
+#EXTINF:-1 tvg-logo="http://2.magmas5.com:8000/images/9f26a92b455b3fb8e7c77dfefe95ad5d.png" group-title="ESPN+",  ESPN 1 HD (NL)
+http://th4.online:2095/RESTREAMIOTV84/FLEXTVRESTRE/178631
+
+#EXTINF:-1 tvg-logo="http://2.magmas5.com:8000/images/1fbaebdc3c89ffe39cd1a3683e4f9494.png" group-title="ESPN+",  ESPN 2 HD (NL)
+http://th4.online:2095/RESTREAMIOTV84/FLEXTVRESTRE/178632
+
+#EXTINF:-1 tvg-logo="http://2.magmas5.com:8000/images/f0365f49c8b1e8a03b5466e346a1b469.png" group-title="ESPN+",  ESPN 3 HD (NL)
+http://th4.online:2095/RESTREAMIOTV84/FLEXTVRESTRE/178633
+
+#EXTINF:-1 tvg-logo="https://logo.iptveditor.com/espn.png" group-title="ESPN+", ESPN+ FHD
+http://th4.online:2095/RESTREAMIOTV84/FLEXTVRESTRE/178634
+
+#EXTINF:-1 tvg-logo="http://boxdigital.xyz:8080/images/fa74b8ac9b6e1d65670ce20acde555a9.png" group-title="ESPN+", ESPN 1 SUR (CHI)
+http://th4.online:2095/RESTREAMIOTV84/FLEXTVRESTRE/178635
+
+#EXTINF:-1 tvg-logo="https://logo.iptveditor.com/espn.png" group-title="ESPN+", ESPN
+http://th4.online:2095/RESTREAMIOTV84/FLEXTVRESTRE/178636
+
+#EXTINF:-1 tvg-logo="http://24horas.fun:8080/images/017f41a2ef4ff9d39f45f680b88cd23b.png" group-title="ESPN+", ESPN 2
+http://th4.online:2095/RESTREAMIOTV84/FLEXTVRESTRE/178637
+
+#EXTINF:-1 tvg-logo="https://logo.iptveditor.com/espn3.png" group-title="ESPN+", ESPN 3
+http://th4.online:2095/RESTREAMIOTV84/FLEXTVRESTRE/178638
+
+#EXTINF:-1 tvg-logo="http://24horas.fun:8080/images/bfb9a69c9813f26eae33eb06029fa0ad.png" group-title="ESPN+", ESPN 4
+http://th4.online:2095/RESTREAMIOTV84/FLEXTVRESTRE/178639
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ESPN+", ESPN 4 HD (NL)
+http://th4.online:2095/RESTREAMIOTV84/FLEXTVRESTRE/178640
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ESPN+", ESPN 4 HD
+http://th4.online:2095/RESTREAMIOTV84/FLEXTVRESTRE/178641
+
+#EXTINF:-1 tvg-logo="https://logo.iptveditor.com/espn.png" group-title="ESPN+", ESPN+ SD
+http://th4.online:2095/RESTREAMIOTV84/FLEXTVRESTRE/178642
+
+#EXTINF:-1 tvg-logo="https://logo.iptveditor.com/premium1.png" group-title="ESPN+", ESPN PREMIUM
+http://th4.online:2095/RESTREAMIOTV84/FLEXTVRESTRE/178643
+
+#EXTINF:-1 tvg-logo="http://24horas.fun:8080/images/baa4d872ef0fa798840a3bdb57173ca1.png" group-title="ESPN+", ESPN DEPORTES
+http://th4.online:2095/RESTREAMIOTV84/FLEXTVRESTRE/178644
+
+#EXTINF:-1 tvg-logo="https://logo.iptveditor.com/espnextra.png" group-title="ESPN+", ESPN EXTRA
+http://th4.online:2095/RESTREAMIOTV84/FLEXTVRESTRE/178645
+
+#EXTINF:-1 tvg-logo="https://logo.iptveditor.com/btsportsespn.png" group-title="ESPN+",  ESPN U
+http://th4.online:2095/RESTREAMIOTV84/FLEXTVRESTRE/178646
+
+#EXTINF:-1 tvg-logo="https://logo.iptveditor.com/btsportespn.png" group-title="ESPN+",  BT SPORT ESPN
+http://th4.online:2095/RESTREAMIOTV84/FLEXTVRESTRE/178647
+
+
+
+#EXTINF:-1 tvg-logo="http://th4.online:2095/images/5f6f9f7fb0ac90fc753b38df920420c3.png" group-title="WIN SPORTS LATIN", WIN - SPORTS  +  VIP 1
+http://th4.online:2095/RESTREAMIOTV84/FLEXTVRESTRE/14900
+
+#EXTINF:-1 tvg-logo="http://th4.online:2095/images/c23e7f05e96c5da95eb82dd0fa5439e4.png" group-title="WIN SPORTS LATIN", WIN  SPORTS + VIP 2
+http://th4.online:2095/RESTREAMIOTV84/FLEXTVRESTRE/14902
+
+#EXTINF:-1 tvg-logo="http://th4.online:2095/images/f9261dd97e23bbf2c852fef90a09fdf4.png" group-title="WIN SPORTS LATIN", WIN  - SPORTS + VIP 3 HD ec
+http://th4.online:2095/RESTREAMIOTV84/FLEXTVRESTRE/96126
+
+#EXTINF:-1 tvg-logo="http://th4.online:2095/images/8af098fdfe7716bf21cd5b953b554a96.png" group-title="WIN SPORTS LATIN", WIN - SPORTS + SD ec
+http://th4.online:2095/RESTREAMIOTV84/FLEXTVRESTRE/103659
+
+#EXTINF:-1 tvg-logo="http://th4.online:2095/images/0e98c5b16a90f651d7e3c4b03537e13e.png" group-title="WIN SPORTS LATIN", WINS SPORTS VIP 5
+http://th4.online:2095/RESTREAMIOTV84/FLEXTVRESTRE/121177
+
+#EXTINF:-1 tvg-logo="http://th4.online:2095/images/0e98c5b16a90f651d7e3c4b03537e13e.png" group-title="WIN SPORTS LATIN", WINS SPORTS VIP 6
+http://th4.online:2095/RESTREAMIOTV84/FLEXTVRESTRE/121621
+
+#EXTINF:-1 tvg-logo="http://th4.online:2095/images/0e98c5b16a90f651d7e3c4b03537e13e.png" group-title="WIN SPORTS LATIN", WINS SPORTS +  FULL HD ec
+http://th4.online:2095/RESTREAMIOTV84/FLEXTVRESTRE/133287
+
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT66jYrytpzHiRU_jHI8scInB53piIkvpAIag&usqp=CAU" group-title="BEIN SPORT", BEIN SPORT 1 AR
 http://89.45.13.153:25461/play/live.php?mac=00:1A:79:46:6B:43&stream=2591_&extension=ts
