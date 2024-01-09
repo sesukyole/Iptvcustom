@@ -4504,23 +4504,31 @@ http://89.45.13.153:25461/play/live.php?mac=00:1A:79:46:6B:43&stream=2599_&exten
 http://89.45.13.153:25461/play/live.php?mac=00:1A:79:46:6B:43&stream=2600_&extension=ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkT3rRy0uB9n5W2-D5luOF-M-MxulXdJzg9A&usqp=CAU" group-title="SKY NEWZELAND", SKY SPORT 1 NZ
-http://king4k.tv:80/play/live.php?mac=00:1A:79:51:EA:49&stream=670263&extension=ts&play_token=7rRwwIltko
+http://king4k.tv:80/play/live.php?mac=00:1A:79:51:EA:49&stream=575140&extension=ts&play_token=k5pCOI8jR0
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkT3rRy0uB9n5W2-D5luOF-M-MxulXdJzg9A&usqp=CAU" group-title="SKY NEWZELAND", SKY SPORT 2 NZ
-http://king4k.tv:80/play/live.php?mac=00:1A:79:51:EA:49&stream=670262&extension=ts&play_token=YsUup4qOUK
+http://king4k.tv:80/play/live.php?mac=00:1A:79:51:EA:49&stream=575139&extension=ts&play_token=87ReFHwaX7
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkT3rRy0uB9n5W2-D5luOF-M-MxulXdJzg9A&usqp=CAU" group-title="SKY NEWZELAND", SKY SPORT 3 NZ
-http://king4k.tv:80/play/live.php?mac=00:1A:79:51:EA:49&stream=670261&extension=ts&play_token=7rRwwIltko
+http://king4k.tv:80/play/live.php?mac=00:1A:79:51:EA:49&stream=575138&extension=ts&play_token=87ReFHwaX7
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkT3rRy0uB9n5W2-D5luOF-M-MxulXdJzg9A&usqp=CAU" group-title="SKY NEWZELAND", SKY SPORT 4 NZ
-http://king4k.tv:80/play/live.php?mac=00:1A:79:51:EA:49&stream=670260&extension=ts&play_token=7rRwwIltko
+http://king4k.tv:80/play/live.php?mac=00:1A:79:51:EA:49&stream=575137&extension=ts&play_token=87ReFHwaX7
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkT3rRy0uB9n5W2-D5luOF-M-MxulXdJzg9A&usqp=CAU" group-title="SKY NEWZELAND", SKY SPORT 5 NZ
-http://king4k.tv:80/play/live.php?mac=00:1A:79:51:EA:49&stream=670259&extension=ts&play_token=7rRwwIltko
+http://king4k.tv:80/play/live.php?mac=00:1A:79:51:EA:49&stream=575136&extension=ts&play_token=87ReFHwaX7
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkT3rRy0uB9n5W2-D5luOF-M-MxulXdJzg9A&usqp=CAU" group-title="SKY NEWZELAND", SKY SPORT 6 NZ
-http://king4k.tv:80/play/live.php?mac=00:1A:79:51:EA:49&stream=670258&extension=ts&play_token=7rRwwIltko
+http://king4k.tv:80/play/live.php?mac=00:1A:79:51:EA:49&stream=575135&extension=ts&play_token=87ReFHwaX7
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkT3rRy0uB9n5W2-D5luOF-M-MxulXdJzg9A&usqp=CAU" group-title="SKY NEWZELAND", SKY SPORT 7 NZ
-http://king4k.tv:80/play/live.php?mac=00:1A:79:51:EA:49&stream=670257&extension=ts&play_token=7rRwwIltko
+http://king4k.tv:80/play/live.php?mac=00:1A:79:51:EA:49&stream=575134&extension=ts&play_token=87ReFHwaX7
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkT3rRy0uB9n5W2-D5luOF-M-MxulXdJzg9A&usqp=CAU" group-title="SKY NEWZELAND", SKY SPORT 8 PREMIER LEAGUE NZ
-http://king4k.tv:80/play/live.php?mac=00:1A:79:51:EA:49&stream=670268&extension=ts&play_token=xte6t9CVBP
+http://king4k.tv:80/play/live.php?mac=00:1A:79:51:EA:49&stream=575133&extension=ts&play_token=87ReFHwaX7
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkT3rRy0uB9n5W2-D5luOF-M-MxulXdJzg9A&usqp=CAU" group-title="SKY NEWZELAND", SKY SPORT 9 NZ
-http://king4k.tv:80/play/live.php?mac=00:1A:79:51:EA:49&stream=670256&extension=ts&play_token=7rRwwIltko
+http://king4k.tv:80/play/live.php?mac=00:1A:79:51:EA:49&stream=575132&extension=ts&play_token=87ReFHwaX7
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkT3rRy0uB9n5W2-D5luOF-M-MxulXdJzg9A&usqp=CAU" group-title="SKY NEWZELAND", SKY SPORT SELECT NZ
+http://king4k.tv:80/play/live.php?mac=00:1A:79:51:EA:49&stream=575131&extension=ts&play_token=eue2FyKEP1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkT3rRy0uB9n5W2-D5luOF-M-MxulXdJzg9A&usqp=CAU" group-title="SKY NEWZELAND", NBA TV NZ
+http://king4k.tv:80/play/live.php?mac=00:1A:79:51:EA:49&stream=575161&extension=ts&play_token=I8JEdT4Awf
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1YjIoBuhzE11Eq1pEkYGTFf1L0OA11kUg-A&usqp=CAU" group-title="SKY NEWZELAND", EDGE SPORT NZ
+http://king4k.tv:80/play/live.php?mac=00:1A:79:51:EA:49&stream=575162&extension=ts&play_token=x5SmYBUD7P
+#EXTINF:-1 tvg-logo="https://www.cbcsport.az/assets_new/logo/logo.png" group-title="SKY NEWZELAND", CBC SPORT
+http://king4k.tv:80/play/live.php?mac=00:1A:79:51:EA:49&stream=575120&extension=ts&play_token=azgP6KHkBt
 
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-id="nhkg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK G 
