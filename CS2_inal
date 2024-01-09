@@ -2378,6 +2378,12 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/baby_tv.png" group-title="CARTOON",Baby TV
 https://nyanv-live-cdn.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.mpd
 
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/baby_tv.png" group-title="CARTOON",Baby TV US
+http://king4k.tv:80/play/live.php?mac=00:1A:79:51:EA:49&stream=324980&extension=ts&play_token=HR9lm2V86Q
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgbK50OYTLd-fbZEP1odX-GMVv8QzlX1MWww&usqp=CAU" group-title="CARTOON",Baby FIRST
+http://king4k.tv:80/play/live.php?mac=00:1A:79:51:EA:49&stream=324979&extension=ts&play_token=GGHDtjQACc
+
 #EXTINF:-1 tvg-logo="https://thumb.viva.id/intipseleb/663x372/2023/10/06/651f4364392df-vtv.jpg"  group-title="CARTOON" tvg-id="f58db73d8d1a75abb48097a7090e17b3",VTV HD
 http://175.158.62.142:8888/stream/channelid/1035439605?ticket=44FF51CD20AD17E2905D2029E1DA0638345483D7&profile=pass
 
