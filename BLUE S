@@ -10,22 +10,14 @@ https://playlist-coffee.my.id/oxy/moji.m3u8
 https://playlist-coffee.my.id/oxy/indosiar.m3u8
 #EXTINF:-1 tvg-logo="" group-title="OD | OXYGEN",SCTV
 https://playlist-coffee.my.id/oxy/sctv.m3u8
-#EXTINF:-1 tvg-logo="" group-title="OD | OXYGEN",GTV
-https://playlist-coffee.my.id/oxy/gtv.m3u8
-#EXTINF:-1 tvg-logo="" group-title="OD | OXYGEN",RCTI
-https://playlist-coffee.my.id/oxy/rcti.m3u8
-#EXTINF:-1 tvg-logo="" group-title="OD | OXYGEN",MNCTV
-https://playlist-coffee.my.id/oxy/mnctv.m3u8
 #EXTINF:-1 tvg-logo="" group-title="OD | OXYGEN",NETTV
-https://playlist-coffee.my.id/oxy/net.m3u8
+https://playlist-coffee.my.id/oxy/nettv.m3u8
 #EXTINF:-1 tvg-logo="" group-title="OD | OXYGEN",KOMPAS TV
 https://playlist-coffee.my.id/oxy/kompastv.m3u8
 #EXTINF:-1 tvg-logo="" group-title="OD | OXYGEN",METRO TV
 https://playlist-coffee.my.id/oxy/metrotv.m3u8
 #EXTINF:-1 tvg-logo="" group-title="OD | OXYGEN",TVONE
 https://playlist-coffee.my.id/oxy/tvone.m3u8
-#EXTINF:-1 tvg-logo="" group-title="OD | OXYGEN",INEWSTV
-https://playlist-coffee.my.id/oxy/inews.m3u8
 #EXTINF:-1 tvg-logo="" group-title="OD | OXYGEN",RTV
 https://playlist-coffee.my.id/oxy/rtv.m3u8
 #EXTINF:-1 tvg-logo="" group-title="OD | OXYGEN",BTV
@@ -34,10 +26,6 @@ https://playlist-coffee.my.id/oxy/btv.m3u8
 https://playlist-coffee.my.id/oxy/vtv.m3u8
 #EXTINF:-1 tvg-logo="" group-title="OD | OXYGEN",MENTARI TV
 https://playlist-coffee.my.id/oxy/mentaritv.m3u8
-#EXTINF:-1 tvg-logo="" group-title="OD | OXYGEN",POP TV
-https://playlist-coffee.my.id/oxy/poptv.m3u8
-#EXTINF:-1 tvg-logo="" group-title="OD | OXYGEN",SINEMA INDONSEIA
-https://playlist-coffee.my.id/oxy/sinemaindonesia.m3u8
 #EXTINF:-1 tvg-logo="" group-title="OD | OXYGEN",KTV
 https://playlist-coffee.my.id/oxy/ktv.m3u8
 #EXTINF:-1 tvg-logo="" group-title="OD | OXYGEN",NUSANTARATV
