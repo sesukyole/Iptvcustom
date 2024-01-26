@@ -19,3 +19,128 @@ http://king4k.tv/play/live.php?mac=00:1A:79:51:EA:49&stream=606213&extension=ts&
 #EXTINF:-1 tvg-logo="https://images.bisnis.com/posts/2022/02/08/1497785/vidio1.jpg" group-title="#▶️VIDIO SPORTS◀️#", LIVE 10
 http://king4k.tv/play/live.php?mac=00:1A:79:51:EA:49&stream=606212&extension=ts&play_token=9Tkwk6UcYs
 
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VIDIO", TRANS TV
+https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=733&type=hls
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VIDIO", 1
+https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=731&type=hlsA
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VIDIO", 2
+https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=732&type=hls
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VIDIO", 4
+https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=734&type=hls
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VIDIO", 5
+https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=735&type=hls
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VIDIO", 6
+https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=736&type=hls
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VIDIO", 7
+https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=737&type=hls
+
+#EXTGRP:TV LOKAL
+#EXTINF:0 tvg-id="RCTI.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/RCTI.jpg",RCTI (R+)
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
+
+#https://www.mnctv.com/
+#EXTGRP:TV LOKAL
+#EXTINF:0 tvg-id="MNCTV.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/MNC%20TV.jpg",MNC TV (R+)
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
+
+#EXTGRP:TV LOKAL
+#EXTINF:0 tvg-id="GTV.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/GTV.jpg",GTV (R+)
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
+
+#EXTGRP:TV LOKAL
+#EXTINF:0 tvg-id="INews.id" tvg-logo="https://app1-oxygen.mm.oxygen.id/oxygentv/assets/upload/channel/tvlogo_inews.png",INEWS (R+)
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
+
+#EXTGRP:TV LOKAL
+#EXTINF:0 tvg-id="Trans7.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/Trans7.jpg",Trans 7 (Video)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=734&type=hls
+
+
+#EXTGRP:TV LOKAL
+#EXTINF:0 tvg-id="NET.id" tvg-logo="https://thumbor.prod.vidiocdn.com/GR_UBfQpa8xxCbFYptSZ3egm-kU=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/875/cfcc85.png",NET. (Video)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=875&type=hls
+
+#EXTGRP:TV LOKAL
+#EXTINF:0 tvg-id="tvOne.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/tvOne.jpg",TVONE (Video)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=
+https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=783&type=hls
+
+#EXTGRP:TV LOKAL
+#EXTINF:0 tvg-id="RajawaliTV.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/rtv.jpg",Rajawali TV (RTV) (Video)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=1561&type=hls
+
+#EXTGRP:TV LOKAL
+#EXTINF:0 tvg-id="MetroTV.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/MetroTV.jpg",Metro TV (Video)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=777&type=hls
+
+#EXTGRP:TV LOKAL
+#EXTINF:0 tvg-id="MagnaChannel.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/MAGNA.png",Magna Channel (Video)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=7230&type=hls
+
+#EXTGRP:TV LOKAL
+#EXTINF:0 tvg-id="DAAITV.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/DAAI.jpg",DAAI TV (Video)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=6482&type=hls
+
+#EXTGRP:TV LOKAL
+#EXTINF:0 tvg-id="JakTV.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/Jak%20tv.jpg",Jak TV (Video)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=5415&type=hls
+
+#EXTGRP:TV LOKAL
+#EXTINF:0 tvg-id="" tvg-logo="http://klik.tvri.go.id/images/TVRI_Logo.png",TVRI Nasional (Video)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=6441&type=hls
+
+#http://www.ieg.id/tv-channel/mentari-tv/
+#EXTGRP:TV LOKAL
+#EXTINF:0 tvg-id="MentariTV.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/MENTARI.png",Mentari TV (Vidio)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=205&type=hls
+
+#EXTGRP:MOVIES
+#EXTINF:0 tvg-id="ATV.id" tvg-logo="https://images.useetv.com/box/logo_atv_small.png" group-title="MOVIES",ATV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+http://bit.ly/AtvMovie
+https://bit.ly/AtvMovie
+
